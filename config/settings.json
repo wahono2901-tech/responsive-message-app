@@ -1,0 +1,16 @@
+{
+    "app_name": "Responsive Message SMKN 12 Jakarta",
+    "app_url": "http:\/\/localhost:8080\/responsive-message-app\/",
+    "school_name": "SMKN 12 Jakarta",
+    "school_address": "Jl. Kebon Bawang XV B Mo. 15, Tanjung Priok, Jakarta Utara 14320",
+    "school_phone": "(021) 43932785, 43913815",
+    "school_email": "info@smkn12jakarta.sch.id",
+    "admin_email": "admin@smkn12jakarta.sch.id",
+    "timezone": "Asia\/Jakarta",
+    "date_format": "d\/m\/Y",
+    "time_format": "H:i:s",
+    "items_per_page": 10,
+    "enable_registration": 1,
+    "require_email_verification": 0,
+    "maintenance_mode": 0
+}

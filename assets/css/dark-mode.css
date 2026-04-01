@@ -1,0 +1,4958 @@
+/* File: assets/css/dark-mode.css */
+/* Dark Mode Stylesheet - Enhanced untuk semua komponen dengan kontras tinggi untuk angka dan grafik */
+
+[data-theme="dark"] {
+    /* Color Variables - Enhanced dengan warna lebih terang untuk angka */
+    --primary-color: #4d9eff;
+    --primary-dark: #3a7bd5;
+    --secondary-color: #7c7f84;
+    --success-color: #2ecc71;
+    --success-dark: #25a25a;
+    --danger-color: #ff6b6b;
+    --danger-dark: #e74c3c;
+    --warning-color: #f39c12;
+    --warning-dark: #e67e22;
+    --info-color: #5dade2;
+    --info-dark: #3498db;
+    --light-color: #2c3e50;
+    --dark-color: #ecf0f1;
+    
+    /* Warna khusus untuk angka dan statistik - LEBIH TERANG */
+    --stat-number-color: #ffffff;
+    --stat-number-primary: #ffffff;
+    --stat-number-success: #ffffff;
+    --stat-number-danger: #ffffff;
+    --stat-number-warning: #ffffff;
+    --stat-number-info: #ffffff;
+    --chart-number-color: #ffffff;
+    --badge-number-color: #ffffff;
+    --table-number-color: #ffffff;
+    --kpi-number-color: #ffffff;
+    --metric-number-color: #ffffff;
+    
+    /* Background Colors */
+    --bg-primary: #121212;
+    --bg-secondary: #1e1e1e;
+    --bg-tertiary: #2d2d2d;
+    --bg-hover: #383838;
+    --bg-card: #1e1e1e;
+    --bg-input: #2d2d2d;
+    --bg-modal: #2d2d2d;
+    --bg-auth: #1a1a1a;
+    --bg-pdf-preview: #2a2a2a;
+    --bg-report: #1e1e1e;
+    --bg-analytics-card: #2d2d2d;
+    --bg-ajax-message: #2a2a2a;
+    --bg-background-process: #1e1e1e;
+    --bg-email-preview: #2d2d2d;
+    --bg-whatsapp-preview: #2d2d2d;
+    --bg-api-section: #1e1e1e;
+    --bg-settings: #1e1e1e;
+    --bg-monitor: #1a1a1a;
+    --bg-index: #121212;
+    --bg-response: #1e1e1e;
+    --bg-edit-user: #1e1e1e;
+    --bg-forgot-password: #1a1a1a;
+    --bg-api: #1e1e1e;
+    --bg-logs: #1e1e1e;
+    --bg-manage-users: #1e1e1e;
+    --bg-export-modal: #2d2d2d;
+    --bg-cron: #1e1e1e;
+    --bg-security: #1a1a1a;
+    --bg-csrf: #2d2d2d;
+    --bg-handler: #1e1e1e;
+    --bg-common: #1e1e1e;
+    --bg-export-preview: #2d2d2d;
+    --bg-guru-index: #121212;
+    --bg-guru-menu: #1e1e1e;
+    --bg-guru-nav: #2d2d2d;
+    --bg-user-messages: #1e1e1e;
+    --bg-test-services: #1a1a1a;
+    
+    /* Text Colors - DIPERKUAT UNTUK ANGKA */
+    --text-primary: #e0e0e0;
+    --text-secondary: #b0b0b0;
+    --text-muted: #8a8a8a;
+    --text-disabled: #666666;
+    --text-number: #ffffff; /* Warna khusus untuk angka */
+    --text-number-bold: #ffffff; /* Warna khusus untuk angka tebal */
+    
+    /* Border Colors */
+    --border-color: #404040;
+    --border-light: #4a4a4a;
+    --border-focus: #5d9eff;
+    
+    /* Shadow */
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.5);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.7);
+    
+    /* Table Specific */
+    --table-hover: #2d2d2d;
+    --table-stripe: #262626;
+    --table-border: #404040;
+    
+    /* Badge Colors */
+    --badge-bg: #2d2d2d;
+    --badge-text: #e0e0e0;
+    --badge-number: #ffffff;
+    
+    /* Chart Colors - DIPERKUAT */
+    --chart-bg: #1e1e1e;
+    --chart-grid: #404040;
+    --chart-text: #ffffff;
+    --chart-number: #ffffff;
+    --chart-label: #b0b0b0;
+    
+    /* Auth Specific */
+    --auth-bg: #1a1a1a;
+    --auth-card: #2d2d2d;
+    --auth-border: #404040;
+    --auth-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+    
+    /* PDF Specific */
+    --pdf-bg: #1e1e1e;
+    --pdf-header-bg: #2d2d2d;
+    --pdf-border: #404040;
+    --pdf-text: #e0e0e0;
+    --pdf-number: #ffffff;
+    --pdf-table-header: #2d2d2d;
+    --pdf-table-row: #1e1e1e;
+    --pdf-table-alt-row: #2a2a2a;
+    
+    /* User Detail Specific */
+    --user-avatar-bg: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    --user-stat-card: #2d2d2d;
+    --user-info-border: #404040;
+    
+    /* Login Specific */
+    --login-card: #2d2d2d;
+    --login-header: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    --login-footer: #2a2a2a;
+    --captcha-bg: #1e1e1e;
+    --captcha-text: #ffd700;
+    
+    /* Report Specific - DIPERKUAT UNTUK ANGKA */
+    --report-bg: #1e1e1e;
+    --report-header: #2d2d2d;
+    --report-border: #404040;
+    --report-filter: #2d2d2d;
+    --report-kpi-bg: #2d2d2d;
+    --report-kpi-number: #ffffff;
+    --report-table-header: #2d2d2d;
+    --report-table-row: #1e1e1e;
+    --report-table-alt-row: #2a2a2a;
+    --report-table-number: #ffffff;
+    
+    /* Analytics Specific - DIPERKUAT UNTUK ANGKA */
+    --analytics-bg: #1e1e1e;
+    --analytics-header: #2d2d2d;
+    --analytics-border: #404040;
+    --analytics-kpi-bg: #2d2d2d;
+    --analytics-kpi-number: #ffffff;
+    --analytics-chart-bg: #2a2a2a;
+    --analytics-chart-number: #ffffff;
+    
+    /* WhatsApp Specific */
+    --whatsapp-bg: #1e1e1e;
+    --whatsapp-header: #075e54;
+    --whatsapp-border: #404040;
+    --whatsapp-message-bg: #2d2d2d;
+    --whatsapp-outgoing: #1e4d3b;
+    --whatsapp-incoming: #2d2d2d;
+    --whatsapp-timestamp: #8a8a8a;
+    --whatsapp-status-sent: #34b7f1;
+    --whatsapp-status-delivered: #34b7f1;
+    --whatsapp-status-read: #34b7f1;
+    
+    /* Email Specific */
+    --email-bg: #1e1e1e;
+    --email-header: #0b4d8a;
+    --email-border: #404040;
+    --email-preview-bg: #2d2d2d;
+    --email-quote-bg: #2a2a2a;
+    --email-signature: #8a8a8a;
+    
+    /* Background Process Specific */
+    --process-bg: #1e1e1e;
+    --process-header: #2d2d2d;
+    --process-border: #404040;
+    --process-log-success: #2ecc71;
+    --process-log-error: #ff6b6b;
+    --process-log-warning: #f39c12;
+    --process-log-info: #3498db;
+    --process-console-bg: #0a0a0a;
+    --process-console-text: #00ff00;
+    --process-number: #ffffff;
+    
+    /* API Specific */
+    --api-bg: #1e1e1e;
+    --api-header: #2d2d2d;
+    --api-border: #404040;
+    --api-endpoint-bg: #2d2d2d;
+    --api-json-bg: #1e1e1e;
+    --api-json-key: #ff6b6b;
+    --api-json-string: #2ecc71;
+    --api-json-number: #f39c12;
+    --api-json-boolean: #3498db;
+    --api-json-null: #8a8a8a;
+    
+    /* AJAX Specific */
+    --ajax-bg: #1e1e1e;
+    --ajax-header: #2d2d2d;
+    --ajax-border: #404040;
+    --ajax-response-bg: #2d2d2d;
+    --ajax-loading-bg: rgba(0, 0, 0, 0.8);
+    --ajax-spinner: #4d9eff;
+    
+    /* Settings Specific */
+    --settings-nav-bg: #2d2d2d;
+    --settings-nav-hover: #383838;
+    --settings-nav-active: #1e1e1e;
+    --settings-nav-border: #404040;
+    --settings-section-border: #404040;
+    --settings-badge-active: rgba(40, 167, 69, 0.15);
+    --settings-badge-inactive: rgba(220, 53, 69, 0.15);
+    
+    /* Monitor Connection Specific */
+    --monitor-bg: #1a1a1a;
+    --monitor-card: #2d2d2d;
+    --monitor-border: #404040;
+    --monitor-success: #28a745;
+    --monitor-warning: #ffc107;
+    --monitor-danger: #dc3545;
+    --monitor-secondary: #6c757d;
+    --monitor-number: #ffffff;
+    
+    /* Validation Specific */
+    --valid-success: #2ecc71;
+    --valid-warning: #f39c12;
+    --valid-error: #ff6b6b;
+    
+    /* Send Message Specific */
+    --send-message-bg: #1e1e1e;
+    --send-message-header: #0d6efd;
+    --send-message-footer: #2a2a2a;
+    --char-count-text: #8a8a8a;
+    --char-count-warning: #f39c12;
+    --char-count-danger: #ff6b6b;
+    
+    /* View Messages Specific - DIPERKUAT UNTUK ANGKA */
+    --view-messages-bg: #1e1e1e;
+    --view-messages-header: #2d2d2d;
+    --quick-actions-bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --quick-actions-menu-bg: #2d2d2d;
+    --quick-actions-menu-text: #e0e0e0;
+    --quick-actions-menu-hover: #383838;
+    --view-messages-number: #ffffff;
+    
+    /* History Specific - DIPERKUAT UNTUK ANGKA */
+    --history-bg: #1e1e1e;
+    --history-timeline-bg: #2d2d2d;
+    --history-timeline-border: #404040;
+    --history-badge-pending: #ffc107;
+    --history-badge-success: #28a745;
+    --history-badge-danger: #dc3545;
+    --history-badge-info: #17a2b8;
+    --history-badge-secondary: #6c757d;
+    --history-number: #ffffff;
+    
+    /* Password Generator Specific */
+    --password-generator-bg: #2d2d2d;
+    --password-generator-border: #404040;
+    --password-history-bg: #1e1e1e;
+    --password-history-item: #2d2d2d;
+    --password-history-border: #404040;
+    --badge-password-bg: #28a745;
+    --badge-password-text: #ffffff;
+    
+    /* Register Specific */
+    --register-bg: #1a1a1a;
+    --register-card: #2d2d2d;
+    --register-header: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+    --register-footer: #2a2a2a;
+    --register-credentials-bg: #2d2d2d;
+    --register-credentials-border: #28a745;
+    
+    /* Index Page Specific - DIPERKUAT UNTUK ANGKA */
+    --index-bg: #121212;
+    --index-header: #2d2d2d;
+    --index-hero: #2d2d2d;
+    --index-qr-bg: linear-gradient(145deg, #2d2d2d, #1e1e1e);
+    --index-qr-border: #404040;
+    --index-service-info: #2d2d2d;
+    --index-form-card: #1e1e1e;
+    --index-number: #ffffff;
+    --index-badge-fonnte: linear-gradient(145deg, #075e54, #128C7E);
+    --index-badge-mailersend: linear-gradient(135deg, #5b3e8a, #764ba2);
+    --index-info-box: #2d2d2d;
+    --index-debug-panel: #1e1e2f;
+    --index-debug-header: #2d2d44;
+    --index-debug-entry: rgba(255,255,255,0.05);
+    --index-debug-data: #000000;
+    --index-debug-data-text: #00ff00;
+    --index-optgroup: #4d9eff;
+    --index-hero-image-bg: #2d2d2d;
+    
+    /* Response Page Specific */
+    --response-bg: #1e1e1e;
+    --response-header: #2d2d2d;
+    --response-config-panel: #2d2d2d;
+    --response-device-status: #1e3d3b;
+    --response-mailersend-info: linear-gradient(135deg, #2d2d44 0%, #1e1e2e 100%);
+    --response-quote-badge: #6c757d;
+    --response-number: #ffffff;
+    
+    /* Edit User Specific */
+    --edit-user-bg: #1e1e1e;
+    --edit-user-header: #2d2d2d;
+    --edit-user-panel: #2d2d2d;
+    --edit-user-panel-border: #404040;
+    --edit-user-info-card: #2d2d2d;
+    
+    /* Forgot Password Specific */
+    --forgot-password-bg: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    --forgot-password-card: #2d2d2d;
+    --forgot-password-header: linear-gradient(135deg, #2d2d44 0%, #1e1e2e 100%);
+    --forgot-password-step-circle: #2d2d2d;
+    --forgot-password-step-circle-active: #4d9eff;
+    --forgot-password-step-circle-completed: #2ecc71;
+    --forgot-password-step-line: #404040;
+    --forgot-password-user-info: #2d2d2d;
+    
+    /* Footer Specific */
+    --footer-bg: #1a1a1a;
+    --footer-text: #b0b0b0;
+    --footer-border: #404040;
+    --footer-link: #4d9eff;
+    --footer-link-hover: #5dade2;
+    
+    /* API Pages Specific */
+    --api-endpoint-get: #61affe;
+    --api-endpoint-post: #49cc90;
+    --api-endpoint-put: #fca130;
+    --api-endpoint-delete: #f93e3e;
+    --api-json-key: #ff6b6b;
+    --api-json-string: #2ecc71;
+    --api-json-number: #f39c12;
+    --api-json-boolean: #4d9eff;
+    --api-json-null: #8a8a8a;
+    
+    /* Toast Notifications */
+    --toast-bg: #2d2d2d;
+    --toast-header-bg: #1e1e1e;
+    --toast-border: #404040;
+    --toast-text: #e0e0e0;
+    
+    /* Loading Overlay */
+    --loading-overlay-bg: rgba(18, 18, 18, 0.95);
+    --loading-spinner: #4d9eff;
+    --loading-text: #e0e0e0;
+    
+    /* Logs Page Specific - DIPERKUAT UNTUK ANGKA */
+    --log-entry-CREATE: #28a745;
+    --log-entry-UPDATE: #ffc107;
+    --log-entry-DELETE: #dc3545;
+    --log-entry-LOGIN: #0d6efd;
+    --log-entry-LOGIN_FAILED: #dc3545;
+    --log-entry-LOGOUT: #6c757d;
+    --log-stats-card: #2d2d2d;
+    --log-filter-card: #2d2d2d;
+    --log-timestamp: #8a8a8a;
+    --log-json-pretty: #2d2d2d;
+    --log-json-key: #ff6b6b;
+    --log-json-string: #2ecc71;
+    --log-json-number: #f39c12;
+    --log-json-boolean: #4d9eff;
+    --log-json-null: #8a8a8a;
+    --log-number: #ffffff;
+    
+    /* Manage Users Page Specific - DIPERKUAT UNTUK ANGKA */
+    --manage-users-filter-bar: #2d2d2d;
+    --manage-users-avatar-sm: #2d2d2d;
+    --manage-users-avatar-title: rgba(77, 158, 255, 0.15);
+    --manage-users-nav-scroller: #2d2d2d;
+    --manage-users-nav-link: #e0e0e0;
+    --manage-users-nav-link-active: #0d6efd;
+    --manage-users-nav-link-hover: #383838;
+    --manage-users-number: #ffffff;
+    
+    /* Monitor Services Specific - DIPERKUAT UNTUK ANGKA */
+    --monitor-service-card: #2d2d2d;
+    --monitor-service-border: #404040;
+    --monitor-service-header: #2d2d2d;
+    --monitor-service-badge-online: #28a745;
+    --monitor-service-badge-offline: #dc3545;
+    --monitor-service-table: #2d2d2d;
+    --monitor-service-pre: #1e1e1e;
+    --monitor-service-pre-text: #00ff00;
+    --monitor-service-number: #ffffff;
+    
+    /* API Handler Specific */
+    --api-handler-bg: #1e1e1e;
+    --api-handler-header: #2d2d2d;
+    --api-handler-border: #404040;
+    --api-handler-request: #2d2d2d;
+    --api-handler-response: #2d2d2d;
+    --api-handler-error: #2d2d2d;
+    
+    /* Common Styles - DIPERKUAT UNTUK ANGKA */
+    --common-loading-overlay: rgba(18, 18, 18, 0.95);
+    --common-loading-content: #2d2d2d;
+    --common-loading-message: #e0e0e0;
+    --common-urgency-expired: #dc3545;
+    --common-urgency-urgent: #ffc107;
+    --common-urgency-normal: #28a745;
+    --common-timeline-before: #404040;
+    --common-timeline-item-before-success: #28a745;
+    --common-timeline-item-before-danger: #dc3545;
+    --common-timeline-item-before-warning: #ffc107;
+    --common-timeline-item-before-info: #17a2b8;
+    --common-number: #ffffff;
+    
+    /* Export Modal Specific - DIPERKUAT UNTUK ANGKA */
+    --export-modal-bg: #2d2d2d;
+    --export-modal-header: #2d2d2d;
+    --export-modal-border: #404040;
+    --export-modal-preview: #2d2d2d;
+    --export-modal-preview-table: #2d2d2d;
+    --export-modal-input-group: #2d2d2d;
+    --export-modal-card: #2d2d2d;
+    --export-modal-card-border: #404040;
+    --export-modal-number: #ffffff;
+    
+    /* Export Preview Specific - DIPERKUAT UNTUK ANGKA */
+    --export-preview-bg: #2d2d2d;
+    --export-preview-card: #2d2d2d;
+    --export-preview-border: #404040;
+    --export-preview-stats: #2d2d2d;
+    --export-preview-monthly: #2d2d2d;
+    --export-preview-period: #8a8a8a;
+    --export-preview-number: #ffffff;
+    
+    /* CSRF Security Specific */
+    --csrf-panel: #2d2d2d;
+    --csrf-border: #404040;
+    --csrf-token-display: #1e1e1e;
+    --csrf-token-text: #2ecc71;
+    
+    /* Cron Jobs Specific - DIPERKUAT UNTUK ANGKA */
+    --cron-bg: #1e1e1e;
+    --cron-header: #2d2d2d;
+    --cron-border: #404040;
+    --cron-log: #0a0a0a;
+    --cron-log-success: #2ecc71;
+    --cron-log-error: #ff6b6b;
+    --cron-log-warning: #f39c12;
+    --cron-log-info: #3498db;
+    --cron-log-text: #00ff00;
+    --cron-number: #ffffff;
+    
+    /* Guru Menu Specific */
+    --guru-menu-bg: #1e1e1e;
+    --guru-menu-card: #2d2d2d;
+    --guru-menu-border: #404040;
+    --guru-menu-icon-circle: #2d2d2d;
+    --guru-menu-icon-bg-primary: rgba(77, 158, 255, 0.15);
+    --guru-menu-icon-bg-success: rgba(46, 204, 113, 0.15);
+    --guru-menu-icon-bg-info: rgba(52, 152, 219, 0.15);
+    
+    /* Guru Navigation Specific */
+    --guru-nav-bg: #2d2d2d;
+    --guru-nav-border: #404040;
+    --guru-nav-btn: #2d2d2d;
+    --guru-nav-btn-hover: #383838;
+    --guru-nav-text: #e0e0e0;
+    --guru-nav-text-muted: #b0b0b0;
+    
+    /* User Messages Specific - DIPERKUAT UNTUK ANGKA */
+    --user-messages-bg: #1e1e1e;
+    --user-messages-card: #2d2d2d;
+    --user-messages-border: #404040;
+    --user-messages-stat-primary: #0d6efd;
+    --user-messages-stat-warning: #ffc107;
+    --user-messages-stat-success: #28a745;
+    --user-messages-stat-danger: #dc3545;
+    --user-messages-stat-text: #ffffff;
+    --user-messages-filter-card: #2d2d2d;
+    --user-messages-table-header: #2d2d2d;
+    --user-messages-pagination: #2d2d2d;
+    --user-messages-number: #ffffff;
+    
+    /* Test Services Specific - DIPERKUAT UNTUK ANGKA */
+    --test-services-bg: #1a1a1a;
+    --test-services-card: #2d2d2d;
+    --test-services-border: #404040;
+    --test-services-section: #2d2d2d;
+    --test-services-section-border: #404040;
+    --test-services-success: #28a745;
+    --test-services-error: #ff6b6b;
+    --test-services-warning: #f39c12;
+    --test-services-pre: #1e1e1e;
+    --test-services-pre-text: #00ff00;
+    --test-services-number: #ffffff;
+}
+
+/* ========== BASE ELEMENTS ========== */
+[data-theme="dark"] body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    background: linear-gradient(145deg, #121212 0%, #1a1a1a 100%) !important;
+}
+
+[data-theme="dark"] a:not(.btn) {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] a:not(.btn):hover {
+    color: var(--primary-dark);
+}
+
+[data-theme="dark"] hr {
+    border-color: var(--border-color);
+}
+
+/* ========== NAVBAR ========== */
+[data-theme="dark"] .navbar {
+    background-color: var(--bg-secondary) !important;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .navbar-light .navbar-nav .nav-link {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .navbar-light .navbar-nav .nav-link:hover {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .navbar-light .navbar-brand {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .navbar-toggler {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .navbar-toggler-icon {
+    filter: invert(1);
+}
+
+[data-theme="dark"] .navbar .badge.bg-secondary {
+    background-color: var(--bg-tertiary) !important;
+    color: var(--text-primary);
+}
+
+/* ========== CARDS ========== */
+[data-theme="dark"] .card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .card-header {
+    background-color: var(--bg-tertiary);
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .card-header.bg-white {
+    background-color: var(--bg-tertiary) !important;
+}
+
+[data-theme="dark"] .card-header.bg-light {
+    background-color: var(--bg-secondary) !important;
+}
+
+[data-theme="dark"] .card-header.bg-primary {
+    background-color: var(--primary-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .card-header.bg-success {
+    background-color: var(--success-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .card-header.bg-danger {
+    background-color: var(--danger-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .card-header.bg-warning {
+    background-color: var(--warning-color) !important;
+    color: black;
+}
+
+[data-theme="dark"] .card-header.bg-info {
+    background-color: var(--info-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .card-footer {
+    background-color: var(--bg-tertiary);
+    border-top: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .card-footer.bg-white {
+    background-color: var(--bg-tertiary) !important;
+}
+
+[data-theme="dark"] .card-footer.bg-light {
+    background-color: var(--bg-secondary) !important;
+}
+
+[data-theme="dark"] .card.border-0 {
+    border: 1px solid var(--border-color) !important;
+}
+
+[data-theme="dark"] .card:hover {
+    box-shadow: var(--shadow-md) !important;
+}
+
+[data-theme="dark"] .card.bg-light {
+    background-color: var(--bg-tertiary) !important;
+}
+
+/* ========== TABLES - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .table {
+    color: var(--text-primary);
+    border-color: var(--table-border);
+}
+
+[data-theme="dark"] .table thead th {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border-bottom: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .table thead.table-light th {
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table tbody tr {
+    border-color: var(--table-border);
+}
+
+[data-theme="dark"] .table tbody tr:hover {
+    background-color: var(--table-hover);
+}
+
+[data-theme="dark"] .table-striped tbody tr:nth-of-type(odd) {
+    background-color: var(--table-stripe);
+}
+
+[data-theme="dark"] .table td,
+[data-theme="dark"] .table th {
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .table td {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table td .number,
+[data-theme="dark"] .table td .count,
+[data-theme="dark"] .table td .total,
+[data-theme="dark"] .table td .badge-number,
+[data-theme="dark"] .table td .stat-value,
+[data-theme="dark"] .table td .fw-bold,
+[data-theme="dark"] .table td strong {
+    color: var(--table-number-color);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .table-light {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table-warning {
+    background-color: rgba(243, 156, 18, 0.2);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table-success {
+    background-color: rgba(46, 204, 113, 0.2);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table-danger {
+    background-color: rgba(231, 76, 60, 0.2);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table-info {
+    background-color: rgba(52, 152, 219, 0.2);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .table-sm th,
+[data-theme="dark"] .table-sm td {
+    color: var(--text-primary);
+}
+
+/* ========== FORMS ========== */
+[data-theme="dark"] .form-control,
+[data-theme="dark"] .form-select {
+    background-color: var(--bg-input);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .form-control:focus,
+[data-theme="dark"] .form-select:focus {
+    background-color: var(--bg-input);
+    border-color: var(--border-focus);
+    color: var(--text-primary);
+    box-shadow: 0 0 0 0.25rem rgba(77, 158, 255, 0.25);
+}
+
+[data-theme="dark"] .form-control::placeholder {
+    color: var(--text-disabled);
+}
+
+[data-theme="dark"] .form-control:disabled,
+[data-theme="dark"] .form-control[readonly] {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-light);
+    color: var(--text-disabled);
+}
+
+[data-theme="dark"] .input-group-text {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .form-check-input {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .form-check-input:checked {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+[data-theme="dark"] .form-check-input:focus {
+    box-shadow: 0 0 0 0.25rem rgba(46, 204, 113, 0.25);
+}
+
+[data-theme="dark"] .form-label {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .form-text {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .invalid-feedback {
+    color: var(--danger-color);
+}
+
+/* ========== BUTTONS ========== */
+[data-theme="dark"] .btn-outline-primary {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+[data-theme="dark"] .btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-outline-secondary {
+    color: var(--text-secondary);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .btn-outline-secondary:hover {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-light);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .btn-outline-success {
+    color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+[data-theme="dark"] .btn-outline-success:hover {
+    background-color: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-outline-danger {
+    color: var(--danger-color);
+    border-color: var(--danger-color);
+}
+
+[data-theme="dark"] .btn-outline-danger:hover {
+    background-color: var(--danger-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-outline-warning {
+    color: var(--warning-color);
+    border-color: var(--warning-color);
+}
+
+[data-theme="dark"] .btn-outline-warning:hover {
+    background-color: var(--warning-color);
+    color: black;
+}
+
+[data-theme="dark"] .btn-outline-info {
+    color: var(--info-color);
+    border-color: var(--info-color);
+}
+
+[data-theme="dark"] .btn-outline-info:hover {
+    background-color: var(--info-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-primary:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
+
+[data-theme="dark"] .btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-success {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-danger {
+    background-color: var(--danger-color);
+    border-color: var(--danger-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-warning {
+    background-color: var(--warning-color);
+    border-color: var(--warning-color);
+    color: black;
+}
+
+[data-theme="dark"] .btn-info {
+    background-color: var(--info-color);
+    border-color: var(--info-color);
+    color: white;
+}
+
+[data-theme="dark"] .btn-light {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .btn-light:hover {
+    background-color: var(--bg-hover);
+    border-color: var(--border-light);
+}
+
+[data-theme="dark"] .btn-link {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .btn-link:hover {
+    color: var(--primary-dark);
+}
+
+[data-theme="dark"] .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+/* ========== BADGES - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .badge {
+    background-color: var(--badge-bg);
+    color: var(--badge-text);
+}
+
+[data-theme="dark"] .badge .badge-number,
+[data-theme="dark"] .badge .count,
+[data-theme="dark"] .badge .total,
+[data-theme="dark"] .badge span:not(.badge-text) {
+    color: var(--badge-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .badge.bg-primary {
+    background-color: var(--primary-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-primary .badge-number {
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-secondary {
+    background-color: var(--secondary-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-secondary .badge-number {
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-success {
+    background-color: var(--success-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-success .badge-number {
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-danger {
+    background-color: var(--danger-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-danger .badge-number {
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-warning {
+    background-color: var(--warning-color) !important;
+    color: black;
+}
+
+[data-theme="dark"] .badge.bg-warning .badge-number {
+    color: black;
+}
+
+[data-theme="dark"] .badge.bg-info {
+    background-color: var(--info-color) !important;
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-info .badge-number {
+    color: white;
+}
+
+[data-theme="dark"] .badge.bg-light {
+    background-color: var(--bg-tertiary) !important;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .badge.bg-light .badge-number {
+    color: var(--text-number);
+}
+
+[data-theme="dark"] .badge.bg-dark {
+    background-color: var(--bg-secondary) !important;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .badge.bg-dark .badge-number {
+    color: var(--text-number);
+}
+
+/* Status Badge Icons */
+[data-theme="dark"] .badge i {
+    color: inherit;
+}
+
+/* ========== ALERTS ========== */
+[data-theme="dark"] .alert {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-info {
+    background-color: rgba(52, 152, 219, 0.15);
+    border-color: var(--info-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-success {
+    background-color: rgba(46, 204, 113, 0.15);
+    border-color: var(--success-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-warning {
+    background-color: rgba(243, 156, 18, 0.15);
+    border-color: var(--warning-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-danger {
+    background-color: rgba(231, 76, 60, 0.15);
+    border-color: var(--danger-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+[data-theme="dark"] .alert h6 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-link {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+/* ========== MODALS ========== */
+[data-theme="dark"] .modal-content {
+    background-color: var(--bg-modal);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .modal-header {
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .modal-footer {
+    border-top: 1px solid var(--border-color);
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .modal-title {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+/* ========== DROPDOWNS ========== */
+[data-theme="dark"] .dropdown-menu {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .dropdown-item {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .dropdown-item:hover,
+[data-theme="dark"] .dropdown-item:focus {
+    background-color: var(--bg-hover);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .dropdown-divider {
+    border-top-color: var(--border-color);
+}
+
+[data-theme="dark"] .dropdown-header {
+    color: var(--text-muted);
+}
+
+/* ========== PAGINATION - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .pagination .page-link {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .pagination .page-link:hover {
+    background-color: var(--bg-hover);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .pagination .page-item.active .page-link {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+[data-theme="dark"] .pagination .page-item.active .page-link .number,
+[data-theme="dark"] .pagination .page-item.active .page-link .page-number {
+    color: white;
+}
+
+[data-theme="dark"] .pagination .page-item.disabled .page-link {
+    background-color: var(--bg-tertiary);
+    color: var(--text-disabled);
+    border-color: var(--border-color);
+}
+
+/* ========== BREADCRUMB ========== */
+[data-theme="dark"] .breadcrumb {
+    background-color: transparent;
+}
+
+[data-theme="dark"] .breadcrumb-item + .breadcrumb-item::before {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .breadcrumb-item.active {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .breadcrumb-item a {
+    color: var(--primary-color);
+}
+
+/* ========== LIST GROUP ========== */
+[data-theme="dark"] .list-group-item {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .list-group-item-action:hover {
+    background-color: var(--bg-hover);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .list-group-item.active {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+[data-theme="dark"] .list-group-flush .list-group-item {
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .list-group-item .text-muted {
+    color: var(--text-muted) !important;
+}
+
+/* ========== PROGRESS BARS ========== */
+[data-theme="dark"] .progress {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .progress-bar {
+    background-color: var(--primary-color);
+}
+
+[data-theme="dark"] .progress-bar.bg-success {
+    background-color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .progress-bar.bg-danger {
+    background-color: var(--danger-color) !important;
+}
+
+[data-theme="dark"] .progress-bar.bg-warning {
+    background-color: var(--warning-color) !important;
+}
+
+[data-theme="dark"] .progress-bar.bg-info {
+    background-color: var(--info-color) !important;
+}
+
+/* ========== ACCORDION ========== */
+[data-theme="dark"] .accordion-item {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .accordion-button {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .accordion-button:not(.collapsed) {
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .accordion-button::after {
+    filter: invert(1);
+}
+
+[data-theme="dark"] .accordion-button:focus {
+    border-color: var(--border-focus);
+    box-shadow: 0 0 0 0.25rem rgba(77, 158, 255, 0.25);
+}
+
+/* ========== TOASTS ========== */
+[data-theme="dark"] .toast {
+    background-color: var(--toast-bg);
+    border: 1px solid var(--toast-border);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .toast-header {
+    background-color: var(--toast-header-bg);
+    border-bottom: 1px solid var(--toast-border);
+    color: var(--toast-text);
+}
+
+[data-theme="dark"] .toast .btn-close {
+    filter: invert(1);
+}
+
+[data-theme="dark"] .toast-body {
+    color: var(--toast-text);
+}
+
+/* ========== TOOLTIPS ========== */
+[data-theme="dark"] .tooltip-inner {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .bs-tooltip-top .tooltip-arrow::before {
+    border-top-color: var(--border-color);
+}
+
+[data-theme="dark"] .bs-tooltip-bottom .tooltip-arrow::before {
+    border-bottom-color: var(--border-color);
+}
+
+[data-theme="dark"] .bs-tooltip-start .tooltip-arrow::before {
+    border-left-color: var(--border-color);
+}
+
+[data-theme="dark"] .bs-tooltip-end .tooltip-arrow::before {
+    border-right-color: var(--border-color);
+}
+
+/* ========== SIDEBAR ========== */
+[data-theme="dark"] .sidebar {
+    background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+    border-right: 1px solid var(--border-color);
+}
+
+/* ========== FOOTER ========== */
+[data-theme="dark"] .footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    border-top: 1px solid var(--footer-border);
+}
+
+[data-theme="dark"] .footer a {
+    color: var(--footer-link);
+}
+
+[data-theme="dark"] .footer a:hover {
+    color: var(--footer-link-hover);
+}
+
+[data-theme="dark"] .footer hr {
+    border-color: var(--footer-border);
+}
+
+[data-theme="dark"] .footer h5 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .footer p {
+    color: var(--footer-text);
+}
+
+/* ========== DEBUG PANEL ========== */
+[data-theme="dark"] .debug-panel {
+    background: var(--index-debug-panel);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .debug-header {
+    background: var(--index-debug-header);
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .debug-header h3 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .debug-entry {
+    background-color: var(--index-debug-entry);
+    border-left-color: var(--border-color);
+}
+
+[data-theme="dark"] .debug-entry.success {
+    border-left-color: var(--success-color);
+}
+
+[data-theme="dark"] .debug-entry.error {
+    border-left-color: var(--danger-color);
+}
+
+[data-theme="dark"] .debug-entry.warning {
+    border-left-color: var(--warning-color);
+}
+
+[data-theme="dark"] .debug-step {
+    color: var(--warning-color);
+}
+
+[data-theme="dark"] .debug-time {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .debug-data {
+    background: var(--index-debug-data);
+    border: 1px solid var(--border-color);
+    color: var(--index-debug-data-text);
+}
+
+[data-theme="dark"] .debug-caller {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .debug-toggle-btn {
+    background: var(--index-debug-panel);
+    color: var(--text-primary);
+    border: 2px solid var(--warning-color);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .debug-toggle-btn:hover {
+    background: var(--index-debug-header);
+}
+
+/* ========== CHARTS - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .chart-container {
+    background-color: var(--chart-bg);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+[data-theme="dark"] canvas {
+    filter: brightness(0.9) contrast(1.1);
+}
+
+[data-theme="dark"] .chart-number,
+[data-theme="dark"] .chart-value,
+[data-theme="dark"] .chart-data-label,
+[data-theme="dark"] .apexcharts-text,
+[data-theme="dark"] .apexcharts-data-labels text,
+[data-theme="dark"] .apexcharts-datalabel,
+[data-theme="dark"] .apexcharts-datalabel-value {
+    color: var(--chart-number) !important;
+    fill: var(--chart-number) !important;
+    font-weight: 600 !important;
+}
+
+[data-theme="dark"] .apexcharts-legend-text {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .apexcharts-tooltip {
+    background-color: var(--bg-tertiary) !important;
+    border: 1px solid var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .apexcharts-tooltip .apexcharts-tooltip-title {
+    background-color: var(--bg-secondary) !important;
+    border-bottom: 1px solid var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .apexcharts-xaxis text,
+[data-theme="dark"] .apexcharts-yaxis text {
+    fill: var(--chart-text) !important;
+    color: var(--chart-text) !important;
+}
+
+[data-theme="dark"] .legend-color {
+    border: 1px solid var(--border-color);
+}
+
+/* ========== AUTH PAGES ========== */
+[data-theme="dark"] .auth-page {
+    background-color: var(--auth-bg);
+    background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+}
+
+[data-theme="dark"] .auth-card {
+    background-color: var(--auth-card);
+    border: 1px solid var(--auth-border);
+    box-shadow: var(--auth-shadow);
+}
+
+[data-theme="dark"] .auth-header {
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .auth-footer {
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .auth-logo {
+    filter: brightness(1.2);
+}
+
+[data-theme="dark"] .auth-title {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .auth-subtitle {
+    color: var(--text-secondary);
+}
+
+/* ========== LOGIN PAGE ========== */
+[data-theme="dark"] .login-page {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+}
+
+[data-theme="dark"] .login-card {
+    background-color: var(--login-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-lg);
+}
+
+[data-theme="dark"] .login-header {
+    background: var(--login-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .login-footer {
+    background-color: var(--login-footer);
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .login-divider {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .login-divider::before,
+[data-theme="dark"] .login-divider::after {
+    background-color: var(--border-color);
+}
+
+[data-theme="dark"] .captcha-box {
+    background-color: var(--captcha-bg);
+    border: 1px solid var(--border-color);
+    color: var(--captcha-text);
+    font-family: 'Courier New', monospace;
+    letter-spacing: 4px;
+    text-shadow: 0 0 5px rgba(255, 215, 0, 0.5);
+}
+
+[data-theme="dark"] .remember-checkbox {
+    color: var(--text-secondary);
+}
+
+/* ========== PDF PREVIEW / EXPORT PAGE ========== */
+[data-theme="dark"] .pdf-preview {
+    background-color: var(--pdf-bg);
+    border: 1px solid var(--pdf-border);
+}
+
+[data-theme="dark"] .pdf-header {
+    background-color: var(--pdf-header-bg);
+    border-bottom: 1px solid var(--pdf-border);
+    color: var(--pdf-text);
+}
+
+[data-theme="dark"] .pdf-content {
+    background-color: var(--pdf-bg);
+    color: var(--pdf-text);
+}
+
+[data-theme="dark"] .pdf-table {
+    border: 1px solid var(--pdf-border);
+}
+
+[data-theme="dark"] .pdf-table th {
+    background-color: var(--pdf-table-header);
+    color: var(--text-primary);
+    border-bottom: 2px solid var(--pdf-border);
+}
+
+[data-theme="dark"] .pdf-table td {
+    border-bottom: 1px solid var(--pdf-border);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .pdf-table td .number,
+[data-theme="dark"] .pdf-table td .count,
+[data-theme="dark"] .pdf-table td .total,
+[data-theme="dark"] .pdf-table td .badge-number {
+    color: var(--pdf-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .pdf-table tr:nth-child(even) {
+    background-color: var(--pdf-table-alt-row);
+}
+
+[data-theme="dark"] .pdf-table tr:hover {
+    background-color: var(--bg-hover);
+}
+
+[data-theme="dark"] .pdf-metric {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--pdf-border);
+}
+
+[data-theme="dark"] .pdf-metric-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .pdf-metric-value {
+    color: var(--primary-color);
+    font-weight: 700;
+    font-size: 24px;
+}
+
+[data-theme="dark"] .pdf-signature {
+    border-top: 1px solid var(--pdf-border);
+    color: var(--text-secondary);
+}
+
+/* ========== EXPORT DASHBOARD ========== */
+[data-theme="dark"] .export-dashboard {
+    background-color: var(--pdf-bg);
+}
+
+[data-theme="dark"] .export-header {
+    background-color: var(--pdf-header-bg);
+    border-bottom: 2px solid var(--primary-color);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .export-section {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .export-section-title {
+    color: var(--primary-color);
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .export-kpi {
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 5px;
+}
+
+[data-theme="dark"] .export-kpi-value {
+    color: var(--primary-color);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+[data-theme="dark"] .export-kpi-label {
+    color: var(--text-muted);
+    font-size: 12px;
+}
+
+/* ========== REPORTS PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .report-page {
+    background-color: var(--report-bg);
+}
+
+[data-theme="dark"] .report-header {
+    background-color: var(--report-header);
+    border-bottom: 2px solid var(--primary-color);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .report-filter {
+    background-color: var(--report-filter);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .report-filter-label {
+    color: var(--text-secondary);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+[data-theme="dark"] .report-kpi-card {
+    background-color: var(--report-kpi-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    transition: transform 0.2s;
+}
+
+[data-theme="dark"] .report-kpi-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .report-kpi-title {
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+[data-theme="dark"] .report-kpi-number {
+    color: var(--report-kpi-number);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+[data-theme="dark"] .report-table-container {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .report-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+[data-theme="dark"] .report-table th {
+    background-color: var(--report-table-header);
+    color: var(--text-primary);
+    padding: 12px;
+    font-weight: 600;
+    border-bottom: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .report-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .report-table td .number,
+[data-theme="dark"] .report-table td .count,
+[data-theme="dark"] .report-table td .total,
+[data-theme="dark"] .report-table td .badge-number,
+[data-theme="dark"] .report-table td .stat-value {
+    color: var(--report-table-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .report-table tbody tr:nth-child(even) {
+    background-color: var(--report-table-alt-row);
+}
+
+[data-theme="dark"] .report-table tbody tr:hover {
+    background-color: var(--table-hover);
+}
+
+/* ========== ANALYTICS DASHBOARD - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .analytics-page {
+    background-color: var(--analytics-bg);
+}
+
+[data-theme="dark"] .analytics-header {
+    background-color: var(--analytics-header);
+    border-bottom: 2px solid var(--primary-color);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .analytics-kpi-card {
+    background-color: var(--analytics-kpi-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+[data-theme="dark"] .analytics-kpi-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .analytics-kpi-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}
+
+[data-theme="dark"] .analytics-kpi-icon.bg-primary-light {
+    background-color: rgba(77, 158, 255, 0.15);
+}
+
+[data-theme="dark"] .analytics-kpi-icon.bg-success-light {
+    background-color: rgba(46, 204, 113, 0.15);
+}
+
+[data-theme="dark"] .analytics-kpi-icon.bg-warning-light {
+    background-color: rgba(243, 156, 18, 0.15);
+}
+
+[data-theme="dark"] .analytics-kpi-icon.bg-info-light {
+    background-color: rgba(52, 152, 219, 0.15);
+}
+
+[data-theme="dark"] .analytics-kpi-value {
+    color: var(--analytics-kpi-number);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+[data-theme="dark"] .analytics-kpi-label {
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+[data-theme="dark"] .analytics-trend-up {
+    color: var(--success-color);
+}
+
+[data-theme="dark"] .analytics-trend-down {
+    color: var(--danger-color);
+}
+
+[data-theme="dark"] .analytics-chart-card {
+    background-color: var(--analytics-chart-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    height: 100%;
+}
+
+[data-theme="dark"] .analytics-chart-title {
+    color: var(--text-primary);
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .analytics-table {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .analytics-table th {
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+    font-weight: 600;
+    padding: 12px;
+}
+
+[data-theme="dark"] .analytics-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .analytics-table td .number,
+[data-theme="dark"] .analytics-table td .count,
+[data-theme="dark"] .analytics-table td .total {
+    color: var(--analytics-chart-number);
+    font-weight: 700;
+}
+
+/* ========== AJAX MESSAGE DETAIL ========== */
+[data-theme="dark"] .ajax-message-detail {
+    background-color: var(--bg-ajax-message);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .ajax-message-header {
+    background-color: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    padding: 15px;
+}
+
+[data-theme="dark"] .ajax-message-body {
+    padding: 20px;
+}
+
+[data-theme="dark"] .ajax-message-info {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+[data-theme="dark"] .ajax-message-content {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 20px;
+    white-space: pre-line;
+    line-height: 1.6;
+}
+
+[data-theme="dark"] .ajax-response-item {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 12px;
+}
+
+[data-theme="dark"] .ajax-response-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    color: var(--text-muted);
+    font-size: 12px;
+}
+
+[data-theme="dark"] .ajax-response-body {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .ajax-loading {
+    background-color: var(--ajax-loading-bg);
+}
+
+[data-theme="dark"] .ajax-spinner {
+    color: var(--ajax-spinner);
+}
+
+/* ========== WHATSAPP API ========== */
+[data-theme="dark"] .whatsapp-container {
+    background-color: var(--whatsapp-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .whatsapp-header {
+    background-color: var(--whatsapp-header);
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .whatsapp-message {
+    background-color: var(--whatsapp-message-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin: 10px;
+    padding: 12px;
+}
+
+[data-theme="dark"] .whatsapp-message-outgoing {
+    background-color: var(--whatsapp-outgoing);
+    border-color: var(--success-color);
+    margin-left: 20%;
+}
+
+[data-theme="dark"] .whatsapp-message-incoming {
+    background-color: var(--whatsapp-incoming);
+    margin-right: 20%;
+}
+
+[data-theme="dark"] .whatsapp-sender {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 4px;
+}
+
+[data-theme="dark"] .whatsapp-text {
+    color: var(--text-primary);
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+
+[data-theme="dark"] .whatsapp-timestamp {
+    color: var(--whatsapp-timestamp);
+    font-size: 10px;
+    text-align: right;
+}
+
+[data-theme="dark"] .whatsapp-status {
+    font-size: 12px;
+}
+
+[data-theme="dark"] .whatsapp-status-sent {
+    color: var(--whatsapp-status-sent);
+}
+
+[data-theme="dark"] .whatsapp-status-delivered {
+    color: var(--whatsapp-status-delivered);
+}
+
+[data-theme="dark"] .whatsapp-status-read {
+    color: var(--whatsapp-status-read);
+}
+
+[data-theme="dark"] .whatsapp-debug {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 12px;
+    color: var(--process-console-text);
+}
+
+/* ========== EMAIL API ========== */
+[data-theme="dark"] .email-container {
+    background-color: var(--email-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .email-header {
+    background-color: var(--email-header);
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .email-preview {
+    background-color: var(--email-preview-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    margin: 15px;
+    padding: 20px;
+}
+
+[data-theme="dark"] .email-subject {
+    color: var(--text-primary);
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .email-meta {
+    color: var(--text-muted);
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .email-body {
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+[data-theme="dark"] .email-quote {
+    background-color: var(--email-quote-bg);
+    border-left: 3px solid var(--primary-color);
+    padding: 10px 15px;
+    margin: 15px 0;
+    font-style: italic;
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .email-signature {
+    color: var(--email-signature);
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .email-attachment {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin: 5px 0;
+}
+
+[data-theme="dark"] .email-attachment-icon {
+    color: var(--primary-color);
+    margin-right: 8px;
+}
+
+/* ========== EMAIL CONFIGURATION ========== */
+[data-theme="dark"] .email-config {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+[data-theme="dark"] .email-config-title {
+    color: var(--primary-color);
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .email-config-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+[data-theme="dark"] .email-config-label {
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+[data-theme="dark"] .email-config-value {
+    color: var(--text-primary);
+    font-family: monospace;
+}
+
+[data-theme="dark"] .email-config-value.smtp {
+    color: var(--success-color);
+}
+
+[data-theme="dark"] .email-config-value.api {
+    color: var(--warning-color);
+}
+
+/* ========== BACKGROUND PROCESS ========== */
+[data-theme="dark"] .process-container {
+    background-color: var(--process-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .process-header {
+    background-color: var(--process-header);
+    border-bottom: 1px solid var(--border-color);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+[data-theme="dark"] .process-title {
+    color: var(--text-primary);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .process-status {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .process-status.running {
+    background-color: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .process-status.completed {
+    background-color: var(--info-color);
+    color: white;
+}
+
+[data-theme="dark"] .process-status.failed {
+    background-color: var(--danger-color);
+    color: white;
+}
+
+[data-theme="dark"] .process-log {
+    background-color: var(--process-console-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 15px;
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+[data-theme="dark"] .process-log-entry {
+    margin-bottom: 5px;
+    padding: 3px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="dark"] .process-log-timestamp {
+    color: var(--text-muted);
+    margin-right: 10px;
+}
+
+[data-theme="dark"] .process-log-success {
+    color: var(--process-log-success);
+}
+
+[data-theme="dark"] .process-log-error {
+    color: var(--process-log-error);
+}
+
+[data-theme="dark"] .process-log-warning {
+    color: var(--process-log-warning);
+}
+
+[data-theme="dark"] .process-log-info {
+    color: var(--process-log-info);
+}
+
+[data-theme="dark"] .process-detail {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 12px;
+    margin: 10px 0;
+}
+
+[data-theme="dark"] .process-detail-label {
+    color: var(--text-muted);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+[data-theme="dark"] .process-detail-value {
+    color: var(--text-primary);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+[data-theme="dark"] .process-detail-value.number,
+[data-theme="dark"] .process-detail-value .count,
+[data-theme="dark"] .process-detail-value .total {
+    color: var(--process-number);
+    font-weight: 700;
+}
+
+/* ========== API SECTION ========== */
+[data-theme="dark"] .api-section {
+    background-color: var(--api-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+[data-theme="dark"] .api-header {
+    color: var(--text-primary);
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .api-endpoint {
+    background-color: var(--api-endpoint-bg);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 4px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+[data-theme="dark"] .api-endpoint-method {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 11px;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+
+[data-theme="dark"] .api-endpoint-method.get {
+    background-color: var(--api-endpoint-get);
+    color: white;
+}
+
+[data-theme="dark"] .api-endpoint-method.post {
+    background-color: var(--api-endpoint-post);
+    color: white;
+}
+
+[data-theme="dark"] .api-endpoint-method.put {
+    background-color: var(--api-endpoint-put);
+    color: white;
+}
+
+[data-theme="dark"] .api-endpoint-method.delete {
+    background-color: var(--api-endpoint-delete);
+    color: white;
+}
+
+[data-theme="dark"] .api-endpoint-url {
+    color: var(--text-primary);
+    font-family: monospace;
+    font-size: 13px;
+}
+
+[data-theme="dark"] .api-json {
+    background-color: var(--api-json-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 15px;
+    font-family: 'Courier New', monospace;
+    font-size: 13px;
+    overflow-x: auto;
+}
+
+[data-theme="dark"] .api-json-key {
+    color: var(--api-json-key);
+}
+
+[data-theme="dark"] .api-json-string {
+    color: var(--api-json-string);
+}
+
+[data-theme="dark"] .api-json-number {
+    color: var(--api-json-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .api-json-boolean {
+    color: var(--api-json-boolean);
+}
+
+[data-theme="dark"] .api-json-null {
+    color: var(--api-json-null);
+}
+
+[data-theme="dark"] .api-request {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+[data-theme="dark"] .api-response {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--success-color);
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+[data-theme="dark"] .api-error {
+    background-color: var(--bg-secondary);
+    border-left: 4px solid var(--danger-color);
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* ========== USER DETAIL PAGE ========== */
+[data-theme="dark"] .user-avatar {
+    border: 3px solid var(--border-color);
+}
+
+[data-theme="dark"] .user-avatar-placeholder {
+    background: var(--user-avatar-bg);
+    color: white;
+}
+
+[data-theme="dark"] .user-info-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .user-info-section {
+    border-bottom: 1px solid var(--user-info-border);
+}
+
+[data-theme="dark"] .user-info-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .user-info-value {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .user-stat-card {
+    background-color: var(--user-stat-card);
+    border: 1px solid var(--border-color);
+    transition: transform 0.2s;
+}
+
+[data-theme="dark"] .user-stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .user-stat-icon {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .user-stat-number {
+    color: var(--stat-number-color);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+[data-theme="dark"] .user-stat-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .user-activity-timeline {
+    border-left: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .user-activity-item {
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .user-activity-time {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .user-activity-badge {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+}
+
+/* ========== USERS LIST PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .users-filter-bar {
+    background-color: var(--manage-users-filter-bar);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .users-search-input {
+    background-color: var(--bg-input);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .users-search-input:focus {
+    border-color: var(--border-focus);
+}
+
+[data-theme="dark"] .users-type-badge {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .users-status-badge {
+    padding: 4px 8px;
+    border-radius: 12px;
+}
+
+[data-theme="dark"] .users-status-badge.active {
+    background-color: rgba(46, 204, 113, 0.2);
+    color: var(--success-color);
+    border: 1px solid var(--success-color);
+}
+
+[data-theme="dark"] .users-status-badge.inactive {
+    background-color: rgba(231, 76, 60, 0.2);
+    color: var(--danger-color);
+    border: 1px solid var(--danger-color);
+}
+
+[data-theme="dark"] .users-avatar-small {
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .users-action-btn {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .users-action-btn:hover {
+    background-color: var(--bg-hover);
+}
+
+/* Manage Users Page Specific */
+[data-theme="dark"] .avatar-sm {
+    width: 36px;
+    height: 36px;
+    background-color: var(--manage-users-avatar-sm);
+}
+
+[data-theme="dark"] .avatar-title {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--manage-users-avatar-title);
+}
+
+[data-theme="dark"] .nav-scroller {
+    background-color: var(--manage-users-nav-scroller);
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .nav-pills .nav-link {
+    color: var(--manage-users-nav-link);
+}
+
+[data-theme="dark"] .nav-pills .nav-link .badge {
+    background-color: var(--bg-secondary) !important;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .nav-pills .nav-link .badge .badge-number {
+    color: var(--badge-number);
+}
+
+[data-theme="dark"] .nav-pills .nav-link:hover {
+    background-color: var(--manage-users-nav-link-hover);
+}
+
+[data-theme="dark"] .nav-pills .nav-link.active {
+    background-color: var(--manage-users-nav-link-active);
+    color: white;
+}
+
+[data-theme="dark"] .nav-pills .nav-link.active .badge {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: white;
+}
+
+[data-theme="dark"] .nav-pills .nav-link.active .badge .badge-number {
+    color: white;
+}
+
+/* ========== SEND MESSAGE PAGE ========== */
+[data-theme="dark"] .send-message-container {
+    background-color: var(--send-message-bg);
+}
+
+[data-theme="dark"] .send-message-header {
+    background-color: var(--send-message-header);
+    color: white;
+}
+
+[data-theme="dark"] .char-counter {
+    color: var(--char-count-text);
+}
+
+[data-theme="dark"] .char-counter.warning {
+    color: var(--char-count-warning);
+}
+
+[data-theme="dark"] .char-counter.danger {
+    color: var(--char-count-danger);
+}
+
+[data-theme="dark"] .send-message-footer {
+    background-color: var(--send-message-footer);
+    border-top: 1px solid var(--border-color);
+}
+
+/* ========== VIEW MESSAGES PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .view-messages-container {
+    background-color: var(--view-messages-bg);
+}
+
+[data-theme="dark"] .view-messages-header {
+    background-color: var(--view-messages-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .icon-circle {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .icon-circle-sm {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .quick-actions-btn {
+    background: var(--quick-actions-bg);
+    box-shadow: 0 5px 20px rgba(102, 126, 234, 0.2);
+}
+
+[data-theme="dark"] .quick-actions-menu {
+    background-color: var(--quick-actions-menu-bg);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] .quick-actions-menu a {
+    color: var(--quick-actions-menu-text);
+}
+
+[data-theme="dark"] .quick-actions-menu a:hover {
+    background-color: var(--quick-actions-menu-hover);
+}
+
+[data-theme="dark"] .message-preview {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .bulk-actions-bar {
+    background-color: var(--bg-tertiary);
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* ========== HISTORY PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .history-container {
+    background-color: var(--history-bg);
+}
+
+[data-theme="dark"] .history-timeline {
+    background-color: var(--history-timeline-bg);
+    border: 1px solid var(--history-timeline-border);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .timeline-item {
+    border-left: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .timeline-content {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .timeline-content:hover {
+    background-color: var(--bg-hover);
+}
+
+[data-theme="dark"] .timeline-badge.bg-warning {
+    background-color: var(--history-badge-pending);
+}
+
+[data-theme="dark"] .timeline-badge.bg-success {
+    background-color: var(--history-badge-success);
+}
+
+[data-theme="dark"] .timeline-badge.bg-danger {
+    background-color: var(--history-badge-danger);
+}
+
+[data-theme="dark"] .timeline-badge.bg-info {
+    background-color: var(--history-badge-info);
+}
+
+[data-theme="dark"] .timeline-badge.bg-secondary {
+    background-color: var(--history-badge-secondary);
+}
+
+[data-theme="dark"] .filter-badge {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .filter-badge .remove-filter {
+    color: var(--danger-color);
+}
+
+[data-theme="dark"] .filter-badge .remove-filter:hover {
+    color: var(--danger-dark);
+}
+
+[data-theme="dark"] .period-btn {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .period-btn:hover {
+    background-color: var(--bg-hover);
+}
+
+[data-theme="dark"] .period-btn.active {
+    background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+[data-theme="dark"] .stat-card {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .stat-icon {
+    background-color: rgba(77, 158, 255, 0.15);
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .stat-value {
+    color: var(--stat-number-color);
+}
+
+[data-theme="dark"] .stat-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .empty-state {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .empty-state i {
+    color: var(--text-disabled);
+}
+
+/* ========== PASSWORD GENERATOR ========== */
+[data-theme="dark"] .password-generator-panel {
+    background-color: var(--password-generator-bg);
+    border: 1px solid var(--password-generator-border);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 0 8px 8px 0;
+}
+
+[data-theme="dark"] .password-history {
+    background-color: var(--password-history-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+[data-theme="dark"] .password-history-item {
+    border-bottom: 1px dashed var(--password-history-border);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .password-history-item:last-child {
+    border-bottom: none;
+}
+
+[data-theme="dark"] .badge-password {
+    background-color: var(--badge-password-bg);
+    color: var(--badge-password-text);
+}
+
+[data-theme="dark"] .config-badge {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+/* ========== SETTINGS PAGE ========== */
+[data-theme="dark"] .settings-sidebar {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+}
+
+[data-theme="dark"] .settings-nav {
+    background-color: var(--settings-nav-bg);
+}
+
+[data-theme="dark"] .settings-nav-item {
+    border-bottom: 1px solid var(--settings-nav-border);
+}
+
+[data-theme="dark"] .settings-nav-link {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .settings-nav-link .badge {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .settings-nav-link .badge .badge-number {
+    color: var(--badge-number);
+}
+
+[data-theme="dark"] .settings-nav-link:hover {
+    background-color: var(--settings-nav-hover);
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .settings-nav-link.active {
+    background-color: var(--settings-nav-active);
+    color: var(--primary-color);
+    border-left: 4px solid var(--primary-color);
+}
+
+[data-theme="dark"] .settings-content {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+}
+
+[data-theme="dark"] .settings-section {
+    border-bottom: 1px solid var(--settings-section-border);
+}
+
+[data-theme="dark"] .settings-section-title {
+    border-bottom: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .settings-section-title h3 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .badge-active {
+    background-color: var(--settings-badge-active);
+    color: var(--success-color);
+}
+
+[data-theme="dark"] .badge-inactive {
+    background-color: var(--settings-badge-inactive);
+    color: var(--danger-color);
+}
+
+[data-theme="dark"] .stats-card {
+    background: linear-gradient(135deg, #1e1e2e 0%, #2d2d44 100%);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .template-preview {
+    background-color: var(--bg-tertiary);
+    border-left: 4px solid var(--primary-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .json-viewer {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .test-card {
+    background-color: var(--bg-tertiary);
+    border-left: 4px solid var(--info-color);
+}
+
+/* ========== MONITOR CONNECTION PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .monitor-container {
+    background-color: var(--monitor-bg);
+}
+
+[data-theme="dark"] .monitor-card {
+    background-color: var(--monitor-card);
+    border: 1px solid var(--monitor-border);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .status-card.success::before {
+    background: linear-gradient(90deg, var(--monitor-success), #20c997);
+}
+
+[data-theme="dark"] .status-card.warning::before {
+    background: linear-gradient(90deg, var(--monitor-warning), #fd7e14);
+}
+
+[data-theme="dark"] .status-card.danger::before {
+    background: linear-gradient(90deg, var(--monitor-danger), #c82333);
+}
+
+[data-theme="dark"] .status-card.secondary::before {
+    background: linear-gradient(90deg, var(--monitor-secondary), #5a6268);
+}
+
+[data-theme="dark"] .status-badge.success {
+    background: linear-gradient(135deg, var(--monitor-success), #20c997);
+    color: white;
+}
+
+[data-theme="dark"] .status-badge.warning {
+    background: linear-gradient(135deg, var(--monitor-warning), #fd7e14);
+    color: black;
+}
+
+[data-theme="dark"] .status-badge.danger {
+    background: linear-gradient(135deg, var(--monitor-danger), #c82333);
+    color: white;
+}
+
+[data-theme="dark"] .status-badge.secondary {
+    background: linear-gradient(135deg, var(--monitor-secondary), #5a6268);
+    color: white;
+}
+
+[data-theme="dark"] .metric-card {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .metric-card:hover {
+    background-color: var(--bg-hover);
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .metric-card .metric-value {
+    color: var(--monitor-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .auto-refresh {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+/* Monitor Services Page Specific - DIPERKUAT UNTUK ANGKA */
+[data-theme="dark"] .monitor-service-card {
+    background-color: var(--monitor-service-card);
+    border: 1px solid var(--monitor-service-border);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .monitor-service-card .card-header {
+    background-color: var(--monitor-service-header);
+    border-bottom: 1px solid var(--monitor-service-border);
+}
+
+[data-theme="dark"] .monitor-service-badge.online {
+    background-color: var(--monitor-service-badge-online);
+    color: white;
+}
+
+[data-theme="dark"] .monitor-service-badge.offline {
+    background-color: var(--monitor-service-badge-offline);
+    color: white;
+}
+
+[data-theme="dark"] .monitor-service-table {
+    background-color: var(--monitor-service-table);
+}
+
+[data-theme="dark"] .monitor-service-table td .number,
+[data-theme="dark"] .monitor-service-table td .count,
+[data-theme="dark"] .monitor-service-table td .total {
+    color: var(--monitor-service-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .monitor-service-pre {
+    background-color: var(--monitor-service-pre);
+    border: 1px solid var(--border-color);
+    color: var(--monitor-service-pre-text);
+}
+
+[data-theme="dark"] .border-start.border-success {
+    border-left-color: var(--monitor-success) !important;
+}
+
+[data-theme="dark"] .border-start.border-danger {
+    border-left-color: var(--monitor-danger) !important;
+}
+
+/* ========== VALIDATION STYLES ========== */
+[data-theme="dark"] .validation-feedback.text-success {
+    color: var(--valid-success);
+}
+
+[data-theme="dark"] .validation-feedback.text-warning {
+    color: var(--valid-warning);
+}
+
+[data-theme="dark"] .validation-feedback.text-danger {
+    color: var(--valid-error);
+}
+
+[data-theme="dark"] .validation-feedback i {
+    color: inherit;
+}
+
+[data-theme="dark"] .validation-loading {
+    color: var(--info-color);
+}
+
+[data-theme="dark"] .is-valid {
+    border-color: var(--valid-success);
+}
+
+[data-theme="dark"] .is-invalid {
+    border-color: var(--valid-error);
+}
+
+/* ========== LOGS PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .logs-container {
+    background-color: var(--bg-logs);
+}
+
+[data-theme="dark"] .log-stats-card {
+    background-color: var(--log-stats-card);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .log-stats-card:hover {
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .log-stats-card .log-stats-number {
+    color: var(--log-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .log-entry {
+    border-left: 4px solid transparent;
+    transition: all 0.2s ease;
+}
+
+[data-theme="dark"] .log-entry:hover {
+    background-color: var(--table-hover);
+}
+
+[data-theme="dark"] .log-entry-CREATE {
+    border-left-color: var(--log-entry-CREATE);
+}
+
+[data-theme="dark"] .log-entry-UPDATE {
+    border-left-color: var(--log-entry-UPDATE);
+}
+
+[data-theme="dark"] .log-entry-DELETE {
+    border-left-color: var(--log-entry-DELETE);
+}
+
+[data-theme="dark"] .log-entry-LOGIN {
+    border-left-color: var(--log-entry-LOGIN);
+}
+
+[data-theme="dark"] .log-entry-LOGIN_FAILED {
+    border-left-color: var(--log-entry-LOGIN_FAILED);
+}
+
+[data-theme="dark"] .log-entry-LOGOUT {
+    border-left-color: var(--log-entry-LOGOUT);
+}
+
+[data-theme="dark"] .badge-action {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 0.75rem;
+}
+
+[data-theme="dark"] .filter-card {
+    background-color: var(--log-filter-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .timestamp {
+    font-family: 'Consolas', monospace;
+    font-size: 0.85rem;
+    color: var(--log-timestamp);
+}
+
+[data-theme="dark"] .json-pretty {
+    background-color: var(--log-json-pretty);
+    padding: 1rem;
+    border-radius: 8px;
+    font-family: 'Consolas', monospace;
+    font-size: 0.85rem;
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .json-pretty .key {
+    color: var(--log-json-key);
+}
+
+[data-theme="dark"] .json-pretty .string {
+    color: var(--log-json-string);
+}
+
+[data-theme="dark"] .json-pretty .number {
+    color: var(--log-json-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .json-pretty .boolean {
+    color: var(--log-json-boolean);
+}
+
+[data-theme="dark"] .json-pretty .null {
+    color: var(--log-json-null);
+}
+
+[data-theme="dark"] .activity-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* ========== REGISTER PAGE ========== */
+[data-theme="dark"] .register-page {
+    background-color: var(--register-bg);
+}
+
+[data-theme="dark"] .register-card {
+    background-color: var(--register-card);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-lg);
+}
+
+[data-theme="dark"] .register-header {
+    background: var(--register-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .register-header h3,
+[data-theme="dark"] .register-header p {
+    color: white;
+}
+
+[data-theme="dark"] .register-footer {
+    background-color: var(--register-footer);
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .credentials {
+    background-color: var(--register-credentials-bg);
+    border-left: 4px solid var(--register-credentials-border);
+    border-radius: 0 5px 5px 0;
+}
+
+[data-theme="dark"] .credential-box {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .credential-item {
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .credential-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .credential-value {
+    color: var(--success-color);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .btn-register {
+    background: var(--register-header);
+    color: white;
+}
+
+[data-theme="dark"] .btn-register:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(40, 167, 69, 0.3);
+}
+
+/* ========== GURU INDEX PAGE ========== */
+[data-theme="dark"] .guru-index-page {
+    background-color: var(--bg-guru-index);
+}
+
+/* ========== GURU MENU PAGE ========== */
+[data-theme="dark"] .guru-menu-container {
+    background-color: var(--guru-menu-bg);
+}
+
+[data-theme="dark"] .guru-menu-card {
+    background-color: var(--guru-menu-card);
+    border: 1px solid var(--guru-menu-border);
+    box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .guru-menu-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-5px);
+}
+
+[data-theme="dark"] .guru-menu-card .card-title {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .guru-menu-card .card-text {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .icon-circle-lg {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--guru-menu-icon-circle);
+}
+
+[data-theme="dark"] .icon-circle-lg.bg-primary {
+    background-color: var(--guru-menu-icon-bg-primary) !important;
+}
+
+[data-theme="dark"] .icon-circle-lg.bg-success {
+    background-color: var(--guru-menu-icon-bg-success) !important;
+}
+
+[data-theme="dark"] .icon-circle-lg.bg-info {
+    background-color: var(--guru-menu-icon-bg-info) !important;
+}
+
+[data-theme="dark"] .hover-lift {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+[data-theme="dark"] .hover-lift:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg) !important;
+}
+
+/* ========== GURU NAVIGATION ========== */
+[data-theme="dark"] .guru-nav-container {
+    background-color: var(--guru-nav-bg);
+    border: 1px solid var(--guru-nav-border);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+[data-theme="dark"] .guru-nav-btn {
+    background-color: var(--guru-nav-btn);
+    border: 1px solid var(--guru-nav-border);
+    color: var(--guru-nav-text);
+    transition: all 0.2s ease;
+}
+
+[data-theme="dark"] .guru-nav-btn:hover {
+    background-color: var(--guru-nav-btn-hover);
+    border-color: var(--primary-color);
+}
+
+[data-theme="dark"] .guru-nav-btn i {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .guru-nav-btn small {
+    color: var(--guru-nav-text-muted);
+}
+
+[data-theme="dark"] .guru-nav-btn:hover small {
+    color: var(--guru-nav-text);
+}
+
+/* ========== USER MESSAGES PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .user-messages-container {
+    background-color: var(--user-messages-bg);
+}
+
+[data-theme="dark"] .user-messages-card {
+    background-color: var(--user-messages-card);
+    border: 1px solid var(--user-messages-border);
+    border-radius: 12px;
+    box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .user-messages-card:hover {
+    box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .stat-card-primary {
+    background-color: var(--user-messages-stat-primary);
+    color: var(--user-messages-stat-text);
+}
+
+[data-theme="dark"] .stat-card-primary .stat-number {
+    color: white;
+    font-weight: 700;
+}
+
+[data-theme="dark"] .stat-card-warning {
+    background-color: var(--user-messages-stat-warning);
+    color: var(--user-messages-stat-text);
+}
+
+[data-theme="dark"] .stat-card-warning .stat-number {
+    color: black;
+    font-weight: 700;
+}
+
+[data-theme="dark"] .stat-card-success {
+    background-color: var(--user-messages-stat-success);
+    color: var(--user-messages-stat-text);
+}
+
+[data-theme="dark"] .stat-card-success .stat-number {
+    color: white;
+    font-weight: 700;
+}
+
+[data-theme="dark"] .stat-card-danger {
+    background-color: var(--user-messages-stat-danger);
+    color: var(--user-messages-stat-text);
+}
+
+[data-theme="dark"] .stat-card-danger .stat-number {
+    color: white;
+    font-weight: 700;
+}
+
+[data-theme="dark"] .stat-card .text-white-50 {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+[data-theme="dark"] .user-messages-filter-card {
+    background-color: var(--user-messages-filter-card);
+    border: 1px solid var(--user-messages-border);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .user-messages-table-header {
+    background-color: var(--user-messages-table-header);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .user-messages-table-header .badge {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .user-messages-table-header .badge .badge-number {
+    color: var(--badge-number);
+}
+
+[data-theme="dark"] .user-messages-pagination {
+    background-color: var(--user-messages-pagination);
+}
+
+[data-theme="dark"] .user-messages-pagination .page-link .page-number {
+    color: var(--user-messages-number);
+}
+
+[data-theme="dark"] .user-messages-pagination .active .page-link .page-number {
+    color: white;
+}
+
+/* ========== EXPORT PREVIEW - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .export-preview-container {
+    background-color: var(--export-preview-bg);
+}
+
+[data-theme="dark"] .export-preview-card {
+    background-color: var(--export-preview-card);
+    border: 1px solid var(--export-preview-border);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+[data-theme="dark"] .export-preview-stats {
+    background-color: var(--export-preview-stats);
+    border: 1px solid var(--export-preview-border);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+[data-theme="dark"] .export-preview-stats .stat-number {
+    color: var(--export-preview-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .export-preview-monthly {
+    background-color: var(--export-preview-monthly);
+    border: 1px solid var(--export-preview-border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+[data-theme="dark"] .export-preview-monthly table td .number {
+    color: var(--export-preview-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .export-preview-period {
+    color: var(--export-preview-period);
+    font-size: 0.9rem;
+}
+
+[data-theme="dark"] .export-preview-guru {
+    color: var(--text-primary);
+    font-weight: bold;
+}
+
+/* ========== TEST SERVICES PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .test-services-container {
+    background-color: var(--test-services-bg);
+    font-family: monospace;
+    padding: 20px;
+}
+
+[data-theme="dark"] .test-services-card {
+    background-color: var(--test-services-card);
+    border: 1px solid var(--test-services-border);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .test-services-section {
+    background-color: var(--test-services-section);
+    border-bottom: 1px solid var(--test-services-section-border);
+    padding: 15px 0;
+    margin-bottom: 20px;
+}
+
+[data-theme="dark"] .test-services-section h2 {
+    color: var(--text-primary);
+    margin-bottom: 15px;
+}
+
+[data-theme="dark"] .test-services-success {
+    color: var(--test-services-success);
+}
+
+[data-theme="dark"] .test-services-error {
+    color: var(--test-services-error);
+}
+
+[data-theme="dark"] .test-services-warning {
+    color: var(--test-services-warning);
+}
+
+[data-theme="dark"] .test-services-pre {
+    background-color: var(--test-services-pre);
+    border: 1px solid var(--test-services-border);
+    border-radius: 5px;
+    padding: 10px;
+    color: var(--test-services-pre-text);
+    overflow-x: auto;
+    font-family: monospace;
+    font-size: 12px;
+}
+
+[data-theme="dark"] .test-services-pre .number {
+    color: var(--test-services-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .test-services-pre.success {
+    color: var(--test-services-success);
+}
+
+[data-theme="dark"] .test-services-pre.error {
+    color: var(--test-services-error);
+}
+
+/* ========== INDEX PAGE - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .index-page {
+    background-color: var(--index-bg);
+}
+
+[data-theme="dark"] .header {
+    background-color: var(--index-header);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+[data-theme="dark"] .logo-text h1 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .logo-text p {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .auth-buttons .btn-auth {
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .auth-buttons .btn-login {
+    background: var(--primary-color);
+    color: white;
+}
+
+[data-theme="dark"] .auth-buttons .btn-login:hover {
+    background: var(--primary-dark);
+}
+
+[data-theme="dark"] .auth-buttons .btn-register {
+    background: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .auth-buttons .btn-register:hover {
+    background: var(--success-dark);
+}
+
+[data-theme="dark"] .auth-buttons .btn-logout {
+    background: var(--danger-color);
+    color: white;
+}
+
+[data-theme="dark"] .auth-buttons .btn-logout:hover {
+    background: var(--danger-dark);
+}
+
+[data-theme="dark"] .badge-fonnte {
+    background: var(--index-badge-fonnte);
+    color: white;
+    border: none;
+}
+
+[data-theme="dark"] .badge-mailersend {
+    background: var(--index-badge-mailersend);
+    color: white;
+    border: none;
+}
+
+[data-theme="dark"] .hero-section {
+    background-color: var(--index-hero);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+[data-theme="dark"] .hero-content {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .hero-content .hero-title {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .hero-content .hero-text {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .hero-image {
+    filter: brightness(0.9) contrast(1.1);
+    background-color: var(--index-hero-image-bg);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+[data-theme="dark"] .qr-container {
+    background: var(--index-qr-bg);
+    border: 1px solid var(--index-qr-border);
+    box-shadow: 0 15px 25px rgba(0,0,0,0.3);
+}
+
+[data-theme="dark"] .qr-label {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .qr-label i {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] #qrcode canvas {
+    border: 5px solid var(--bg-secondary);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}
+
+[data-theme="dark"] .service-info {
+    background-color: var(--index-service-info);
+    border-left: 4px solid var(--primary-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .service-info .badge.bg-secondary {
+    background-color: var(--bg-tertiary) !important;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .service-info .badge.bg-secondary .badge-number {
+    color: var(--badge-number);
+}
+
+[data-theme="dark"] .service-info .service-badge.mailersend {
+    background: var(--index-badge-mailersend);
+}
+
+[data-theme="dark"] .service-info .service-badge.fonnte {
+    background: var(--index-badge-fonnte);
+}
+
+[data-theme="dark"] .service-info small.text-muted {
+    color: var(--text-muted) !important;
+}
+
+[data-theme="dark"] .service-info small.text-muted i {
+    color: var(--success-color);
+}
+
+[data-theme="dark"] .info-box {
+    background-color: var(--index-info-box);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .info-box i {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .alert-info {
+    background-color: rgba(52, 152, 219, 0.15);
+    border-color: var(--info-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .alert-info .badge.bg-success {
+    background-color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .alert-info .badge.bg-warning {
+    background-color: var(--warning-color) !important;
+    color: black;
+}
+
+[data-theme="dark"] .alert-info .btn-close {
+    filter: invert(1);
+}
+
+[data-theme="dark"] .index-form-card {
+    background-color: var(--index-form-card);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .index-form-card h2 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .index-form-card h2 i {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .btn-refresh,
+[data-theme="dark"] .refresh-btn {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+}
+
+[data-theme="dark"] .btn-refresh:hover,
+[data-theme="dark"] .refresh-btn:hover {
+    background-color: var(--bg-hover);
+    border-color: var(--primary-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .btn-refresh i,
+[data-theme="dark"] .refresh-btn i {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .btn-primary {
+    background: linear-gradient(145deg, var(--primary-color), var(--primary-dark));
+    border: none;
+}
+
+[data-theme="dark"] .btn-primary:hover {
+    background: linear-gradient(145deg, var(--primary-dark), var(--primary-color));
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(77, 158, 255, 0.3);
+}
+
+[data-theme="dark"] .btn-primary i {
+    color: white;
+}
+
+[data-theme="dark"] .form-group label {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .form-group label.required:after {
+    color: var(--danger-color);
+}
+
+[data-theme="dark"] .form-group .text-muted {
+    color: var(--text-muted) !important;
+}
+
+[data-theme="dark"] optgroup {
+    color: var(--index-optgroup);
+    font-weight: bold;
+}
+
+[data-theme="dark"] .footer small {
+    color: var(--text-muted);
+}
+
+/* ========== RESPONSE PAGE ========== */
+[data-theme="dark"] .response-page {
+    background-color: var(--response-bg);
+}
+
+[data-theme="dark"] .config-info-panel {
+    background-color: var(--response-config-panel);
+    border-left: 4px solid var(--warning-color);
+    border-radius: 8px;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .device-status {
+    background-color: var(--response-device-status);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+}
+
+[data-theme="dark"] .device-status h6 {
+    color: var(--success-color);
+}
+
+[data-theme="dark"] .status-badge.connected {
+    background-color: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .mailersend-info {
+    background: var(--response-mailersend-info);
+    color: white;
+}
+
+[data-theme="dark"] .quote-badge {
+    background-color: var(--response-quote-badge);
+    color: white;
+}
+
+[data-theme="dark"] .direct-badge {
+    background-color: var(--success-color);
+    color: white;
+}
+
+[data-theme="dark"] .log-link {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .log-link:hover {
+    color: var(--primary-color);
+}
+
+/* ========== EDIT USER PAGE ========== */
+[data-theme="dark"] .edit-user-container {
+    background-color: var(--edit-user-bg);
+}
+
+[data-theme="dark"] .edit-user-header {
+    background-color: var(--edit-user-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .edit-user-panel {
+    background-color: var(--edit-user-panel);
+    border: 1px solid var(--edit-user-panel-border);
+    border-left: 4px solid var(--primary-color);
+}
+
+[data-theme="dark"] .edit-user-info-card {
+    background-color: var(--edit-user-info-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .edit-user-info-item {
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .edit-user-info-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .edit-user-info-value {
+    color: var(--text-primary);
+}
+
+/* ========== FORGOT PASSWORD PAGE ========== */
+[data-theme="dark"] .forgot-password-container {
+    background: var(--forgot-password-bg);
+}
+
+[data-theme="dark"] .forgot-card {
+    background-color: var(--forgot-password-card);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+[data-theme="dark"] .forgot-header {
+    background: var(--forgot-password-header);
+    color: white;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .forgot-header h1,
+[data-theme="dark"] .forgot-header p {
+    color: white;
+}
+
+[data-theme="dark"] .step-circle {
+    background-color: var(--forgot-password-step-circle);
+    color: var(--text-muted);
+    border: 2px solid var(--border-color);
+}
+
+[data-theme="dark"] .step-circle .step-number {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .step-circle.active {
+    background-color: var(--forgot-password-step-circle-active);
+    color: white;
+    border-color: var(--forgot-password-step-circle-active);
+    box-shadow: 0 5px 15px rgba(77, 158, 255, 0.4);
+}
+
+[data-theme="dark"] .step-circle.active .step-number {
+    color: white;
+}
+
+[data-theme="dark"] .step-circle.completed {
+    background-color: var(--forgot-password-step-circle-completed);
+    color: white;
+    border-color: var(--forgot-password-step-circle-completed);
+}
+
+[data-theme="dark"] .step-circle.completed .step-number {
+    color: white;
+}
+
+[data-theme="dark"] .step-line {
+    background-color: var(--forgot-password-step-line);
+}
+
+[data-theme="dark"] .step-line.active {
+    background-color: var(--forgot-password-step-circle-active);
+}
+
+[data-theme="dark"] .step-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .user-info-card {
+    background-color: var(--forgot-password-user-info);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+}
+
+[data-theme="dark"] .user-info-item {
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .user-info-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .user-info-value {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .password-strength .progress {
+    background-color: var(--bg-tertiary);
+}
+
+/* ========== COMMON STYLES - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--common-loading-overlay);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+[data-theme="dark"] .loading-content {
+    background: var(--common-loading-content);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .loading-message {
+    margin-top: 1rem;
+    font-weight: 500;
+    color: var(--common-loading-message);
+}
+
+[data-theme="dark"] .message-row {
+    transition: all 0.3s ease;
+}
+
+[data-theme="dark"] .message-row:hover {
+    background-color: var(--table-hover) !important;
+}
+
+[data-theme="dark"] .urgency-expired {
+    border-left: 4px solid var(--common-urgency-expired) !important;
+}
+
+[data-theme="dark"] .urgency-urgent {
+    border-left: 4px solid var(--common-urgency-urgent) !important;
+}
+
+[data-theme="dark"] .urgency-normal {
+    border-left: 4px solid var(--common-urgency-normal) !important;
+}
+
+[data-theme="dark"] .timeline {
+    position: relative;
+    padding-left: 2rem;
+}
+
+[data-theme="dark"] .timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--common-timeline-before);
+}
+
+[data-theme="dark"] .timeline-item {
+    position: relative;
+    padding-bottom: 1.5rem;
+}
+
+[data-theme="dark"] .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -1.2rem;
+    top: 0.5rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--secondary-color);
+    z-index: 1;
+}
+
+[data-theme="dark"] .timeline-item.success::before {
+    background: var(--common-timeline-item-before-success);
+}
+
+[data-theme="dark"] .timeline-item.danger::before {
+    background: var(--common-timeline-item-before-danger);
+}
+
+[data-theme="dark"] .timeline-item.warning::before {
+    background: var(--common-timeline-item-before-warning);
+}
+
+[data-theme="dark"] .timeline-item.info::before {
+    background: var(--common-timeline-item-before-info);
+}
+
+/* ========== API HANDLER SPECIFIC ========== */
+[data-theme="dark"] .api-handler-container {
+    background-color: var(--api-handler-bg);
+    border: 1px solid var(--api-handler-border);
+    border-radius: 8px;
+}
+
+[data-theme="dark"] .api-handler-header {
+    background-color: var(--api-handler-header);
+    border-bottom: 1px solid var(--api-handler-border);
+    padding: 1rem;
+}
+
+[data-theme="dark"] .api-handler-request {
+    background-color: var(--api-handler-request);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-family: monospace;
+}
+
+[data-theme="dark"] .api-handler-response {
+    background-color: var(--api-handler-response);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--success-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-family: monospace;
+}
+
+[data-theme="dark"] .api-handler-error {
+    background-color: var(--api-handler-error);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--danger-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-family: monospace;
+}
+
+/* ========== EXPORT MODAL SPECIFIC - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .export-modal .modal-content {
+    background-color: var(--export-modal-bg);
+    border: 1px solid var(--export-modal-border);
+}
+
+[data-theme="dark"] .export-modal .modal-header {
+    background-color: var(--export-modal-header);
+    border-bottom: 1px solid var(--export-modal-border);
+}
+
+[data-theme="dark"] .export-modal .modal-footer {
+    border-top: 1px solid var(--export-modal-border);
+}
+
+[data-theme="dark"] .export-modal .input-group-text {
+    background-color: var(--export-modal-input-group);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .export-modal .card.bg-light {
+    background-color: var(--export-modal-card) !important;
+    border: 1px dashed var(--export-modal-card-border);
+}
+
+[data-theme="dark"] .export-modal .card.bg-light .card-title {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .export-modal .table-bordered {
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .export-modal .table thead th {
+    background-color: var(--bg-secondary);
+    border-color: var(--border-color);
+}
+
+[data-theme="dark"] .export-modal .table td {
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .export-modal .table td .number,
+[data-theme="dark"] .export-modal .table td .count,
+[data-theme="dark"] .export-modal .table td .total {
+    color: var(--export-modal-number);
+    font-weight: 700;
+}
+
+/* ========== CSRF SECURITY SPECIFIC ========== */
+[data-theme="dark"] .csrf-panel {
+    background-color: var(--csrf-panel);
+    border: 1px solid var(--csrf-border);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+[data-theme="dark"] .csrf-token-display {
+    background-color: var(--csrf-token-display);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-family: monospace;
+    color: var(--csrf-token-text);
+    overflow-x: auto;
+}
+
+/* ========== CRON JOBS SPECIFIC - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .cron-container {
+    background-color: var(--cron-bg);
+    border: 1px solid var(--cron-border);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+[data-theme="dark"] .cron-header {
+    background-color: var(--cron-header);
+    border-bottom: 1px solid var(--cron-border);
+    padding: 1rem;
+    margin: -1rem -1rem 1rem -1rem;
+    border-radius: 8px 8px 0 0;
+}
+
+[data-theme="dark"] .cron-log {
+    background-color: var(--cron-log);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+[data-theme="dark"] .cron-log-entry {
+    margin-bottom: 5px;
+    padding: 3px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    color: var(--cron-log-text);
+}
+
+[data-theme="dark"] .cron-log-entry .number,
+[data-theme="dark"] .cron-log-entry .count,
+[data-theme="dark"] .cron-log-entry .total {
+    color: var(--cron-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .cron-log-success {
+    color: var(--cron-log-success);
+}
+
+[data-theme="dark"] .cron-log-error {
+    color: var(--cron-log-error);
+}
+
+[data-theme="dark"] .cron-log-warning {
+    color: var(--cron-log-warning);
+}
+
+[data-theme="dark"] .cron-log-info {
+    color: var(--cron-log-info);
+}
+
+/* ========== LOADING OVERLAY ========== */
+[data-theme="dark"] .loading-overlay {
+    background-color: var(--loading-overlay-bg);
+}
+
+[data-theme="dark"] .spinner-border {
+    color: var(--loading-spinner);
+}
+
+[data-theme="dark"] .spinner-grow {
+    color: var(--loading-spinner);
+}
+
+[data-theme="dark"] .loading-message {
+    color: var(--loading-text);
+}
+
+/* ========== TOAST CONTAINER ========== */
+[data-theme="dark"] .toast-container {
+    z-index: 11;
+}
+
+/* ========== CUSTOM COMPONENTS ========== */
+
+/* Widget Icon */
+[data-theme="dark"] .widget-icon {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .widget-icon.bg-primary-light {
+    background-color: rgba(77, 158, 255, 0.15);
+}
+
+[data-theme="dark"] .widget-icon.bg-success-light {
+    background-color: rgba(46, 204, 113, 0.15);
+}
+
+[data-theme="dark"] .widget-icon.bg-warning-light {
+    background-color: rgba(243, 156, 18, 0.15);
+}
+
+[data-theme="dark"] .widget-icon.bg-info-light {
+    background-color: rgba(52, 152, 219, 0.15);
+}
+
+[data-theme="dark"] .widget-icon.bg-danger-light {
+    background-color: rgba(231, 76, 60, 0.15);
+}
+
+/* Avatar */
+[data-theme="dark"] .avatar {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .avatar.bg-primary {
+    background-color: rgba(77, 158, 255, 0.2) !important;
+}
+
+[data-theme="dark"] .avatar.bg-warning {
+    background-color: rgba(243, 156, 18, 0.2) !important;
+}
+
+[data-theme="dark"] .avatar.bg-success {
+    background-color: rgba(46, 204, 113, 0.2) !important;
+}
+
+[data-theme="dark"] .avatar.bg-info {
+    background-color: rgba(52, 152, 219, 0.2) !important;
+}
+
+/* Icon Circle */
+[data-theme="dark"] .icon-circle {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .icon-circle-sm {
+    background-color: var(--bg-tertiary);
+}
+
+/* Template Buttons */
+[data-theme="dark"] .template-btn {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .template-btn:hover {
+    background-color: var(--bg-hover);
+    border-color: var(--border-focus);
+}
+
+[data-theme="dark"] .template-btn .badge {
+    background-color: var(--bg-secondary);
+}
+
+[data-theme="dark"] .template-btn .badge .badge-number {
+    color: var(--badge-number);
+}
+
+/* Quick Action Forms */
+[data-theme="dark"] .quick-action-form button {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .quick-action-form button:hover {
+    background-color: var(--bg-hover);
+}
+
+/* Mailersend Badge */
+[data-theme="dark"] .mailersend-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+/* Fonnte Badge */
+[data-theme="dark"] .fonnte-badge {
+    background: linear-gradient(135deg, #00c851 0%, #007e33 100%);
+    color: white;
+}
+
+/* Settings Badge */
+[data-theme="dark"] .settings-badge {
+    background: var(--primary-color);
+    color: white;
+}
+
+/* Status Badge */
+[data-theme="dark"] .status-badge {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .status-badge .badge-number {
+    color: var(--badge-number);
+}
+
+/* Priority Badge */
+[data-theme="dark"] .priority-badge {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .priority-badge .badge-number {
+    color: var(--badge-number);
+}
+
+/* Border Left for Responses */
+[data-theme="dark"] .border-start.border-3.border-primary {
+    border-left-color: var(--primary-color) !important;
+}
+
+[data-theme="dark"] .border-start.border-3.border-success {
+    border-left-color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .border-start.border-3.border-danger {
+    border-left-color: var(--danger-color) !important;
+}
+
+[data-theme="dark"] .border-start.border-3.border-warning {
+    border-left-color: var(--warning-color) !important;
+}
+
+[data-theme="dark"] .border-start.border-3.border-info {
+    border-left-color: var(--info-color) !important;
+}
+
+/* ========== MESSAGES LIST ========== */
+[data-theme="dark"] .message-item {
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .message-item:hover {
+    background-color: var(--bg-hover);
+}
+
+[data-theme="dark"] .message-preview {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .message-meta {
+    color: var(--text-muted);
+}
+
+/* ========== FILTER CARD ========== */
+[data-theme="dark"] .filter-card {
+    background-color: var(--bg-secondary);
+}
+
+[data-theme="dark"] .filter-section {
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* ========== RESPONSE SECTION ========== */
+[data-theme="dark"] .response-item {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+[data-theme="dark"] .response-header {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+[data-theme="dark"] .response-body {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .response-meta {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+/* ========== STATISTICS CARDS ========== */
+[data-theme="dark"] .stat-card {
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
+}
+
+[data-theme="dark"] .stat-value {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+[data-theme="dark"] .stat-label {
+    color: var(--text-secondary);
+}
+
+[data-theme="dark"] .stat-icon {
+    opacity: 0.8;
+}
+
+/* ========== RECOMMENDATIONS ========== */
+[data-theme="dark"] .recommendations .alert {
+    margin-bottom: 0.5rem;
+}
+
+[data-theme="dark"] .recommendations h6 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .recommendations small {
+    color: var(--text-secondary);
+}
+
+/* ========== BORDER ========== */
+[data-theme="dark"] .border {
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .border-top {
+    border-top-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .border-bottom {
+    border-bottom-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .border-start {
+    border-left-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .border-end {
+    border-right-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .border-primary {
+    border-color: var(--primary-color) !important;
+}
+
+[data-theme="dark"] .border-success {
+    border-color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .border-danger {
+    border-color: var(--danger-color) !important;
+}
+
+[data-theme="dark"] .border-warning {
+    border-color: var(--warning-color) !important;
+}
+
+[data-theme="dark"] .border-info {
+    border-color: var(--info-color) !important;
+}
+
+/* ========== BACKGROUND UTILITIES ========== */
+[data-theme="dark"] .bg-light {
+    background-color: var(--bg-tertiary) !important;
+}
+
+[data-theme="dark"] .bg-white {
+    background-color: var(--bg-secondary) !important;
+}
+
+[data-theme="dark"] .bg-primary {
+    background-color: var(--primary-color) !important;
+}
+
+[data-theme="dark"] .bg-success {
+    background-color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .bg-danger {
+    background-color: var(--danger-color) !important;
+}
+
+[data-theme="dark"] .bg-warning {
+    background-color: var(--warning-color) !important;
+}
+
+[data-theme="dark"] .bg-info {
+    background-color: var(--info-color) !important;
+}
+
+[data-theme="dark"] .bg-dark {
+    background-color: #000000 !important;
+}
+
+[data-theme="dark"] .bg-transparent {
+    background-color: transparent !important;
+}
+
+/* ========== TEXT UTILITIES - DIPERKUAT UNTUK ANGKA ========== */
+[data-theme="dark"] .text-muted {
+    color: var(--text-muted) !important;
+}
+
+[data-theme="dark"] .text-primary {
+    color: var(--primary-color) !important;
+}
+
+[data-theme="dark"] .text-success {
+    color: var(--success-color) !important;
+}
+
+[data-theme="dark"] .text-danger {
+    color: var(--danger-color) !important;
+}
+
+[data-theme="dark"] .text-warning {
+    color: var(--warning-color) !important;
+}
+
+[data-theme="dark"] .text-info {
+    color: var(--info-color) !important;
+}
+
+[data-theme="dark"] .text-dark {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .text-light {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .text-white {
+    color: white !important;
+}
+
+[data-theme="dark"] .text-number {
+    color: var(--text-number) !important;
+    font-weight: 700;
+}
+
+[data-theme="dark"] .text-number-bold {
+    color: var(--text-number-bold) !important;
+    font-weight: 700;
+}
+
+/* ========== SHADOWS ========== */
+[data-theme="dark"] .shadow-sm {
+    box-shadow: var(--shadow-sm) !important;
+}
+
+[data-theme="dark"] .shadow {
+    box-shadow: var(--shadow-md) !important;
+}
+
+[data-theme="dark"] .shadow-lg {
+    box-shadow: var(--shadow-lg) !important;
+}
+
+/* ========== SCROLLBAR ========== */
+[data-theme="dark"] ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+    background: var(--bg-tertiary);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 5px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary-color);
+}
+
+/* ========== CODE BLOCKS ========== */
+[data-theme="dark"] pre,
+[data-theme="dark"] code {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+[data-theme="dark"] code.language-php {
+    color: #79b6f2;
+}
+
+[data-theme="dark"] code.language-sql {
+    color: #f2b179;
+}
+
+[data-theme="dark"] code.language-js {
+    color: #f2f279;
+}
+
+[data-theme="dark"] code.language-html {
+    color: #79f2b6;
+}
+
+[data-theme="dark"] code.language-json {
+    color: var(--api-json-key);
+}
+
+[data-theme="dark"] code.language-json .number {
+    color: var(--api-json-number);
+    font-weight: 700;
+}
+
+/* ========== SWEET ALERT OVERRIDES ========== */
+[data-theme="dark"] .swal2-popup {
+    background-color: var(--bg-secondary) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .swal2-title {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .swal2-html-container {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .swal2-html-container .number,
+[data-theme="dark"] .swal2-html-container .count,
+[data-theme="dark"] .swal2-html-container .total {
+    color: var(--text-number);
+    font-weight: 700;
+}
+
+[data-theme="dark"] .swal2-confirm {
+    background-color: var(--primary-color) !important;
+}
+
+[data-theme="dark"] .swal2-cancel {
+    background-color: var(--bg-tertiary) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--border-color) !important;
+}
+
+[data-theme="dark"] .swal2-icon {
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .swal2-icon-content {
+    color: var(--text-primary) !important;
+}
+
+/* ========== PRINT STYLES ========== */
+@media print {
+    [data-theme="dark"] body {
+        background-color: white;
+        color: black;
+    }
+    
+    [data-theme="dark"] .card {
+        border: 1px solid #ddd;
+        box-shadow: none;
+    }
+    
+    [data-theme="dark"] .table {
+        color: black;
+    }
+    
+    [data-theme="dark"] .badge {
+        background-color: #f8f9fa !important;
+        color: black !important;
+        border: 1px solid #dee2e6;
+    }
+    
+    [data-theme="dark"] .pdf-preview {
+        background-color: white;
+        color: black;
+    }
+    
+    [data-theme="dark"] .pdf-header {
+        background-color: #f8f9fa;
+        color: black;
+    }
+    
+    [data-theme="dark"] .pdf-table th {
+        background-color: #f8f9fa;
+        color: black;
+    }
+    
+    [data-theme="dark"] .footer {
+        background-color: #f8f9fa;
+        color: black;
+    }
+    
+    [data-theme="dark"] .guru-menu-card {
+        border: 1px solid #ddd;
+    }
+    
+    [data-theme="dark"] .user-messages-card {
+        border: 1px solid #ddd;
+    }
+    
+    [data-theme="dark"] .test-services-pre {
+        color: black;
+        background-color: #f4f4f4;
+    }
+    
+    [data-theme="dark"] .number,
+    [data-theme="dark"] .count,
+    [data-theme="dark"] .total,
+    [data-theme="dark"] .badge-number,
+    [data-theme="dark"] .stat-number {
+        color: black !important;
+        font-weight: 700;
+    }
+}
+
+/* ========== RESPONSIVE ADJUSTMENTS ========== */
+@media (max-width: 768px) {
+    [data-theme="dark"] .table-responsive {
+        border-color: var(--border-color);
+    }
+    
+    [data-theme="dark"] .card-header {
+        background-color: var(--bg-tertiary);
+    }
+    
+    [data-theme="dark"] .navbar-collapse {
+        background-color: var(--bg-secondary);
+        border-top: 1px solid var(--border-color);
+    }
+    
+    [data-theme="dark"] .widget-icon {
+        width: 50px;
+        height: 50px;
+    }
+    
+    [data-theme="dark"] .widget-icon i {
+        font-size: 1.5rem;
+    }
+    
+    [data-theme="dark"] .user-stat-card {
+        margin-bottom: 10px;
+    }
+    
+    [data-theme="dark"] .pdf-preview {
+        overflow-x: auto;
+    }
+    
+    [data-theme="dark"] .login-card {
+        margin: 10px;
+    }
+    
+    [data-theme="dark"] .report-kpi-card {
+        margin-bottom: 10px;
+    }
+    
+    [data-theme="dark"] .analytics-kpi-card {
+        margin-bottom: 10px;
+    }
+    
+    [data-theme="dark"] .whatsapp-message-outgoing,
+    [data-theme="dark"] .whatsapp-message-incoming {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    [data-theme="dark"] .settings-nav-link {
+        padding: 0.75rem 1rem;
+    }
+    
+    [data-theme="dark"] .monitor-card {
+        margin-bottom: 15px;
+    }
+    
+    [data-theme="dark"] .quick-actions-menu {
+        right: 0;
+        min-width: 180px;
+    }
+    
+    [data-theme="dark"] .hero-section {
+        flex-direction: column;
+    }
+    
+    [data-theme="dark"] .qr-container {
+        width: 100%;
+    }
+    
+    [data-theme="dark"] .forgot-header {
+        padding: 20px;
+    }
+    
+    [data-theme="dark"] .step-line {
+        width: 20px;
+    }
+    
+    [data-theme="dark"] .step-circle {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+    
+    [data-theme="dark"] .nav-scroller {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    [data-theme="dark"] .nav-scroller .nav {
+        flex-wrap: nowrap;
+        width: max-content;
+    }
+    
+    [data-theme="dark"] .log-stats-card {
+        margin-bottom: 10px;
+    }
+    
+    [data-theme="dark"] .guru-menu-card {
+        margin-bottom: 15px;
+    }
+    
+    [data-theme="dark"] .guru-nav-btn {
+        margin-bottom: 10px;
+    }
+    
+    [data-theme="dark"] .stat-card {
+        margin-bottom: 15px;
+    }
+}
+
+/* ========== ANIMATIONS ========== */
+[data-theme="dark"] * {
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* ========== CUSTOM UTILITIES ========== */
+[data-theme="dark"] .cursor-pointer {
+    cursor: pointer;
+}
+
+[data-theme="dark"] .user-select-none {
+    user-select: none;
+}
+
+[data-theme="dark"] .opacity-50 {
+    opacity: 0.5;
+}
+
+[data-theme="dark"] .opacity-75 {
+    opacity: 0.75;
+}
+
+[data-theme="dark"] .fw-bold {
+    font-weight: 700;
+}
+
+[data-theme="dark"] .fw-semibold {
+    font-weight: 600;
+}
+
+[data-theme="dark"] .fw-normal {
+    font-weight: 400;
+}
+
+[data-theme="dark"] .fw-light {
+    font-weight: 300;
+}
+
+/* ========== FONTS ========== */
+[data-theme="dark"] .font-monospace {
+    font-family: 'Courier New', monospace;
+}
+
+[data-theme="dark"] .font-small {
+    font-size: 0.85rem;
+}
+
+[data-theme="dark"] .font-large {
+    font-size: 1.2rem;
+}
+
+/* ========== CONFIG SECTION ========== */
+[data-theme="dark"] .config-section {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+[data-theme="dark"] .config-title {
+    color: var(--primary-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+[data-theme="dark"] .config-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+[data-theme="dark"] .config-item:last-child {
+    border-bottom: none;
+}
+
+[data-theme="dark"] .config-label {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .config-value {
+    color: var(--text-primary);
+    font-family: monospace;
+}
+
+[data-theme="dark"] .config-value.api-key {
+    color: #ff6b6b;
+}
+
+[data-theme="dark"] .config-value.url {
+    color: #5dade2;
+}
+
+[data-theme="dark"] .config-value.db {
+    color: #2ecc71;
+}
+
+[data-theme="dark"] .config-value.number {
+    color: var(--text-number);
+    font-weight: 700;
+}
+
+/* ========== ERROR PAGES ========== */
+[data-theme="dark"] .error-page {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+}
+
+[data-theme="dark"] .error-code {
+    color: var(--primary-color);
+    font-size: 6rem;
+    font-weight: bold;
+    text-shadow: 0 0 20px rgba(77, 158, 255, 0.3);
+}
+
+[data-theme="dark"] .error-message {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .error-detail {
+    color: var(--text-muted);
+}
+
+[data-theme="dark"] .error-stack {
+    background-color: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    color: #ff6b6b;
+    font-family: monospace;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+[data-theme="dark"] .error-stack .number {
+    color: var(--text-number);
+    font-weight: 700;
+}
+
+/* ========== CUSTOM INDEX PAGE ELEMENTS ========== */
+
+/* Logo area */
+[data-theme="dark"] .logo {
+    background: linear-gradient(145deg, var(--primary-color), var(--primary-dark));
+    color: white;
+}
+
+[data-theme="dark"] .logo i {
+    color: white;
+}
+
+/* Auth buttons */
+[data-theme="dark"] .btn-auth {
+    border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .btn-login {
+    background: var(--primary-color);
+}
+
+[data-theme="dark"] .btn-login:hover {
+    background: var(--primary-dark);
+}
+
+[data-theme="dark"] .btn-register {
+    background: var(--success-color);
+}
+
+[data-theme="dark"] .btn-register:hover {
+    background: var(--success-dark);
+}
+
+[data-theme="dark"] .btn-logout {
+    background: var(--danger-color);
+}
+
+[data-theme="dark"] .btn-logout:hover {
+    background: var(--danger-dark);
+}
+
+/* Service badges in auth section */
+[data-theme="dark"] .badge-fonnte {
+    background: linear-gradient(145deg, #075e54, #128C7E);
+}
+
+[data-theme="dark"] .badge-mailersend {
+    background: linear-gradient(135deg, #5b3e8a, #764ba2);
+}
+
+/* Hero section */
+[data-theme="dark"] .hero-section {
+    background: var(--index-hero);
+}
+
+[data-theme="dark"] .hero-image {
+    filter: brightness(0.9) contrast(1.1);
+    background: var(--index-hero-image-bg);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+/* QR Code */
+[data-theme="dark"] #qrcode canvas {
+    border: 5px solid var(--bg-secondary);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
+
+[data-theme="dark"] .qr-container {
+    background: linear-gradient(145deg, var(--bg-tertiary), var(--bg-secondary));
+}
+
+/* Info box */
+[data-theme="dark"] .info-box {
+    background: var(--index-info-box);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .info-box i {
+    color: var(--primary-color);
+}
+
+/* Alert */
+[data-theme="dark"] .alert.alert-info {
+    background: rgba(52, 152, 219, 0.15);
+    border-color: var(--info-color);
+}
+
+[data-theme="dark"] .alert.alert-info .badge {
+    border: none;
+}
+
+[data-theme="dark"] .alert.alert-info .badge.bg-success {
+    background: var(--success-color) !important;
+}
+
+[data-theme="dark"] .alert.alert-info .badge.bg-warning {
+    background: var(--warning-color) !important;
+    color: black;
+}
+
+/* Form card */
+[data-theme="dark"] .card {
+    background: var(--index-form-card);
+}
+
+[data-theme="dark"] .card h2 {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .card h2 i {
+    color: var(--primary-color);
+}
+
+/* Form controls */
+[data-theme="dark"] select.form-control option {
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] select.form-control optgroup {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .checkbox-label {
+    color: var(--text-primary);
+}
+
+/* Footer */
+[data-theme="dark"] .footer {
+    background: transparent;
+    border-top: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .footer small {
+    color: var(--text-muted);
+}

@@ -1,0 +1,14 @@
+{
+    "api_token": "mlsn.7a4863017c865129ae7e7c08ca9902a7f714e0471233fab979e6a2522cc07c4d",
+    "domain": "test-r6ke4n1616ygon12.mlsender.net",
+    "domain_id": "eqvygm0pwkwl0p7w",
+    "from_email": "noreply@test-r6ke4n1616ygon12.mlsender.net",
+    "from_name": "SMKN 12 Jakarta - Notifikasi",
+    "smtp_server": "smtp.mailersend.net",
+    "smtp_username": "",
+    "smtp_password": "",
+    "smtp_port": 587,
+    "smtp_encryption": "tls",
+    "test_domain": "",
+    "is_active": 1
+}
