@@ -1,0 +1,384 @@
+[2026-02-14 18:01:19] ========== BACKGROUND PROCESS STARTED ==========
+[2026-02-14 18:01:19] Lock file: C:\xampp\htdocs\responsive-message-app\modules\guru/../../logs/notification_39_1771066877.lock
+[2026-02-14 18:01:19] Data from lock file: - Array
+(
+    [message_id] => 39
+    [response_id] => 20
+    [pengirim_email] => agung.senen3@gmail.com
+    [pengirim_phone] => 08129469754
+    [pengirim_nama] => Agung Wahono
+    [reference] => EXT20260214-12555
+    [status] => Disetujui
+    [catatan] => Terima kasih atas masukannya. Kami akan segera berkoordinasi dengan pihak terkait untuk perbaikan kurikulum yang ada
+    [guru_nama] => Dewi Lestari
+    [guru_type] => Guru_Kurikulum
+    [guru_id] => 5
+    [timestamp] => 1771066877
+)
+
+[2026-02-14 18:01:19] Database connected
+[2026-02-14 18:01:19] 
+>>> SENDING EMAIL to: agung.senen3@gmail.com
+[2026-02-14 18:01:19] sendEmailNotification: agung.senen3@gmail.com, EXT20260214-12555
+[2026-02-14 18:01:20] Email result: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [sent] => 1
+)
+
+[2026-02-14 18:01:20] ✓ EMAIL SENT SUCCESSFULLY
+[2026-02-14 18:01:20] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-14 18:01:20] 
+>>> SENDING WHATSAPP to: 08129469754
+[2026-02-14 18:01:20] sendWhatsAppNotification: 08129469754, EXT20260214-12555
+[2026-02-14 18:01:21] WhatsApp result: - Array
+(
+    [success] => 
+    [http_code] => 201
+    [response_data] => 
+    [sent] => 
+)
+
+[2026-02-14 18:01:21] ✗ WHATSAPP FAILED
+[2026-02-14 18:01:21] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-14 18:01:21] 
+============================================================
+[2026-02-14 18:01:21] BACKGROUND PROCESS COMPLETED
+[2026-02-14 18:01:21] RESULTS: - Array
+(
+    [email] => Array
+        (
+            [success] => 1
+            [sent] => 1
+            [method] => mailersend
+        )
+
+    [whatsapp] => Array
+        (
+            [success] => 
+            [sent] => 
+            [method] => whatsapp
+            [to] => 08129469754
+        )
+
+)
+
+[2026-02-14 18:01:21] ============================================================
+[2026-02-14 18:06:48] ========== BACKGROUND PROCESS STARTED ==========
+[2026-02-14 18:06:48] Lock file: C:\xampp\htdocs\responsive-message-app\modules\guru/../../logs/notification_40_1771067205.lock
+[2026-02-14 18:06:48] Data from lock file: - Array
+(
+    [message_id] => 40
+    [response_id] => 21
+    [pengirim_email] => agungway2901@gmail.com
+    [pengirim_phone] => 08129469754
+    [pengirim_nama] => Agung Wahono
+    [reference] => EXT20260214-07144
+    [status] => Disetujui
+    [catatan] => Terima kasih atas masukannya. Segera akan kami tindak lanjuti bersama seluruh guru di sekolah
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [guru_id] => 6
+    [timestamp] => 1771067205
+)
+
+[2026-02-14 18:06:48] Database connected
+[2026-02-14 18:06:48] 
+>>> SENDING EMAIL to: agungway2901@gmail.com
+[2026-02-14 18:06:48] sendEmailNotification: agungway2901@gmail.com, EXT20260214-07144
+[2026-02-14 18:06:49] Email result: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [sent] => 1
+)
+
+[2026-02-14 18:06:49] ✓ EMAIL SENT SUCCESSFULLY
+[2026-02-14 18:06:49] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-14 18:06:49] 
+>>> SENDING WHATSAPP to: 08129469754
+[2026-02-14 18:06:49] sendWhatsAppNotification: 08129469754, EXT20260214-07144
+[2026-02-14 18:06:50] WhatsApp result: - Array
+(
+    [success] => 
+    [http_code] => 201
+    [response_data] => 
+    [sent] => 
+)
+
+[2026-02-14 18:06:50] ✗ WHATSAPP FAILED
+[2026-02-14 18:06:50] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-14 18:06:50] 
+============================================================
+[2026-02-14 18:06:50] BACKGROUND PROCESS COMPLETED
+[2026-02-14 18:06:50] RESULTS: - Array
+(
+    [email] => Array
+        (
+            [success] => 1
+            [sent] => 1
+            [method] => mailersend
+        )
+
+    [whatsapp] => Array
+        (
+            [success] => 
+            [sent] => 
+            [method] => whatsapp
+            [to] => 08129469754
+        )
+
+)
+
+[2026-02-14 18:06:50] ============================================================
+[2026-02-15 07:20:58] ========== BACKGROUND PROCESS STARTED ==========
+[2026-02-15 07:20:58] Lock file: C:\xampp\htdocs\responsive-message-app\modules\guru/../../logs/notification_41_1771114855.lock
+[2026-02-15 07:20:58] Data from lock file: - Array
+(
+    [message_id] => 41
+    [response_id] => 22
+    [pengirim_email] => agung.senen3@gmail.com
+    [pengirim_phone] => 08129469754
+    [pengirim_nama] => wahono
+    [reference] => EXT20260215-72114
+    [status] => Disetujui
+    [catatan] => Terima kasih atas masukannya. Saran Bapak/Ibu akan segera kami tindak lanjuti
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [guru_id] => 6
+    [timestamp] => 1771114855
+)
+
+[2026-02-15 07:20:58] Database connected
+[2026-02-15 07:20:58] 
+>>> SENDING EMAIL to: agung.senen3@gmail.com
+[2026-02-15 07:20:58] sendEmailNotification: agung.senen3@gmail.com, EXT20260215-72114
+[2026-02-15 07:20:59] Email result: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [sent] => 1
+)
+
+[2026-02-15 07:20:59] ✓ EMAIL SENT SUCCESSFULLY
+[2026-02-15 07:20:59] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-15 07:20:59] 
+>>> SENDING WHATSAPP to: 08129469754
+[2026-02-15 07:20:59] sendWhatsAppNotification: 08129469754, EXT20260215-72114
+[2026-02-15 07:21:00] WhatsApp result: - Array
+(
+    [success] => 
+    [http_code] => 201
+    [response_data] => 
+    [sent] => 
+)
+
+[2026-02-15 07:21:00] ✗ WHATSAPP FAILED
+[2026-02-15 07:21:00] Error saving log: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'responsive_message_db.notification_logs' doesn't exist
+[2026-02-15 07:21:00] 
+============================================================
+[2026-02-15 07:21:00] BACKGROUND PROCESS COMPLETED
+[2026-02-15 07:21:00] RESULTS: - Array
+(
+    [email] => Array
+        (
+            [success] => 1
+            [sent] => 1
+            [method] => mailersend
+        )
+
+    [whatsapp] => Array
+        (
+            [success] => 
+            [sent] => 
+            [method] => whatsapp
+            [to] => 08129469754
+        )
+
+)
+
+[2026-02-15 07:21:00] ============================================================
+[2026-02-15 07:35:18] ========== BACKGROUND PROCESS STARTED ==========
+[2026-02-15 07:35:18] Lock file: C:\xampp\htdocs\responsive-message-app\modules\guru/../../logs/notification_41_1771115715.lock
+[2026-02-15 07:35:18] Data from lock file: - Array
+(
+    [message_id] => 41
+    [response_id] => 22
+    [pengirim_email] => agung.senen3@gmail.com
+    [pengirim_phone] => 08129469754
+    [pengirim_nama] => wahono
+    [reference] => EXT20260215-72114
+    [status] => Disetujui
+    [catatan] => Maaf salah ketik
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [guru_id] => 6
+    [timestamp] => 1771115715
+)
+
+[2026-02-15 07:35:18] Database connected
+[2026-02-15 07:35:18] 
+>>> SENDING EMAIL to: agung.senen3@gmail.com
+[2026-02-15 07:35:18] sendEmailNotification: agung.senen3@gmail.com, EXT20260215-72114
+[2026-02-15 07:35:19] Email result: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [sent] => 1
+)
+
+[2026-02-15 07:35:19] ✓ EMAIL SENT SUCCESSFULLY
+[2026-02-15 07:35:19] 
+>>> SENDING WHATSAPP to: 08129469754
+[2026-02-15 07:35:19] sendWhatsAppNotification: 08129469754, EXT20260215-72114
+[2026-02-15 07:35:20] WhatsApp result: - Array
+(
+    [success] => 
+    [http_code] => 201
+    [response_data] => 
+    [sent] => 
+)
+
+[2026-02-15 07:35:20] ✗ WHATSAPP FAILED
+[2026-02-15 07:35:20] 
+============================================================
+[2026-02-15 07:35:20] BACKGROUND PROCESS COMPLETED
+[2026-02-15 07:35:20] RESULTS: - Array
+(
+    [email] => Array
+        (
+            [success] => 1
+            [sent] => 1
+            [method] => mailersend
+        )
+
+    [whatsapp] => Array
+        (
+            [success] => 
+            [sent] => 
+            [method] => whatsapp
+            [to] => 08129469754
+        )
+
+)
+
+[2026-02-15 07:35:20] ============================================================
+[2026-02-15 08:01:14] ========== BACKGROUND PROCESS STARTED ==========
+[2026-02-15 08:01:14] PHP Version: 8.2.12
+[2026-02-15 08:01:14] Current Time: 2026-02-15 08:01:14
+[2026-02-15 08:01:14] Lock file: C:\xampp\htdocs\responsive-message-app\modules\guru/../../logs/background_locks/notification_41_1771117273_69911ad9687cc.lock
+[2026-02-15 08:01:14] Raw data from lock file: {
+    "message_id": 41,
+    "response_id": 22,
+    "pengirim_email": "agung.senen3@gmail.com",
+    "pengirim_phone": "628129469754",
+    "pengirim_phone_original": "08129469754",
+    "pengirim_nama": "wahono",
+    "reference": "EXT20260215-72114",
+    "status": "Disetujui",
+    "catatan": "Maaf salah ketik lagi",
+    "guru_nama": "Rudi Hermawan",
+    "guru_type": "Guru_Kesiswaan",
+    "guru_id": 6,
+    "timestamp": 1771117273,
+    "attempt": 1
+}
+[2026-02-15 08:01:14] Decoded data from lock file: - Array
+(
+    [message_id] => 41
+    [response_id] => 22
+    [pengirim_email] => agung.senen3@gmail.com
+    [pengirim_phone] => 628129469754
+    [pengirim_phone_original] => 08129469754
+    [pengirim_nama] => wahono
+    [reference] => EXT20260215-72114
+    [status] => Disetujui
+    [catatan] => Maaf salah ketik lagi
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [guru_id] => 6
+    [timestamp] => 1771117273
+    [attempt] => 1
+)
+
+[2026-02-15 08:01:14] Lock file deleted
+[2026-02-15 08:01:14] Database connected successfully
+[2026-02-15 08:01:14] 
+============================================================
+[2026-02-15 08:01:14] MULAI PENGIRIMAN NOTIFIKASI
+[2026-02-15 08:01:14] ============================================================
+[2026-02-15 08:01:14] 
+>>> MENGIRIM WHATSAPP
+[2026-02-15 08:01:14] Nomor tujuan: 628129469754
+[2026-02-15 08:01:14] Original phone: 08129469754
+[2026-02-15 08:01:14] sendWhatsAppNotification: phone=628129469754, nama=wahono, reference=EXT20260215-72114
+[2026-02-15 08:01:15] ✗✗✗ WHATSAPP FAILED ✗✗✗
+[2026-02-15 08:01:15] WHATSAPP ERROR DETAILS: - Array
+(
+    [success] => 
+    [sent] => 
+    [method] => whatsapp
+    [to] => 628129469754
+    [http_code] => 201
+    [response] => 
+    [error] => 
+    [debug] => Array
+        (
+            [formatted_phone] => 628129469754
+            [original_phone] => 628129469754
+        )
+
+)
+
+[2026-02-15 08:01:15] Notification log saved: whatsapp - failed
+[2026-02-15 08:01:15] 
+>>> MENGIRIM EMAIL to: agung.senen3@gmail.com
+[2026-02-15 08:01:15] sendEmailNotification: agung.senen3@gmail.com, EXT20260215-72114
+[2026-02-15 08:01:15] sendMailerSendEmail() ke: agung.senen3@gmail.com
+[2026-02-15 08:01:16] Email response: HTTP 202
+[2026-02-15 08:01:16] Email result: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+[2026-02-15 08:01:16] ✓ EMAIL SENT SUCCESSFULLY
+[2026-02-15 08:01:16] Notification log saved: email - sent
+[2026-02-15 08:01:16] 
+============================================================
+[2026-02-15 08:01:16] BACKGROUND PROCESS COMPLETED
+[2026-02-15 08:01:16] FINAL RESULTS: - Array
+(
+    [email] => Array
+        (
+            [success] => 1
+            [sent] => 1
+            [method] => mailersend
+            [to] => agung.senen3@gmail.com
+            [http_code] => 202
+            [error] => 
+        )
+
+    [whatsapp] => Array
+        (
+            [success] => 
+            [sent] => 
+            [method] => whatsapp
+            [to] => 628129469754
+            [http_code] => 201
+            [response] => 
+            [error] => 
+            [debug] => Array
+                (
+                    [formatted_phone] => 628129469754
+                    [original_phone] => 628129469754
+                )
+
+        )
+
+)
+
+[2026-02-15 08:01:16] ============================================================

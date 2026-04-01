@@ -1,0 +1,97 @@
+[2026-02-26 06:58:13] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-26 06:58:13] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-26 06:58:13] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-26 06:58:13] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-26 06:59:38] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-26 06:59:38] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-26 06:59:38] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+[2026-02-26 06:59:39] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-26 06:59:39] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-21 15:04:06] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-21 15:04:06] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-21 15:04:06] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-21 15:04:06] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-21 15:10:52] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-21 15:10:52] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-21 15:10:52] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-21 15:10:52] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+

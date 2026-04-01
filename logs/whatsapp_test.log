@@ -1,0 +1,326 @@
+[14-Feb-2026 15:53:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:01][STEP 1][main:359] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:01][STEP 1][main:359] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 15:53:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:01][STEP 2][main:422] Cek balance Fonnte - Array
+(
+    [http_code] => 404
+    [response] => Cannot GET /balance
+)
+
+[WHATSAPP_TEST][2026-02-14 15:53:01][STEP 2][main:422] Cek balance Fonnte - Array
+(
+    [http_code] => 404
+    [response] => Cannot GET /balance
+)
+
+[14-Feb-2026 15:53:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:01][STEP 3][main:457] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:01][STEP 3][main:457] TEST FONNTE API - Memulai
+[14-Feb-2026 15:53:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:01][STEP 4][main:679] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:01][STEP 4][main:679] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 15:53:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(683): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 15:53:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:44][STEP 1][main:359] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:44][STEP 1][main:359] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 15:53:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:44][STEP 2][main:422] Cek balance Fonnte - Array
+(
+    [http_code] => 404
+    [response] => Cannot GET /balance
+)
+
+[WHATSAPP_TEST][2026-02-14 15:53:44][STEP 2][main:422] Cek balance Fonnte - Array
+(
+    [http_code] => 404
+    [response] => Cannot GET /balance
+)
+
+[14-Feb-2026 15:53:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:44][STEP 3][main:457] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:44][STEP 3][main:457] TEST FONNTE API - Memulai
+[14-Feb-2026 15:53:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 15:53:44][STEP 4][main:679] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 15:53:44][STEP 4][main:679] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 15:53:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(683): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 16:06:59 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:06:59][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:06:59][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 16:06:59 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:06:59][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[WHATSAPP_TEST][2026-02-14 16:06:59][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[14-Feb-2026 16:06:59 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:06:59][STEP 3][main:551] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 16:06:59][STEP 3][main:551] TEST FONNTE API - Memulai
+[14-Feb-2026 16:06:59 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:06:59][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:06:59][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 16:06:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(739): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 16:14:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:14:54][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:14:54][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 16:14:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:14:54][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[WHATSAPP_TEST][2026-02-14 16:14:54][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[14-Feb-2026 16:14:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:14:54][STEP 3][main:551] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 16:14:54][STEP 3][main:551] TEST FONNTE API - Memulai
+[14-Feb-2026 16:14:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:14:54][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:14:54][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 16:14:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(739): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 16:17:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:17:54][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:17:54][STEP 1][main:404] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 16:17:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:17:54][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[WHATSAPP_TEST][2026-02-14 16:17:54][STEP 2][main:501] Test koneksi Fonnte - Array
+(
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[14-Feb-2026 16:17:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:17:54][STEP 3][main:551] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 16:17:54][STEP 3][main:551] TEST FONNTE API - Memulai
+[14-Feb-2026 16:17:54 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:17:54][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:17:54][STEP 4][main:730] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 16:17:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(739): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 16:35:20 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:35:20][STEP 1][main:405] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:35:20][STEP 1][main:405] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 16:35:20 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:35:20][STEP 2][main:505] Test koneksi Fonnte ke penerima - Array
+(
+    [pengirim] => 08129469754
+    [penerima] => 085174207795
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[WHATSAPP_TEST][2026-02-14 16:35:20][STEP 2][main:505] Test koneksi Fonnte ke penerima - Array
+(
+    [pengirim] => 08129469754
+    [penerima] => 085174207795
+    [http_code] => 200
+    [response] => {"reason":"invalid token","status":false}
+)
+
+[14-Feb-2026 16:35:20 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:35:20][STEP 3][main:557] TEST FONNTE API - Memulai
+[WHATSAPP_TEST][2026-02-14 16:35:20][STEP 3][main:557] TEST FONNTE API - Memulai
+[14-Feb-2026 16:35:20 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 16:35:20][STEP 4][main:750] TEST INTEGRASI WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 16:35:20][STEP 4][main:750] TEST INTEGRASI WHATSAPP - Memulai
+[14-Feb-2026 16:35:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(759): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 17:01:43 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:01:43][STEP 1][main:446] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 17:01:43][STEP 1][main:446] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 17:01:43 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:01:43][STEP 2][main:521] CEK STATUS PERANGKAT
+[WHATSAPP_TEST][2026-02-14 17:01:43][STEP 2][main:521] CEK STATUS PERANGKAT
+[14-Feb-2026 17:01:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:01:44][STEP 3][main:593] TEST KIRIM WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 17:01:44][STEP 3][main:593] TEST KIRIM WHATSAPP - Memulai
+[14-Feb-2026 17:01:44 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:01:44][STEP 4][main:726] TEST INTEGRASI - Memulai
+[WHATSAPP_TEST][2026-02-14 17:01:44][STEP 4][main:726] TEST INTEGRASI - Memulai
+[14-Feb-2026 17:01:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(734): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 17:05:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:05:01][STEP 1][main:446] TEST DASAR WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 17:05:01][STEP 1][main:446] TEST DASAR WHATSAPP - Memulai
+[14-Feb-2026 17:05:01 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:05:01][STEP 2][main:521] CEK STATUS PERANGKAT
+[WHATSAPP_TEST][2026-02-14 17:05:01][STEP 2][main:521] CEK STATUS PERANGKAT
+[14-Feb-2026 17:05:02 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:05:02][STEP 3][main:593] TEST KIRIM WHATSAPP - Memulai
+[WHATSAPP_TEST][2026-02-14 17:05:02][STEP 3][main:593] TEST KIRIM WHATSAPP - Memulai
+[14-Feb-2026 17:05:03 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:05:03][STEP 4][main:726] TEST INTEGRASI - Memulai
+[WHATSAPP_TEST][2026-02-14 17:05:03][STEP 4][main:726] TEST INTEGRASI - Memulai
+[14-Feb-2026 17:05:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in C:\xampp\htdocs\responsive-message-app\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\config\database.php(32): Database->__construct()
+#1 C:\xampp\htdocs\responsive-message-app\api\test_whatsapp_final.php(734): Database::getInstance()
+#2 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\config\database.php on line 13
+[14-Feb-2026 17:07:09 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:07:09][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[WHATSAPP_TEST][2026-02-14 17:07:09][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[14-Feb-2026 17:07:31 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:07:31][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[WHATSAPP_TEST][2026-02-14 17:07:31][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[14-Feb-2026 17:07:31 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:07:31][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[WHATSAPP_TEST][2026-02-14 17:07:31][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[14-Feb-2026 17:08:23 Asia/Jakarta] [WHATSAPP_TEST][2026-02-14 17:08:23][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[WHATSAPP_TEST][2026-02-14 17:08:23][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[17-Feb-2026 19:31:50 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:31:50][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[WHATSAPP_TEST][2026-02-17 19:31:50][STEP 1][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 0
+)
+
+[17-Feb-2026 19:32:05 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:32:05][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[WHATSAPP_TEST][2026-02-17 19:32:05][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[17-Feb-2026 19:32:05 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:32:05][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[WHATSAPP_TEST][2026-02-17 19:32:05][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[17-Feb-2026 19:43:45 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:43:45][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[WHATSAPP_TEST][2026-02-17 19:43:45][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[17-Feb-2026 19:43:45 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:43:45][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[WHATSAPP_TEST][2026-02-17 19:43:45][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[17-Feb-2026 19:46:30 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:46:30][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[WHATSAPP_TEST][2026-02-17 19:46:30][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[17-Feb-2026 19:46:30 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:46:30][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[WHATSAPP_TEST][2026-02-17 19:46:30][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[17-Feb-2026 19:46:56 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:46:56][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[WHATSAPP_TEST][2026-02-17 19:46:56][STEP 1][sendFonnteMessage:85] Mengirim ke Fonnte - Array
+(
+    [dari_device] => 6285174207795
+    [ke_nomor] => 628129469754
+    [message_length] => 307
+)
+
+[17-Feb-2026 19:46:56 Asia/Jakarta] [WHATSAPP_TEST][2026-02-17 19:46:56][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+
+[WHATSAPP_TEST][2026-02-17 19:46:56][STEP 2][main:657] TEST SELESAI - Array
+(
+    [total_steps] => 1
+)
+

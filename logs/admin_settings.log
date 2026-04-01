@@ -1,0 +1,3503 @@
+[2026-02-20 09:38:21] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:38:21] ROOT_PATH: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:38:21] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:38:21] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:52:28] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:52:28] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:52:28] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:52:28] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:52:50] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:52:50] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:52:50] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:52:50] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:52:53] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:52:53] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:52:53] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:52:53] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:53:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:53:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:53:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:53:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:53:26] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:53:26] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:53:26] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:53:26] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:53:26] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 09:53:26] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:53:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:53:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:53:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:53:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.68e7318a4d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:20] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 09:55:20] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:25] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:25] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:25] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:25] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:26] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 09:55:26] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:26] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:26] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:26] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:26] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:30] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:30] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:30] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:30] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 09:55:30] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 09:55:30] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:55] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 09:55:55] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 09:55:55] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 09:55:55] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:17:28] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:17:28] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:17:28] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:17:28] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:17:40] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:17:40] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:17:40] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:17:40] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:17:40] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 10:17:40] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:17:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:17:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:17:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:17:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:02] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:02] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:02] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:02] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:02] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 10:21:02] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:18] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:18] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:18] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:18] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:18] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 10:21:18] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:18] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:18] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:18] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:18] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:22] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:22] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:22] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:22] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:21:22] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 10:21:22] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:23] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:21:23] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:21:23] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:21:23] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:22:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:22:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:22:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:22:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:22:34] POST Request diterima - Array
+(
+    [action] => test_fonnte_connection
+)
+
+[2026-02-20 10:22:34] Testing Fonnte connection - Array
+(
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:22:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:22:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:22:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:22:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:25:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:25:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:25:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.d4e64e59e3...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:25:03] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 10:25:03] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:25:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:25:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.a4e70a19ff...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:25:10] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:25:10] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:25:10] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.a4e70a19ff...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:10] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:25:10] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 10:25:10] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:10] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:25:10] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:25:10] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.a4e70a19ff...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:25:10] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:33:54] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:33:54] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:33:54] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.a4e70a19ff...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:33:54] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:16] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:16] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:16] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.a4e70a19ff...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:16] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:16] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 10:34:16] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:16] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:16] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:16] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:16] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:29] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 10:34:29] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:30] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:30] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:34:32] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 10:34:32] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:34:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:34:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:34:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:59:09] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:59:09] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:59:09] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:59:09] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:59:42] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:59:42] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:59:42] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:59:42] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 10:59:42] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 10:59:42] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:59:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 10:59:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 10:59:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 10:59:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:11:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:11:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:11:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 11:11:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:13:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:13:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:13:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-02-20 11:13:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:13:19] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 11:13:19] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:13:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:13:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:13:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:13:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:14:06] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:14:06] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:14:06] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:14:06] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:14:06] POST Request diterima - Array
+(
+    [action] => test_mailersend_connection
+)
+
+[2026-02-20 11:14:06] Testing MailerSend connection - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:14:06] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:14:06] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:14:06] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:14:06] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:15:21] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:15:21] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:15:21] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:15:21] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:15:21] POST Request diterima - Array
+(
+    [action] => send_test_email
+)
+
+[2026-02-20 11:15:21] Sending test email - Array
+(
+    [to] => aris.setiyoarsono30@gmail.com
+)
+
+[2026-02-20 11:15:21] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:15:21] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:15:21] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:15:21] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:16:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:16:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:16:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:16:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 11:16:15] POST Request diterima - Array
+(
+    [action] => update_mailersend
+)
+
+[2026-02-20 11:16:15] Updating MailerSend config - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:16:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 11:16:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 11:16:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 11:16:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 16:02:40] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 16:02:40] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 16:02:40] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 16:02:40] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 16:08:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 16:08:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 16:08:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 16:08:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-20 16:08:15] POST Request diterima - Array
+(
+    [action] => update_general
+)
+
+[2026-02-20 16:08:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-20 16:08:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-20 16:08:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-20 16:08:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-21 21:53:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-21 21:53:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-21 21:53:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-21 21:53:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-21 21:53:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-21 21:53:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-21 21:53:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-21 21:53:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:12:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:12:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:12:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:12:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:14:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:14:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:14:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:14:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:14:42] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:14:42] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:14:42] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:14:42] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:18:45] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:18:45] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:18:45] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:18:45] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:18:57] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:18:57] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:18:57] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:18:57] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:20:52] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:20:52] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:20:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:20:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:22:55] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:22:55] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:22:55] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:22:55] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:26:59] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:26:59] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:26:59] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:26:59] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:28:57] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:28:57] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:28:57] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:28:57] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-23 10:33:16] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-23 10:33:16] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-23 10:33:16] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-23 10:33:16] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-24 13:16:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-24 13:16:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-24 13:16:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-24 13:16:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-24 13:16:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-24 13:16:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-24 13:16:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-24 13:16:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-24 13:16:47] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-24 13:16:47] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-24 13:16:47] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-24 13:16:47] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-24 13:16:54] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-24 13:16:54] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-24 13:16:54] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-24 13:16:54] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-02-24 13:16:57] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-02-24 13:16:57] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-02-24 13:16:57] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-02-24 13:16:57] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 08:42:12] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 08:42:12] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 08:42:12] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 08:42:12] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 08:42:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 08:42:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 08:42:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 08:42:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 08:42:22] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 08:42:22] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 08:42:22] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 08:42:22] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 14:42:50] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 14:42:50] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 14:42:50] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 14:42:50] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 14:46:24] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 14:46:24] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 14:46:24] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 14:46:24] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 14:46:30] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 14:46:30] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 14:46:30] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 14:46:30] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 14:46:39] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 14:46:39] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 14:46:39] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 14:46:39] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 14:46:39] POST Request diterima - Array
+(
+    [action] => backup_database
+)
+
+[2026-03-01 14:46:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 14:46:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 14:46:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 14:46:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:16:10] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:16:10] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:16:10] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:16:10] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:16:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:16:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:16:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:16:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:16:27] POST Request diterima - Array
+(
+    [action] => clear_logs
+)
+
+[2026-03-01 15:16:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:16:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:16:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:16:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:16:31] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:16:31] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:16:31] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:16:31] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:16:31] POST Request diterima - Array
+(
+    [action] => backup_database
+)
+
+[2026-03-01 15:16:31] Memulai proses backup database
+[2026-03-01 15:16:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:16:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:16:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:16:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:17:10] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:17:10] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:17:10] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:17:10] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-01 15:17:10] POST Request diterima - Array
+(
+    [action] => delete_backup
+)
+
+[2026-03-01 15:17:10] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-01 15:17:10] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-01 15:17:10] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-01 15:17:10] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-10 14:23:06] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-10 14:23:06] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-10 14:23:06] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-10 14:23:06] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-10 14:23:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-10 14:23:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-10 14:23:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-10 14:23:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-10 14:23:24] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-10 14:23:24] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-10 14:23:24] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-10 14:23:24] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-10 14:25:04] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-10 14:25:04] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-10 14:25:04] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-10 14:25:04] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 14:59:07] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 14:59:07] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 14:59:07] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 14:59:07] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:25:42] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:25:42] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:25:42] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:25:42] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:25:44] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:25:44] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:25:44] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:25:44] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:26:36] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:26:36] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:26:36] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:26:36] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:26:39] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:26:39] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:26:39] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:26:39] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:26:53] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:26:53] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:26:53] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:26:53] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:27:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:27:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:27:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:27:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:41:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:41:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:41:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:41:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:48:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:48:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:48:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:48:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:49:35] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:49:35] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:49:35] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:49:35] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:51:50] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:51:50] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:51:50] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:51:50] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:52:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:52:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:52:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:52:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:55:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:55:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:55:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:55:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:55:24] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:55:24] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:55:24] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:55:24] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:55:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:55:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:55:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:55:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:56:52] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:56:52] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:56:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:56:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 16:57:58] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 16:57:58] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 16:57:58] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 16:57:58] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 17:28:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 17:28:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 17:28:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 17:28:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-23 17:28:37] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-23 17:28:37] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-23 17:28:37] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-23 17:28:37] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 13:51:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 13:51:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 13:51:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 13:51:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 13:51:17] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 13:51:17] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 13:51:17] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 13:51:17] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:02:01] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:02:01] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:02:01] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:02:01] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:03:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:03:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:03:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:03:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:06:42] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:06:42] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:06:42] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:06:42] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:10:35] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:10:35] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:10:35] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:10:35] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:10:39] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:10:39] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:10:39] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:10:39] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:12:21] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:12:21] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:12:21] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:12:21] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:12:26] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:12:26] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:12:26] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:12:26] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:14:09] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:14:09] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:14:09] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:14:09] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:19:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:19:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:19:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:19:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:20:28] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:20:28] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:20:28] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:20:28] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:20:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:20:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:20:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:20:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:20:36] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:20:36] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:20:36] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:20:36] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:50:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:50:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:50:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:50:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 14:50:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 14:50:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 14:50:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 14:50:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 15:00:46] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 15:00:46] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 15:00:46] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 15:00:46] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 15:00:48] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 15:00:48] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 15:00:48] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 15:00:48] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 15:53:40] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 15:53:40] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 15:53:40] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 15:53:40] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 16:38:23] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 16:38:23] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 16:38:23] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 16:38:23] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 16:38:31] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 16:38:31] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 16:38:31] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 16:38:31] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 16:38:38] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 16:38:38] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 16:38:38] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 16:38:38] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 16:38:45] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 16:38:45] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 16:38:45] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 16:38:45] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 17:33:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 17:33:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 17:33:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 17:33:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 17:35:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 17:35:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 17:35:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 17:35:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 17:35:47] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 17:35:47] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 17:35:47] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 17:35:47] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 19:58:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 19:58:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 19:58:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 19:58:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 19:58:22] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 19:58:22] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 19:58:22] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 19:58:22] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 19:59:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 19:59:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 19:59:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 19:59:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 19:59:31] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 19:59:31] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 19:59:31] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 19:59:31] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 19:59:55] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 19:59:55] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 19:59:55] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 19:59:55] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 20:00:14] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 20:00:14] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 20:00:14] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 20:00:14] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 20:10:20] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 20:10:20] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 20:10:20] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 20:10:20] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 21:23:22] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 21:23:22] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 21:23:22] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 21:23:22] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 21:23:51] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 21:23:51] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 21:23:51] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 21:23:51] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 21:41:44] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 21:41:44] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 21:41:44] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 21:41:44] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 21:41:45] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 21:41:45] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 21:41:45] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 21:41:45] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:35] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:35] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:35] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:35] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:38] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:38] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:38] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:38] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:39] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:39] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:39] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:39] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:44] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:44] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:44] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:44] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:49] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:49] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:49] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:49] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-24 23:32:52] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-24 23:32:52] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-24 23:32:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-24 23:32:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-25 00:02:34] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-25 00:02:34] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-25 00:02:34] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-25 00:02:34] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-25 00:02:36] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-25 00:02:36] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-25 00:02:36] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-25 00:02:36] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-28 14:01:16] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-28 14:01:16] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-28 14:01:16] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-28 14:01:16] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-28 14:01:26] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-28 14:01:26] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-28 14:01:26] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-28 14:01:26] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-28 14:01:30] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-28 14:01:30] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-28 14:01:30] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-28 14:01:30] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-28 22:11:18] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-28 22:11:18] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-28 22:11:18] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-28 22:11:18] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-28 22:36:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-28 22:36:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-28 22:36:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-28 22:36:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 05:40:24] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 05:40:24] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 05:40:24] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 05:40:24] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 05:46:09] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 05:46:09] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 05:46:09] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 05:46:09] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 05:52:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 05:52:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 05:52:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 05:52:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 05:52:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 05:52:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 05:52:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 05:52:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:01:54] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:01:54] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:01:54] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:01:54] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:04] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:04] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:04] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:04] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:04] POST Request diterima - Array
+(
+    [action] => backup_database
+)
+
+[2026-03-29 06:02:04] Memulai proses backup database
+[2026-03-29 06:02:05] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:05] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:05] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:05] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:27] POST Request diterima - Array
+(
+    [action] => delete_backup
+)
+
+[2026-03-29 06:02:27] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:27] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:27] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:27] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:02:32] POST Request diterima - Array
+(
+    [action] => backup_database
+)
+
+[2026-03-29 06:02:32] Memulai proses backup database
+[2026-03-29 06:02:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:02:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:02:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:02:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 06:51:40] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 06:51:40] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 06:51:40] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 06:51:40] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 07:05:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 07:05:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 07:05:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 07:05:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 07:05:07] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 07:05:07] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 07:05:07] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 07:05:07] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 07:06:44] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 07:06:44] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 07:06:44] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 07:06:44] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 07:52:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 07:52:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 07:52:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 07:52:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 07:55:58] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 07:55:58] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 07:55:58] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 07:55:58] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 08:06:38] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 08:06:38] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 08:06:38] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 08:06:38] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 10:15:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 10:15:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 10:15:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 10:15:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 10:15:16] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 10:15:16] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 10:15:16] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 10:15:16] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 10:25:39] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 10:25:39] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 10:25:39] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 10:25:39] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:08:17] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:08:17] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:08:17] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:08:17] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:08:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:08:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:08:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:08:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:09:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:09:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:09:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:09:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:11:55] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:11:55] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:11:55] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:11:55] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:11:55] POST Request diterima - Array
+(
+    [action] => backup_database
+)
+
+[2026-03-29 11:11:55] Memulai proses backup database
+[2026-03-29 11:11:56] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:11:56] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:11:56] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:11:56] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:12:11] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:12:11] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:12:11] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:12:11] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-29 11:44:15] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-29 11:44:15] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-29 11:44:15] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-29 11:44:15] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:36] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:36] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:36] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:36] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:40] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:40] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:40] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:40] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:42] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:42] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:42] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:42] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:45] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:45] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:45] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:45] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:15:51] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:15:51] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:15:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:15:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:16:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:16:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:16:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:16:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:21:18] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:21:18] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:21:18] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:21:18] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:29:02] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:29:02] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:29:02] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:29:02] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:29:02] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:29:02] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:33:32] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:33:32] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:33:32] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.7a4863017c...
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+)
+
+[2026-03-30 16:33:32] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:58:49] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:58:49] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:58:49] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:58:49] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:58:53] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:58:53] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:58:53] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:58:53] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:58:54] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:58:54] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:58:54] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:58:54] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:59:02] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:59:02] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:59:02] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:59:02] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:59:04] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:59:04] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:59:04] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:59:04] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:59:05] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:59:05] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:59:05] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:59:05] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 16:59:08] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 16:59:08] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 16:59:08] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 16:59:08] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:00:48] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:00:48] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:00:48] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:00:48] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:00:51] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:00:51] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:00:51] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:00:51] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:08] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:08] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:08] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:08] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:19] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:19] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:19] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:19] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:29] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:29] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:29] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:29] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:31] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:31] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:31] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:31] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:36] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:36] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:36] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:36] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:43] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:43] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:43] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:43] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:52] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:52] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:02:56] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:02:56] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:02:56] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:02:56] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 17:03:00] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 17:03:00] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 17:03:00] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 17:03:00] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:50:48] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:50:48] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:50:48] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:50:48] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:50:52] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:50:52] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:50:52] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:50:52] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:50:54] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:50:54] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:50:54] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:50:54] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:50:56] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:50:56] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:50:56] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:50:56] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:00] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:00] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:00] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:00] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:02] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:02] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:02] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:02] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:22] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:22] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:22] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:22] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:26] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:26] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:26] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:26] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:33] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:33] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:33] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:33] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:35] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:35] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:35] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:35] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 19:51:41] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 19:51:41] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 19:51:41] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 19:51:41] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:31:17] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:31:17] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:31:17] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:31:17] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:50:53] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:50:53] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:50:53] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:50:53] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:50:56] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:50:56] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:50:56] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:50:56] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:50:59] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:50:59] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:50:59] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:50:59] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:51:00] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:51:00] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:51:00] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:51:00] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:51:03] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:51:03] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:51:03] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:51:03] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:51:05] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:51:05] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:51:05] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:51:05] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:51:11] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:51:11] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:51:11] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:51:11] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+
+[2026-03-30 20:51:13] ========== ADMIN SETTINGS.PHP STARTED ==========
+[2026-03-30 20:51:13] ROOT_PATH dari config.php: C:\xampp\htdocs\responsive-message-app
+[2026-03-30 20:51:13] Current MailerSend Config - Array
+(
+    [api_token] => mlsn.3ae3e0dd1d...
+    [from_email] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+)
+
+[2026-03-30 20:51:13] Current Fonnte Config - Array
+(
+    [api_token] => FS2cq8Fckm...
+    [device_id] => 6285174207795
+)
+

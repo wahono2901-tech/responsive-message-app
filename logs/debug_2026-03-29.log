@@ -1,0 +1,1319 @@
+[2026-03-29 05:38:55] === SCRIPT START ===
+[2026-03-29 05:38:55] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 05:38:55] Request Method: GET
+[2026-03-29 05:38:55] GET Parameters: Array
+(
+)
+
+[2026-03-29 05:38:55] Core files loaded
+[2026-03-29 05:38:55] Auth check passed
+[2026-03-29 05:38:55] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => pv62pprruo6j4st59tfnm083fn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774737526
+            [csrf_token] => 065abd12ea83ae660a2b50679c55d35f7bcb51425d7777c38908640e9afe6040
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774737535
+        )
+
+)
+
+[2026-03-29 05:38:55] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 05:38:55] Attempting database connection
+[2026-03-29 05:38:55] Database connected successfully
+[2026-03-29 05:38:55] Total users: 60
+[2026-03-29 05:38:55] Total messages: 10
+[2026-03-29 05:38:55] Pending messages: 1
+[2026-03-29 05:38:55] Expired messages: 0
+[2026-03-29 05:38:56] Recent messages count: 10
+[2026-03-29 05:38:56] Message stats count: 13
+[2026-03-29 05:38:56] User growth data count: 1
+[2026-03-29 05:38:56] Message status data count: 4
+[2026-03-29 05:38:56] Daily messages data count: 0
+[2026-03-29 05:38:56] Users by type data count: 12
+[2026-03-29 05:38:56] Top users count: 5
+[2026-03-29 05:38:56] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 05:38:56] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 05:38:56] GET export parameter: NOT SET
+[2026-03-29 05:38:56] No export parameter detected, rendering normal dashboard
+[2026-03-29 05:38:56] === SCRIPT END ===
+[2026-03-29 05:49:17] === SCRIPT START ===
+[2026-03-29 05:49:17] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 05:49:17] Request Method: GET
+[2026-03-29 05:49:17] GET Parameters: Array
+(
+)
+
+[2026-03-29 05:49:17] Core files loaded
+[2026-03-29 05:49:17] Auth check passed
+[2026-03-29 05:49:17] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => jnva07ren94uki7o98iqrp06fq
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774737969
+            [csrf_token] => 065abd12ea83ae660a2b50679c55d35f7bcb51425d7777c38908640e9afe6040
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774738157
+        )
+
+)
+
+[2026-03-29 05:49:17] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 05:49:17] Attempting database connection
+[2026-03-29 05:49:17] Database connected successfully
+[2026-03-29 05:49:17] Total users: 60
+[2026-03-29 05:49:17] Total messages: 10
+[2026-03-29 05:49:17] Pending messages: 1
+[2026-03-29 05:49:17] Expired messages: 0
+[2026-03-29 05:49:17] Recent messages count: 10
+[2026-03-29 05:49:17] Message stats count: 13
+[2026-03-29 05:49:17] User growth data count: 1
+[2026-03-29 05:49:17] Message status data count: 4
+[2026-03-29 05:49:17] Daily messages data count: 0
+[2026-03-29 05:49:17] Users by type data count: 12
+[2026-03-29 05:49:17] Top users count: 5
+[2026-03-29 05:49:17] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 05:49:17] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 05:49:17] GET export parameter: NOT SET
+[2026-03-29 05:49:17] No export parameter detected, rendering normal dashboard
+[2026-03-29 05:49:18] === SCRIPT END ===
+[2026-03-29 05:52:21] === SCRIPT START ===
+[2026-03-29 05:52:21] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 05:52:21] Request Method: GET
+[2026-03-29 05:52:21] GET Parameters: Array
+(
+)
+
+[2026-03-29 05:52:21] Core files loaded
+[2026-03-29 05:52:21] Auth check passed
+[2026-03-29 05:52:21] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => qtjlpbfqv4bbo12pdvs4a2bic5
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774738341
+            [csrf_token] => 065abd12ea83ae660a2b50679c55d35f7bcb51425d7777c38908640e9afe6040
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774738341
+        )
+
+)
+
+[2026-03-29 05:52:21] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 05:52:21] Attempting database connection
+[2026-03-29 05:52:21] Database connected successfully
+[2026-03-29 05:52:21] Total users: 60
+[2026-03-29 05:52:21] Total messages: 10
+[2026-03-29 05:52:21] Pending messages: 1
+[2026-03-29 05:52:21] Expired messages: 0
+[2026-03-29 05:52:21] Recent messages count: 10
+[2026-03-29 05:52:21] Message stats count: 13
+[2026-03-29 05:52:21] User growth data count: 1
+[2026-03-29 05:52:21] Message status data count: 4
+[2026-03-29 05:52:21] Daily messages data count: 0
+[2026-03-29 05:52:21] Users by type data count: 12
+[2026-03-29 05:52:21] Top users count: 5
+[2026-03-29 05:52:21] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 05:52:21] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 05:52:21] GET export parameter: NOT SET
+[2026-03-29 05:52:21] No export parameter detected, rendering normal dashboard
+[2026-03-29 05:52:21] === SCRIPT END ===
+[2026-03-29 10:15:10] === SCRIPT START ===
+[2026-03-29 10:15:10] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 10:15:10] Request Method: GET
+[2026-03-29 10:15:10] GET Parameters: Array
+(
+)
+
+[2026-03-29 10:15:10] Core files loaded
+[2026-03-29 10:15:10] Auth check passed
+[2026-03-29 10:15:10] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => o2cs9mc3i8ejufj9as5df3hgff
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774754104
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774754110
+        )
+
+)
+
+[2026-03-29 10:15:10] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 10:15:10] Attempting database connection
+[2026-03-29 10:15:10] Database connected successfully
+[2026-03-29 10:15:10] Total users: 60
+[2026-03-29 10:15:10] Total messages: 10
+[2026-03-29 10:15:10] Pending messages: 1
+[2026-03-29 10:15:10] Expired messages: 0
+[2026-03-29 10:15:10] Recent messages count: 10
+[2026-03-29 10:15:10] Message stats count: 13
+[2026-03-29 10:15:10] User growth data count: 1
+[2026-03-29 10:15:10] Message status data count: 4
+[2026-03-29 10:15:10] Daily messages data count: 0
+[2026-03-29 10:15:10] Users by type data count: 12
+[2026-03-29 10:15:10] Top users count: 5
+[2026-03-29 10:15:10] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 10:15:10] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 10:15:10] GET export parameter: NOT SET
+[2026-03-29 10:15:10] No export parameter detected, rendering normal dashboard
+[2026-03-29 10:15:10] === SCRIPT END ===
+[2026-03-29 11:44:25] === SCRIPT START ===
+[2026-03-29 11:44:25] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 11:44:25] Request Method: GET
+[2026-03-29 11:44:25] GET Parameters: Array
+(
+)
+
+[2026-03-29 11:44:25] Core files loaded
+[2026-03-29 11:44:25] Auth check passed
+[2026-03-29 11:44:25] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => d30d2kjltagfuiikdepim3pdbn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774759455
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774759465
+        )
+
+)
+
+[2026-03-29 11:44:25] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 11:44:25] Attempting database connection
+[2026-03-29 11:44:25] Database connected successfully
+[2026-03-29 11:44:25] Total users: 60
+[2026-03-29 11:44:25] Total messages: 10
+[2026-03-29 11:44:25] Pending messages: 1
+[2026-03-29 11:44:25] Expired messages: 0
+[2026-03-29 11:44:25] Recent messages count: 10
+[2026-03-29 11:44:25] Message stats count: 13
+[2026-03-29 11:44:25] User growth data count: 1
+[2026-03-29 11:44:25] Message status data count: 4
+[2026-03-29 11:44:25] Daily messages data count: 0
+[2026-03-29 11:44:25] Users by type data count: 12
+[2026-03-29 11:44:25] Top users count: 5
+[2026-03-29 11:44:25] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 11:44:25] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 11:44:25] GET export parameter: NOT SET
+[2026-03-29 11:44:25] No export parameter detected, rendering normal dashboard
+[2026-03-29 11:44:25] === SCRIPT END ===
+[2026-03-29 11:44:40] === SCRIPT START ===
+[2026-03-29 11:44:40] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 11:44:40] Request Method: GET
+[2026-03-29 11:44:40] GET Parameters: Array
+(
+)
+
+[2026-03-29 11:44:40] Core files loaded
+[2026-03-29 11:44:40] Auth check passed
+[2026-03-29 11:44:40] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => d30d2kjltagfuiikdepim3pdbn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774759455
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774759480
+        )
+
+)
+
+[2026-03-29 11:44:40] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 11:44:40] Attempting database connection
+[2026-03-29 11:44:40] Database connected successfully
+[2026-03-29 11:44:40] Total users: 60
+[2026-03-29 11:44:40] Total messages: 10
+[2026-03-29 11:44:40] Pending messages: 1
+[2026-03-29 11:44:40] Expired messages: 0
+[2026-03-29 11:44:40] Recent messages count: 10
+[2026-03-29 11:44:40] Message stats count: 13
+[2026-03-29 11:44:40] User growth data count: 1
+[2026-03-29 11:44:40] Message status data count: 4
+[2026-03-29 11:44:40] Daily messages data count: 0
+[2026-03-29 11:44:40] Users by type data count: 12
+[2026-03-29 11:44:40] Top users count: 5
+[2026-03-29 11:44:40] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 11:44:40] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 11:44:40] GET export parameter: NOT SET
+[2026-03-29 11:44:40] No export parameter detected, rendering normal dashboard
+[2026-03-29 11:44:40] === SCRIPT END ===
+[2026-03-29 11:45:32] === SCRIPT START ===
+[2026-03-29 11:45:32] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 11:45:32] Request Method: GET
+[2026-03-29 11:45:32] GET Parameters: Array
+(
+)
+
+[2026-03-29 11:45:32] Core files loaded
+[2026-03-29 11:45:32] Auth check passed
+[2026-03-29 11:45:32] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => d30d2kjltagfuiikdepim3pdbn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774759455
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774759532
+        )
+
+)
+
+[2026-03-29 11:45:32] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 11:45:32] Attempting database connection
+[2026-03-29 11:45:32] Database connected successfully
+[2026-03-29 11:45:32] Total users: 60
+[2026-03-29 11:45:32] Total messages: 10
+[2026-03-29 11:45:32] Pending messages: 1
+[2026-03-29 11:45:32] Expired messages: 0
+[2026-03-29 11:45:32] Recent messages count: 10
+[2026-03-29 11:45:32] Message stats count: 13
+[2026-03-29 11:45:32] User growth data count: 1
+[2026-03-29 11:45:32] Message status data count: 4
+[2026-03-29 11:45:32] Daily messages data count: 0
+[2026-03-29 11:45:32] Users by type data count: 12
+[2026-03-29 11:45:32] Top users count: 5
+[2026-03-29 11:45:32] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 11:45:32] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 11:45:32] GET export parameter: NOT SET
+[2026-03-29 11:45:32] No export parameter detected, rendering normal dashboard
+[2026-03-29 11:45:32] === SCRIPT END ===
+[2026-03-29 11:45:39] === SCRIPT START ===
+[2026-03-29 11:45:39] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 11:45:39] Request Method: GET
+[2026-03-29 11:45:39] GET Parameters: Array
+(
+)
+
+[2026-03-29 11:45:39] Core files loaded
+[2026-03-29 11:45:39] Auth check passed
+[2026-03-29 11:45:39] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => d30d2kjltagfuiikdepim3pdbn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774759455
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774759539
+        )
+
+)
+
+[2026-03-29 11:45:39] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 11:45:39] Attempting database connection
+[2026-03-29 11:45:39] Database connected successfully
+[2026-03-29 11:45:39] Total users: 60
+[2026-03-29 11:45:39] Total messages: 10
+[2026-03-29 11:45:39] Pending messages: 1
+[2026-03-29 11:45:39] Expired messages: 0
+[2026-03-29 11:45:39] Recent messages count: 10
+[2026-03-29 11:45:39] Message stats count: 13
+[2026-03-29 11:45:39] User growth data count: 1
+[2026-03-29 11:45:39] Message status data count: 4
+[2026-03-29 11:45:39] Daily messages data count: 0
+[2026-03-29 11:45:39] Users by type data count: 12
+[2026-03-29 11:45:39] Top users count: 5
+[2026-03-29 11:45:39] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 11:45:39] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 11:45:39] GET export parameter: NOT SET
+[2026-03-29 11:45:39] No export parameter detected, rendering normal dashboard
+[2026-03-29 11:45:39] === SCRIPT END ===
+[2026-03-29 11:45:54] === SCRIPT START ===
+[2026-03-29 11:45:54] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 11:45:54] Request Method: GET
+[2026-03-29 11:45:54] GET Parameters: Array
+(
+)
+
+[2026-03-29 11:45:54] Core files loaded
+[2026-03-29 11:45:54] Auth check passed
+[2026-03-29 11:45:54] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => d30d2kjltagfuiikdepim3pdbn
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774759455
+            [csrf_token] => b865a6c91de84435f1bbf77db3d968180311cbfe0fce0970708ff3419cd3c31c
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774759554
+        )
+
+)
+
+[2026-03-29 11:45:54] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 11:45:54] Attempting database connection
+[2026-03-29 11:45:54] Database connected successfully
+[2026-03-29 11:45:54] Total users: 60
+[2026-03-29 11:45:54] Total messages: 10
+[2026-03-29 11:45:54] Pending messages: 1
+[2026-03-29 11:45:54] Expired messages: 0
+[2026-03-29 11:45:54] Recent messages count: 10
+[2026-03-29 11:45:54] Message stats count: 13
+[2026-03-29 11:45:54] User growth data count: 1
+[2026-03-29 11:45:54] Message status data count: 4
+[2026-03-29 11:45:54] Daily messages data count: 0
+[2026-03-29 11:45:54] Users by type data count: 12
+[2026-03-29 11:45:54] Top users count: 5
+[2026-03-29 11:45:54] Response stats - DATA: Array
+(
+    [total_messages] => 3
+    [responded] => 2
+    [response_rate] => 66.67
+)
+
+[2026-03-29 11:45:54] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 11:45:54] GET export parameter: NOT SET
+[2026-03-29 11:45:54] No export parameter detected, rendering normal dashboard
+[2026-03-29 11:45:54] === SCRIPT END ===
+[2026-03-29 17:05:33] === SCRIPT START ===
+[2026-03-29 17:05:33] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 17:05:33] Request Method: GET
+[2026-03-29 17:05:33] GET Parameters: Array
+(
+)
+
+[2026-03-29 17:05:33] Core files loaded
+[2026-03-29 17:05:37] === SCRIPT START ===
+[2026-03-29 17:05:37] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 17:05:37] Request Method: GET
+[2026-03-29 17:05:37] GET Parameters: Array
+(
+)
+
+[2026-03-29 17:05:37] Core files loaded
+[2026-03-29 17:05:37] Auth check passed
+[2026-03-29 17:05:37] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => bhu1k1ico2v99b7cim119p8vu5
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774778733
+            [csrf_token] => 5055d2e637c290541750af9165c541ccdc686b7b9d4384ad8d6e588b15ad36fa
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774778737
+        )
+
+)
+
+[2026-03-29 17:05:37] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 17:05:37] Attempting database connection
+[2026-03-29 17:05:37] Database connected successfully
+[2026-03-29 17:05:37] Total users: 60
+[2026-03-29 17:05:37] Total messages: 10
+[2026-03-29 17:05:37] Pending messages: 1
+[2026-03-29 17:05:37] Expired messages: 0
+[2026-03-29 17:05:37] Recent messages count: 10
+[2026-03-29 17:05:37] Message stats count: 13
+[2026-03-29 17:05:37] User growth data count: 1
+[2026-03-29 17:05:37] Message status data count: 4
+[2026-03-29 17:05:37] Daily messages data count: 0
+[2026-03-29 17:05:37] Users by type data count: 12
+[2026-03-29 17:05:37] Top users count: 5
+[2026-03-29 17:05:37] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 17:05:37] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 17:05:37] GET export parameter: NOT SET
+[2026-03-29 17:05:37] No export parameter detected, rendering normal dashboard
+[2026-03-29 17:05:37] === SCRIPT END ===
+[2026-03-29 19:05:21] === SCRIPT START ===
+[2026-03-29 19:05:21] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 19:05:21] Request Method: GET
+[2026-03-29 19:05:21] GET Parameters: Array
+(
+)
+
+[2026-03-29 19:05:21] Core files loaded
+[2026-03-29 19:05:21] Auth check passed
+[2026-03-29 19:05:21] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => 6akht10oponcch660pb11s02nt
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774785917
+            [csrf_token] => b96f1bb7ffe883d203f49c8049c25725308e7c1ffd350b3cf0eded9f15f86fce
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774785921
+        )
+
+)
+
+[2026-03-29 19:05:21] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 19:05:21] Attempting database connection
+[2026-03-29 19:05:21] Database connected successfully
+[2026-03-29 19:05:21] Total users: 60
+[2026-03-29 19:05:21] Total messages: 10
+[2026-03-29 19:05:21] Pending messages: 1
+[2026-03-29 19:05:21] Expired messages: 0
+[2026-03-29 19:05:21] Recent messages count: 10
+[2026-03-29 19:05:21] Message stats count: 13
+[2026-03-29 19:05:21] User growth data count: 1
+[2026-03-29 19:05:21] Message status data count: 4
+[2026-03-29 19:05:21] Daily messages data count: 0
+[2026-03-29 19:05:21] Users by type data count: 12
+[2026-03-29 19:05:21] Top users count: 5
+[2026-03-29 19:05:21] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 19:05:21] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 19:05:21] GET export parameter: NOT SET
+[2026-03-29 19:05:21] No export parameter detected, rendering normal dashboard
+[2026-03-29 19:05:21] === SCRIPT END ===
+[2026-03-29 19:05:28] === SCRIPT START ===
+[2026-03-29 19:05:28] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 19:05:28] Request Method: GET
+[2026-03-29 19:05:28] GET Parameters: Array
+(
+)
+
+[2026-03-29 19:05:28] Core files loaded
+[2026-03-29 19:05:28] Auth check passed
+[2026-03-29 19:05:28] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => 6akht10oponcch660pb11s02nt
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774785917
+            [csrf_token] => b96f1bb7ffe883d203f49c8049c25725308e7c1ffd350b3cf0eded9f15f86fce
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774785928
+        )
+
+)
+
+[2026-03-29 19:05:28] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 19:05:28] Attempting database connection
+[2026-03-29 19:05:28] Database connected successfully
+[2026-03-29 19:05:28] Total users: 60
+[2026-03-29 19:05:28] Total messages: 10
+[2026-03-29 19:05:28] Pending messages: 1
+[2026-03-29 19:05:28] Expired messages: 0
+[2026-03-29 19:05:28] Recent messages count: 10
+[2026-03-29 19:05:28] Message stats count: 13
+[2026-03-29 19:05:28] User growth data count: 1
+[2026-03-29 19:05:28] Message status data count: 4
+[2026-03-29 19:05:28] Daily messages data count: 0
+[2026-03-29 19:05:28] Users by type data count: 12
+[2026-03-29 19:05:28] Top users count: 5
+[2026-03-29 19:05:28] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 19:05:28] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 19:05:28] GET export parameter: NOT SET
+[2026-03-29 19:05:28] No export parameter detected, rendering normal dashboard
+[2026-03-29 19:05:28] === SCRIPT END ===
+[2026-03-29 19:05:37] === SCRIPT START ===
+[2026-03-29 19:05:37] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 19:05:37] Request Method: GET
+[2026-03-29 19:05:37] GET Parameters: Array
+(
+)
+
+[2026-03-29 19:05:37] Core files loaded
+[2026-03-29 19:05:37] Auth check passed
+[2026-03-29 19:05:37] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => 6akht10oponcch660pb11s02nt
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774785917
+            [csrf_token] => b96f1bb7ffe883d203f49c8049c25725308e7c1ffd350b3cf0eded9f15f86fce
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774785937
+        )
+
+)
+
+[2026-03-29 19:05:37] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 19:05:37] Attempting database connection
+[2026-03-29 19:05:37] Database connected successfully
+[2026-03-29 19:05:37] Total users: 60
+[2026-03-29 19:05:37] Total messages: 10
+[2026-03-29 19:05:37] Pending messages: 1
+[2026-03-29 19:05:37] Expired messages: 0
+[2026-03-29 19:05:37] Recent messages count: 10
+[2026-03-29 19:05:37] Message stats count: 13
+[2026-03-29 19:05:37] User growth data count: 1
+[2026-03-29 19:05:37] Message status data count: 4
+[2026-03-29 19:05:37] Daily messages data count: 0
+[2026-03-29 19:05:37] Users by type data count: 12
+[2026-03-29 19:05:37] Top users count: 5
+[2026-03-29 19:05:37] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 19:05:37] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 19:05:37] GET export parameter: NOT SET
+[2026-03-29 19:05:37] No export parameter detected, rendering normal dashboard
+[2026-03-29 19:05:37] === SCRIPT END ===
+[2026-03-29 19:06:08] === SCRIPT START ===
+[2026-03-29 19:06:08] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 19:06:08] Request Method: GET
+[2026-03-29 19:06:08] GET Parameters: Array
+(
+)
+
+[2026-03-29 19:06:08] Core files loaded
+[2026-03-29 19:06:08] Auth check passed
+[2026-03-29 19:06:08] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => c38qc1cna9p6n8vb7qdijq7slj
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774785965
+            [csrf_token] => 8ecbe3b95b91ea07561669aac048efb0ec3befbea9360cd7ef45d4a824564b79
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774785968
+        )
+
+)
+
+[2026-03-29 19:06:08] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 19:06:08] Attempting database connection
+[2026-03-29 19:06:08] Database connected successfully
+[2026-03-29 19:06:08] Total users: 60
+[2026-03-29 19:06:08] Total messages: 10
+[2026-03-29 19:06:08] Pending messages: 1
+[2026-03-29 19:06:08] Expired messages: 0
+[2026-03-29 19:06:08] Recent messages count: 10
+[2026-03-29 19:06:08] Message stats count: 13
+[2026-03-29 19:06:08] User growth data count: 1
+[2026-03-29 19:06:08] Message status data count: 4
+[2026-03-29 19:06:08] Daily messages data count: 0
+[2026-03-29 19:06:08] Users by type data count: 12
+[2026-03-29 19:06:08] Top users count: 5
+[2026-03-29 19:06:09] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 19:06:09] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 19:06:09] GET export parameter: NOT SET
+[2026-03-29 19:06:09] No export parameter detected, rendering normal dashboard
+[2026-03-29 19:06:09] === SCRIPT END ===
+[2026-03-29 20:17:55] === SCRIPT START ===
+[2026-03-29 20:17:55] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 20:17:55] Request Method: GET
+[2026-03-29 20:17:55] GET Parameters: Array
+(
+)
+
+[2026-03-29 20:17:55] Core files loaded
+[2026-03-29 20:17:55] Auth check passed
+[2026-03-29 20:17:55] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => nbcbs82i4ttjsjetp077vnnubv
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774790271
+            [csrf_token] => 22a6ccca3bc43e1f7276804afedae8ce209f53c8ed9b7963f23a8e897fb2fe75
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774790275
+        )
+
+)
+
+[2026-03-29 20:17:55] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 20:17:55] Attempting database connection
+[2026-03-29 20:17:55] Database connected successfully
+[2026-03-29 20:17:55] Total users: 60
+[2026-03-29 20:17:55] Total messages: 10
+[2026-03-29 20:17:55] Pending messages: 1
+[2026-03-29 20:17:55] Expired messages: 0
+[2026-03-29 20:17:55] Recent messages count: 10
+[2026-03-29 20:17:55] Message stats count: 13
+[2026-03-29 20:17:55] User growth data count: 1
+[2026-03-29 20:17:55] Message status data count: 4
+[2026-03-29 20:17:55] Daily messages data count: 0
+[2026-03-29 20:17:55] Users by type data count: 12
+[2026-03-29 20:17:55] Top users count: 5
+[2026-03-29 20:17:55] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 20:17:55] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 20:17:55] GET export parameter: NOT SET
+[2026-03-29 20:17:55] No export parameter detected, rendering normal dashboard
+[2026-03-29 20:17:55] === SCRIPT END ===
+[2026-03-29 20:18:10] === SCRIPT START ===
+[2026-03-29 20:18:10] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 20:18:10] Request Method: GET
+[2026-03-29 20:18:10] GET Parameters: Array
+(
+)
+
+[2026-03-29 20:18:10] Core files loaded
+[2026-03-29 20:18:10] Auth check passed
+[2026-03-29 20:18:10] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => plu9531oudrtu2o67gei7ad7fd
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774790284
+            [csrf_token] => 48e196dc00f6bbdfb0ff5fc687db5ee7c4d08d77e3c8cb29d2e5cc79b73a31bd
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774790290
+        )
+
+)
+
+[2026-03-29 20:18:10] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 20:18:10] Attempting database connection
+[2026-03-29 20:18:10] Database connected successfully
+[2026-03-29 20:18:10] Total users: 60
+[2026-03-29 20:18:10] Total messages: 10
+[2026-03-29 20:18:10] Pending messages: 1
+[2026-03-29 20:18:10] Expired messages: 0
+[2026-03-29 20:18:10] Recent messages count: 10
+[2026-03-29 20:18:10] Message stats count: 13
+[2026-03-29 20:18:10] User growth data count: 1
+[2026-03-29 20:18:10] Message status data count: 4
+[2026-03-29 20:18:10] Daily messages data count: 0
+[2026-03-29 20:18:10] Users by type data count: 12
+[2026-03-29 20:18:10] Top users count: 5
+[2026-03-29 20:18:10] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 20:18:10] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 20:18:10] GET export parameter: NOT SET
+[2026-03-29 20:18:10] No export parameter detected, rendering normal dashboard
+[2026-03-29 20:18:10] === SCRIPT END ===
+[2026-03-29 20:18:31] === SCRIPT START ===
+[2026-03-29 20:18:31] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 20:18:31] Request Method: GET
+[2026-03-29 20:18:31] GET Parameters: Array
+(
+)
+
+[2026-03-29 20:18:31] Core files loaded
+[2026-03-29 20:18:31] Auth check passed
+[2026-03-29 20:18:31] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => qda7kc1cpnh6hfo5cfnik7h62m
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774790306
+            [csrf_token] => 5e4ff58329569aca1e36e7abc3d92de32bea0c712b4cfd8718e6e913e084e63f
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774790311
+        )
+
+)
+
+[2026-03-29 20:18:31] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 20:18:31] Attempting database connection
+[2026-03-29 20:18:31] Database connected successfully
+[2026-03-29 20:18:32] Total users: 60
+[2026-03-29 20:18:32] Total messages: 10
+[2026-03-29 20:18:32] Pending messages: 1
+[2026-03-29 20:18:32] Expired messages: 0
+[2026-03-29 20:18:32] Recent messages count: 10
+[2026-03-29 20:18:32] Message stats count: 13
+[2026-03-29 20:18:32] User growth data count: 1
+[2026-03-29 20:18:32] Message status data count: 4
+[2026-03-29 20:18:32] Daily messages data count: 0
+[2026-03-29 20:18:32] Users by type data count: 12
+[2026-03-29 20:18:32] Top users count: 5
+[2026-03-29 20:18:32] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 20:18:32] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 20:18:32] GET export parameter: NOT SET
+[2026-03-29 20:18:32] No export parameter detected, rendering normal dashboard
+[2026-03-29 20:18:32] === SCRIPT END ===
+[2026-03-29 20:19:50] === SCRIPT START ===
+[2026-03-29 20:19:50] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 20:19:50] Request Method: GET
+[2026-03-29 20:19:50] GET Parameters: Array
+(
+)
+
+[2026-03-29 20:19:50] Core files loaded
+[2026-03-29 20:19:50] Auth check passed
+[2026-03-29 20:19:50] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => 27u378gtoa48huti33qo59sl66
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774790386
+            [csrf_token] => a6682dd2d90d56ee6a62ec04e26c87a774d47ff7d63104be18fc93784397a5b4
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774790390
+        )
+
+)
+
+[2026-03-29 20:19:50] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 20:19:50] Attempting database connection
+[2026-03-29 20:19:50] Database connected successfully
+[2026-03-29 20:19:50] Total users: 60
+[2026-03-29 20:19:50] Total messages: 10
+[2026-03-29 20:19:50] Pending messages: 1
+[2026-03-29 20:19:50] Expired messages: 0
+[2026-03-29 20:19:50] Recent messages count: 10
+[2026-03-29 20:19:50] Message stats count: 13
+[2026-03-29 20:19:50] User growth data count: 1
+[2026-03-29 20:19:50] Message status data count: 4
+[2026-03-29 20:19:50] Daily messages data count: 0
+[2026-03-29 20:19:50] Users by type data count: 12
+[2026-03-29 20:19:50] Top users count: 5
+[2026-03-29 20:19:50] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 20:19:50] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 20:19:50] GET export parameter: NOT SET
+[2026-03-29 20:19:50] No export parameter detected, rendering normal dashboard
+[2026-03-29 20:19:50] === SCRIPT END ===
+[2026-03-29 20:29:37] === SCRIPT START ===
+[2026-03-29 20:29:37] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-29 20:29:37] Request Method: GET
+[2026-03-29 20:29:37] GET Parameters: Array
+(
+)
+
+[2026-03-29 20:29:37] Core files loaded
+[2026-03-29 20:29:37] Auth check passed
+[2026-03-29 20:29:37] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => b4vdu84ptr7t5soqu7t4ddj17m
+    [session_data] => Array
+        (
+            [last_regeneration] => 1774790972
+            [csrf_token] => adfb05b4abf99711b5c245feab15a6c2e4f30af88283a05098ce8600d71d0e47
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1774790977
+        )
+
+)
+
+[2026-03-29 20:29:37] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-29 20:29:37] Attempting database connection
+[2026-03-29 20:29:37] Database connected successfully
+[2026-03-29 20:29:37] Total users: 60
+[2026-03-29 20:29:37] Total messages: 10
+[2026-03-29 20:29:37] Pending messages: 1
+[2026-03-29 20:29:37] Expired messages: 0
+[2026-03-29 20:29:37] Recent messages count: 10
+[2026-03-29 20:29:37] Message stats count: 13
+[2026-03-29 20:29:37] User growth data count: 1
+[2026-03-29 20:29:37] Message status data count: 4
+[2026-03-29 20:29:37] Daily messages data count: 0
+[2026-03-29 20:29:37] Users by type data count: 12
+[2026-03-29 20:29:37] Top users count: 5
+[2026-03-29 20:29:37] Response stats - DATA: Array
+(
+    [total_messages] => 2
+    [responded] => 1
+    [response_rate] => 50.00
+)
+
+[2026-03-29 20:29:37] === CHECKING EXPORT PARAMETERS ===
+[2026-03-29 20:29:37] GET export parameter: NOT SET
+[2026-03-29 20:29:37] No export parameter detected, rendering normal dashboard
+[2026-03-29 20:29:37] === SCRIPT END ===

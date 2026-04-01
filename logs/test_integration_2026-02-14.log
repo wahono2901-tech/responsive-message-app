@@ -1,0 +1,1452 @@
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8089][STEP 1][init][test_step:98] =================================================================================
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8115][STEP 2][init][test_step:99] MEMULAI TEST INTEGRASI - Array
+(
+    [test_session] => test_698fcf64c57c44.02852469
+    [start_time] => 2026-02-14 08:27:00
+    [base_url] => http://localhost:8080/responsive-message-app/
+    [document_root] => C:/xampp/htdocs
+    [script_path] => C:\xampp\htdocs\responsive-message-app\test_integration.php
+    [php_version] => 8.2.12
+    [server_software] => Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8164][STEP 3][file_check][test_step:136] FILE DITEMUKAN: api/email.php - Array
+(
+    [size] => 21588
+    [modified] => 2026-02-13 16:06:59
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8207][STEP 4][file_check][test_step:136] FILE DITEMUKAN: api/whatsapp.php - Array
+(
+    [size] => 9341
+    [modified] => 2026-01-27 11:25:07
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8262][STEP 5][file_check][test_step:136] FILE DITEMUKAN: modules/guru/followup.php - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8288][STEP 6][file_check][test_step:136] FILE DITEMUKAN: modules/guru/response.php - Array
+(
+    [size] => 88060
+    [modified] => 2026-02-14 07:54:00
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8347][STEP 7][file_check][test_step:136] FILE DITEMUKAN: modules/guru/ajax/get_message_detail.php - Array
+(
+    [size] => 17076
+    [modified] => 2026-02-14 08:25:26
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8376][STEP 8][file_check][test_step:136] FILE DITEMUKAN: config/config.php - Array
+(
+    [size] => 3911
+    [modified] => 2026-02-14 08:26:28
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8413][STEP 9][file_check][test_step:136] FILE DITEMUKAN: config/database.php - Array
+(
+    [size] => 3916
+    [modified] => 2026-01-27 10:36:33
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8438][STEP 10][file_check][test_step:136] FILE DITEMUKAN: includes/auth.php - Array
+(
+    [size] => 14546
+    [modified] => 2026-02-11 08:56:42
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.846][STEP 11][file_check][test_step:136] FILE DITEMUKAN: includes/functions.php - Array
+(
+    [size] => 35369
+    [modified] => 2026-02-11 12:24:50
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8471][STEP 12][database][test_step:144] MENGUJI KONEKSI DATABASE - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8535][STEP 13][assert][test_assert:91] ASSERT: ✓ Koneksi database berhasil - Array
+(
+    [db_info] => Uptime: 10223  Threads: 8  Questions: 3009  Slow queries: 0  Opens: 44  Flush tables: 1  Open tables: 37  Queries per second avg: 0.294
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8634][STEP 14][database][test_step:166] TABEL DITEMUKAN: messages - Array
+(
+    [records] => 7
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8754][STEP 15][database][test_step:166] TABEL DITEMUKAN: message_responses - Array
+(
+    [records] => 9
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8803][STEP 16][database][test_step:166] TABEL DITEMUKAN: message_types - Array
+(
+    [records] => 13
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8878][STEP 17][database][test_step:166] TABEL DITEMUKAN: users - Array
+(
+    [records] => 58
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.8942][STEP 18][database][test_step:166] TABEL DITEMUKAN: external_senders - Array
+(
+    [records] => 2
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9013][STEP 19][database][test_step:166] TABEL DITEMUKAN: response_templates - Array
+(
+    [records] => 3
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9076][STEP 20][database][test_step:168] TABEL TIDAK DITEMUKAN: notification_logs - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9118][STEP 21][database][test_step:166] TABEL DITEMUKAN: email_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9176][STEP 22][database][test_step:166] TABEL DITEMUKAN: whatsapp_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9213][STEP 23][database][test_step:168] TABEL TIDAK DITEMUKAN: external_communications - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9226][STEP 24][data_prep][test_step:365] =============================================================
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9237][STEP 25][data_prep][test_step:366] MENYIAPKAN DATA TEST - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9249][STEP 26][data_prep][prepare_test_data:373] Membuat/Mendapatkan data guru test - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9268][STEP 27][data_prep][prepare_test_data:394] Guru ID - Array
+(
+    [id] => 3
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9287][STEP 28][data_prep][prepare_test_data:414] Message Type ID - Array
+(
+    [id] => 1
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9352][STEP 29][data_prep][prepare_test_data:432] External Sender ID - Array
+(
+    [id] => 22
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9403][STEP 30][data_prep][prepare_test_data:453] Internal Message Test Dibuat - Array
+(
+    [id] => 29
+    [reference] => TEST-20260214-5549
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9493][STEP 31][data_prep][prepare_test_data:503] ERROR menyiapkan data test - Array
+(
+    [error] => SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`responsive_message_db`.`messages`, CONSTRAINT `messages_ibfk_2` FOREIGN KEY (`pengirim_id`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    [trace] => #0 C:\xampp\htdocs\responsive-message-app\test_integration.php(469): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\test_integration.php(512): prepare_test_data()
+#2 {main}
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9514][STEP 32][followup][test_step:517] =============================================================
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9527][STEP 33][followup][test_step:518] TESTING FOLLOWUP PAGE - Array
+(
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9551][STEP 34][followup][test_followup_page:524] Followup URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.957][STEP 35][followup][test_followup_page:533] File followup.php ditemukan - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9917][STEP 36][followup][test_followup_page:554] HTTP Access Followup Page - Array
+(
+    [http_code] => 200
+    [content_type] => text/html; charset=UTF-8
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9936][STEP 37][followup][test_followup_page:562] AJAX file ditemukan - Array
+(
+    [path] => C:\xampp\htdocs\responsive-message-app/modules/guru/ajax/get_message_detail.php
+    [size] => 17076
+)
+
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9953][STEP 38][response][test_step:578] =============================================================
+2026-02-14 08:27:00 - [TEST_test_698fcf64c57c44.02852469][1771032420.9967][STEP 39][response][test_step:579] TESTING RESPONSE PAGE - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0022][STEP 40][notification][test_step:633] =============================================================
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0069][STEP 41][notification][test_step:634] TESTING NOTIFICATION FUNCTIONS - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0082][STEP 42][notification][test_notification_functions:637] Menguji fungsi notifikasi email - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0105][STEP 43][notification][test_notification_functions:653] Meng-include response.php untuk menguji fungsi notifikasi - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0125][STEP 44][notification][test_notification_functions:658] Fungsi notifikasi email tersedia di response.php - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0171][STEP 45][notification][test_notification_functions:661] Simulasi pengiriman email - Array
+(
+    [email] => test@example.com
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+    [catatan] => Ini adalah catatan respons test untuk notifikasi email.
+    [guru_nama] => Guru Test
+    [guru_type] => Guru_BK
+    [guru_email] => guru.test@example.com
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0193][STEP 46][notification][test_notification_functions:662] Email akan dikirim ke: test@example.com - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0227][STEP 47][notification][test_notification_functions:665] Simulasi pengiriman WhatsApp - Array
+(
+    [to] => 628123456789
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0241][STEP 48][notification][test_notification_functions:672] Notifikasi WhatsApp akan dikirim ke: 628123456789 - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0257][STEP 49][integration][test_step:686] =============================================================
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0271][STEP 50][integration][test_step:687] TEST INTEGRASI LENGKAP - SIMULASI FLOW - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0283][STEP 51][integration][test_complete_flow:692] MEMULAI SIMULASI FLOW LENGKAP - Array
+(
+    [internal_message_id] => 
+    [external_message_id] => 
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0295][STEP 52][integration][test_complete_flow:698] FLOW 1: Guru membuka followup.php - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0307][STEP 53][integration][test_complete_flow:699] → followup.php menampilkan daftar pesan dengan filter - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0361][STEP 54][integration][test_complete_flow:700] → Pesan external ditandai dengan badge khusus - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0383][STEP 55][integration][test_complete_flow:703] FLOW 2: Guru melihat detail pesan - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0396][STEP 56][integration][test_complete_flow:704] → JavaScript memanggil ajax/get_message_detail.php - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0409][STEP 57][integration][test_complete_flow:705] → AJAX mengembalikan HTML detail pesan - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.042][STEP 58][integration][test_complete_flow:706] → Modal menampilkan detail lengkap - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0432][STEP 59][integration][test_complete_flow:709] FLOW 3: Guru membuka form response - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0444][STEP 60][integration][test_complete_flow:710] → Modal response terbuka - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0456][STEP 61][integration][test_complete_flow:711] → Untuk pesan external, muncul alert khusus - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0468][STEP 62][integration][test_complete_flow:714] FLOW 4: Guru menggunakan template response - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0484][STEP 63][integration][test_complete_flow:715] → Template di-load dari database - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0512][STEP 64][integration][test_complete_flow:716] → Template external memiliki penanda khusus - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0529][STEP 65][integration][test_complete_flow:717] → Isi template masuk ke textarea - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.055][STEP 66][integration][test_complete_flow:720] FLOW 5: Guru submit response - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0563][STEP 67][integration][test_complete_flow:721] → Form di-POST ke response.php - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0573][STEP 68][integration][test_complete_flow:722] → Response.php memproses data: - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0583][STEP 69][integration][test_complete_flow:723]    • Update status message - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0596][STEP 70][integration][test_complete_flow:724]    • Insert/update message_responses - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0608][STEP 71][integration][test_complete_flow:725]    • Update template use count - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0619][STEP 72][integration][test_complete_flow:728] FLOW 6: Sistem mengirim notifikasi - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.063][STEP 73][integration][test_complete_flow:729] → Untuk pesan external: - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0642][STEP 74][integration][test_complete_flow:730]    • Panggil fungsi sendEmailNotification() - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0668][STEP 75][integration][test_complete_flow:731]    • Panggil fungsi sendWhatsAppNotification() - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.068][STEP 76][integration][test_complete_flow:732] → Fungsi notifikasi memanggil API: - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0691][STEP 77][integration][test_complete_flow:733]    • api/email.php - send_email - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0702][STEP 78][integration][test_complete_flow:734]    • api/whatsapp.php - send_message - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0713][STEP 79][integration][test_complete_flow:735] → Log notifikasi disimpan - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0724][STEP 80][integration][test_complete_flow:738] FLOW 7: Transaction commit - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0735][STEP 81][integration][test_complete_flow:739] → Semua perubahan database disimpan - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0746][STEP 82][integration][test_complete_flow:740] → Session message sukses diset - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0756][STEP 83][integration][test_complete_flow:741] → Redirect kembali ke response.php - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0769][STEP 84][integration][test_complete_flow:743] ✓ SIMULASI FLOW LENGKAP SELESAI - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0781][STEP 85][api_email][test_api_email:187] =------------------------------------------------------------
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0791][STEP 86][api_email][test_api_email:188] TESTING API EMAIL - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0801][STEP 87][api_email][test_api_email:194] TEST 1: Get Email Status - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0819][STEP 88][api_email][test_api_email:197] Request URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/api/email.php?action=status&api_key=test_api_key_123
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0904][STEP 89][api_email][test_api_email:216] Response Status - Array
+(
+    [http_code] => 200
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0914][STEP 90][api_email][test_api_email:220] Response Data
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0926][STEP 91][assert][test_assert:91] ASSERT: ✗ Email API merespons dengan data
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.0939][STEP 92][api_email][test_api_email:231] TEST 2: Test Send Email (Simulasi) - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1014][STEP 93][api_email][test_api_email:247] Test Email Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1025][STEP 94][api_email][test_api_email:253] TEST 3: Test Send Response Email (Simulasi POST) - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1086][STEP 95][api_email][test_api_email:281] POST Send Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1099][STEP 96][api_whatsapp][test_api_whatsapp:293] =------------------------------------------------------------
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1112][STEP 97][api_whatsapp][test_api_whatsapp:294] TESTING API WHATSAPP - Array
+(
+)
+
+2026-02-14 08:27:01 - [TEST_test_698fcf64c57c44.02852469][1771032421.1124][STEP 98][api_whatsapp][test_api_whatsapp:300] TEST 1: Get WhatsApp Status - Array
+(
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.0841][STEP 99][api_whatsapp][test_api_whatsapp:316] WhatsApp Status Response - Array
+(
+    [http_code] => 200
+    [response] => {"success":true,"status":"disconnected","enabled":true,"provider":"CallMeBot","last_check":"2026-02-14 08:27:02"}
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.0854][STEP 100][api_whatsapp][test_api_whatsapp:323] WhatsApp Status Data - Array
+(
+    [success] => 1
+    [status] => disconnected
+    [enabled] => 1
+    [provider] => CallMeBot
+    [last_check] => 2026-02-14 08:27:02
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.0867][STEP 101][api_whatsapp][test_api_whatsapp:327] TEST 2: Test Send WhatsApp (Simulasi POST) - Array
+(
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.8834][STEP 102][api_whatsapp][test_api_whatsapp:354] POST Send WhatsApp - Array
+(
+    [http_code] => 500
+    [response] => {"success":false,"error":"Failed to send WhatsApp message"}
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.8848][STEP 103][summary][test_step:759] =================================================================================
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.886][STEP 104][summary][test_step:760] RINGKASAN TEST INTEGRASI - Array
+(
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.8873][STEP 105][summary][test_step:792] STATISTIK TEST - Array
+(
+    [total_steps] => 104
+    [success] => 31
+    [error] => 2
+    [warning] => 2
+    [info] => 69
+    [execution_time_ms] => 2078.34
+    [test_session] => test_698fcf64c57c44.02852469
+    [timestamp] => 2026-02-14 08:27:02
+)
+
+2026-02-14 08:27:02 - [TEST_test_698fcf64c57c44.02852469][1771032422.8884][STEP 106][summary][test_step:798] STATUS KESELURUHAN: FAILED - Array
+(
+    [error_count] => 2
+    [success_rate] => 29.81%
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.7917][STEP 1][init][test_step:98] =================================================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.7956][STEP 2][init][test_step:99] MEMULAI TEST INTEGRASI - Array
+(
+    [test_session] => test_698fcfa0c14756.43534210
+    [start_time] => 2026-02-14 08:28:00
+    [base_url] => http://localhost:8080/responsive-message-app/
+    [document_root] => C:/xampp/htdocs
+    [script_path] => C:\xampp\htdocs\responsive-message-app\test_integration.php
+    [php_version] => 8.2.12
+    [server_software] => Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.7988][STEP 3][file_check][test_step:136] FILE DITEMUKAN: api/email.php - Array
+(
+    [size] => 21588
+    [modified] => 2026-02-13 16:06:59
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8023][STEP 4][file_check][test_step:136] FILE DITEMUKAN: api/whatsapp.php - Array
+(
+    [size] => 9341
+    [modified] => 2026-01-27 11:25:07
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8047][STEP 5][file_check][test_step:136] FILE DITEMUKAN: modules/guru/followup.php - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8069][STEP 6][file_check][test_step:136] FILE DITEMUKAN: modules/guru/response.php - Array
+(
+    [size] => 88060
+    [modified] => 2026-02-14 07:54:00
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8102][STEP 7][file_check][test_step:136] FILE DITEMUKAN: modules/guru/ajax/get_message_detail.php - Array
+(
+    [size] => 17076
+    [modified] => 2026-02-14 08:25:26
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8147][STEP 8][file_check][test_step:136] FILE DITEMUKAN: config/config.php - Array
+(
+    [size] => 3911
+    [modified] => 2026-02-14 08:26:28
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8191][STEP 9][file_check][test_step:136] FILE DITEMUKAN: config/database.php - Array
+(
+    [size] => 3916
+    [modified] => 2026-01-27 10:36:33
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8213][STEP 10][file_check][test_step:136] FILE DITEMUKAN: includes/auth.php - Array
+(
+    [size] => 14546
+    [modified] => 2026-02-11 08:56:42
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8236][STEP 11][file_check][test_step:136] FILE DITEMUKAN: includes/functions.php - Array
+(
+    [size] => 35369
+    [modified] => 2026-02-11 12:24:50
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8246][STEP 12][database][test_step:144] MENGUJI KONEKSI DATABASE - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.83][STEP 13][assert][test_assert:91] ASSERT: ✓ Koneksi database berhasil - Array
+(
+    [db_info] => Uptime: 10283  Threads: 8  Questions: 3109  Slow queries: 0  Opens: 44  Flush tables: 1  Open tables: 37  Queries per second avg: 0.302
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8352][STEP 14][database][test_step:166] TABEL DITEMUKAN: messages - Array
+(
+    [records] => 8
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8384][STEP 15][database][test_step:166] TABEL DITEMUKAN: message_responses - Array
+(
+    [records] => 9
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8416][STEP 16][database][test_step:166] TABEL DITEMUKAN: message_types - Array
+(
+    [records] => 13
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.848][STEP 17][database][test_step:166] TABEL DITEMUKAN: users - Array
+(
+    [records] => 58
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8522][STEP 18][database][test_step:166] TABEL DITEMUKAN: external_senders - Array
+(
+    [records] => 3
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8554][STEP 19][database][test_step:166] TABEL DITEMUKAN: response_templates - Array
+(
+    [records] => 3
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8589][STEP 20][database][test_step:168] TABEL TIDAK DITEMUKAN: notification_logs - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.865][STEP 21][database][test_step:166] TABEL DITEMUKAN: email_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8696][STEP 22][database][test_step:166] TABEL DITEMUKAN: whatsapp_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8722][STEP 23][database][test_step:168] TABEL TIDAK DITEMUKAN: external_communications - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8732][STEP 24][data_prep][test_step:365] =============================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8745][STEP 25][data_prep][test_step:366] MENYIAPKAN DATA TEST - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8755][STEP 26][data_prep][prepare_test_data:373] Membuat/Mendapatkan data guru test - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8795][STEP 27][data_prep][prepare_test_data:394] Guru ID - Array
+(
+    [id] => 3
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.882][STEP 28][data_prep][prepare_test_data:414] Message Type ID - Array
+(
+    [id] => 1
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8845][STEP 29][data_prep][prepare_test_data:432] External Sender ID - Array
+(
+    [id] => 22
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8888][STEP 30][data_prep][prepare_test_data:453] Internal Message Test Dibuat - Array
+(
+    [id] => 31
+    [reference] => TEST-20260214-9580
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.8992][STEP 31][data_prep][prepare_test_data:503] ERROR menyiapkan data test - Array
+(
+    [error] => SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`responsive_message_db`.`messages`, CONSTRAINT `messages_ibfk_2` FOREIGN KEY (`pengirim_id`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    [trace] => #0 C:\xampp\htdocs\responsive-message-app\test_integration.php(469): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\test_integration.php(512): prepare_test_data()
+#2 {main}
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9012][STEP 32][followup][test_step:517] =============================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9025][STEP 33][followup][test_step:518] TESTING FOLLOWUP PAGE - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9036][STEP 34][followup][test_followup_page:524] Followup URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9052][STEP 35][followup][test_followup_page:533] File followup.php ditemukan - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9354][STEP 36][followup][test_followup_page:554] HTTP Access Followup Page - Array
+(
+    [http_code] => 200
+    [content_type] => text/html; charset=UTF-8
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9372][STEP 37][followup][test_followup_page:562] AJAX file ditemukan - Array
+(
+    [path] => C:\xampp\htdocs\responsive-message-app/modules/guru/ajax/get_message_detail.php
+    [size] => 17076
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9384][STEP 38][response][test_step:578] =============================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9402][STEP 39][response][test_step:579] TESTING RESPONSE PAGE - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9415][STEP 40][notification][test_step:633] =============================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9513][STEP 41][notification][test_step:634] TESTING NOTIFICATION FUNCTIONS - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9559][STEP 42][notification][test_notification_functions:637] Menguji fungsi notifikasi email - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9581][STEP 43][notification][test_notification_functions:653] Meng-include response.php untuk menguji fungsi notifikasi - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9632][STEP 44][notification][test_notification_functions:658] Fungsi notifikasi email tersedia di response.php - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9647][STEP 45][notification][test_notification_functions:661] Simulasi pengiriman email - Array
+(
+    [email] => test@example.com
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+    [catatan] => Ini adalah catatan respons test untuk notifikasi email.
+    [guru_nama] => Guru Test
+    [guru_type] => Guru_BK
+    [guru_email] => guru.test@example.com
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9676][STEP 46][notification][test_notification_functions:662] Email akan dikirim ke: test@example.com - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9688][STEP 47][notification][test_notification_functions:665] Simulasi pengiriman WhatsApp - Array
+(
+    [to] => 628123456789
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.97][STEP 48][notification][test_notification_functions:672] Notifikasi WhatsApp akan dikirim ke: 628123456789 - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9736][STEP 49][integration][test_step:686] =============================================================
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9789][STEP 50][integration][test_step:687] TEST INTEGRASI LENGKAP - SIMULASI FLOW - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9821][STEP 51][integration][test_complete_flow:692] MEMULAI SIMULASI FLOW LENGKAP - Array
+(
+    [internal_message_id] => 
+    [external_message_id] => 
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9843][STEP 52][integration][test_complete_flow:698] FLOW 1: Guru membuka followup.php - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9857][STEP 53][integration][test_complete_flow:699] → followup.php menampilkan daftar pesan dengan filter - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.987][STEP 54][integration][test_complete_flow:700] → Pesan external ditandai dengan badge khusus - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9883][STEP 55][integration][test_complete_flow:703] FLOW 2: Guru melihat detail pesan - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9895][STEP 56][integration][test_complete_flow:704] → JavaScript memanggil ajax/get_message_detail.php - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9906][STEP 57][integration][test_complete_flow:705] → AJAX mengembalikan HTML detail pesan - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9919][STEP 58][integration][test_complete_flow:706] → Modal menampilkan detail lengkap - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.995][STEP 59][integration][test_complete_flow:709] FLOW 3: Guru membuka form response - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9967][STEP 60][integration][test_complete_flow:710] → Modal response terbuka - Array
+(
+)
+
+2026-02-14 08:28:00 - [TEST_test_698fcfa0c14756.43534210][1771032480.9983][STEP 61][integration][test_complete_flow:711] → Untuk pesan external, muncul alert khusus - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0004][STEP 62][integration][test_complete_flow:714] FLOW 4: Guru menggunakan template response - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0015][STEP 63][integration][test_complete_flow:715] → Template di-load dari database - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0027][STEP 64][integration][test_complete_flow:716] → Template external memiliki penanda khusus - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0039][STEP 65][integration][test_complete_flow:717] → Isi template masuk ke textarea - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.005][STEP 66][integration][test_complete_flow:720] FLOW 5: Guru submit response - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0061][STEP 67][integration][test_complete_flow:721] → Form di-POST ke response.php - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0072][STEP 68][integration][test_complete_flow:722] → Response.php memproses data: - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0083][STEP 69][integration][test_complete_flow:723]    • Update status message - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0109][STEP 70][integration][test_complete_flow:724]    • Insert/update message_responses - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0137][STEP 71][integration][test_complete_flow:725]    • Update template use count - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.016][STEP 72][integration][test_complete_flow:728] FLOW 6: Sistem mengirim notifikasi - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0175][STEP 73][integration][test_complete_flow:729] → Untuk pesan external: - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0186][STEP 74][integration][test_complete_flow:730]    • Panggil fungsi sendEmailNotification() - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0197][STEP 75][integration][test_complete_flow:731]    • Panggil fungsi sendWhatsAppNotification() - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0208][STEP 76][integration][test_complete_flow:732] → Fungsi notifikasi memanggil API: - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0227][STEP 77][integration][test_complete_flow:733]    • api/email.php - send_email - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0241][STEP 78][integration][test_complete_flow:734]    • api/whatsapp.php - send_message - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0251][STEP 79][integration][test_complete_flow:735] → Log notifikasi disimpan - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0276][STEP 80][integration][test_complete_flow:738] FLOW 7: Transaction commit - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0313][STEP 81][integration][test_complete_flow:739] → Semua perubahan database disimpan - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0328][STEP 82][integration][test_complete_flow:740] → Session message sukses diset - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0355][STEP 83][integration][test_complete_flow:741] → Redirect kembali ke response.php - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0366][STEP 84][integration][test_complete_flow:743] ✓ SIMULASI FLOW LENGKAP SELESAI - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0378][STEP 85][api_email][test_api_email:187] =------------------------------------------------------------
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0388][STEP 86][api_email][test_api_email:188] TESTING API EMAIL - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.04][STEP 87][api_email][test_api_email:194] TEST 1: Get Email Status - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0411][STEP 88][api_email][test_api_email:197] Request URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/api/email.php?action=status&api_key=test_api_key_123
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0493][STEP 89][api_email][test_api_email:216] Response Status - Array
+(
+    [http_code] => 200
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0504][STEP 90][api_email][test_api_email:220] Response Data
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0515][STEP 91][assert][test_assert:91] ASSERT: ✗ Email API merespons dengan data
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0526][STEP 92][api_email][test_api_email:231] TEST 2: Test Send Email (Simulasi) - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0588][STEP 93][api_email][test_api_email:247] Test Email Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0619][STEP 94][api_email][test_api_email:253] TEST 3: Test Send Response Email (Simulasi POST) - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0696][STEP 95][api_email][test_api_email:281] POST Send Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0708][STEP 96][api_whatsapp][test_api_whatsapp:293] =------------------------------------------------------------
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0719][STEP 97][api_whatsapp][test_api_whatsapp:294] TESTING API WHATSAPP - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.0731][STEP 98][api_whatsapp][test_api_whatsapp:300] TEST 1: Get WhatsApp Status - Array
+(
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.9261][STEP 99][api_whatsapp][test_api_whatsapp:316] WhatsApp Status Response - Array
+(
+    [http_code] => 200
+    [response] => {"success":true,"status":"disconnected","enabled":true,"provider":"CallMeBot","last_check":"2026-02-14 08:28:01"}
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.928][STEP 100][api_whatsapp][test_api_whatsapp:323] WhatsApp Status Data - Array
+(
+    [success] => 1
+    [status] => disconnected
+    [enabled] => 1
+    [provider] => CallMeBot
+    [last_check] => 2026-02-14 08:28:01
+)
+
+2026-02-14 08:28:01 - [TEST_test_698fcfa0c14756.43534210][1771032481.9295][STEP 101][api_whatsapp][test_api_whatsapp:327] TEST 2: Test Send WhatsApp (Simulasi POST) - Array
+(
+)
+
+2026-02-14 08:28:02 - [TEST_test_698fcfa0c14756.43534210][1771032482.7583][STEP 102][api_whatsapp][test_api_whatsapp:354] POST Send WhatsApp - Array
+(
+    [http_code] => 500
+    [response] => {"success":false,"error":"Failed to send WhatsApp message"}
+)
+
+2026-02-14 08:28:02 - [TEST_test_698fcfa0c14756.43534210][1771032482.7601][STEP 103][summary][test_step:759] =================================================================================
+2026-02-14 08:28:02 - [TEST_test_698fcfa0c14756.43534210][1771032482.762][STEP 104][summary][test_step:760] RINGKASAN TEST INTEGRASI - Array
+(
+)
+
+2026-02-14 08:28:02 - [TEST_test_698fcfa0c14756.43534210][1771032482.7632][STEP 105][summary][test_step:792] STATISTIK TEST - Array
+(
+    [total_steps] => 104
+    [success] => 31
+    [error] => 2
+    [warning] => 2
+    [info] => 69
+    [execution_time_ms] => 1971.47
+    [test_session] => test_698fcfa0c14756.43534210
+    [timestamp] => 2026-02-14 08:28:02
+)
+
+2026-02-14 08:28:02 - [TEST_test_698fcfa0c14756.43534210][1771032482.7641][STEP 106][summary][test_step:798] STATUS KESELURUHAN: FAILED - Array
+(
+    [error_count] => 2
+    [success_rate] => 29.81%
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.7458][STEP 1][init][test_step:98] =================================================================================
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.756][STEP 2][init][test_step:99] MEMULAI TEST INTEGRASI - Array
+(
+    [test_session] => test_698ff11cb610c0.67457002
+    [start_time] => 2026-02-14 10:50:52
+    [base_url] => http://localhost:8080/responsive-message-app/
+    [document_root] => C:/xampp/htdocs
+    [script_path] => C:\xampp\htdocs\responsive-message-app\test_integration.php
+    [php_version] => 8.2.12
+    [server_software] => Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.7614][STEP 3][file_check][test_step:136] FILE DITEMUKAN: api/email.php - Array
+(
+    [size] => 21588
+    [modified] => 2026-02-13 16:06:59
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.7728][STEP 4][file_check][test_step:136] FILE DITEMUKAN: api/whatsapp.php - Array
+(
+    [size] => 9341
+    [modified] => 2026-01-27 11:25:07
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.7797][STEP 5][file_check][test_step:136] FILE DITEMUKAN: modules/guru/followup.php - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.7927][STEP 6][file_check][test_step:136] FILE DITEMUKAN: modules/guru/response.php - Array
+(
+    [size] => 88060
+    [modified] => 2026-02-14 07:54:00
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.8255][STEP 7][file_check][test_step:136] FILE DITEMUKAN: modules/guru/ajax/get_message_detail.php - Array
+(
+    [size] => 17076
+    [modified] => 2026-02-14 08:25:26
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.8382][STEP 8][file_check][test_step:136] FILE DITEMUKAN: config/config.php - Array
+(
+    [size] => 3911
+    [modified] => 2026-02-14 08:26:28
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.8649][STEP 9][file_check][test_step:136] FILE DITEMUKAN: config/database.php - Array
+(
+    [size] => 3916
+    [modified] => 2026-01-27 10:36:33
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.9085][STEP 10][file_check][test_step:136] FILE DITEMUKAN: includes/auth.php - Array
+(
+    [size] => 14546
+    [modified] => 2026-02-11 08:56:42
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.9262][STEP 11][file_check][test_step:136] FILE DITEMUKAN: includes/functions.php - Array
+(
+    [size] => 35369
+    [modified] => 2026-02-11 12:24:50
+)
+
+2026-02-14 10:50:52 - [TEST_test_698ff11cb610c0.67457002][1771041052.9387][STEP 12][database][test_step:144] MENGUJI KONEKSI DATABASE - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.1103][STEP 13][assert][test_assert:91] ASSERT: ✓ Koneksi database berhasil - Array
+(
+    [db_info] => Uptime: 611  Threads: 6  Questions: 209  Slow queries: 0  Opens: 25  Flush tables: 1  Open tables: 18  Queries per second avg: 0.342
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.1727][STEP 14][database][test_step:166] TABEL DITEMUKAN: messages - Array
+(
+    [records] => 9
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.3455][STEP 15][database][test_step:166] TABEL DITEMUKAN: message_responses - Array
+(
+    [records] => 9
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.3892][STEP 16][database][test_step:166] TABEL DITEMUKAN: message_types - Array
+(
+    [records] => 13
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.466][STEP 17][database][test_step:166] TABEL DITEMUKAN: users - Array
+(
+    [records] => 58
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.4934][STEP 18][database][test_step:166] TABEL DITEMUKAN: external_senders - Array
+(
+    [records] => 3
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5061][STEP 19][database][test_step:166] TABEL DITEMUKAN: response_templates - Array
+(
+    [records] => 3
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5134][STEP 20][database][test_step:168] TABEL TIDAK DITEMUKAN: notification_logs - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5509][STEP 21][database][test_step:166] TABEL DITEMUKAN: email_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5614][STEP 22][database][test_step:166] TABEL DITEMUKAN: whatsapp_logs - Array
+(
+    [records] => 0
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5657][STEP 23][database][test_step:168] TABEL TIDAK DITEMUKAN: external_communications - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5686][STEP 24][data_prep][test_step:365] =============================================================
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5703][STEP 25][data_prep][test_step:366] MENYIAPKAN DATA TEST - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5729][STEP 26][data_prep][prepare_test_data:373] Membuat/Mendapatkan data guru test - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5766][STEP 27][data_prep][prepare_test_data:394] Guru ID - Array
+(
+    [id] => 3
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5799][STEP 28][data_prep][prepare_test_data:414] Message Type ID - Array
+(
+    [id] => 1
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5836][STEP 29][data_prep][prepare_test_data:432] External Sender ID - Array
+(
+    [id] => 22
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.5975][STEP 30][data_prep][prepare_test_data:453] Internal Message Test Dibuat - Array
+(
+    [id] => 33
+    [reference] => TEST-20260214-3676
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.6049][STEP 31][data_prep][prepare_test_data:503] ERROR menyiapkan data test - Array
+(
+    [error] => SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`responsive_message_db`.`messages`, CONSTRAINT `messages_ibfk_2` FOREIGN KEY (`pengirim_id`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    [trace] => #0 C:\xampp\htdocs\responsive-message-app\test_integration.php(469): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\test_integration.php(512): prepare_test_data()
+#2 {main}
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.6068][STEP 32][followup][test_step:517] =============================================================
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.6085][STEP 33][followup][test_step:518] TESTING FOLLOWUP PAGE - Array
+(
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.6106][STEP 34][followup][test_followup_page:524] Followup URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+)
+
+2026-02-14 10:50:53 - [TEST_test_698ff11cb610c0.67457002][1771041053.6131][STEP 35][followup][test_followup_page:533] File followup.php ditemukan - Array
+(
+    [size] => 66986
+    [modified] => 2026-02-12 15:43:29
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5077][STEP 36][followup][test_followup_page:554] HTTP Access Followup Page - Array
+(
+    [http_code] => 200
+    [content_type] => text/html; charset=UTF-8
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5096][STEP 37][followup][test_followup_page:562] AJAX file ditemukan - Array
+(
+    [path] => C:\xampp\htdocs\responsive-message-app/modules/guru/ajax/get_message_detail.php
+    [size] => 17076
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.511][STEP 38][response][test_step:578] =============================================================
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5123][STEP 39][response][test_step:579] TESTING RESPONSE PAGE - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5151][STEP 40][notification][test_step:633] =============================================================
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5195][STEP 41][notification][test_step:634] TESTING NOTIFICATION FUNCTIONS - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5228][STEP 42][notification][test_notification_functions:637] Menguji fungsi notifikasi email - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.525][STEP 43][notification][test_notification_functions:653] Meng-include response.php untuk menguji fungsi notifikasi - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5271][STEP 44][notification][test_notification_functions:658] Fungsi notifikasi email tersedia di response.php - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5288][STEP 45][notification][test_notification_functions:661] Simulasi pengiriman email - Array
+(
+    [email] => test@example.com
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+    [catatan] => Ini adalah catatan respons test untuk notifikasi email.
+    [guru_nama] => Guru Test
+    [guru_type] => Guru_BK
+    [guru_email] => guru.test@example.com
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5305][STEP 46][notification][test_notification_functions:662] Email akan dikirim ke: test@example.com - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5334][STEP 47][notification][test_notification_functions:665] Simulasi pengiriman WhatsApp - Array
+(
+    [to] => 628123456789
+    [nama] => Test User
+    [reference] => REF-TEST-001
+    [status] => Disetujui
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.544][STEP 48][notification][test_notification_functions:672] Notifikasi WhatsApp akan dikirim ke: 628123456789 - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5459][STEP 49][integration][test_step:686] =============================================================
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5473][STEP 50][integration][test_step:687] TEST INTEGRASI LENGKAP - SIMULASI FLOW - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5509][STEP 51][integration][test_complete_flow:692] MEMULAI SIMULASI FLOW LENGKAP - Array
+(
+    [internal_message_id] => 
+    [external_message_id] => 
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5531][STEP 52][integration][test_complete_flow:698] FLOW 1: Guru membuka followup.php - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5547][STEP 53][integration][test_complete_flow:699] → followup.php menampilkan daftar pesan dengan filter - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5561][STEP 54][integration][test_complete_flow:700] → Pesan external ditandai dengan badge khusus - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5576][STEP 55][integration][test_complete_flow:703] FLOW 2: Guru melihat detail pesan - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5589][STEP 56][integration][test_complete_flow:704] → JavaScript memanggil ajax/get_message_detail.php - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5602][STEP 57][integration][test_complete_flow:705] → AJAX mengembalikan HTML detail pesan - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5615][STEP 58][integration][test_complete_flow:706] → Modal menampilkan detail lengkap - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5628][STEP 59][integration][test_complete_flow:709] FLOW 3: Guru membuka form response - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5648][STEP 60][integration][test_complete_flow:710] → Modal response terbuka - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5675][STEP 61][integration][test_complete_flow:711] → Untuk pesan external, muncul alert khusus - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5709][STEP 62][integration][test_complete_flow:714] FLOW 4: Guru menggunakan template response - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5739][STEP 63][integration][test_complete_flow:715] → Template di-load dari database - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5762][STEP 64][integration][test_complete_flow:716] → Template external memiliki penanda khusus - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5779][STEP 65][integration][test_complete_flow:717] → Isi template masuk ke textarea - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5799][STEP 66][integration][test_complete_flow:720] FLOW 5: Guru submit response - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5812][STEP 67][integration][test_complete_flow:721] → Form di-POST ke response.php - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5835][STEP 68][integration][test_complete_flow:722] → Response.php memproses data: - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5865][STEP 69][integration][test_complete_flow:723]    • Update status message - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5883][STEP 70][integration][test_complete_flow:724]    • Insert/update message_responses - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5901][STEP 71][integration][test_complete_flow:725]    • Update template use count - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5922][STEP 72][integration][test_complete_flow:728] FLOW 6: Sistem mengirim notifikasi - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5944][STEP 73][integration][test_complete_flow:729] → Untuk pesan external: - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.5971][STEP 74][integration][test_complete_flow:730]    • Panggil fungsi sendEmailNotification() - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6033][STEP 75][integration][test_complete_flow:731]    • Panggil fungsi sendWhatsAppNotification() - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6064][STEP 76][integration][test_complete_flow:732] → Fungsi notifikasi memanggil API: - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6078][STEP 77][integration][test_complete_flow:733]    • api/email.php - send_email - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6098][STEP 78][integration][test_complete_flow:734]    • api/whatsapp.php - send_message - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6121][STEP 79][integration][test_complete_flow:735] → Log notifikasi disimpan - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6156][STEP 80][integration][test_complete_flow:738] FLOW 7: Transaction commit - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6205][STEP 81][integration][test_complete_flow:739] → Semua perubahan database disimpan - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6228][STEP 82][integration][test_complete_flow:740] → Session message sukses diset - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6272][STEP 83][integration][test_complete_flow:741] → Redirect kembali ke response.php - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6285][STEP 84][integration][test_complete_flow:743] ✓ SIMULASI FLOW LENGKAP SELESAI - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6316][STEP 85][api_email][test_api_email:187] =------------------------------------------------------------
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6379][STEP 86][api_email][test_api_email:188] TESTING API EMAIL - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6403][STEP 87][api_email][test_api_email:194] TEST 1: Get Email Status - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.6416][STEP 88][api_email][test_api_email:197] Request URL - Array
+(
+    [url] => http://localhost:8080/responsive-message-app/api/email.php?action=status&api_key=test_api_key_123
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7284][STEP 89][api_email][test_api_email:216] Response Status - Array
+(
+    [http_code] => 200
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7299][STEP 90][api_email][test_api_email:220] Response Data
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7312][STEP 91][assert][test_assert:91] ASSERT: ✗ Email API merespons dengan data
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7347][STEP 92][api_email][test_api_email:231] TEST 2: Test Send Email (Simulasi) - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7465][STEP 93][api_email][test_api_email:247] Test Email Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7481][STEP 94][api_email][test_api_email:253] TEST 3: Test Send Response Email (Simulasi POST) - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7635][STEP 95][api_email][test_api_email:281] POST Send Response - Array
+(
+    [http_code] => 200
+    [response] => <br />
+<b>Parse error</b>:  syntax error, unexpected string content &quot;&quot;, expecting &quot;-&quot; or identifier or variable or number in <b>C:\xampp\htdocs\responsive-message-app\api\email.php</b> on line <b>432</b><br />
+
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.765][STEP 96][api_whatsapp][test_api_whatsapp:293] =------------------------------------------------------------
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7673][STEP 97][api_whatsapp][test_api_whatsapp:294] TESTING API WHATSAPP - Array
+(
+)
+
+2026-02-14 10:50:57 - [TEST_test_698ff11cb610c0.67457002][1771041057.7687][STEP 98][api_whatsapp][test_api_whatsapp:300] TEST 1: Get WhatsApp Status - Array
+(
+)
+
+2026-02-14 10:50:58 - [TEST_test_698ff11cb610c0.67457002][1771041058.7377][STEP 99][api_whatsapp][test_api_whatsapp:316] WhatsApp Status Response - Array
+(
+    [http_code] => 200
+    [response] => {"success":true,"status":"disconnected","enabled":true,"provider":"CallMeBot","last_check":"2026-02-14 10:50:58"}
+)
+
+2026-02-14 10:50:58 - [TEST_test_698ff11cb610c0.67457002][1771041058.7393][STEP 100][api_whatsapp][test_api_whatsapp:323] WhatsApp Status Data - Array
+(
+    [success] => 1
+    [status] => disconnected
+    [enabled] => 1
+    [provider] => CallMeBot
+    [last_check] => 2026-02-14 10:50:58
+)
+
+2026-02-14 10:50:58 - [TEST_test_698ff11cb610c0.67457002][1771041058.7405][STEP 101][api_whatsapp][test_api_whatsapp:327] TEST 2: Test Send WhatsApp (Simulasi POST) - Array
+(
+)
+
+2026-02-14 10:50:59 - [TEST_test_698ff11cb610c0.67457002][1771041059.552][STEP 102][api_whatsapp][test_api_whatsapp:354] POST Send WhatsApp - Array
+(
+    [http_code] => 500
+    [response] => {"success":false,"error":"Failed to send WhatsApp message"}
+)
+
+2026-02-14 10:50:59 - [TEST_test_698ff11cb610c0.67457002][1771041059.5535][STEP 103][summary][test_step:759] =================================================================================
+2026-02-14 10:50:59 - [TEST_test_698ff11cb610c0.67457002][1771041059.5547][STEP 104][summary][test_step:760] RINGKASAN TEST INTEGRASI - Array
+(
+)
+
+2026-02-14 10:50:59 - [TEST_test_698ff11cb610c0.67457002][1771041059.5559][STEP 105][summary][test_step:792] STATISTIK TEST - Array
+(
+    [total_steps] => 104
+    [success] => 31
+    [error] => 2
+    [warning] => 2
+    [info] => 69
+    [execution_time_ms] => 6810.13
+    [test_session] => test_698ff11cb610c0.67457002
+    [timestamp] => 2026-02-14 10:50:59
+)
+
+2026-02-14 10:50:59 - [TEST_test_698ff11cb610c0.67457002][1771041059.5573][STEP 106][summary][test_step:798] STATUS KESELURUHAN: FAILED - Array
+(
+    [error_count] => 2
+    [success_rate] => 29.81%
+)
+

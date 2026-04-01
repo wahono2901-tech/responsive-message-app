@@ -1,0 +1,50 @@
+
+[2026-02-19 07:06:30] ========== REGISTER.PHP START ==========
+
+[2026-02-19 07:09:03] ========== REGISTER.PHP START ==========
+
+[2026-02-19 08:41:28] ========== REGISTER.PHP START ==========
+
+[2026-02-19 08:42:58] ========== REGISTER.PHP START ==========
+[2026-02-19 08:42:59] 
+================================================================================
+[2026-02-19 08:42:59] kirimWhatsApp() DIPANGGIL
+[2026-02-19 08:42:59] Original phone: 081319055440
+[2026-02-19 08:42:59] Formatted phone: 6281319055440
+[2026-02-19 08:42:59] Message length: 480
+[2026-02-19 08:42:59] Message preview: 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif.
+
+*📋 DATA LOGIN ANDA*
+───────────�...
+[2026-02-19 08:42:59] Data dikirim: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif.
+
+*📋 DATA LOGIN ANDA*
+─────────────────────────
+Username: `widi2610`
+Password: `widi1234@`
+─────────────────────────
+
+🔐 Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan dikirim otomatis. Mohon tidak membalas._
+    [countryCode] => 62
+)
+
+[2026-02-19 08:43:00] HTTP Code: 201
+[2026-02-19 08:43:00] Response: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 08:43:00] ✗ WHATSAPP GAGAL
+[2026-02-19 08:43:00] ================================================================================
+
+
+[2026-02-19 08:44:46] ========== REGISTER.PHP START ==========

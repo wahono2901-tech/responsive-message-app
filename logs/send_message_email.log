@@ -1,0 +1,15 @@
+[2026-02-27 15:48:45] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-27 15:48:45] Input - email: sri.widiastuti261077@gmail.com, nama: wiwi, reference: MSG20260227-63494
+[2026-02-27 15:48:45] Jenis Pesan: Informasi, Prioritas: Medium
+[2026-02-27 15:48:45] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => sri.widiastuti261077@gmail.com
+    [subject] => Konfirmasi Pesan #MSG20260227-63494 - SMKN 12 Jakarta
+    [html_length] => 4729
+)
+
+[2026-02-27 15:48:46] HTTP Code: 422
+[2026-02-27 15:48:46] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-27 15:48:46] ✗ EMAIL GAGAL dikirim ke sri.widiastuti261077@gmail.com
+[2026-02-27 15:48:46] Pesan error: You have reached trial account unique recipients limit. #MS42225

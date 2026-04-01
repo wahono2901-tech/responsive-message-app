@@ -1,0 +1,38 @@
+[2026-02-27 15:35:10] ========== FUNGSI UPLOAD GAMBAR ==========
+[2026-02-27 15:35:10] Processing upload for message ID: 55, Reference: MSG20260227-86605
+[2026-02-27 15:35:10] File info - Array
+(
+    [original_name] => images.jpg
+    [size] => 11103
+    [tmp_name] => C:\xampp\tmp\phpEFB8.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-27 15:35:10] Target path: C:\xampp\htdocs\responsive-message-app/uploads/messages/msg_MSG20260227-86605_1772181310_d388b110e8b09eb4.jpg
+[2026-02-27 15:35:10] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => msg_MSG20260227-86605_1772181310_d388b110e8b09eb4.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/messages/msg_MSG20260227-86605_1772181310_d388b110e8b09eb4.jpg
+    [size] => 11103
+)
+
+[2026-02-27 15:48:45] ========== FUNGSI UPLOAD GAMBAR ==========
+[2026-02-27 15:48:45] Processing upload for message ID: 56, Reference: MSG20260227-63494, User ID: 85
+[2026-02-27 15:48:45] File info - Array
+(
+    [original_name] => images.jpg
+    [size] => 11103
+    [tmp_name] => C:\xampp\tmp\php5E87.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-27 15:48:45] Target path: C:\xampp\htdocs\responsive-message-app/uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+[2026-02-27 15:48:45] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [size] => 11103
+)
+

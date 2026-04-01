@@ -1,0 +1,261 @@
+
+[2026-02-16 20:08:21] ========== REGISTER.PHP START ==========
+
+[2026-02-17 16:22:30] ========== REGISTER.PHP START ==========
+
+[2026-02-17 16:51:06] ========== REGISTER.PHP START ==========
+
+[2026-02-17 16:53:36] ========== REGISTER.PHP START ==========
+
+[2026-02-17 16:55:11] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:28:32] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:31:25] ========== REGISTER.PHP START ==========
+[2026-02-19 05:31:26] 
+================================================================================
+[2026-02-19 05:31:26] sendRegistrationWhatsApp() dipanggil
+[2026-02-19 05:31:26] Original phone: 085117128578
+[2026-02-19 05:31:26] Formatted phone: 6285117128578
+[2026-02-19 05:31:26] Message length: 888
+[2026-02-19 05:31:26] Message preview: 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 JAKARTA*
+
+Yth. *wiwi*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif SMKN 12 Jakarta.
+
+*📋 DETAIL AKUN ANDA*
+───────�...
+[2026-02-19 05:31:26] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 JAKARTA*
+
+Yth. *wiwi*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif SMKN 12 Jakarta.
+
+*📋 DETAIL AKUN ANDA*
+──────────────────────────────
+Tipe Akun   : Orang Tua
+NIS/NIP     : OT2026001
+Username    : `widi26`
+Password    : `widi1234@`
+Tanggal     : 19/02/2026 05:31 WIB
+──────────────────────────────
+
+*📌 PENTING!*
+✅ Simpan username dan password ini dengan aman
+✅ Jangan berikan password kepada siapapun
+✅ Gunakan untuk login di:
+   http://localhost:8080/responsive-message-app/login.php
+
+*⚠️ PENGINGAT*
+Jika lupa password, gunakan fitur 'Lupa Password' di halaman login.
+
+Terima kasih telah mendaftar!
+Salam,
+*SMKN 12 Jakarta* 🇮🇩
+
+_Pesan dikirim otomatis. Mohon tidak membalas._
+    [countryCode] => 62
+)
+
+[2026-02-19 05:31:27] HTTP Code: 201
+[2026-02-19 05:31:27] Response: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 05:31:27] ✗ WHATSAPP GAGAL
+[2026-02-19 05:31:27] ================================================================================
+
+
+[2026-02-19 05:31:42] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:37:59] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:39:06] ========== REGISTER.PHP START ==========
+[2026-02-19 05:39:07] 
+================================================================================
+[2026-02-19 05:39:07] sendRegistrationWhatsApp() dipanggil
+[2026-02-19 05:39:07] Original phone: 081319055440
+[2026-02-19 05:39:07] Formatted phone: 6281319055440
+[2026-02-19 05:39:07] Message length: 888
+[2026-02-19 05:39:07] Message preview: 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 JAKARTA*
+
+Yth. *wiwi*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif SMKN 12 Jakarta.
+
+*📋 DETAIL AKUN ANDA*
+───────�...
+[2026-02-19 05:39:07] Data dikirim: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 JAKARTA*
+
+Yth. *wiwi*
+
+Selamat! Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif SMKN 12 Jakarta.
+
+*📋 DETAIL AKUN ANDA*
+──────────────────────────────
+Tipe Akun   : Orang Tua
+NIS/NIP     : OT2006002
+Username    : `widi26`
+Password    : `widi1234@`
+Tanggal     : 19/02/2026 05:39 WIB
+──────────────────────────────
+
+*📌 PENTING!*
+✅ Simpan username dan password ini dengan aman
+✅ Jangan berikan password kepada siapapun
+✅ Gunakan untuk login di:
+   http://localhost:8080/responsive-message-app/login.php
+
+*⚠️ PENGINGAT*
+Jika lupa password, gunakan fitur 'Lupa Password' di halaman login.
+
+Terima kasih telah mendaftar!
+Salam,
+*SMKN 12 Jakarta* 🇮🇩
+
+_Pesan dikirim otomatis. Mohon tidak membalas._
+    [countryCode] => 62
+)
+
+[2026-02-19 05:39:07] HTTP Code: 201
+[2026-02-19 05:39:07] Response: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 05:39:07] ✗ WHATSAPP GAGAL
+[2026-02-19 05:39:07] ================================================================================
+
+
+[2026-02-19 05:40:18] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:41:23] ========== REGISTER.PHP START ==========
+
+[2026-02-19 05:46:26] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:15:10] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:15:18] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:16:29] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:21:36] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:37:29] ========== REGISTER.PHP START ==========
+
+[2026-02-19 06:39:17] ========== REGISTER.PHP START ==========
+
+[2026-02-19 07:06:30] ========== REGISTER.PHP START ==========
+
+[2026-02-19 07:09:03] ========== REGISTER.PHP START ==========
+
+[2026-02-19 08:41:28] ========== REGISTER.PHP START ==========
+[2026-02-19 08:41:28] KONFIGURASI WHATSAPP - Array
+(
+    [token] => FS2cq...
+    [api_url] => https://api.callmebot.com/whatsapp.php
+)
+
+
+[2026-02-19 08:42:58] ========== REGISTER.PHP START ==========
+[2026-02-19 08:42:58] KONFIGURASI WHATSAPP - Array
+(
+    [token] => FS2cq...
+    [api_url] => https://api.callmebot.com/whatsapp.php
+)
+
+
+[2026-02-19 08:44:46] ========== REGISTER.PHP START ==========
+[2026-02-19 08:44:46] KONFIGURASI WHATSAPP - Array
+(
+    [token] => FS2cq...
+    [api_url] => https://api.callmebot.com/whatsapp.php
+)
+
+[2026-02-19 09:25:25] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 09:25:25] Input - phone: 081319055440, nama: widiastuti, username: widi2610
+[2026-02-19 09:25:25] Phone setelah format: 6281319055440
+[2026-02-19 09:25:25] Pesan panjang: 243
+[2026-02-19 09:25:25] Data ke Fonnte: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: widi2610
+Password: widi1234@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 09:25:25] URL: https://api.fonnte.com/send
+[2026-02-19 09:25:25] API Key: FS2cq...
+[2026-02-19 09:25:26] HTTP Code: 200
+[2026-02-19 09:25:26] Response: {"detail":"success! message in queue","id":[144269675],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":982,"remaining":981,"used":1}},"requestid":387559997,"status":true,"target":["6281319055440"]}
+[2026-02-19 09:25:26] ✓ WHATSAPP BERHASIL dikirim ke 6281319055440
+[2026-02-19 09:28:25] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 09:28:25] Input - phone: 085117128578, nama: wiwi, username: widi10
+[2026-02-19 09:28:25] Phone setelah format: 6285117128578
+[2026-02-19 09:28:25] Pesan panjang: 240
+[2026-02-19 09:28:25] Data ke Fonnte: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: widi10
+Password: widi123456789@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 09:28:25] URL: https://api.fonnte.com/send
+[2026-02-19 09:28:25] API Key: FS2cq...
+[2026-02-19 09:28:26] HTTP Code: 200
+[2026-02-19 09:28:26] Response: {"detail":"success! message in queue","id":[144270456],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":981,"remaining":980,"used":1}},"requestid":387562908,"status":true,"target":["6285117128578"]}
+[2026-02-19 09:28:26] ✓ WHATSAPP BERHASIL dikirim ke 6285117128578
+[2026-02-19 10:02:19] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 10:02:19] Input - phone: 085117128578, nama: wiwi, username: wiwi123
+[2026-02-19 10:02:19] Phone setelah format: 6285117128578
+[2026-02-19 10:02:19] Pesan panjang: 236
+[2026-02-19 10:02:19] Data ke Fonnte: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: wiwi123
+Password: widi1234@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 10:02:19] URL: https://api.fonnte.com/send
+[2026-02-19 10:02:19] API Key: FS2cq...
+[2026-02-19 10:02:19] HTTP Code: 200
+[2026-02-19 10:02:19] Response: {"detail":"success! message in queue","id":[144278294],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":980,"remaining":979,"used":1}},"requestid":387599818,"status":true,"target":["6285117128578"]}
+[2026-02-19 10:02:19] ✓ WHATSAPP BERHASIL dikirim ke 6285117128578

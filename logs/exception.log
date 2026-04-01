@@ -1,0 +1,36 @@
+2026-02-12 13:36:41 - Exception: Call to undefined function get_magic_quotes_gpc() in C:\xampp\htdocs\responsive-message-app\config\config.php on line 353
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\modules\guru\followup.php(9): require_once()
+#1 {main}
+2026-02-12 13:38:18 - Exception: Call to undefined function get_magic_quotes_gpc() in C:\xampp\htdocs\responsive-message-app\config\config.php on line 353
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\modules\guru\followup.php(9): require_once()
+#1 {main}
+2026-02-12 13:49:03 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(622): require_once()
+#1 {main}
+2026-02-12 13:49:36 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(622): require_once()
+#1 {main}
+2026-02-12 13:49:53 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(622): require_once()
+#1 {main}
+2026-02-12 13:50:05 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(622): require_once()
+#1 {main}
+2026-02-12 13:50:47 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(622): require_once()
+#1 {main}
+2026-02-12 14:22:12 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(624): require_once()
+#1 {main}
+2026-02-12 14:22:15 - Exception: Call to undefined function asset_url() in C:\xampp\htdocs\responsive-message-app\includes\header.php on line 62
+Stack trace:
+#0 C:\xampp\htdocs\responsive-message-app\index.php(624): require_once()
+#1 {main}

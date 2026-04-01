@@ -1,0 +1,172 @@
+[2026-02-15 08:01:14] 
+------------------------------------------------------------
+[2026-02-15 08:01:14] sendWhatsAppNotification() DIPANGGIL
+[2026-02-15 08:01:14] ------------------------------------------------------------
+[2026-02-15 08:01:14] PARAMETER LENGKAP: - Array
+(
+    [phone] => 628129469754
+    [nama] => wahono
+    [reference] => EXT20260215-72114
+    [status] => Disetujui
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [catatan_length] => 21
+)
+
+[2026-02-15 08:01:14] Phone after cleaning: 628129469754
+[2026-02-15 08:01:14] Pesan WhatsApp yang akan dikirim: - Array
+(
+    [length] => 326
+    [full_message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*,
+
+Pesan Anda dengan nomor referensi:
+`EXT20260215-72114`
+
+✅ *Status: Disetujui*
+
+*Respons dari Rudi Hermawan (Guru_Kesiswaan):*
+_Maaf salah ketik lagi_
+
+Waktu: 15/02/2026 08:01
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+_Dikirim dari perangkat: 085174207795_
+)
+
+[2026-02-15 08:01:14] >>> MEMANGGIL sendFonnteMessage()...
+[2026-02-15 08:01:14] 
+================================================================================
+[2026-02-15 08:01:14] sendFonnteMessage() DIPANGGIL
+[2026-02-15 08:01:14] ================================================================================
+[2026-02-15 08:01:14] INPUT - phone: 628129469754
+[2026-02-15 08:01:14] INPUT - message length: 326
+[2026-02-15 08:01:14] INPUT - message preview: 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*,
+
+Pesan Anda dengan nomor referensi:
+`EX...
+[2026-02-15 08:01:14] After removing non-digits: 628129469754
+[2026-02-15 08:01:14] FINAL FORMATTED PHONE: 628129469754
+[2026-02-15 08:01:14] Data yang dikirim ke Fonnte: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*,
+
+Pesan Anda dengan nomor referensi:
+`EXT20260215-72114`
+
+✅ *Status: Disetujui*
+
+*Respons dari Rudi Hermawan (Guru_Kesiswaan):*
+_Maaf salah ketik lagi_
+
+Waktu: 15/02/2026 08:01
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-15 08:01:14] Token used: FS2cq...
+[2026-02-15 08:01:14] Executing CURL request...
+[2026-02-15 08:01:15] CURL INFO: - Array
+(
+    [url] => https://api.callmebot.com/whatsapp.php
+    [content_type] => text/html; charset=UTF-8
+    [http_code] => 201
+    [header_size] => 184
+    [request_size] => 631
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.899337
+    [namelookup_time] => 0.107343
+    [connect_time] => 0.289238
+    [pretransfer_time] => 0.686055
+    [size_upload] => 455
+    [size_download] => 40
+    [speed_download] => 44
+    [speed_upload] => 505
+    [download_content_length] => -1
+    [upload_content_length] => 455
+    [starttransfer_time] => 0.899234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 13.38.186.117
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.18.7
+    [local_port] => 25381
+    [http_version] => 2
+    [protocol] => 2
+    [ssl_verifyresult] => 0
+    [scheme] => HTTPS
+    [appconnect_time_us] => 685766
+    [connect_time_us] => 289238
+    [namelookup_time_us] => 107343
+    [pretransfer_time_us] => 686055
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 899234
+    [total_time_us] => 899337
+    [effective_method] => POST
+)
+
+[2026-02-15 08:01:15] HTTP CODE: 201
+[2026-02-15 08:01:15] CURL ERROR: None
+[2026-02-15 08:01:15] VERBOSE OUTPUT: *   Trying 13.38.186.117:443...
+* Connected to api.callmebot.com (13.38.186.117) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=api.callmebot.com
+*  start date: Dec  8 14:43:15 2025 GMT
+*  expire date: Mar  8 14:43:14 2026 GMT
+*  subjectAltName: host "api.callmebot.com" matched cert's "api.callmebot.com"
+*  issuer: C=US; O=Let's Encrypt; CN=R13
+*  SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+* using HTTP/1.1
+> POST /whatsapp.php HTTP/1.1
+Host: api.callmebot.com
+Accept: */*
+Authorization: FS2cq8FckmaTegxtZpFB
+Content-Length: 455
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 201 Created
+< Server: nginx/1.18.0 (Ubuntu)
+< Date: Sun, 15 Feb 2026 01:01:09 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< 
+* Connection #0 to host api.callmebot.com left intact
+
+[2026-02-15 08:01:15] RAW RESPONSE: ERROR: phone parameter is <b>missing</b>
+[2026-02-15 08:01:15] DECODED RESPONSE:
+[2026-02-15 08:01:15] ⚠ WARNING: HTTP success but unknown response format
+[2026-02-15 08:01:15] ✗✗✗ WHATSAPP GAGAL DIKIRIM!
+[2026-02-15 08:01:15] >>> HASIL DARI sendFonnteMessage(): - Array
+(
+    [success] => 
+    [http_code] => 201
+    [response_data] => 
+    [curl_error] => 
+    [sent] => 
+    [debug] => Array
+        (
+            [formatted_phone] => 628129469754
+            [original_phone] => 628129469754
+        )
+
+)
+
+[2026-02-15 08:01:15] ✗✗✗ WHATSAPP NOTIFICATION GAGAL!

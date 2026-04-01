@@ -1,0 +1,40 @@
+
+[2026-02-19 07:06:30] ========== REGISTER.PHP START ==========
+
+[2026-02-19 07:09:03] ========== REGISTER.PHP START ==========
+
+[2026-02-19 08:41:28] ========== REGISTER.PHP START ==========
+[2026-02-19 08:41:28] KONFIGURASI MAILERSEND - Array
+(
+    [api_token] => mlsn.3e45c...
+    [from_email] => noreply@test-q3enl6k0o7542vwr.mlsender.net
+)
+
+
+[2026-02-19 08:42:58] ========== REGISTER.PHP START ==========
+[2026-02-19 08:42:58] KONFIGURASI MAILERSEND - Array
+(
+    [api_token] => mlsn.3e45c...
+    [from_email] => noreply@test-q3enl6k0o7542vwr.mlsender.net
+)
+
+[2026-02-19 08:42:59] 
+================================================================================
+[2026-02-19 08:42:59] sendMailerSendEmail() ke: sri.widiastuti2610@gmail.com
+[2026-02-19 08:42:59] Data email: - Array
+(
+    [to] => sri.widiastuti2610@gmail.com
+    [subject] => Registrasi Berhasil - SMKN 12 Jakarta
+    [html_length] => 3676
+)
+
+[2026-02-19 08:42:59] HTTP 422
+[2026-02-19 08:42:59] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+
+[2026-02-19 08:44:46] ========== REGISTER.PHP START ==========
+[2026-02-19 08:44:46] KONFIGURASI MAILERSEND - Array
+(
+    [api_token] => mlsn.3e45c...
+    [from_email] => noreply@test-q3enl6k0o7542vwr.mlsender.net
+)
+

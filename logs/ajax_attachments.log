@@ -1,0 +1,841 @@
+[2026-02-28 18:27:07] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 18:27:07] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 18:27:07] Auth check passed
+[2026-02-28 18:27:07] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:27:07] Processing message_id: 59
+[2026-02-28 18:27:07] Database connected
+[2026-02-28 18:27:07] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 18:27:07] Attachments found: 1
+[2026-02-28 18:27:07] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 18:27:07] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 18:33:34] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 18:33:35] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 18:33:35] Auth check passed
+[2026-02-28 18:33:35] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:33:35] Processing message_id: 59
+[2026-02-28 18:33:35] Database connected
+[2026-02-28 18:33:35] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 18:33:35] Attachments found: 1
+[2026-02-28 18:33:35] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 18:33:35] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 18:34:56] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 18:34:56] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 18:34:56] Auth check passed
+[2026-02-28 18:34:56] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:34:56] Processing message_id: 59
+[2026-02-28 18:34:56] Database connected
+[2026-02-28 18:34:56] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 18:34:56] Attachments found: 1
+[2026-02-28 18:34:56] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 18:34:56] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 18:39:20] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 18:39:20] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 18:39:20] Auth check passed
+[2026-02-28 18:39:20] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:39:20] Processing message_id: 59
+[2026-02-28 18:39:20] Database connected
+[2026-02-28 18:39:20] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 18:39:20] Attachments found: 1
+[2026-02-28 18:39:20] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 18:39:20] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 18:41:16] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 18:41:16] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 18:41:16] Auth check passed
+[2026-02-28 18:41:16] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:41:16] Processing message_id: 59
+[2026-02-28 18:41:16] Database connected
+[2026-02-28 18:41:16] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 18:41:16] Attachments found: 1
+[2026-02-28 18:41:16] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 18:41:16] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:00:33] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:00:33] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 19:00:33] Auth check passed
+[2026-02-28 19:00:33] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:00:33] Processing message_id: 59
+[2026-02-28 19:00:33] Database connected
+[2026-02-28 19:00:33] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 19:00:33] Attachments found: 1
+[2026-02-28 19:00:33] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 19:00:33] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:26:42] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:26:42] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 19:26:42] Auth check passed
+[2026-02-28 19:26:42] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:26:42] Processing message_id: 59
+[2026-02-28 19:26:42] Database connected
+[2026-02-28 19:26:42] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 19:26:42] Attachments found: 1
+[2026-02-28 19:26:42] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 19:26:42] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:26:59] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:26:59] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 19:26:59] Auth check passed
+[2026-02-28 19:26:59] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:26:59] Processing message_id: 59
+[2026-02-28 19:26:59] Database connected
+[2026-02-28 19:26:59] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 19:26:59] Attachments found: 1
+[2026-02-28 19:26:59] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 19:26:59] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:44:32] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:44:32] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 19:44:32] Auth check passed
+[2026-02-28 19:44:32] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:44:32] Processing message_id: 59
+[2026-02-28 19:44:32] Database connected
+[2026-02-28 19:44:32] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 19:44:32] Attachments found: 1
+[2026-02-28 19:44:32] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 19:44:32] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:45:06] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:45:06] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 19:45:06] Auth check passed
+[2026-02-28 19:45:06] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:45:06] Processing message_id: 56
+[2026-02-28 19:45:06] Database connected
+[2026-02-28 19:45:06] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-02-28 19:45:06] Attachments found: 1
+[2026-02-28 19:45:06] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-02-28 19:45:06] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:45:45] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:45:45] Request received - Array
+(
+    [message_id] => 1
+)
+
+[2026-02-28 19:45:45] Auth check passed
+[2026-02-28 19:45:45] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:45:45] Processing message_id: 1
+[2026-02-28 19:45:45] Database connected
+[2026-02-28 19:45:45] Message found - Array
+(
+    [id] => 1
+    [is_external] => 0
+)
+
+[2026-02-28 19:45:45] Attachments found: 0
+[2026-02-28 19:45:45] Response prepared - Array
+(
+    [count] => 0
+    [is_external] => 0
+)
+
+[2026-02-28 19:45:45] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 19:47:21] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 19:47:21] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 19:47:21] Auth check passed
+[2026-02-28 19:47:21] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 19:47:21] Processing message_id: 59
+[2026-02-28 19:47:21] Database connected
+[2026-02-28 19:47:21] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-02-28 19:47:21] Attachments found: 1
+[2026-02-28 19:47:21] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-02-28 19:47:21] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 20:50:53] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 20:50:53] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 20:50:53] Auth check passed
+[2026-02-28 20:50:53] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 20:50:53] Processing message_id: 56
+[2026-02-28 20:50:53] Database connected
+[2026-02-28 20:50:53] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-02-28 20:50:53] Attachments found: 1
+[2026-02-28 20:50:53] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-02-28 20:50:53] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-02-28 21:21:53] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-02-28 21:21:53] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 21:21:53] Auth check passed
+[2026-02-28 21:21:53] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 21:21:53] Processing message_id: 56
+[2026-02-28 21:21:53] Database connected
+[2026-02-28 21:21:54] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-02-28 21:21:54] Attachments found: 1
+[2026-02-28 21:21:54] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-02-28 21:21:54] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 05:45:10] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 05:45:10] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-03-01 05:45:10] Auth check passed
+[2026-03-01 05:45:10] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 05:45:10] Processing message_id: 56
+[2026-03-01 05:45:10] Database connected
+[2026-03-01 05:45:10] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-03-01 05:45:10] Attachments found: 1
+[2026-03-01 05:45:10] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-03-01 05:45:10] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 05:45:25] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 05:45:25] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 05:45:25] Auth check passed
+[2026-03-01 05:45:25] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 05:45:25] Processing message_id: 59
+[2026-03-01 05:45:25] Database connected
+[2026-03-01 05:45:25] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 05:45:25] Attachments found: 1
+[2026-03-01 05:45:25] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 05:45:25] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 05:48:50] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 05:48:50] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-03-01 05:48:50] Auth check passed
+[2026-03-01 05:48:50] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 05:48:50] Processing message_id: 56
+[2026-03-01 05:48:50] Database connected
+[2026-03-01 05:48:50] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-03-01 05:48:50] Attachments found: 1
+[2026-03-01 05:48:50] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-03-01 05:48:50] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 08:34:19] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 08:34:19] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-03-01 08:34:19] Auth check passed
+[2026-03-01 08:34:19] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 08:34:19] Processing message_id: 56
+[2026-03-01 08:34:19] Database connected
+[2026-03-01 08:34:19] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-03-01 08:34:19] Attachments found: 1
+[2026-03-01 08:34:19] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-03-01 08:34:19] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 09:57:37] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 09:57:37] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 09:57:37] Auth check passed
+[2026-03-01 09:57:37] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 09:57:37] Processing message_id: 59
+[2026-03-01 09:57:37] Database connected
+[2026-03-01 09:57:37] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 09:57:37] Attachments found: 1
+[2026-03-01 09:57:37] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 09:57:37] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 09:58:22] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 09:58:22] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 09:58:22] Auth check passed
+[2026-03-01 09:58:22] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 09:58:22] Processing message_id: 59
+[2026-03-01 09:58:22] Database connected
+[2026-03-01 09:58:22] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 09:58:22] Attachments found: 1
+[2026-03-01 09:58:22] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 09:58:22] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:09:36] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:09:36] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:09:36] Auth check passed
+[2026-03-01 10:09:36] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:09:36] Processing message_id: 59
+[2026-03-01 10:09:36] Database connected
+[2026-03-01 10:09:36] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:09:36] Attachments found: 1
+[2026-03-01 10:09:36] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:09:36] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:09:56] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:09:56] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:09:56] Auth check passed
+[2026-03-01 10:09:56] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:09:56] Processing message_id: 59
+[2026-03-01 10:09:56] Database connected
+[2026-03-01 10:09:56] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:09:56] Attachments found: 1
+[2026-03-01 10:09:56] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:09:56] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:32:58] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:32:58] Request received - Array
+(
+    [message_id] => 56
+)
+
+[2026-03-01 10:32:58] Auth check passed
+[2026-03-01 10:32:58] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:32:58] Processing message_id: 56
+[2026-03-01 10:32:58] Database connected
+[2026-03-01 10:32:58] Message found - Array
+(
+    [id] => 56
+    [is_external] => 0
+)
+
+[2026-03-01 10:32:58] Attachments found: 1
+[2026-03-01 10:32:58] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 0
+)
+
+[2026-03-01 10:32:58] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:33:33] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:33:33] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:33:33] Auth check passed
+[2026-03-01 10:33:33] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:33:33] Processing message_id: 59
+[2026-03-01 10:33:33] Database connected
+[2026-03-01 10:33:33] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:33:33] Attachments found: 1
+[2026-03-01 10:33:33] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:33:33] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:33:58] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:33:58] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:33:58] Auth check passed
+[2026-03-01 10:33:58] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 10:33:58] Processing message_id: 59
+[2026-03-01 10:33:58] Database connected
+[2026-03-01 10:33:58] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:33:58] Attachments found: 1
+[2026-03-01 10:33:58] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:33:58] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:52:56] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:52:56] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:52:56] Auth check passed
+[2026-03-01 10:52:56] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:52:56] Processing message_id: 59
+[2026-03-01 10:52:56] Database connected
+[2026-03-01 10:52:56] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:52:56] Attachments found: 1
+[2026-03-01 10:52:56] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:52:56] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:53:08] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:53:08] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:53:08] Auth check passed
+[2026-03-01 10:53:08] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:53:08] Processing message_id: 59
+[2026-03-01 10:53:08] Database connected
+[2026-03-01 10:53:08] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:53:08] Attachments found: 1
+[2026-03-01 10:53:08] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:53:08] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-01 10:53:23] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-01 10:53:23] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-01 10:53:23] Auth check passed
+[2026-03-01 10:53:23] User authorized - Array
+(
+    [user_id] => 8
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:53:23] Processing message_id: 59
+[2026-03-01 10:53:23] Database connected
+[2026-03-01 10:53:23] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-01 10:53:23] Attachments found: 1
+[2026-03-01 10:53:23] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:53:23] ========== GET_MESSAGE_ATTACHMENTS END ==========
+[2026-03-07 16:55:16] ========== GET_MESSAGE_ATTACHMENTS START ==========
+[2026-03-07 16:55:16] Request received - Array
+(
+    [message_id] => 59
+)
+
+[2026-03-07 16:55:16] Auth check passed
+[2026-03-07 16:55:16] User authorized - Array
+(
+    [user_id] => 9
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-07 16:55:16] Processing message_id: 59
+[2026-03-07 16:55:16] Database connected
+[2026-03-07 16:55:16] Message found - Array
+(
+    [id] => 59
+    [is_external] => 1
+)
+
+[2026-03-07 16:55:16] Attachments found: 1
+[2026-03-07 16:55:16] Response prepared - Array
+(
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-07 16:55:16] ========== GET_MESSAGE_ATTACHMENTS END ==========

@@ -1,0 +1,922 @@
+
+[2026-02-14 15:31:22] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 15:32:55] ========== RESPONSE.PHP START ==========
+[2026-02-14 15:32:55] 
+================================================================================
+[2026-02-14 15:32:55] FUNGSI sendEmailNotification DIPANGGIL
+[2026-02-14 15:32:55] ================================================================================
+[2026-02-14 15:32:55] PARAMETER: - Array
+(
+    [email] => agungway2901@gmail.com
+    [nama] => Agung Wahono
+    [reference] => EXT20260214-06534
+    [status] => Disetujui
+    [guru_nama] => Rudi Hermawan
+    [guru_type] => Guru_Kesiswaan
+    [catatan_length] => 61
+)
+
+[2026-02-14 15:32:55] MEMBUAT HTML TEMPLATE...
+[2026-02-14 15:32:55] ✓ HTML template selesai, panjang: 2273 karakter
+[2026-02-14 15:32:55] >>> MEMANGGIL sendMailerSendEmail()...
+[2026-02-14 15:32:56] >>> HASIL DARI sendMailerSendEmail(): - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [response] => 
+    [error] => 
+)
+
+[2026-02-14 15:32:56] ✓✓✓ EMAIL BERHASIL DIKIRIM! ✓✓✓
+
+[2026-02-14 15:32:56] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 17:31:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 17:31:17] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 17:37:57] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 17:40:45] ========== RESPONSE.PHP START ==========
+[2026-02-14 17:40:45] 
+================================================================================
+[2026-02-14 17:40:46] sendEmailNotification() DIPANGGIL
+[2026-02-14 17:40:46] >>> MEMANGGIL sendMailerSendEmail()...
+[2026-02-14 17:40:47] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [response] => 
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-14 17:43:41] ========== RESPONSE.PHP START ==========
+[2026-02-14 17:43:41] 
+================================================================================
+[2026-02-14 17:43:41] sendEmailNotification() DIPANGGIL
+[2026-02-14 17:43:41] >>> MEMANGGIL sendMailerSendEmail()...
+[2026-02-14 17:43:42] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [response] => 
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-14 18:01:17] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 18:01:18] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 18:05:51] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 18:06:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-14 18:06:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 07:15:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 07:20:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 07:20:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 07:35:15] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 07:35:16] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:00:40] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:01:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:01:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:11:50] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:12:31] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:12:34] 
+================================================================================
+[2026-02-15 08:12:34] sendEmailNotification() DIPANGGIL ke: agung.senen3@gmail.com
+[2026-02-15 08:12:34] >>> MENGIRIM EMAIL...
+[2026-02-15 08:12:35] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-15 08:12:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:30:59] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:31:22] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:31:22] 
+================================================================================
+[2026-02-15 08:31:22] sendEmailNotification() DIPANGGIL ke: agung.senen3@gmail.com
+[2026-02-15 08:31:22] >>> MENGIRIM EMAIL...
+[2026-02-15 08:31:23] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-15 08:31:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:44:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:45:02] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:45:02] 
+================================================================================
+[2026-02-15 08:45:02] sendEmailNotification() DIPANGGIL ke: agung.senen3@gmail.com
+[2026-02-15 08:45:02] >>> MENGIRIM EMAIL...
+[2026-02-15 08:45:04] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-15 08:45:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:45:36] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:45:37] 
+================================================================================
+[2026-02-15 08:45:37] sendEmailNotification() DIPANGGIL ke: agung.senen3@gmail.com
+[2026-02-15 08:45:37] >>> MENGIRIM EMAIL...
+[2026-02-15 08:45:37] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-15 08:45:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:16:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:16:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:30:24] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:30:29] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:28] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:52] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:33:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:29:44] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:29:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:30:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:55:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:55:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:56:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:56:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:50] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:17:00] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:17:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:27:01] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:30] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:40] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:43:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:02:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:08:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:18:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:27:28] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:27:39] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:46:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:46:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:47:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:47:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:27] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:55:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:08:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:08:38] ========== RESPONSE.PHP START ==========
+[2026-02-15 18:08:39] 
+================================================================================
+[2026-02-15 18:08:39] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-15 18:08:39] >>> MENGIRIM EMAIL...
+[2026-02-15 18:08:39] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-15 18:08:39] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:18:44] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 19:01:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-16 19:55:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 16:57:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 16:57:43] ========== RESPONSE.PHP START ==========
+[2026-02-17 16:57:44] 
+================================================================================
+[2026-02-17 16:57:44] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 16:57:44] >>> MENGIRIM EMAIL...
+[2026-02-17 16:57:45] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 16:57:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:06:03] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:06:03] 
+================================================================================
+[2026-02-17 17:06:03] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:06:03] >>> MENGIRIM EMAIL...
+[2026-02-17 17:06:04] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:06:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:13:01] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:13:02] 
+================================================================================
+[2026-02-17 17:13:02] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:13:02] >>> MENGIRIM EMAIL...
+[2026-02-17 17:13:03] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:13:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:16:17] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:16:17] 
+================================================================================
+[2026-02-17 17:16:17] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:16:17] >>> MENGIRIM EMAIL...
+[2026-02-17 17:16:18] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:16:18] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:31:07] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:31:25] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:31:25] 
+================================================================================
+[2026-02-17 17:31:25] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:31:25] >>> MENGIRIM EMAIL...
+[2026-02-17 17:31:25] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:31:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:32:11] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:32:12] 
+================================================================================
+[2026-02-17 17:32:12] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:32:12] >>> MENGIRIM EMAIL...
+[2026-02-17 17:32:13] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:32:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:37:10] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:37:10] 
+================================================================================
+[2026-02-17 17:37:10] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:37:10] >>> MENGIRIM EMAIL...
+[2026-02-17 17:37:11] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:37:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:45:43] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:45:58] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:46:04] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:46:04] 
+================================================================================
+[2026-02-17 17:46:04] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:46:04] >>> MENGIRIM EMAIL...
+[2026-02-17 17:46:05] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:46:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:07] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:36] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:49:36] 
+================================================================================
+[2026-02-17 17:49:36] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:49:36] >>> MENGIRIM EMAIL...
+[2026-02-17 17:49:37] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:49:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:44] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:49:44] 
+================================================================================
+[2026-02-17 17:49:44] sendEmailNotification() ke: sri.widisastuti261077@gmail.com
+[2026-02-17 17:49:44] >>> MENGIRIM EMAIL...
+[2026-02-17 17:49:45] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 17:49:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:00:42] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:00:58] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:00:58] 
+================================================================================
+[2026-02-17 19:00:58] sendEmailNotification() ke: sri.widiastuti261077@gmail.com
+[2026-02-17 19:00:58] >>> MENGIRIM EMAIL...
+[2026-02-17 19:00:59] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 19:00:59] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:50:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:50:55] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:50:56] 
+================================================================================
+[2026-02-17 19:50:56] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 19:50:56] >>> MENGIRIM EMAIL...
+[2026-02-17 19:50:56] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 19:50:56] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:52:52] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:52:52] 
+================================================================================
+[2026-02-17 19:52:52] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 19:52:52] >>> MENGIRIM EMAIL...
+[2026-02-17 19:52:53] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 19:52:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:54:08] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:54:09] 
+================================================================================
+[2026-02-17 19:54:09] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 19:54:09] >>> MENGIRIM EMAIL...
+[2026-02-17 19:54:10] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 19:54:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:55:11] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:55:11] 
+================================================================================
+[2026-02-17 19:55:11] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 19:55:11] >>> MENGIRIM EMAIL...
+[2026-02-17 19:55:12] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 19:55:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:58:30] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:58:31] 
+================================================================================
+[2026-02-17 19:58:31] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 19:58:31] >>> MENGIRIM EMAIL...
+[2026-02-17 19:58:32] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 19:58:32] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:59:49] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:01:17] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:01:18] 
+================================================================================
+[2026-02-17 20:01:18] sendEmailNotification() ke: sri.widiastuti261077@gmail.com
+[2026-02-17 20:01:18] >>> MENGIRIM EMAIL...
+[2026-02-17 20:01:19] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 20:01:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:16:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:16:33] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:16:33] 
+================================================================================
+[2026-02-17 20:16:33] sendEmailNotification() ke: sri.widiastuti2610@gmail.com
+[2026-02-17 20:16:33] >>> MENGIRIM EMAIL...
+[2026-02-17 20:16:34] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 20:16:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:20:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:20:34] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:20:34] 
+================================================================================
+[2026-02-17 20:20:34] sendEmailNotification() ke: agung.wahono2901@gmail.com
+[2026-02-17 20:20:34] >>> MENGIRIM EMAIL...
+[2026-02-17 20:20:35] >>> HASIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-17 20:20:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:21:18] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:21:25] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:21:25] 
+================================================================================
+[2026-02-17 20:21:25] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-17 20:21:25] >>> MENGIRIM EMAIL...
+[2026-02-17 20:21:26] >>> HASIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-17 20:21:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:27:50] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:30:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:07:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:16:42] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:16:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:18:05] ========== RESPONSE.PHP START ==========
+[2026-02-19 11:18:06] 
+================================================================================
+[2026-02-19 11:18:06] sendEmailNotification() ke: sri.widiastuti261077@gmail.com
+[2026-02-19 11:18:06] >>> MENGIRIM EMAIL...
+[2026-02-19 11:18:06] >>> HASIL EMAIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-19 11:18:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 12:07:56] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 12:08:32] ========== RESPONSE.PHP START ==========
+[2026-02-19 12:08:32] 
+================================================================================
+[2026-02-19 12:08:32] sendEmailNotification() ke: agung.senen3@gmail.com
+[2026-02-19 12:08:32] >>> MENGIRIM EMAIL...
+[2026-02-19 12:08:33] >>> HASIL EMAIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-19 12:08:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:06:51] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:07:07] ========== RESPONSE.PHP START ==========
+[2026-02-20 09:07:08] 
+================================================================================
+[2026-02-20 09:07:08] sendEmailNotification() ke: sri.widiastuti261077@gmail.com
+[2026-02-20 09:07:08] >>> MENGIRIM EMAIL...
+[2026-02-20 09:07:08] >>> HASIL EMAIL: - Array
+(
+    [success] => 1
+    [http_code] => 202
+    [error] => 
+    [sent] => 1
+)
+
+
+[2026-02-20 09:07:08] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:24:14] ========== RESPONSE.PHP START ==========
+[2026-02-20 09:53:26] 
+================================================================================
+[2026-02-20 09:53:26] sendTestEmail() DIPANGGIL
+[2026-02-20 09:53:26] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 09:53:26] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 09:53:26
+    [html_length] => 1496
+)
+
+[2026-02-20 09:53:27] HTTP Code: 401
+[2026-02-20 09:53:27] Response: {"message":"Unauthenticated."}
+[2026-02-20 09:53:27] ✗ TEST EMAIL GAGAL: HTTP 401 - Unauthenticated.
+[2026-02-20 09:55:30] 
+================================================================================
+[2026-02-20 09:55:30] sendTestEmail() DIPANGGIL
+[2026-02-20 09:55:30] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 09:55:30] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 09:55:30
+    [html_length] => 1496
+)
+
+[2026-02-20 09:55:45] HTTP Code: 0
+[2026-02-20 09:55:45] CURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.mailersend.com:443 
+[2026-02-20 09:55:45] Response: 
+[2026-02-20 09:55:45] ✗ TEST EMAIL GAGAL: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.mailersend.com:443 
+[2026-02-20 10:17:40] 
+================================================================================
+[2026-02-20 10:17:40] sendTestEmail() DIPANGGIL
+[2026-02-20 10:17:40] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 10:17:40] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 10:17:40
+    [html_length] => 1496
+)
+
+[2026-02-20 10:17:41] HTTP Code: 401
+[2026-02-20 10:17:41] Response: {"message":"Unauthenticated."}
+[2026-02-20 10:17:41] ✗ TEST EMAIL GAGAL: HTTP 401 - Unauthenticated.
+[2026-02-20 10:21:22] 
+================================================================================
+[2026-02-20 10:21:22] sendTestEmail() DIPANGGIL
+[2026-02-20 10:21:22] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 10:21:22] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 10:21:22
+    [html_length] => 1496
+)
+
+[2026-02-20 10:21:23] HTTP Code: 422
+[2026-02-20 10:21:23] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-20 10:21:23] ✗ TEST EMAIL GAGAL: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:25:10] 
+================================================================================
+[2026-02-20 10:25:10] sendTestEmail() DIPANGGIL
+[2026-02-20 10:25:10] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 10:25:10] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 10:25:10
+    [html_length] => 1496
+)
+
+[2026-02-20 10:25:10] HTTP Code: 422
+[2026-02-20 10:25:10] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-20 10:25:10] ✗ TEST EMAIL GAGAL: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:34:32] 
+================================================================================
+[2026-02-20 10:34:32] sendTestEmail() DIPANGGIL
+[2026-02-20 10:34:32] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 10:34:32] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta 20/02/2026 10:34:32
+    [html_length] => 1496
+)
+
+[2026-02-20 10:34:32] HTTP Code: 422
+[2026-02-20 10:34:32] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-20 10:34:32] ✗ TEST EMAIL GAGAL: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:59:42] 
+================================================================================
+[2026-02-20 10:59:42] sendTestEmail() DIPANGGIL
+[2026-02-20 10:59:42] To: noreply@test-r9084zv6rpjgw63d.mlsender.net, Name: Admin Test
+[2026-02-20 10:59:42] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta
+)
+
+[2026-02-20 10:59:43] HTTP Code: 422
+[2026-02-20 10:59:43] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-20 10:59:43] ✗ TEST EMAIL GAGAL: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 11:14:06] 
+================================================================================
+[2026-02-20 11:14:06] sendTestEmail() DIPANGGIL
+[2026-02-20 11:14:06] To: noreply@test-r6ke4n1616ygon12.mlsender.net, Name: Admin Test
+[2026-02-20 11:14:06] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta
+)
+
+[2026-02-20 11:14:06] HTTP Code: 202
+[2026-02-20 11:14:06] Response: 
+[2026-02-20 11:14:06] ✓ TEST EMAIL BERHASIL dikirim ke noreply@test-r6ke4n1616ygon12.mlsender.net
+[2026-02-20 11:15:21] 
+================================================================================
+[2026-02-20 11:15:21] sendTestEmail() DIPANGGIL
+[2026-02-20 11:15:21] To: aris.setiyoarsono30@gmail.com, Name: Admin Test
+[2026-02-20 11:15:21] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => aris.setiyoarsono30@gmail.com
+    [subject] => Test Notifikasi Email - SMKN 12 Jakarta
+)
+
+[2026-02-20 11:15:21] HTTP Code: 202
+[2026-02-20 11:15:21] Response: 
+[2026-02-20 11:15:21] ✓ TEST EMAIL BERHASIL dikirim ke aris.setiyoarsono30@gmail.com
+[2026-02-20 13:51:32] Mengirim email notifikasi password baru ke: agungwahono7929@gmail.com untuk user: siswa042
+[2026-02-20 13:51:32] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => agungwahono7929@gmail.com
+    [subject] => Reset Password Berhasil - SMKN 12 Jakarta
+)
+
+[2026-02-20 13:51:33] HTTP Code: 422
+[2026-02-20 13:51:33] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-20 13:51:33] ✗ Email notifikasi password gagal dikirim ke agungwahono7929@gmail.com
+[2026-02-20 13:51:33] Pesan error: You have reached trial account unique recipients limit. #MS42225
+
+[2026-02-23 10:57:58] ========== RESPONSE.PHP START ==========
+
+[2026-02-26 13:13:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-26 14:53:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:42:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:45:02] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:59:30] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 17:42:36] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 17:43:14] ========== RESPONSE.PHP START ==========
+[2026-02-27 17:43:15] 
+================================================================================
+[2026-02-27 17:43:15] sendEmailNotification() ke: sri.widiastuti261077@gmail.com
+[2026-02-27 17:43:15] >>> MENGIRIM EMAIL...
+[2026-02-27 17:43:15] >>> HASIL EMAIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-27 17:43:15] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:46] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:46] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:50:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:06:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:21:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:22:38] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:23:17] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:46:16] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:47:35] ========== RESPONSE.PHP START ==========
+[2026-02-28 17:47:35] 
+================================================================================
+[2026-02-28 17:47:35] sendEmailNotification() ke: agungway2901@gmail.com
+[2026-02-28 17:47:35] >>> MENGIRIM EMAIL...
+[2026-02-28 17:47:36] >>> HASIL EMAIL: - Array
+(
+    [success] => 
+    [http_code] => 422
+    [error] => 
+    [sent] => 
+)
+
+
+[2026-02-28 17:47:36] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:04:49] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:05:27] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:06:08] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 08:28:54] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:20:26] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:22:09] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:53:09] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 10:52:13] ========== RESPONSE.PHP START ==========

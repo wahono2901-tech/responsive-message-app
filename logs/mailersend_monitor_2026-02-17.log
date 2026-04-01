@@ -1,0 +1,900 @@
+[2026-02-17 19:28:58] Menguji koneksi Mailersend...
+[2026-02-17 19:28:59] Hasil test: error - 960.65ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 960.65
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:28:58
+)
+
+[2026-02-17 19:29:04] SMTP Test: GAGAL - 5002.22ms
+[2026-02-17 19:29:34] Menguji koneksi Mailersend...
+[2026-02-17 19:29:35] Hasil test: error - 439.79ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 439.79
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:34
+)
+
+[2026-02-17 19:29:35] Menguji koneksi Mailersend...
+[2026-02-17 19:29:36] Hasil test: error - 475.3ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 475.3
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:35
+)
+
+[2026-02-17 19:29:40] SMTP Test: GAGAL - 5014.49ms
+[2026-02-17 19:29:41] SMTP Test: GAGAL - 5012.75ms
+[2026-02-17 19:29:56] Menguji koneksi Mailersend...
+[2026-02-17 19:29:56] Hasil test: error - 501.09ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 501.09
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:56
+)
+
+[2026-02-17 19:30:01] SMTP Test: GAGAL - 5002.86ms
+[2026-02-17 19:30:34] Menguji koneksi Mailersend...
+[2026-02-17 19:30:34] Hasil test: error - 530.28ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 530.28
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:30:34
+)
+
+[2026-02-17 19:30:39] SMTP Test: GAGAL - 5037.72ms
+[2026-02-17 19:31:10] Menguji koneksi Mailersend...
+[2026-02-17 19:31:11] Menguji koneksi Mailersend...
+[2026-02-17 19:31:11] Hasil test: error - 980.6ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 980.6
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:10
+)
+
+[2026-02-17 19:31:12] Hasil test: error - 483.57ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 483.57
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:11
+)
+
+[2026-02-17 19:31:16] SMTP Test: GAGAL - 5000.75ms
+[2026-02-17 19:31:17] SMTP Test: GAGAL - 5012.61ms
+[2026-02-17 19:31:48] Menguji koneksi Mailersend...
+[2026-02-17 19:31:48] Hasil test: error - 578.33ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 578.33
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:48
+)
+
+[2026-02-17 19:31:49] Menguji koneksi Mailersend...
+[2026-02-17 19:31:49] Hasil test: error - 507.68ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 507.68
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:49
+)
+
+[2026-02-17 19:31:53] SMTP Test: GAGAL - 5000.45ms
+[2026-02-17 19:31:54] SMTP Test: GAGAL - 5009.67ms
+[2026-02-17 19:32:25] Menguji koneksi Mailersend...
+[2026-02-17 19:32:25] Hasil test: error - 463.04ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 463.04
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:32:25
+)
+
+[2026-02-17 19:32:27] Menguji koneksi Mailersend...
+[2026-02-17 19:32:27] Hasil test: error - 450.44ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 450.44
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:32:27
+)
+
+[2026-02-17 19:32:30] SMTP Test: GAGAL - 5043.3ms
+[2026-02-17 19:32:32] SMTP Test: GAGAL - 5004.85ms
+[2026-02-17 19:33:03] Menguji koneksi Mailersend...
+[2026-02-17 19:33:04] Hasil test: error - 940.98ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 940.98
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:03
+)
+
+[2026-02-17 19:33:05] Menguji koneksi Mailersend...
+[2026-02-17 19:33:06] Hasil test: error - 425.29ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 425.29
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:05
+)
+
+[2026-02-17 19:33:09] SMTP Test: GAGAL - 5013.75ms
+[2026-02-17 19:33:11] SMTP Test: GAGAL - 5004.86ms
+[2026-02-17 19:33:42] Menguji koneksi Mailersend...
+[2026-02-17 19:33:43] Hasil test: error - 1018.63ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 1018.63
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:42
+)
+
+[2026-02-17 19:33:45] Menguji koneksi Mailersend...
+[2026-02-17 19:33:46] Hasil test: error - 473.14ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 473.14
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:45
+)
+
+[2026-02-17 19:33:48] SMTP Test: GAGAL - 5004.03ms
+[2026-02-17 19:33:51] SMTP Test: GAGAL - 5065.64ms
+[2026-02-17 19:34:21] Menguji koneksi Mailersend...
+[2026-02-17 19:34:22] Menguji koneksi Mailersend...
+[2026-02-17 19:34:22] Hasil test: error - 963.31ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 963.31
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:21
+)
+
+[2026-02-17 19:34:23] Hasil test: error - 484.26ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 484.26
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:22
+)
+
+[2026-02-17 19:34:27] SMTP Test: GAGAL - 5007.67ms
+[2026-02-17 19:34:28] SMTP Test: GAGAL - 5002.56ms
+[2026-02-17 19:34:58] Menguji koneksi Mailersend...
+[2026-02-17 19:34:59] Hasil test: error - 437.17ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 437.17
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:58
+)
+
+[2026-02-17 19:35:00] Menguji koneksi Mailersend...
+[2026-02-17 19:35:01] Hasil test: error - 960.68ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 960.68
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:00
+)
+
+[2026-02-17 19:35:04] SMTP Test: GAGAL - 5006.95ms
+[2026-02-17 19:35:06] SMTP Test: GAGAL - 5012.19ms
+[2026-02-17 19:35:37] Menguji koneksi Mailersend...
+[2026-02-17 19:35:38] Hasil test: error - 487.75ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 487.75
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:37
+)
+
+[2026-02-17 19:35:38] Menguji koneksi Mailersend...
+[2026-02-17 19:35:39] Hasil test: error - 475.54ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 475.54
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:38
+)
+
+[2026-02-17 19:35:43] SMTP Test: GAGAL - 5028.35ms
+[2026-02-17 19:35:44] SMTP Test: GAGAL - 5011.72ms
+[2026-02-17 19:36:14] Menguji koneksi Mailersend...
+[2026-02-17 19:36:15] Hasil test: error - 1006.16ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 1006.16
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:14
+)
+
+[2026-02-17 19:36:16] Menguji koneksi Mailersend...
+[2026-02-17 19:36:17] Hasil test: error - 456.3ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 456.3
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:16
+)
+
+[2026-02-17 19:36:20] SMTP Test: GAGAL - 5002.64ms
+[2026-02-17 19:36:22] SMTP Test: GAGAL - 5008.52ms
+[2026-02-17 19:36:52] Menguji koneksi Mailersend...
+[2026-02-17 19:36:53] Hasil test: error - 538.42ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 538.42
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:52
+)
+
+[2026-02-17 19:36:54] Menguji koneksi Mailersend...
+[2026-02-17 19:36:55] Hasil test: error - 933.83ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 933.83
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:54
+)
+
+[2026-02-17 19:36:58] SMTP Test: GAGAL - 5005.81ms
+[2026-02-17 19:37:00] SMTP Test: GAGAL - 5014.07ms
+[2026-02-17 19:37:31] Menguji koneksi Mailersend...
+[2026-02-17 19:37:31] Hasil test: error - 442.44ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 442.44
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:37:31
+)
+
+[2026-02-17 19:37:36] SMTP Test: GAGAL - 4996.13ms
+[2026-02-17 19:38:07] Menguji koneksi Mailersend...
+[2026-02-17 19:38:08] Hasil test: error - 437.61ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 437.61
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:07
+)
+
+[2026-02-17 19:38:08] Menguji koneksi Mailersend...
+[2026-02-17 19:38:09] Hasil test: error - 454.27ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 454.27
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:08
+)
+
+[2026-02-17 19:38:13] SMTP Test: GAGAL - 5007.49ms
+[2026-02-17 19:38:14] SMTP Test: GAGAL - 5012.52ms
+[2026-02-17 19:38:44] Menguji koneksi Mailersend...
+[2026-02-17 19:38:45] Hasil test: error - 420.64ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 420.64
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:44
+)
+
+[2026-02-17 19:38:50] SMTP Test: GAGAL - 5002.47ms
+[2026-02-17 19:39:21] Menguji koneksi Mailersend...
+[2026-02-17 19:39:21] Hasil test: error - 444.39ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 444.39
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:39:21
+)
+
+[2026-02-17 19:39:26] SMTP Test: GAGAL - 5005.23ms
+[2026-02-17 19:39:57] Menguji koneksi Mailersend...
+[2026-02-17 19:39:58] Hasil test: error - 431.88ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 431.88
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:39:57
+)
+
+[2026-02-17 19:40:03] SMTP Test: GAGAL - 5008.11ms
+[2026-02-17 19:40:33] Menguji koneksi Mailersend...
+[2026-02-17 19:40:34] Hasil test: error - 460.94ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 460.94
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:40:33
+)
+
+[2026-02-17 19:40:34] Menguji koneksi Mailersend...
+[2026-02-17 19:40:35] Hasil test: error - 936.74ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 936.74
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:40:34
+)
+
+[2026-02-17 19:40:39] SMTP Test: GAGAL - 5009.65ms
+[2026-02-17 19:40:40] SMTP Test: GAGAL - 5007.5ms
+[2026-02-17 19:41:11] Menguji koneksi Mailersend...
+[2026-02-17 19:41:12] Menguji koneksi Mailersend...
+[2026-02-17 19:41:12] Hasil test: error - 967.01ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 967.01
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:11
+)
+
+[2026-02-17 19:41:13] Hasil test: error - 448.29ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 448.29
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:12
+)
+
+[2026-02-17 19:41:17] SMTP Test: GAGAL - 5018.96ms
+[2026-02-17 19:41:18] SMTP Test: GAGAL - 5004.45ms
+[2026-02-17 19:41:48] Menguji koneksi Mailersend...
+[2026-02-17 19:41:49] Hasil test: error - 462.19ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 462.19
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:48
+)
+
+[2026-02-17 19:41:51] Menguji koneksi Mailersend...
+[2026-02-17 19:41:51] Hasil test: error - 517.58ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 517.58
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:51
+)
+
+[2026-02-17 19:41:54] SMTP Test: GAGAL - 5050.24ms
+[2026-02-17 19:41:56] SMTP Test: GAGAL - 5008.02ms
+[2026-02-17 19:42:27] Menguji koneksi Mailersend...
+[2026-02-17 19:42:27] Hasil test: error - 482.54ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 482.54
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:42:27
+)
+
+[2026-02-17 19:42:29] Menguji koneksi Mailersend...
+[2026-02-17 19:42:29] Hasil test: error - 440.05ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 440.05
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:42:29
+)
+
+[2026-02-17 19:42:32] SMTP Test: GAGAL - 5013.23ms
+[2026-02-17 19:42:34] SMTP Test: GAGAL - 5009.47ms
+[2026-02-17 19:43:05] Menguji koneksi Mailersend...
+[2026-02-17 19:43:05] Hasil test: error - 530ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 530
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:05
+)
+
+[2026-02-17 19:43:06] Menguji koneksi Mailersend...
+[2026-02-17 19:43:07] Hasil test: error - 1169.73ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 1169.73
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:06
+)
+
+[2026-02-17 19:43:10] SMTP Test: GAGAL - 5001.18ms
+[2026-02-17 19:43:12] SMTP Test: GAGAL - 5000.39ms
+[2026-02-17 19:43:43] Menguji koneksi Mailersend...
+[2026-02-17 19:43:44] Hasil test: error - 966.3ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 966.3
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:43
+)
+
+[2026-02-17 19:43:49] SMTP Test: GAGAL - 5006.5ms
+[2026-02-17 19:44:20] Menguji koneksi Mailersend...
+[2026-02-17 19:44:21] Hasil test: error - 456.92ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 456.92
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:20
+)
+
+[2026-02-17 19:44:22] Menguji koneksi Mailersend...
+[2026-02-17 19:44:22] Hasil test: error - 484.65ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 484.65
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:22
+)
+
+[2026-02-17 19:44:26] SMTP Test: GAGAL - 5016.34ms
+[2026-02-17 19:44:27] SMTP Test: GAGAL - 5013.07ms
+[2026-02-17 19:44:58] Menguji koneksi Mailersend...
+[2026-02-17 19:44:59] Hasil test: error - 967.41ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 967.41
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:58
+)
+
+[2026-02-17 19:45:01] Menguji koneksi Mailersend...
+[2026-02-17 19:45:01] Hasil test: error - 461.73ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 461.73
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:01
+)
+
+[2026-02-17 19:45:04] SMTP Test: GAGAL - 5002.99ms
+[2026-02-17 19:45:06] SMTP Test: GAGAL - 5005.68ms
+[2026-02-17 19:45:38] Menguji koneksi Mailersend...
+[2026-02-17 19:45:39] Hasil test: error - 996.78ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 996.78
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:38
+)
+
+[2026-02-17 19:45:41] Menguji koneksi Mailersend...
+[2026-02-17 19:45:41] Hasil test: error - 448.95ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 448.95
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:41
+)
+
+[2026-02-17 19:45:44] SMTP Test: GAGAL - 4995.02ms
+[2026-02-17 19:45:46] SMTP Test: GAGAL - 5011.26ms
+[2026-02-17 19:46:17] Menguji koneksi Mailersend...
+[2026-02-17 19:46:17] Hasil test: error - 486.64ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 486.64
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:17
+)
+
+[2026-02-17 19:46:18] Menguji koneksi Mailersend...
+[2026-02-17 19:46:19] Hasil test: error - 948.63ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 948.63
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:18
+)
+
+[2026-02-17 19:46:23] SMTP Test: GAGAL - 5096.57ms
+[2026-02-17 19:46:24] SMTP Test: GAGAL - 5055.92ms
+[2026-02-17 19:46:55] Menguji koneksi Mailersend...
+[2026-02-17 19:46:55] Hasil test: error - 440.8ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 440.8
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:55
+)
+
+[2026-02-17 19:46:56] Menguji koneksi Mailersend...
+[2026-02-17 19:46:56] Hasil test: error - 455.25ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 455.25
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:56
+)
+
+[2026-02-17 19:47:00] SMTP Test: GAGAL - 5017.79ms
+[2026-02-17 19:47:01] SMTP Test: GAGAL - 5013.13ms
+[2026-02-17 19:47:33] Menguji koneksi Mailersend...
+[2026-02-17 19:47:34] Hasil test: error - 468.41ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 468.41
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:47:33
+)
+
+[2026-02-17 19:47:35] Menguji koneksi Mailersend...
+[2026-02-17 19:47:35] Hasil test: error - 467.54ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 467.54
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:47:35
+)
+
+[2026-02-17 19:47:39] SMTP Test: GAGAL - 5005.51ms
+[2026-02-17 19:47:40] SMTP Test: GAGAL - 5006.85ms
+[2026-02-17 19:48:12] Menguji koneksi Mailersend...
+[2026-02-17 19:48:12] Hasil test: error - 488.12ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 488.12
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:12
+)
+
+[2026-02-17 19:48:13] Menguji koneksi Mailersend...
+[2026-02-17 19:48:13] Hasil test: error - 512.28ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 512.28
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:13
+)
+
+[2026-02-17 19:48:17] SMTP Test: GAGAL - 5014.96ms
+[2026-02-17 19:48:18] SMTP Test: GAGAL - 5002.27ms
+[2026-02-17 19:48:49] Menguji koneksi Mailersend...
+[2026-02-17 19:48:50] Hasil test: error - 472.05ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 472.05
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:49
+)
+
+[2026-02-17 19:48:50] Menguji koneksi Mailersend...
+[2026-02-17 19:48:51] Hasil test: error - 566.86ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 566.86
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:50
+)
+
+[2026-02-17 19:48:55] SMTP Test: GAGAL - 5015.16ms
+[2026-02-17 19:48:56] SMTP Test: GAGAL - 5009.32ms
+[2026-02-17 19:49:08] Menguji koneksi Mailersend...
+[2026-02-17 19:49:09] Hasil test: error - 528.51ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 528.51
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:49:08
+)
+
+[2026-02-17 19:49:11] Menguji koneksi Mailersend...
+[2026-02-17 19:49:11] Hasil test: error - 485.55ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 HTTP Error: 404
+    [response_time] => 485.55
+    [http_code] => 404
+    [domain_status] => unknown
+    [domain_verified] => 
+    [details] => 
+    [timestamp] => 2026-02-17 19:49:11
+)
+
+[2026-02-17 19:49:14] SMTP Test: GAGAL - 5010.21ms
+[2026-02-17 19:49:16] SMTP Test: GAGAL - 5015.95ms

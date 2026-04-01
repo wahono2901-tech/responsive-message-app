@@ -1,0 +1,41 @@
+[2026-02-27 15:48:46] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-27 15:48:46] Input - phone: 085117128578, nama: wiwi, reference: MSG20260227-63494
+[2026-02-27 15:48:46] Jenis Pesan: Informasi, Prioritas: Medium
+[2026-02-27 15:48:46] Phone setelah format: 6285117128578
+[2026-02-27 15:48:46] Pesan panjang: 576
+[2026-02-27 15:48:46] Data ke Fonnte: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI PESAN - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Pesan Anda telah berhasil kami terima.
+
+*📋 INFORMASI PESAN:*
+─────────────────────────
+📌 Nomor Referensi: MSG20260227-63494
+📂 Jenis Pesan: Informasi
+🟡 Prioritas: Medium
+📊 Status: Pending (Menunggu diproses)
+─────────────────────────
+
+*📝 ISI PESAN ANDA:*
+```
+Ada kartun yang salah masuk sekolah
+```
+
+Pesan akan diproses dalam 1x24 jam.
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-27 15:48:46] URL: https://api.fonnte.com/send
+[2026-02-27 15:48:46] API Token: FS2cq...
+[2026-02-27 15:48:46] HTTP Code: 200
+[2026-02-27 15:48:46] Response: {"detail":"success! message in queue","id":[145545361],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":968,"remaining":967,"used":1}},"requestid":399659984,"status":true,"target":["6285117128578"]}
+[2026-02-27 15:48:46] ✓ WHATSAPP BERHASIL dikirim ke 6285117128578

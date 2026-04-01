@@ -1,0 +1,60 @@
+[2026-02-20 08:49:24] ========== TEST MAILERSEND CONNECTION ==========
+[2026-02-20 08:49:24] API Token: mlsn.68e7318a4d...
+[2026-02-20 08:49:25] HTTP Code: 401
+[2026-02-20 08:49:25] ✗ Koneksi MailerSend gagal
+[2026-02-20 08:51:10] ========== TEST MAILERSEND CONNECTION ==========
+[2026-02-20 08:51:10] API Token: mlsn.68e7318a4d...
+[2026-02-20 08:51:10] HTTP Code: 401
+[2026-02-20 08:51:10] ✗ Koneksi MailerSend gagal
+[2026-02-20 08:52:26] ========== TEST MAILERSEND CONNECTION ==========
+[2026-02-20 08:52:26] API Token: mlsn.68e7318a4d...
+[2026-02-20 08:52:26] HTTP Code: 401
+[2026-02-20 08:52:26] ✗ Koneksi MailerSend gagal
+[2026-02-20 09:53:26] 
+================================================================================
+[2026-02-20 09:53:26] testMailerSendConnection() DIPANGGIL
+[2026-02-20 09:53:26] API Token: mlsn.68e7318a4d...
+[2026-02-20 09:53:26] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 09:53:27] Mencoba endpoint domains untuk debugging...
+[2026-02-20 09:53:27] Domain endpoint HTTP Code: 401
+[2026-02-20 09:55:30] 
+================================================================================
+[2026-02-20 09:55:30] testMailerSendConnection() DIPANGGIL
+[2026-02-20 09:55:30] API Token: mlsn.d4e64e59e3...
+[2026-02-20 09:55:30] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 09:55:45] Mencoba endpoint domains untuk debugging...
+[2026-02-20 09:55:55] Domain endpoint HTTP Code: 0
+[2026-02-20 10:17:40] 
+================================================================================
+[2026-02-20 10:17:40] testMailerSendConnection() DIPANGGIL
+[2026-02-20 10:17:40] API Token: mlsn.d4e64e59e3...
+[2026-02-20 10:17:40] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 10:17:41] ✗ Koneksi MailerSend gagal: HTTP 401 - Unauthenticated.
+[2026-02-20 10:21:22] 
+================================================================================
+[2026-02-20 10:21:22] testMailerSendConnection() DIPANGGIL
+[2026-02-20 10:21:22] API Token: mlsn.d4e64e59e3...
+[2026-02-20 10:21:22] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 10:21:23] ✗ Koneksi MailerSend gagal: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:25:10] 
+================================================================================
+[2026-02-20 10:25:10] testMailerSendConnection() DIPANGGIL
+[2026-02-20 10:25:10] API Token: mlsn.a4e70a19ff...
+[2026-02-20 10:25:10] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 10:25:10] ✗ Koneksi MailerSend gagal: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:34:32] 
+================================================================================
+[2026-02-20 10:34:32] testMailerSendConnection() DIPANGGIL
+[2026-02-20 10:34:32] API Token: mlsn.3ae3e0dd1d...
+[2026-02-20 10:34:32] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 10:34:32] ✗ Koneksi MailerSend gagal: HTTP 422 - You have reached trial account unique recipients limit. #MS42225
+[2026-02-20 10:59:42] 
+================================================================================
+[2026-02-20 10:59:42] testMailerSendConnection() DIPANGGIL
+[2026-02-20 10:59:42] API Token: mlsn.3ae3e0dd1d...
+[2026-02-20 10:59:42] Mencoba test dengan mengirim email ke: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 11:14:06] 
+================================================================================
+[2026-02-20 11:14:06] testMailerSendConnection() DIPANGGIL
+[2026-02-20 11:14:06] API Token: mlsn.7a4863017c...
+[2026-02-20 11:14:06] Mencoba test dengan mengirim email ke: noreply@test-r6ke4n1616ygon12.mlsender.net

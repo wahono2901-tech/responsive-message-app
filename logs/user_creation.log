@@ -1,0 +1,465 @@
+[2026-02-19 12:54:42] ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'kelas_jurusan' in 'field list'
+[2026-02-19 13:29:47] Mengirim email ke: agung.wahono2901@gmail.com untuk user: siswa041
+[2026-02-19 13:29:48] ✗ Email gagal dikirim ke agung.wahono2901@gmail.com: 
+[2026-02-19 13:29:48] Mengirim WhatsApp ke: 08129469754 untuk user: siswa041
+[2026-02-19 13:29:48] ✓ WhatsApp berhasil dikirim ke 628129469754
+[2026-02-19 13:29:48] USER CREATED: - Array
+(
+    [user_id] => 88
+    [username] => siswa041
+    [nama_lengkap] => Agung Wahono
+    [email] => agung.wahono2901@gmail.com
+    [phone] => 08129469754
+    [kelas] => X
+    [jurusan] => RPL
+    [mata_pelajaran] => 
+    [user_type] => Siswa
+    [created_by] => admin
+    [notifications] => Array
+        (
+            [email] => Array
+                (
+                    [success] => 
+                    [error] => Unknown error
+                    [http_code] => 422
+                )
+
+            [whatsapp] => Array
+                (
+                    [success] => 1
+                    [error] => Unknown error
+                )
+
+        )
+
+)
+
+[2026-02-19 13:34:56] Mengirim email ke: agung.wahono2901@gmail.com untuk user: siswa041
+[2026-02-19 13:34:57] ✗ Email gagal dikirim ke agung.wahono2901@gmail.com: 
+[2026-02-19 13:34:57] Mengirim WhatsApp ke: 08129469754 untuk user: siswa041
+[2026-02-19 13:34:57] ✓ WhatsApp berhasil dikirim ke 628129469754
+[2026-02-19 13:34:57] USER CREATED: - Array
+(
+    [user_id] => 89
+    [username] => siswa041
+    [nama_lengkap] => Agung Wahono
+    [email] => agung.wahono2901@gmail.com
+    [phone] => 08129469754
+    [kelas] => XI
+    [jurusan] => RPL
+    [mata_pelajaran] => 
+    [user_type] => Siswa
+    [created_by] => admin
+    [notifications] => Array
+        (
+            [email] => Array
+                (
+                    [success] => 
+                    [error] => Unknown error
+                    [http_code] => 422
+                )
+
+            [whatsapp] => Array
+                (
+                    [success] => 1
+                    [error] => Unknown error
+                )
+
+        )
+
+)
+
+[2026-02-19 13:50:31] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:50:31] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:50:31] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:50:31] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:50:31] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:50:32] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:50:32] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:50:32] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:50:32] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:50:32] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:51:44] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:51:44] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:44] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:44] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:51:44] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:51:45] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:51:45] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:45] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:45] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:51:45] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:51:58] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:51:58] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:58] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:58] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:51:58] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:51:58] >>> MENGIRIM EMAIL KE: agung.wahono2901@gmail.com
+[2026-02-19 13:51:58] ========== FUNGSI KIRIM EMAIL UTAMA ==========
+[2026-02-19 13:51:58] >>> MENGIRIM EMAIL KE: agung.wahono2901@gmail.com
+[2026-02-19 13:51:58] ========== FUNGSI KIRIM EMAIL VIA API ==========
+[2026-02-19 13:51:58] Input - email: agung.wahono2901@gmail.com, nama: Agung Wahono
+[2026-02-19 13:51:58] Data email via API: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => agung.wahono2901@gmail.com
+    [subject] => Akun Baru Dibuat - SMKN 12 Jakarta
+    [html_length] => 3752
+)
+
+[2026-02-19 13:51:59] HTTP Code: 422
+[2026-02-19 13:51:59] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-19 13:51:59] ✗ EMAIL VIA API GAGAL dikirim ke agung.wahono2901@gmail.com
+[2026-02-19 13:51:59] Pesan error: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 13:51:59] ✗ API gagal, mencoba alternatif SMTP...
+[2026-02-19 13:51:59] ========== FUNGSI KIRIM EMAIL VIA SMTP ==========
+[2026-02-19 13:51:59] Input - email: agung.wahono2901@gmail.com, nama: Agung Wahono
+[2026-02-19 13:51:59] SMTP alternatif - menggunakan API sebagai fallback
+[2026-02-19 13:51:59] SMTP juga gagal atau tidak tersedia
+[2026-02-19 13:51:59] ✗ EMAIL GAGAL: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 13:51:59] Detail response: - Array
+(
+    [message] => You have reached trial account unique recipients limit. #MS42225
+    [errors] => Array
+        (
+            [to] => Array
+                (
+                    [0] => You have reached trial account unique recipients limit. #MS42225
+                )
+
+        )
+
+)
+
+[2026-02-19 13:51:59] >>> MENGIRIM WHATSAPP KE: 08129469754
+[2026-02-19 13:51:59] Mengirim WhatsApp ke: 08129469754 untuk user: siswa041
+[2026-02-19 13:51:59] ✓ WhatsApp berhasil dikirim ke 628129469754
+[2026-02-19 13:51:59] ✓ WHATSAPP BERHASIL
+[2026-02-19 13:51:59] USER CREATED: - Array
+(
+    [user_id] => 90
+    [username] => siswa041
+    [nama_lengkap] => Agung Wahono
+    [email] => agung.wahono2901@gmail.com
+    [phone] => 08129469754
+    [kelas] => XI
+    [jurusan] => RPL
+    [mata_pelajaran] => 
+    [user_type] => Siswa
+    [created_by] => admin
+    [notifications] => Array
+        (
+            [email] => Array
+                (
+                    [success] => 
+                    [sent] => 
+                    [error] => You have reached trial account unique recipients limit. #MS42225
+                    [http_code] => 422
+                    [response] => Array
+                        (
+                            [message] => You have reached trial account unique recipients limit. #MS42225
+                            [errors] => Array
+                                (
+                                    [to] => Array
+                                        (
+                                            [0] => You have reached trial account unique recipients limit. #MS42225
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [whatsapp] => Array
+                (
+                    [success] => 1
+                    [error] => Unknown error
+                )
+
+        )
+
+)
+
+[2026-02-19 13:51:59] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:51:59] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:59] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:51:59] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:51:59] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:55:23] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:55:23] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:23] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:23] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:55:23] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:55:23] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:55:23] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:23] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:23] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:55:23] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:55:32] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:55:32] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:32] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:32] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:55:32] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 13:55:32] >>> MENGIRIM EMAIL KE: agungwahono7929@gmail.com
+[2026-02-19 13:55:32] ========== FUNGSI KIRIM EMAIL UTAMA ==========
+[2026-02-19 13:55:32] >>> MENGIRIM EMAIL KE: agungwahono7929@gmail.com
+[2026-02-19 13:55:32] ========== FUNGSI KIRIM EMAIL VIA API ==========
+[2026-02-19 13:55:32] Input - email: agungwahono7929@gmail.com, nama: Iskandarsyah
+[2026-02-19 13:55:32] Data email via API: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => agungwahono7929@gmail.com
+    [subject] => Akun Baru Dibuat - SMKN 12 Jakarta
+    [html_length] => 3752
+)
+
+[2026-02-19 13:55:32] HTTP Code: 422
+[2026-02-19 13:55:32] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-19 13:55:32] ✗ EMAIL VIA API GAGAL dikirim ke agungwahono7929@gmail.com
+[2026-02-19 13:55:32] Pesan error: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 13:55:32] ✗ API gagal, mencoba alternatif SMTP...
+[2026-02-19 13:55:32] ========== FUNGSI KIRIM EMAIL VIA SMTP ==========
+[2026-02-19 13:55:32] Input - email: agungwahono7929@gmail.com, nama: Iskandarsyah
+[2026-02-19 13:55:32] SMTP alternatif - menggunakan API sebagai fallback
+[2026-02-19 13:55:32] SMTP juga gagal atau tidak tersedia
+[2026-02-19 13:55:32] ✗ EMAIL GAGAL: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 13:55:32] Detail response: - Array
+(
+    [message] => You have reached trial account unique recipients limit. #MS42225
+    [errors] => Array
+        (
+            [to] => Array
+                (
+                    [0] => You have reached trial account unique recipients limit. #MS42225
+                )
+
+        )
+
+)
+
+[2026-02-19 13:55:32] >>> MENGIRIM WHATSAPP KE: 085174207795
+[2026-02-19 13:55:32] Mengirim WhatsApp ke: 085174207795 untuk user: siswa042
+[2026-02-19 13:55:32] ✓ WhatsApp berhasil dikirim ke 6285174207795
+[2026-02-19 13:55:32] ✓ WHATSAPP BERHASIL
+[2026-02-19 13:55:32] USER CREATED: - Array
+(
+    [user_id] => 91
+    [username] => siswa042
+    [nama_lengkap] => Iskandarsyah
+    [email] => agungwahono7929@gmail.com
+    [phone] => 085174207795
+    [kelas] => X
+    [jurusan] => RPL
+    [mata_pelajaran] => 
+    [user_type] => Siswa
+    [created_by] => admin
+    [notifications] => Array
+        (
+            [email] => Array
+                (
+                    [success] => 
+                    [sent] => 
+                    [error] => You have reached trial account unique recipients limit. #MS42225
+                    [http_code] => 422
+                    [response] => Array
+                        (
+                            [message] => You have reached trial account unique recipients limit. #MS42225
+                            [errors] => Array
+                                (
+                                    [to] => Array
+                                        (
+                                            [0] => You have reached trial account unique recipients limit. #MS42225
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [whatsapp] => Array
+                (
+                    [success] => 1
+                    [error] => Unknown error
+                )
+
+        )
+
+)
+
+[2026-02-19 13:55:33] ========== ADD_USER.PHP START ==========
+[2026-02-19 13:55:33] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:33] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 13:55:33] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 13:55:33] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-20 13:09:50] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-20 13:09:50] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-20 13:09:50] ========== ADD_USER.PHP START ==========
+[2026-02-20 13:09:50] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 13:09:50] MAILERSEND ACTIVE: 1
+[2026-02-20 13:09:50] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-20 13:09:50] FONNTE ACTIVE: 1
+[2026-02-20 13:09:51] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-20 13:09:51] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-20 13:09:51] ========== ADD_USER.PHP START ==========
+[2026-02-20 13:09:51] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-20 13:09:51] MAILERSEND ACTIVE: 1
+[2026-02-20 13:09:51] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-20 13:09:51] FONNTE ACTIVE: 1
+[2026-02-23 09:51:45] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-23 09:51:45] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-23 09:51:45] ========== ADD_USER.PHP START ==========
+[2026-02-23 09:51:45] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-23 09:51:45] MAILERSEND ACTIVE: 1
+[2026-02-23 09:51:45] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-23 09:51:45] FONNTE ACTIVE: 1
+[2026-02-23 09:51:46] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-23 09:51:46] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-23 09:51:46] ========== ADD_USER.PHP START ==========
+[2026-02-23 09:51:46] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-23 09:51:46] MAILERSEND ACTIVE: 1
+[2026-02-23 09:51:46] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-23 09:51:46] FONNTE ACTIVE: 1
+[2026-02-24 07:47:39] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-24 07:47:39] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-24 07:47:39] ========== ADD_USER.PHP START ==========
+[2026-02-24 07:47:39] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-24 07:47:39] MAILERSEND ACTIVE: 1
+[2026-02-24 07:47:39] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-24 07:47:39] FONNTE ACTIVE: 1
+[2026-02-24 07:47:40] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-24 07:47:40] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-24 07:47:40] ========== ADD_USER.PHP START ==========
+[2026-02-24 07:47:40] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-24 07:47:40] MAILERSEND ACTIVE: 1
+[2026-02-24 07:47:40] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-02-24 07:47:40] FONNTE ACTIVE: 1
+[2026-03-20 15:04:54] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-20 15:04:54] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-20 15:04:54] ========== ADD_USER.PHP START ==========
+[2026-03-20 15:04:54] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-03-20 15:04:54] MAILERSEND ACTIVE: 1
+[2026-03-20 15:04:54] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-03-20 15:04:54] FONNTE ACTIVE: 1
+[2026-03-20 15:04:54] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-20 15:04:54] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-20 15:04:54] ========== ADD_USER.PHP START ==========
+[2026-03-20 15:04:54] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-03-20 15:04:54] MAILERSEND ACTIVE: 1
+[2026-03-20 15:04:54] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-03-20 15:04:54] FONNTE ACTIVE: 1
+[2026-03-20 15:26:10] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-20 15:26:10] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-20 15:26:10] ========== ADD_USER.PHP START ==========
+[2026-03-20 15:26:10] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-03-20 15:26:10] MAILERSEND ACTIVE: 1
+[2026-03-20 15:26:10] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-03-20 15:26:10] FONNTE ACTIVE: 1
+[2026-03-20 15:26:10] MailerSend config loaded dari settings.php - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-20 15:26:10] Fonnte config loaded dari settings.php - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-20 15:26:10] ========== ADD_USER.PHP START ==========
+[2026-03-20 15:26:10] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-03-20 15:26:10] MAILERSEND ACTIVE: 1
+[2026-03-20 15:26:10] FONNTE DEVICE ID: FS2cq8FckmaTegxtZpFB
+[2026-03-20 15:26:10] FONNTE ACTIVE: 1

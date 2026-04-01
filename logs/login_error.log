@@ -1,0 +1,5366 @@
+[15-Feb-2026 22:42:26 Asia/Jakarta] [2026-02-15 22:42:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:26
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:42:26 Asia/Jakarta] [2026-02-15 22:42:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:26 Asia/Jakarta] [2026-02-15 22:42:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => pb8rbukvjeg6f3bmrhs12up46p
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:42:30 Asia/Jakarta] [2026-02-15 22:42:30][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:30
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:42:30 Asia/Jakarta] [2026-02-15 22:42:30][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:30 Asia/Jakarta] [2026-02-15 22:42:30][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:42:34 Asia/Jakarta] [2026-02-15 22:42:34][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:34
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => debug=on
+)
+
+
+[15-Feb-2026 22:42:34 Asia/Jakarta] [2026-02-15 22:42:34][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?debug=on
+    [QUERY_STRING] => debug=on
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:34 Asia/Jakarta] [2026-02-15 22:42:34][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => s0avcrn32hdl6aq6dq0in6hklk
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:42:46 Asia/Jakarta] [2026-02-15 22:42:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:46
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => debug=on
+)
+
+
+[15-Feb-2026 22:42:46 Asia/Jakarta] [2026-02-15 22:42:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?debug=on
+    [QUERY_STRING] => debug=on
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?debug=on
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:46 Asia/Jakarta] [2026-02-15 22:42:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => s0avcrn32hdl6aq6dq0in6hklk
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:42:50 Asia/Jakarta] [2026-02-15 22:42:50][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:50
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:42:50 Asia/Jakarta] [2026-02-15 22:42:50][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:50 Asia/Jakarta] [2026-02-15 22:42:50][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:42:53 Asia/Jakarta] [2026-02-15 22:42:53][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:42:53
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => debug=on
+)
+
+
+[15-Feb-2026 22:42:53 Asia/Jakarta] [2026-02-15 22:42:53][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?debug=on
+    [QUERY_STRING] => debug=on
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:42:53 Asia/Jakarta] [2026-02-15 22:42:53][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => h7f6q1vbo67ntud6pa0g9tpi9j
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:08 Asia/Jakarta] [2026-02-15 22:43:08][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:08
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => debug=on
+)
+
+
+[15-Feb-2026 22:43:08 Asia/Jakarta] [2026-02-15 22:43:08][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?debug=on
+    [QUERY_STRING] => debug=on
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?debug=on
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:08 Asia/Jakarta] [2026-02-15 22:43:08][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => h7f6q1vbo67ntud6pa0g9tpi9j
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:16 Asia/Jakarta] [2026-02-15 22:43:16][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:16
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:43:16 Asia/Jakarta] [2026-02-15 22:43:16][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:16 Asia/Jakarta] [2026-02-15 22:43:16][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:26 Asia/Jakarta] [2026-02-15 22:43:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:26
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:43:26 Asia/Jakarta] [2026-02-15 22:43:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:26 Asia/Jakarta] [2026-02-15 22:43:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => j59isuem0a9rna6s98kdp6uhoc
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:26 Asia/Jakarta] [2026-02-15 22:43:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:26 Asia/Jakarta] [2026-02-15 22:43:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:27 Asia/Jakarta] [2026-02-15 22:43:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:39
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:39 Asia/Jakarta] [2026-02-15 22:43:39][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:40
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:40
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:40
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:40
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:40
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:40 Asia/Jakarta] [2026-02-15 22:43:40][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:46
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:46 Asia/Jakarta] [2026-02-15 22:43:46][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:47
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:47
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:47
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:47 Asia/Jakarta] [2026-02-15 22:43:47][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 2kqdkkref185bnut9prm0ctqrh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:53 Asia/Jakarta] [2026-02-15 22:43:53][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:53
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:43:53 Asia/Jakarta] [2026-02-15 22:43:53][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:53 Asia/Jakarta] [2026-02-15 22:43:53][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:57 Asia/Jakarta] [2026-02-15 22:43:57][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:57
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:43:57 Asia/Jakarta] [2026-02-15 22:43:57][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:57 Asia/Jakarta] [2026-02-15 22:43:57][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ckguupgv4rb1rmqjgdk6nahc8h
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:58
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:58 Asia/Jakarta] [2026-02-15 22:43:58][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:59
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:59
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:59
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:43:59
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:43:59 Asia/Jakarta] [2026-02-15 22:43:59][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:07
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:07 Asia/Jakarta] [2026-02-15 22:44:07][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:08
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:08
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:08
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:08
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:08 Asia/Jakarta] [2026-02-15 22:44:08][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => ao5rmsrckf278oa1d3mfva24jg
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:11 Asia/Jakarta] [2026-02-15 22:44:11][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:11
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:11 Asia/Jakarta] [2026-02-15 22:44:11][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:11 Asia/Jakarta] [2026-02-15 22:44:11][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:18 Asia/Jakarta] [2026-02-15 22:44:18][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:18
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:18][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => v4ol8hgi6fig4m1895576o6h37
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:19
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:19 Asia/Jakarta] [2026-02-15 22:44:19][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:20
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:20
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:20
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:20
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:20 Asia/Jakarta] [2026-02-15 22:44:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:32
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:32
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:32 Asia/Jakarta] [2026-02-15 22:44:32][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:33
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:33 Asia/Jakarta] [2026-02-15 22:44:33][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => lsib193tjeqgrtnu3au668bada
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:37 Asia/Jakarta] [2026-02-15 22:44:37][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:37
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:37 Asia/Jakarta] [2026-02-15 22:44:37][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:37 Asia/Jakarta] [2026-02-15 22:44:37][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:44 Asia/Jakarta] [2026-02-15 22:44:44][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:44
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:44 Asia/Jakarta] [2026-02-15 22:44:44][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:44 Asia/Jakarta] [2026-02-15 22:44:44][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => bri1k8ccblunhpmkm2q4b5u8t1
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:44:47 Asia/Jakarta] [2026-02-15 22:44:47][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:44:47
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:44:47 Asia/Jakarta] [2026-02-15 22:44:47][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:44:47 Asia/Jakarta] [2026-02-15 22:44:47][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:03 Asia/Jakarta] [2026-02-15 22:45:03][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:03
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:45:03 Asia/Jakarta] [2026-02-15 22:45:03][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:03 Asia/Jakarta] [2026-02-15 22:45:03][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 8sfsksj9uvupcpo6ma98eq0nt9
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:11 Asia/Jakarta] [2026-02-15 22:45:11][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:11
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:45:11 Asia/Jakarta] [2026-02-15 22:45:11][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:11 Asia/Jakarta] [2026-02-15 22:45:11][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:21
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 1fnm55llikk00jumvgfi2n96gu
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:21 Asia/Jakarta] [2026-02-15 22:45:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:22 Asia/Jakarta] [2026-02-15 22:45:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:26
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:26 Asia/Jakarta] [2026-02-15 22:45:26][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:45:27
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:45:27 Asia/Jakarta] [2026-02-15 22:45:27][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => 01qoilhv6bu46n09vkq12mb1q6
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:16 Asia/Jakarta] [2026-02-15 22:46:16][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:16
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:46:16 Asia/Jakarta] [2026-02-15 22:46:16][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/index.php?error=access_denied
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:16 Asia/Jakarta] [2026-02-15 22:46:16][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:20 Asia/Jakarta] [2026-02-15 22:46:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:20
+    [script] => /responsive-message-app/login.php
+    [method] => POST
+    [query] => logout=1
+)
+
+
+[15-Feb-2026 22:46:20 Asia/Jakarta] [2026-02-15 22:46:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /responsive-message-app/login.php?logout=1
+    [QUERY_STRING] => logout=1
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:20 Asia/Jakarta] [2026-02-15 22:46:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => uoael9b8jks0ni31d5ftr882sh
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:20 Asia/Jakarta] [2026-02-15 22:46:20][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:20
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:20 Asia/Jakarta] [2026-02-15 22:46:20][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:20][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:21
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:21 Asia/Jakarta] [2026-02-15 22:46:21][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+
+[15-Feb-2026 22:46:22 Asia/Jakarta] [2026-02-15 22:46:22][INFO][MEM: 0.54MB][PEAK: 0.76MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA:
+Array
+(
+    [time] => 2026-02-15 22:46:22
+    [script] => /responsive-message-app/login.php
+    [method] => GET
+    [query] => 
+)
+
+
+[15-Feb-2026 22:46:22 Asia/Jakarta] [2026-02-15 22:46:22][SERVER][MEM: 0.54MB][PEAK: 0.76MB] SERVER DEBUG
+  CALL STACK:
+    #1 login.php:170 - loginServerDebug()
+  DATA:
+Array
+(
+    [REQUEST_METHOD] => GET
+    [REQUEST_URI] => /responsive-message-app/login.php
+    [QUERY_STRING] => 
+    [HTTP_REFERER] => http://localhost:8080/responsive-message-app/login.php?logout=1
+    [REMOTE_ADDR] => 127.0.0.1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+)
+
+
+[15-Feb-2026 22:46:22 Asia/Jakarta] [2026-02-15 22:46:22][COOKIE][MEM: 0.54MB][PEAK: 0.76MB] COOKIE DEBUG
+  CALL STACK:
+    #1 login.php:171 - loginCookieDebug()
+  DATA:
+Array
+(
+    [all_cookies] => Array
+        (
+            [PHPSESSID] => 18af6rf8i8bto8hfi63830jaou
+            [RMSESSID] => e2ditd3c4i9i3r9u35n8sjvgst
+        )
+
+    [session_cookie] => 18af6rf8i8bto8hfi63830jaou
+    [remember_token] => NOT SET
+)
+
+

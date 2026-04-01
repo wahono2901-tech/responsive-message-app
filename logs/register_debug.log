@@ -1,0 +1,1269 @@
+
+[2026-02-16 20:08:21] ========== REGISTER.PHP START ==========
+[2026-02-16 20:08:21] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-16 20:08:21] REGISTER.PHP SELESAI
+
+[2026-02-17 16:22:30] ========== REGISTER.PHP START ==========
+[2026-02-17 16:22:30] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-17 16:22:30] REGISTER.PHP SELESAI
+
+[2026-02-17 16:51:06] ========== REGISTER.PHP START ==========
+[2026-02-17 16:51:06] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-17 16:51:06] REGISTER.PHP SELESAI
+
+[2026-02-17 16:53:36] ========== REGISTER.PHP START ==========
+[2026-02-17 16:53:36] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-17 16:53:37] REGISTER.PHP SELESAI
+
+[2026-02-17 16:55:11] ========== REGISTER.PHP START ==========
+[2026-02-17 16:55:11] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-17 16:55:11] REGISTER.PHP SELESAI
+
+[2026-02-19 05:28:32] ========== REGISTER.PHP START ==========
+[2026-02-19 05:28:32] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:28:32] REGISTER.PHP SELESAI
+
+[2026-02-19 05:31:25] ========== REGISTER.PHP START ==========
+[2026-02-19 05:31:25] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:31:25] POST REQUEST DITERIMA - Array
+(
+    [csrf_token] => 0dbd6720aba7a206088394385e71286a48483fa67d49f449f935b88ff21ad53c
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => agung.senen3@gmail.com
+    [phone_number] => 085117128578
+    [nama_lengkap] => wiwi
+    [username] => widi26
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi1234@
+    [confirm_password] => widi1234@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 05:31:25] Data registrasi: - Array
+(
+    [username] => widi26
+    [email] => agung.senen3@gmail.com
+    [user_type] => Orang_Tua
+    [nama_lengkap] => wiwi
+    [phone] => 085117128578
+)
+
+[2026-02-19 05:31:26] REGISTRASI BERHASIL - Array
+(
+    [user_id] => 75
+)
+
+[2026-02-19 05:31:26] MENGIRIM EMAIL NOTIFIKASI ke: agung.senen3@gmail.com
+[2026-02-19 05:31:26] ✓ EMAIL BERHASIL dikirim
+[2026-02-19 05:31:26] MENGIRIM WHATSAPP NOTIFIKASI ke: 085117128578
+[2026-02-19 05:31:27] ✗ WHATSAPP GAGAL dikirim
+[2026-02-19 05:31:27] STATUS NOTIFIKASI: - Array
+(
+    [email] => sent
+    [whatsapp] => failed
+)
+
+[2026-02-19 05:31:27] AUTO LOGIN GAGAL - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+
+[2026-02-19 05:31:42] ========== REGISTER.PHP START ==========
+[2026-02-19 05:31:42] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:31:42] REGISTER.PHP SELESAI
+
+[2026-02-19 05:37:59] ========== REGISTER.PHP START ==========
+[2026-02-19 05:37:59] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:37:59] POST REQUEST DITERIMA - Array
+(
+    [csrf_token] => 58c71b53f7ee9380aaa7c7bb8edc3a86be795a6069df16dd9ba2479e6e25b2ac
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2006001
+    [email] => sri.widiastuti261077@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => wiwi
+    [username] => widi26
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi1234@
+    [confirm_password] => widi1234@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 05:37:59] CSRF TOKEN INVALID
+[2026-02-19 05:37:59] REGISTER.PHP SELESAI
+
+[2026-02-19 05:39:06] ========== REGISTER.PHP START ==========
+[2026-02-19 05:39:06] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:39:06] POST REQUEST DITERIMA - Array
+(
+    [csrf_token] => ea407a8d524ba146eb9f168703538623607196ec937f3b7c84f0c652a0e7313e
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2006002
+    [email] => sri.widiastuti261077@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => wiwi
+    [username] => widi26
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi1234@
+    [confirm_password] => widi1234@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 05:39:06] Data registrasi: - Array
+(
+    [username] => widi26
+    [email] => sri.widiastuti261077@gmail.com
+    [user_type] => Orang_Tua
+    [nama_lengkap] => wiwi
+    [phone] => 081319055440
+)
+
+[2026-02-19 05:39:06] REGISTRASI BERHASIL - Array
+(
+    [user_id] => 76
+)
+
+[2026-02-19 05:39:06] MENGIRIM EMAIL NOTIFIKASI ke: sri.widiastuti261077@gmail.com
+[2026-02-19 05:39:07] ✗ EMAIL GAGAL dikirim - 
+[2026-02-19 05:39:07] MENGIRIM WHATSAPP NOTIFIKASI ke: 081319055440
+[2026-02-19 05:39:07] ✗ WHATSAPP GAGAL dikirim
+[2026-02-19 05:39:07] STATUS NOTIFIKASI: - Array
+(
+    [email] => failed
+    [whatsapp] => failed
+)
+
+[2026-02-19 05:39:07] AUTO LOGIN GAGAL - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+
+[2026-02-19 05:40:18] ========== REGISTER.PHP START ==========
+[2026-02-19 05:40:18] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:40:18] REGISTER.PHP SELESAI
+
+[2026-02-19 05:41:23] ========== REGISTER.PHP START ==========
+[2026-02-19 05:41:23] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:41:24] REGISTER.PHP SELESAI
+
+[2026-02-19 05:46:26] ========== REGISTER.PHP START ==========
+[2026-02-19 05:46:26] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 05:46:26] POST REQUEST DITERIMA - Array
+(
+    [csrf_token] => faea8eb7e3f81dc011a39fdbb406aeca52320f26484d8460a68b789aa7313535
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 085117128578
+    [nama_lengkap] => widiastuti
+    [username] => widi77
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi12345678@
+    [confirm_password] => widi12345678@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 05:46:26] CSRF TOKEN INVALID
+[2026-02-19 05:46:26] REGISTER.PHP SELESAI
+
+[2026-02-19 06:15:10] ========== REGISTER.PHP START ==========
+[2026-02-19 06:15:10] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:15:10] POST REQUEST DITERIMA - REGISTRASI - Array
+(
+    [csrf_token] => faea8eb7e3f81dc011a39fdbb406aeca52320f26484d8460a68b789aa7313535
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 085117128578
+    [nama_lengkap] => widiastuti
+    [username] => widi77
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi12345678@
+    [confirm_password] => widi12345678@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 06:15:10] REGISTER TOKEN ERROR: Token tidak ditemukan dalam POST
+[2026-02-19 06:15:10] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 40f8f0ce20...
+    [timestamp] => 1771456510
+    [ip] => 127.0.0.1
+)
+
+[2026-02-19 06:15:10] REGISTER.PHP SELESAI
+
+[2026-02-19 06:15:18] ========== REGISTER.PHP START ==========
+[2026-02-19 06:15:18] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:15:18] POST REQUEST DITERIMA - REGISTRASI - Array
+(
+    [csrf_token] => faea8eb7e3f81dc011a39fdbb406aeca52320f26484d8460a68b789aa7313535
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 085117128578
+    [nama_lengkap] => widiastuti
+    [username] => widi77
+    [kelas] => 
+    [jurusan] => 
+    [password] => widi12345678@
+    [confirm_password] => widi12345678@
+    [terms] => on
+    [register] => 
+)
+
+[2026-02-19 06:15:18] REGISTER TOKEN ERROR: Token tidak ditemukan dalam POST
+[2026-02-19 06:15:18] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => f43cc24cf6...
+    [timestamp] => 1771456518
+    [ip] => 127.0.0.1
+)
+
+[2026-02-19 06:15:18] REGISTER.PHP SELESAI
+
+[2026-02-19 06:16:29] ========== REGISTER.PHP START ==========
+[2026-02-19 06:16:29] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:16:29] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 1a6f595f8f...
+    [timestamp] => 1771456589
+    [ip] => 127.0.0.1
+)
+
+[2026-02-19 06:16:29] REGISTER.PHP SELESAI
+
+[2026-02-19 06:21:36] ========== REGISTER.PHP START ==========
+[2026-02-19 06:21:36] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:21:36] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 906bff8601...
+    [timestamp] => 1771456896
+    [ip] => 127.0.0.1
+)
+
+[2026-02-19 06:21:36] REGISTER.PHP SELESAI
+
+[2026-02-19 06:37:29] ========== REGISTER.PHP START ==========
+[2026-02-19 06:37:29] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:37:29] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 782db055a2...
+    [timestamp] => 1771457849
+)
+
+[2026-02-19 06:37:29] REGISTER.PHP SELESAI
+
+[2026-02-19 06:39:17] ========== REGISTER.PHP START ==========
+[2026-02-19 06:39:17] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 06:39:17] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => e957f78462...
+    [timestamp] => 1771457957
+)
+
+[2026-02-19 06:39:17] REGISTER.PHP SELESAI
+
+[2026-02-19 07:06:30] ========== REGISTER.PHP START ==========
+[2026-02-19 07:06:30] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 07:06:30] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => e14fee79dd...
+    [timestamp] => 1771459590
+)
+
+[2026-02-19 07:06:30] REGISTER.PHP SELESAI
+
+[2026-02-19 07:09:03] ========== REGISTER.PHP START ==========
+[2026-02-19 07:09:03] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 07:09:03] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 0368ea2d52...
+    [timestamp] => 1771459743
+)
+
+[2026-02-19 07:09:03] REGISTER.PHP SELESAI
+[2026-02-19 07:55:53] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 07:55:53] SESSION sebelum proses - Array
+(
+    [last_regeneration] => 1771462540
+    [csrf_token] => 0aa06857d62038da846fd6d9ebe266228ef57047948b83af3f5b4e129d6d2b00
+    [register_token] => 0368ea2d528e9e43f7e8e7cfe92b60691519ecc180192d4f
+    [register_token_time] => 1771459743
+    [form_unique_id] => 3a41ab11669812696ed09d3e5e873bd7
+    [processed_messages] => Array
+        (
+        )
+
+)
+
+[2026-02-19 07:55:53] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => b52ef78a8a...
+)
+
+[2026-02-19 07:56:57] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 07:56:57] SESSION sebelum proses - Array
+(
+    [last_regeneration] => 1771462540
+    [csrf_token] => 0aa06857d62038da846fd6d9ebe266228ef57047948b83af3f5b4e129d6d2b00
+    [register_token] => b52ef78a8a035519f64660ff528c581d30dc74021d820c7a
+    [register_token_time] => 1771462553
+    [form_unique_id] => 3a41ab11669812696ed09d3e5e873bd7
+    [processed_messages] => Array
+        (
+        )
+
+)
+
+[2026-02-19 07:56:57] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => 79736c82bc...
+)
+
+[2026-02-19 07:58:44] MEMULAI EKSEKUSI REGISTER.PHP
+[2026-02-19 07:58:44] SESSION sebelum proses - Array
+(
+    [last_regeneration] => 1771462540
+    [csrf_token] => 0aa06857d62038da846fd6d9ebe266228ef57047948b83af3f5b4e129d6d2b00
+    [register_token] => 79736c82bc78a7d8591c696096b1885e09dfee44f41d3bf1
+    [register_token_time] => 1771462617
+    [form_unique_id] => 3a41ab11669812696ed09d3e5e873bd7
+    [processed_messages] => Array
+        (
+        )
+
+)
+
+[2026-02-19 07:58:44] REGISTER TOKEN DIGENERATE - Array
+(
+    [token] => d12240d0bf...
+)
+
+[2026-02-19 08:13:42] ========== REGISTER.PHP START ==========
+[2026-02-19 08:13:42] REQUEST_METHOD: GET
+[2026-02-19 08:13:42] QUERY_STRING: 
+[2026-02-19 08:13:42] SESSION ID: 9qm52lko3lbl1uc35vf74maon1
+[2026-02-19 08:13:42] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:13:42] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:13:42] Bukan POST request, menampilkan form
+[2026-02-19 08:14:35] ========== REGISTER.PHP START ==========
+[2026-02-19 08:14:35] REQUEST_METHOD: POST
+[2026-02-19 08:14:35] QUERY_STRING: 
+[2026-02-19 08:14:35] SESSION ID: 9qm52lko3lbl1uc35vf74maon1
+[2026-02-19 08:14:35] POST data diterima: - Array
+(
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => widiastuti
+    [username] => widi26
+    [password] => ***
+    [confirm_password] => ***
+    [terms] => on
+)
+
+[2026-02-19 08:14:35] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:14:35] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:14:35] ========== PROSES REGISTRASI DIMULAI ==========
+[2026-02-19 08:14:35] POST data diterima - register: NO
+[2026-02-19 08:14:35] WARNING: POST request tetapi tombol register tidak terdeteksi
+[2026-02-19 08:14:35] POST keys: user_type, nis_nip, email, phone_number, nama_lengkap, username, password, confirm_password, terms
+[2026-02-19 08:19:31] ========== REGISTER.PHP START ==========
+[2026-02-19 08:19:31] REQUEST_METHOD: GET
+[2026-02-19 08:19:31] QUERY_STRING: 
+[2026-02-19 08:19:31] SESSION ID: df2qrgqf3qjkbilnhc70kv1dhk
+[2026-02-19 08:19:31] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:19:31] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:19:31] Bukan POST request, menampilkan form
+[2026-02-19 08:20:11] ========== REGISTER.PHP START ==========
+[2026-02-19 08:20:11] REQUEST_METHOD: POST
+[2026-02-19 08:20:11] QUERY_STRING: 
+[2026-02-19 08:20:11] SESSION ID: df2qrgqf3qjkbilnhc70kv1dhk
+[2026-02-19 08:20:11] POST data diterima: - Array
+(
+    [register] => 1
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => widiastuti
+    [username] => widi26
+    [password] => ***
+    [confirm_password] => ***
+    [terms] => on
+)
+
+[2026-02-19 08:20:11] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:20:11] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:20:11] ========== PROSES REGISTRASI DIMULAI ==========
+[2026-02-19 08:20:11] POST data diterima - register: YES
+[2026-02-19 08:20:11] Tombol register terdeteksi dengan nilai: 1
+[2026-02-19 08:20:11] Data setelah dibersihkan: - Array
+(
+    [username] => widi26
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [phone_number] => 081319055440
+    [password_length] => 9
+)
+
+[2026-02-19 08:20:11] VALIDASI BERHASIL, memanggil Auth::register()
+[2026-02-19 08:20:11] Hasil Auth::register(): - Array
+(
+    [success] => 1
+    [user_id] => 77
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 08:20:11] ✓ REGISTRASI BERHASIL! User ID: 77
+[2026-02-19 08:20:11] >>> MENGIRIM EMAIL ke: sri.widiastuti2610@gmail.com
+[2026-02-19 08:20:11] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 08:20:11] Input - email: sri.widiastuti2610@gmail.com, nama: widiastuti, username: widi26
+[2026-02-19 08:20:11] Data email: - Array
+(
+    [to] => sri.widiastuti2610@gmail.com
+    [subject] => Registrasi Berhasil - SMKN 12 Jakarta
+    [html_length] => 2174
+)
+
+[2026-02-19 08:20:12] HTTP Code: 422
+[2026-02-19 08:20:12] ✗ Email GAGAL dikirim ke sri.widiastuti2610@gmail.com
+[2026-02-19 08:20:12] >>> MENGIRIM WHATSAPP ke: 081319055440
+[2026-02-19 08:20:12] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 08:20:12] Input - phone: 081319055440, nama: widiastuti, username: widi26
+[2026-02-19 08:20:12] Phone setelah cleanup: 081319055440
+[2026-02-19 08:20:12] Phone setelah format: 6281319055440
+[2026-02-19 08:20:12] Pesan WhatsApp panjang: 257 karakter
+[2026-02-19 08:20:12] Data dikirim ke Fonnte: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: widi26
+Password: widi1234@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis, jangan dibalas._
+    [countryCode] => 62
+)
+
+[2026-02-19 08:20:13] HTTP Code: 201
+[2026-02-19 08:20:13] Response: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 08:20:13] ✗ WhatsApp GAGAL dikirim ke 6281319055440
+[2026-02-19 08:20:13] Status Notifikasi - Email: ✗ Gagal/Tidak dikirim, WA: ✗ Gagal/Tidak dikirim
+[2026-02-19 08:20:13] Mencoba auto login dengan username: widi26
+[2026-02-19 08:20:13] Hasil auto login: - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+[2026-02-19 08:20:13] ✗ AUTO LOGIN GAGAL, redirect ke login.php
+[2026-02-19 08:30:03] ========== REGISTER.PHP START ==========
+[2026-02-19 08:30:03] REQUEST_METHOD: GET
+[2026-02-19 08:30:03] QUERY_STRING: 
+[2026-02-19 08:30:03] SESSION ID: 7j9civismoqsmdjomqa9j6bnhq
+[2026-02-19 08:30:03] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:30:03] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:30:03] Bukan POST request, menampilkan form
+[2026-02-19 08:30:55] ========== REGISTER.PHP START ==========
+[2026-02-19 08:30:55] REQUEST_METHOD: POST
+[2026-02-19 08:30:55] QUERY_STRING: 
+[2026-02-19 08:30:55] SESSION ID: 7j9civismoqsmdjomqa9j6bnhq
+[2026-02-19 08:30:55] POST data diterima: - Array
+(
+    [register] => 1
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => widiastuti
+    [username] => widi26
+    [password] => ***
+    [confirm_password] => ***
+    [terms] => on
+)
+
+[2026-02-19 08:30:55] MAILERSEND_API_TOKEN didefinisikan
+[2026-02-19 08:30:55] WHATSAPP_TOKEN didefinisikan
+[2026-02-19 08:30:55] ========== PROSES REGISTRASI DIMULAI ==========
+[2026-02-19 08:30:55] POST data diterima - register: YES
+[2026-02-19 08:30:55] Tombol register terdeteksi dengan nilai: 1
+[2026-02-19 08:30:55] Data setelah dibersihkan: - Array
+(
+    [username] => widi26
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [phone_number] => 081319055440
+    [password_length] => 9
+)
+
+[2026-02-19 08:30:55] VALIDASI BERHASIL, memanggil Auth::register()
+[2026-02-19 08:30:56] Hasil Auth::register(): - Array
+(
+    [success] => 1
+    [user_id] => 78
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 08:30:56] ✓ REGISTRASI BERHASIL! User ID: 78
+[2026-02-19 08:30:56] >>> MENGIRIM EMAIL ke: sri.widiastuti2610@gmail.com
+[2026-02-19 08:30:56] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 08:30:56] Input - email: sri.widiastuti2610@gmail.com, nama: widiastuti, username: widi26
+[2026-02-19 08:30:56] Data email: - Array
+(
+    [from] => noreply@test-q3enl6k0o7542vwr.mlsender.net
+    [to] => sri.widiastuti2610@gmail.com
+    [subject] => Registrasi Berhasil - SMKN 12 Jakarta
+    [html_length] => 3497
+)
+
+[2026-02-19 08:30:56] HTTP Code: 422
+[2026-02-19 08:30:56] CURL Info: Array
+(
+    [url] => https://api.mailersend.com/v1/email
+    [content_type] => application/json
+    [http_code] => 422
+    [header_size] => 374
+    [request_size] => 6857
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.497905
+    [namelookup_time] => 0.103023
+    [connect_time] => 0.107714
+    [pretransfer_time] => 0.130623
+    [size_upload] => 6612
+    [size_download] => 163
+    [speed_download] => 327
+    [speed_upload] => 13279
+    [download_content_length] => -1
+    [upload_content_length] => 6612
+    [starttransfer_time] => 0.497232
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 172.64.145.90
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.18.7
+    [local_port] => 41695
+    [http_version] => 3
+    [protocol] => 2
+    [ssl_verifyresult] => 0
+    [scheme] => HTTPS
+    [appconnect_time_us] => 129351
+    [connect_time_us] => 107714
+    [namelookup_time_us] => 103023
+    [pretransfer_time_us] => 130623
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 497232
+    [total_time_us] => 497905
+    [effective_method] => POST
+)
+
+[2026-02-19 08:30:56] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-19 08:30:56] ✗ Email GAGAL dikirim ke sri.widiastuti2610@gmail.com
+[2026-02-19 08:30:56] >>> MENGIRIM WHATSAPP ke: 081319055440
+[2026-02-19 08:30:56] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 08:30:56] Input - original phone: 081319055440, nama: widiastuti, username: widi26
+[2026-02-19 08:30:56] Phone setelah format: 6281319055440
+[2026-02-19 08:30:56] Pesan WhatsApp panjang: 470 karakter
+[2026-02-19 08:30:56] Preview pesan: 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftar...
+[2026-02-19 08:30:56] Data dikirim ke Fonnte: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftarkan di Aplikasi Pesan Responsif.
+
+*📋 DATA LOGIN ANDA:*
+─────────────────────────
+Username: widi26
+Password: widi1234@
+─────────────────────────
+
+🔐 Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan ini dikirim otomatis. Mohon tidak membalas._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 08:30:57] HTTP Code: 201
+[2026-02-19 08:30:57] CURL Info: Array
+(
+    [url] => https://api.callmebot.com/whatsapp.php
+    [content_type] => text/html; charset=UTF-8
+    [http_code] => 201
+    [header_size] => 184
+    [request_size] => 1084
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.855978
+    [namelookup_time] => 0.027925
+    [connect_time] => 0.234052
+    [pretransfer_time] => 0.64684
+    [size_upload] => 908
+    [size_download] => 40
+    [speed_download] => 46
+    [speed_upload] => 1060
+    [download_content_length] => -1
+    [upload_content_length] => 908
+    [starttransfer_time] => 0.855385
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 13.38.186.117
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.18.7
+    [local_port] => 41698
+    [http_version] => 2
+    [protocol] => 2
+    [ssl_verifyresult] => 0
+    [scheme] => HTTPS
+    [appconnect_time_us] => 646622
+    [connect_time_us] => 234052
+    [namelookup_time_us] => 27925
+    [pretransfer_time_us] => 646840
+    [redirect_time_us] => 0
+    [starttransfer_time_us] => 855385
+    [total_time_us] => 855978
+    [effective_method] => POST
+)
+
+[2026-02-19 08:30:57] Response mentah: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 08:30:57] ✗ WhatsApp GAGAL dikirim ke 6281319055440
+[2026-02-19 08:30:57] Status Notifikasi - Email: ✗ Gagal, WA: ✗ Gagal
+[2026-02-19 08:30:57] Mencoba auto login dengan username: widi26
+[2026-02-19 08:30:57] Hasil auto login: - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+[2026-02-19 08:30:57] ✗ AUTO LOGIN GAGAL, redirect ke login.php
+
+[2026-02-19 08:41:28] ========== REGISTER.PHP START ==========
+[2026-02-19 08:41:28] ========== REGISTER.PHP START ==========
+[2026-02-19 08:41:28] REQUEST_METHOD: GET
+[2026-02-19 08:41:28] SESSION ID: mr2o76e7m9grn834m81o2rhb94
+[2026-02-19 08:41:28] Bukan POST request, menampilkan form
+
+[2026-02-19 08:42:58] ========== REGISTER.PHP START ==========
+[2026-02-19 08:42:58] ========== REGISTER.PHP START ==========
+[2026-02-19 08:42:58] REQUEST_METHOD: POST
+[2026-02-19 08:42:58] SESSION ID: mr2o76e7m9grn834m81o2rhb94
+[2026-02-19 08:42:58] POST data diterima: - Array
+(
+    [register] => 1
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [email] => sri.widiastuti2610@gmail.com
+    [phone_number] => 081319055440
+    [nama_lengkap] => widiastuti
+    [username] => widi2610
+    [password] => ***
+    [confirm_password] => ***
+    [terms] => on
+)
+
+[2026-02-19 08:42:58] ========== PROSES REGISTRASI DIMULAI ==========
+[2026-02-19 08:42:58] POST data diterima - register: YES
+[2026-02-19 08:42:58] Tombol register terdeteksi dengan nilai: 1
+[2026-02-19 08:42:58] Data setelah dibersihkan: - Array
+(
+    [username] => widi2610
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [phone_number] => 081319055440
+    [password_length] => 9
+)
+
+[2026-02-19 08:42:58] VALIDASI BERHASIL, memanggil Auth::register()
+[2026-02-19 08:42:59] Hasil Auth::register(): - Array
+(
+    [success] => 1
+    [user_id] => 79
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 08:42:59] ✓ REGISTRASI BERHASIL! User ID: 79
+[2026-02-19 08:42:59] >>> MENGIRIM EMAIL ke: sri.widiastuti2610@gmail.com
+[2026-02-19 08:42:59] ✗ EMAIL GAGAL: 
+[2026-02-19 08:42:59] >>> MENGIRIM WHATSAPP ke: 081319055440
+[2026-02-19 08:43:00] ✗ WHATSAPP GAGAL: WhatsApp gagal dikirim
+[2026-02-19 08:43:00] Mencoba auto login dengan username: widi2610
+[2026-02-19 08:43:00] Hasil auto login: - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+[2026-02-19 08:43:00] ✗ AUTO LOGIN GAGAL, redirect ke login.php
+
+[2026-02-19 08:44:45] ========== REGISTER.PHP START ==========
+[2026-02-19 08:44:46] ========== REGISTER.PHP START ==========
+[2026-02-19 08:44:46] REQUEST_METHOD: GET
+[2026-02-19 08:44:46] SESSION ID: mr2o76e7m9grn834m81o2rhb94
+[2026-02-19 08:44:46] Bukan POST request, menampilkan form
+[2026-02-19 08:53:23] ========== REGISTER.PHP START ==========
+[2026-02-19 08:53:23] WHATSAPP_API_URL: https://api.callmebot.com/whatsapp.php
+[2026-02-19 08:54:11] ========== REGISTER.PHP START ==========
+[2026-02-19 08:54:11] WHATSAPP_API_URL: https://api.callmebot.com/whatsapp.php
+[2026-02-19 08:54:11] ========== PROSES REGISTRASI ==========
+[2026-02-19 08:54:11] Data: - Array
+(
+    [username] => widi2610
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 081319055440
+)
+
+[2026-02-19 08:54:11] VALIDASI GAGAL: - Array
+(
+    [0] => Password tidak cocok
+)
+
+[2026-02-19 08:54:39] ========== REGISTER.PHP START ==========
+[2026-02-19 08:54:39] WHATSAPP_API_URL: https://api.callmebot.com/whatsapp.php
+[2026-02-19 08:54:39] ========== PROSES REGISTRASI ==========
+[2026-02-19 08:54:39] Data: - Array
+(
+    [username] => widi2610
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 081319055440
+)
+
+[2026-02-19 08:54:39] VALIDASI BERHASIL, registrasi...
+[2026-02-19 08:54:40] Hasil register: - Array
+(
+    [success] => 1
+    [user_id] => 80
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 08:54:40] ✓ REGISTRASI BERHASIL! ID: 80
+[2026-02-19 08:54:40] >>> Mengirim email...
+[2026-02-19 08:54:40] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 08:54:40] Input - email: sri.widiastuti2610@gmail.com, nama: widiastuti
+[2026-02-19 08:54:41] HTTP Code: 422
+[2026-02-19 08:54:41] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-19 08:54:41] ERROR: Batas limit email tercapai
+[2026-02-19 08:54:41] >>> Mengirim WhatsApp...
+[2026-02-19 08:54:41] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 08:54:41] Input - phone: 081319055440, nama: widiastuti, username: widi2610
+[2026-02-19 08:54:41] Phone setelah format: 6281319055440
+[2026-02-19 08:54:41] Pesan panjang: 243
+[2026-02-19 08:54:41] Data ke Fonnte: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: widi2610
+Password: widi1234@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 08:54:41] URL: https://api.callmebot.com/whatsapp.php
+[2026-02-19 08:54:41] Token: FS2cq...
+[2026-02-19 08:54:41] HTTP Code: 201
+[2026-02-19 08:54:41] Effective URL: https://api.callmebot.com/whatsapp.php
+[2026-02-19 08:54:41] Response: ERROR: phone parameter is <b>missing</b>
+[2026-02-19 08:54:41] ✗ WHATSAPP GAGAL
+[2026-02-19 08:54:41] Status - Email: Gagal, WA: Gagal
+[2026-02-19 08:54:41] Auto login...
+[2026-02-19 08:54:41] ✗ Auto login gagal
+[2026-02-19 09:06:12] WHATSAPP_API_URL lama: https://api.fonnte.com/send
+[2026-02-19 09:06:12] WHATSAPP_API_URL baru: https://api.fonnte.com/send
+[2026-02-19 09:08:13] WHATSAPP_API_URL lama: https://api.fonnte.com/send
+[2026-02-19 09:08:13] WHATSAPP_API_URL baru: https://api.fonnte.com/send
+[2026-02-19 09:08:14] WHATSAPP_API_URL lama: https://api.fonnte.com/send
+[2026-02-19 09:08:14] WHATSAPP_API_URL baru: https://api.fonnte.com/send
+[2026-02-19 09:09:12] WHATSAPP_API_URL lama: https://api.fonnte.com/send
+[2026-02-19 09:09:12] WHATSAPP_API_URL baru: https://api.fonnte.com/send
+[2026-02-19 09:09:12] ========== PROSES REGISTRASI ==========
+[2026-02-19 09:09:12] Data: - Array
+(
+    [username] => widi26
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 081319055440
+)
+
+[2026-02-19 09:09:12] VALIDASI BERHASIL, registrasi...
+[2026-02-19 09:09:13] Hasil register: - Array
+(
+    [success] => 1
+    [user_id] => 81
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 09:09:13] ✓ REGISTRASI BERHASIL! ID: 81
+[2026-02-19 09:09:13] >>> Mengirim email ke: sri.widiastuti2610@gmail.com
+[2026-02-19 09:09:13] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 09:09:13] Input - email: sri.widiastuti2610@gmail.com, nama: widiastuti
+[2026-02-19 09:09:14] HTTP Code: 422
+[2026-02-19 09:09:14] ERROR: Batas limit email tercapai (trial limit)
+[2026-02-19 09:09:14] >>> Mengirim WhatsApp ke: 081319055440
+[2026-02-19 09:09:14] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 09:09:14] Input - phone: 081319055440, nama: widiastuti, username: widi26
+[2026-02-19 09:09:14] Phone setelah format: 6281319055440
+[2026-02-19 09:09:14] Pesan panjang: 241
+[2026-02-19 09:09:14] Data ke Fonnte: - Array
+(
+    [target] => 6281319055440
+    [message] => 🔔 *NOTIFIKASI REGISTRASI - SMKN 12 Jakarta*
+
+Yth. *widiastuti*
+
+Akun Anda telah berhasil didaftarkan.
+
+*DATA LOGIN:*
+Username: widi26
+Password: widi1234@
+
+Login di: http://localhost:8080/responsive-message-app/login.php
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 09:09:14] URL: https://api.fonnte.com/send
+[2026-02-19 09:09:14] Token: FS2cq...
+[2026-02-19 09:09:14] HTTP Code: 200
+[2026-02-19 09:09:14] Effective URL: https://api.fonnte.com/send
+[2026-02-19 09:09:14] Response: {"detail":"success! message in queue","id":[144265643],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":983,"remaining":982,"used":1}},"requestid":387540195,"status":true,"target":["6281319055440"]}
+[2026-02-19 09:09:14] ✓ WHATSAPP BERHASIL dikirim ke 6281319055440
+[2026-02-19 09:09:14] Status - Email: Gagal (Batas email trial tercapai, tapi data tersimpan), WA: OK ()
+[2026-02-19 09:09:14] Auto login dengan username: widi26
+[2026-02-19 09:09:14] ✗ Auto login gagal, redirect ke login
+[2026-02-19 09:24:20] ========== REGISTER.PHP START ==========
+[2026-02-19 09:24:20] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:24:20] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:24:20] MAILERSEND_API_TOKEN: mlsn.3e45c...
+[2026-02-19 09:25:25] ========== REGISTER.PHP START ==========
+[2026-02-19 09:25:25] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:25:25] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:25:25] MAILERSEND_API_TOKEN: mlsn.3e45c...
+[2026-02-19 09:25:25] ========== PROSES REGISTRASI ==========
+[2026-02-19 09:25:25] Data: - Array
+(
+    [username] => widi2610
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => widiastuti
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 081319055440
+)
+
+[2026-02-19 09:25:25] VALIDASI BERHASIL, registrasi...
+[2026-02-19 09:25:25] Hasil register: - Array
+(
+    [success] => 1
+    [user_id] => 82
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 09:25:25] ✓ REGISTRASI BERHASIL! ID: 82
+[2026-02-19 09:25:25] >>> Mengirim email ke: sri.widiastuti2610@gmail.com
+[2026-02-19 09:25:25] ✗ EMAIL GAGAL: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 09:25:25] Detail response: - Array
+(
+    [message] => You have reached trial account unique recipients limit. #MS42225
+    [errors] => Array
+        (
+            [to] => Array
+                (
+                    [0] => You have reached trial account unique recipients limit. #MS42225
+                )
+
+        )
+
+)
+
+[2026-02-19 09:25:25] >>> Mengirim WhatsApp ke: 081319055440
+[2026-02-19 09:25:26] ✓ WHATSAPP BERHASIL
+[2026-02-19 09:25:26] Status - Email: Gagal, WA: OK
+[2026-02-19 09:25:26] Auto login dengan username: widi2610
+[2026-02-19 09:25:26] ✗ Auto login gagal, redirect ke login
+[2026-02-19 09:26:30] ========== REGISTER.PHP START ==========
+[2026-02-19 09:26:30] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:26:30] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:26:30] MAILERSEND_API_TOKEN: mlsn.3e45c...
+[2026-02-19 09:28:24] ========== REGISTER.PHP START ==========
+[2026-02-19 09:28:24] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:28:24] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:28:24] MAILERSEND_API_TOKEN: mlsn.3e45c...
+[2026-02-19 09:28:24] ========== PROSES REGISTRASI ==========
+[2026-02-19 09:28:24] Data: - Array
+(
+    [username] => widi10
+    [email] => sri.widiastuti261077@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => wiwi
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 085117128578
+)
+
+[2026-02-19 09:28:24] VALIDASI BERHASIL, registrasi...
+[2026-02-19 09:28:25] Hasil register: - Array
+(
+    [success] => 1
+    [user_id] => 83
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 09:28:25] ✓ REGISTRASI BERHASIL! ID: 83
+[2026-02-19 09:28:25] >>> Mengirim email ke: sri.widiastuti261077@gmail.com
+[2026-02-19 09:28:25] ✗ EMAIL GAGAL: You have reached trial account unique recipients limit. #MS42225
+[2026-02-19 09:28:25] Detail response: - Array
+(
+    [message] => You have reached trial account unique recipients limit. #MS42225
+    [errors] => Array
+        (
+            [to] => Array
+                (
+                    [0] => You have reached trial account unique recipients limit. #MS42225
+                )
+
+        )
+
+)
+
+[2026-02-19 09:28:25] >>> Mengirim WhatsApp ke: 085117128578
+[2026-02-19 09:28:26] ✓ WHATSAPP BERHASIL
+[2026-02-19 09:28:26] Status - Email: Gagal, WA: OK
+[2026-02-19 09:28:26] Auto login dengan username: widi10
+[2026-02-19 09:28:26] ✗ Auto login gagal, redirect ke login
+[2026-02-19 09:29:24] ========== REGISTER.PHP START ==========
+[2026-02-19 09:29:24] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:29:24] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:29:24] MAILERSEND_API_TOKEN: mlsn.3e45c...
+[2026-02-19 09:50:53] ========== REGISTER.PHP START ==========
+[2026-02-19 09:50:53] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:50:53] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:50:53] MAILERSEND_API_TOKEN: mlsn.a4e70...
+[2026-02-19 09:53:45] ========== REGISTER.PHP START ==========
+[2026-02-19 09:53:45] WHATSAPP_API_URL dari config: https://api.fonnte.com/send
+[2026-02-19 09:53:45] FONNTE_API_URL: https://api.fonnte.com/send
+[2026-02-19 09:53:45] MAILERSEND_API_TOKEN: mlsn.a4e70...
+[2026-02-19 09:53:45] ========== PROSES REGISTRASI ==========
+[2026-02-19 09:53:45] Data: - Array
+(
+    [username] => wiwi12
+    [email] => sri.widiastuti2610@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => wiwi
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 085117128578
+)
+
+[2026-02-19 09:53:45] VALIDASI BERHASIL, registrasi...
+[2026-02-19 09:53:46] Hasil register: - Array
+(
+    [success] => 
+    [errors] => Array
+        (
+            [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+        )
+
+)
+
+[2026-02-19 09:53:46] ✗ REGISTRASI GAGAL: - Array
+(
+    [system] => Terjadi kesalahan sistem. Silakan coba lagi.
+)
+
+[2026-02-19 10:01:05] ========== REGISTER.PHP START ==========
+[2026-02-19 10:01:05] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:01:05] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:01:05] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 10:01:05] SMTP HOST: smtp.mailersend.net
+[2026-02-19 10:01:05] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:01:05] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 10:02:18] ========== REGISTER.PHP START ==========
+[2026-02-19 10:02:18] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:02:18] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:02:18] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 10:02:18] SMTP HOST: smtp.mailersend.net
+[2026-02-19 10:02:18] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:02:18] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 10:02:18] ========== PROSES REGISTRASI ==========
+[2026-02-19 10:02:18] Data: - Array
+(
+    [username] => wiwi123
+    [email] => sri.widiastuti261077@gmail.com
+    [user_type] => Orang_Tua
+    [nis_nip] => OT2026001
+    [nama_lengkap] => wiwi
+    [kelas] => 
+    [jurusan] => 
+    [phone_number] => 085117128578
+)
+
+[2026-02-19 10:02:18] VALIDASI BERHASIL, registrasi...
+[2026-02-19 10:02:18] Hasil register: - Array
+(
+    [success] => 1
+    [user_id] => 85
+    [message] => Registrasi berhasil! Silakan login.
+)
+
+[2026-02-19 10:02:18] ✓ REGISTRASI BERHASIL! ID: 85
+[2026-02-19 10:02:18] >>> Mengirim email ke: sri.widiastuti261077@gmail.com
+[2026-02-19 10:02:19] ✓ EMAIL BERHASIL
+[2026-02-19 10:02:19] >>> Mengirim WhatsApp ke: 085117128578
+[2026-02-19 10:02:19] ✓ WHATSAPP BERHASIL
+[2026-02-19 10:02:19] Status - Email: OK, WA: OK
+[2026-02-19 10:02:19] Auto login dengan username: wiwi123
+[2026-02-19 10:02:19] ✗ Auto login gagal, redirect ke login
+[2026-02-19 10:49:13] ========== REGISTER.PHP START ==========
+[2026-02-19 10:49:13] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:49:13] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:49:13] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 10:49:13] SMTP HOST: smtp.mailersend.net
+[2026-02-19 10:49:13] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 10:49:13] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 12:10:40] ========== REGISTER.PHP START ==========
+[2026-02-19 12:10:40] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:40] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:40] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 12:10:40] SMTP HOST: smtp.mailersend.net
+[2026-02-19 12:10:40] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:40] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 12:10:55] ========== REGISTER.PHP START ==========
+[2026-02-19 12:10:55] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:55] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:55] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 12:10:55] SMTP HOST: smtp.mailersend.net
+[2026-02-19 12:10:55] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:10:55] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-19 12:11:22] ========== REGISTER.PHP START ==========
+[2026-02-19 12:11:22] MAILERSEND DOMAIN: test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:11:22] MAILERSEND FROM EMAIL: noreply@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:11:22] MAILERSEND API TOKEN: mlsn.a4e70a19ff...
+[2026-02-19 12:11:22] SMTP HOST: smtp.mailersend.net
+[2026-02-19 12:11:22] SMTP USER: MS_SBZwCT@test-r9084zv6rpjgw63d.mlsender.net
+[2026-02-19 12:11:22] FONNTE API URL: https://api.fonnte.com/send
+[2026-02-20 13:34:36] ========== REGISTER.PHP START ==========
+[2026-02-20 13:34:36] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-20 13:34:36] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-22 07:24:18] ========== REGISTER.PHP START ==========
+[2026-02-22 07:24:18] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-22 07:24:18] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-23 09:28:15] ========== REGISTER.PHP START ==========
+[2026-02-23 09:28:15] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-23 09:28:15] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-24 10:38:09] ========== REGISTER.PHP START ==========
+[2026-02-24 10:38:09] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-24 10:38:09] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-24 13:14:28] ========== REGISTER.PHP START ==========
+[2026-02-24 13:14:28] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-24 13:14:28] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-02-27 10:05:05] ========== REGISTER.PHP START ==========
+[2026-02-27 10:05:05] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-02-27 10:05:05] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-07 16:55:58] ========== REGISTER.PHP START ==========
+[2026-03-07 16:55:58] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-07 16:55:58] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-10 13:53:23] ========== REGISTER.PHP START ==========
+[2026-03-10 13:53:23] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-10 13:53:23] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-15 06:28:18] ========== REGISTER.PHP START ==========
+[2026-03-15 06:28:18] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-15 06:28:18] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+
+[2026-03-28 15:51:59] ========== REGISTER.PHP START ==========
+[2026-03-28 15:51:59] MailerSend Config loaded - Array
+(
+    [from_email] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [is_active] => 1
+)
+
+[2026-03-28 15:51:59] Fonnte Config loaded - Array
+(
+    [device_id] => 6285174207795
+    [is_active] => 1
+)
+

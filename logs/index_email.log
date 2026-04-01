@@ -1,0 +1,57 @@
+[2026-02-19 10:32:04] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 10:32:04] Input - email: agung.senen3@gmail.com, nama: wahono, reference: EXT20260219-84994
+[2026-02-19 10:32:04] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => agung.senen3@gmail.com
+    [subject] => Konfirmasi Pesan #EXT20260219-84994 - SMKN 12 Jakarta
+    [html_length] => 3187
+)
+
+[2026-02-19 10:32:04] HTTP Code: 202
+[2026-02-19 10:32:04] Response: 
+[2026-02-19 10:32:04] ✓ EMAIL BERHASIL dikirim ke agung.senen3@gmail.com
+[2026-02-19 11:02:03] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-19 11:02:03] Input - email: agung.senen3@gmail.com, nama: wahono agung, reference: EXT20260219-18588
+[2026-02-19 11:02:03] Jenis Pesan: Kesiswaan, Prioritas: High
+[2026-02-19 11:02:03] Data email: - Array
+(
+    [from] => noreply@test-r9084zv6rpjgw63d.mlsender.net
+    [to] => agung.senen3@gmail.com
+    [subject] => Konfirmasi Pesan #EXT20260219-18588 - SMKN 12 Jakarta
+    [html_length] => 4522
+)
+
+[2026-02-19 11:02:04] HTTP Code: 202
+[2026-02-19 11:02:04] Response: 
+[2026-02-19 11:02:04] ✓ EMAIL BERHASIL dikirim ke agung.senen3@gmail.com
+[2026-02-28 16:06:09] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-28 16:06:09] Input - email: agungway2901@gmail.com, nama: Django, reference: EXT20260228-54340
+[2026-02-28 16:06:09] Jenis Pesan: Keluhan, Prioritas: High
+[2026-02-28 16:06:09] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => agungway2901@gmail.com
+    [subject] => Konfirmasi Pesan #EXT20260228-54340 - SMKN 12 Jakarta
+    [html_length] => 4985
+)
+
+[2026-02-28 16:06:10] HTTP Code: 422
+[2026-02-28 16:06:10] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-28 16:06:10] ✗ EMAIL GAGAL dikirim ke agungway2901@gmail.com
+[2026-02-28 16:06:10] Pesan error: You have reached trial account unique recipients limit. #MS42225
+[2026-02-28 16:12:25] ========== FUNGSI KIRIM EMAIL ==========
+[2026-02-28 16:12:25] Input - email: agungway2901@gmail.com, nama: Django, reference: EXT20260228-00713
+[2026-02-28 16:12:25] Jenis Pesan: Informasi, Prioritas: Medium
+[2026-02-28 16:12:25] Data email: - Array
+(
+    [from] => noreply@test-r6ke4n1616ygon12.mlsender.net
+    [to] => agungway2901@gmail.com
+    [subject] => Konfirmasi Pesan #EXT20260228-00713 - SMKN 12 Jakarta
+    [html_length] => 5024
+)
+
+[2026-02-28 16:12:25] HTTP Code: 422
+[2026-02-28 16:12:25] Response: {"message":"You have reached trial account unique recipients limit. #MS42225","errors":{"to":["You have reached trial account unique recipients limit. #MS42225"]}}
+[2026-02-28 16:12:25] ✗ EMAIL GAGAL dikirim ke agungway2901@gmail.com
+[2026-02-28 16:12:25] Pesan error: You have reached trial account unique recipients limit. #MS42225

@@ -1,0 +1,105 @@
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] ========== GET MESSAGE ATTACHMENTS START ==========
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Auth check passed
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Processing message_id: 56
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Database connected
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Message found - Array
+(
+    [is_external] => 0
+)
+
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] Response sent successfully - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 11:45:48 Asia/Jakarta] [2026-03-01 11:45:48] ========== GET MESSAGE ATTACHMENTS END ==========
+
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] ========== GET MESSAGE ATTACHMENTS START ==========
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Auth check passed
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Processing message_id: 56
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Database connected
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Message found - Array
+(
+    [is_external] => 0
+)
+
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] Response sent successfully - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:47:31 Asia/Jakarta] [2026-03-01 12:47:31] ========== GET MESSAGE ATTACHMENTS END ==========
+
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] ========== GET MESSAGE ATTACHMENTS START ==========
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Auth check passed
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Processing message_id: 56
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Database connected
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Message found - Array
+(
+    [is_external] => 0
+)
+
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] Response sent successfully - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:47:55 Asia/Jakarta] [2026-03-01 12:47:55] ========== GET MESSAGE ATTACHMENTS END ==========
+
+

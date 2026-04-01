@@ -1,0 +1,370 @@
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:05:46] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 22:52:06
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => 3eb2bfe1687c610147f94af4c3f0f84d00c525aed4390d947005f267ba1d1576
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771171546
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:05:51] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 23:05:46
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => 7563165872eb9b54353b0e660677506748755eeaefae0bdbd8484af526fcb5e7
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771171551
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:06:04] USER LOGIN ATTEMPT: guru002 - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 3
+    username => guru002
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    email => siti.aisyah@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 22:52:34
+    nis_nip => 198301012
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Bimbingan Konseling
+    privilege_level => Limited_Lv1
+    phone_number => 081122334456
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => f94c2cb275ba4cbdf297bed29d15febe5a892ab4feefb9e32ebb50966735da96
+    login_attempts => 0
+    user_id => 3
+    username => guru002
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    email => siti.aisyah@smkn12jakarta.sch.id
+    nis_nip => 198301012
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Bimbingan Konseling
+    privilege_level => Limited_Lv1
+    phone_number => 081122334456
+    avatar => default-avatar.png
+    login_time => 1771171564
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:06:25] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 23:05:51
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => c1adf4a6c76c2e7fe822e7771ca7c7c60438e333b1cecda7f6faad5647b991a8
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771171585
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:07:16] USER LOGIN ATTEMPT: guru002 - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 3
+    username => guru002
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    email => siti.aisyah@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 23:06:04
+    nis_nip => 198301012
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Bimbingan Konseling
+    privilege_level => Limited_Lv1
+    phone_number => 081122334456
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => de58322e5af7ef5b054b9e3561f91fd62e9616f68215cb4a6c3368009f38f873
+    login_attempts => 0
+    user_id => 3
+    username => guru002
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    email => siti.aisyah@smkn12jakarta.sch.id
+    nis_nip => 198301012
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Bimbingan Konseling
+    privilege_level => Limited_Lv1
+    phone_number => 081122334456
+    avatar => default-avatar.png
+    login_time => 1771171636
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-15 23:07:35] USER LOGIN ATTEMPT: guru001 - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 2
+    username => guru001
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Guru
+    nama_lengkap => Budi Santoso
+    email => budi.santoso@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 22:33:41
+    nis_nip => 198301011
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Matematika
+    privilege_level => Limited_Lv2
+    phone_number => 081122334455
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => 7a4ca6e65fb46a97f1468836211109220664532eeb7098a212777e42e28ce5ff
+    login_attempts => 0
+    user_id => 2
+    username => guru001
+    user_type => Guru
+    nama_lengkap => Budi Santoso
+    email => budi.santoso@smkn12jakarta.sch.id
+    nis_nip => 198301011
+    kelas => 
+    jurusan => 
+    mata_pelajaran => Matematika
+    privilege_level => Limited_Lv2
+    phone_number => 081122334455
+    avatar => default-avatar.png
+    login_time => 1771171655
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-16 08:55:38] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-15 23:06:25
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => ca8b2c27a714740bf70f9d5fd2b32d1c9b00bfecccd3e3a6eed7a4069d53be07
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771206938
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-16 08:55:56] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-16 08:55:38
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => a22d5062693d44ef29775670bf246c231aee295d05700b7afe9b39cb7d6d62d8
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771206956
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-16 08:56:49] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-16 08:55:56
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => b7218c04d73907502bc1611afc76fa88d5391f7880f7be9328906021734a6c1f
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771207009
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[2026-02-16 08:57:15] USER LOGIN ATTEMPT: admin - STATUS: SUCCESS
+  USER DATA FROM DB:
+    id => 1
+    username => admin
+    password_hash => $2y$10$E1NAKHNbOiQz6puFodqji.6... [hashed]
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    is_active => 1
+    last_login => 2026-02-16 08:56:49
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+  SESSION DATA AFTER LOGIN:
+    redirect_count => 0
+    csrf_token => a436ddfb66305e6912bf8c002f0e346789e6ca97a90c5d9bb9cb17c9c09d8d54
+    login_attempts => 0
+    user_id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    email => admin@smkn12jakarta.sch.id
+    nis_nip => ADM001
+    kelas => 
+    jurusan => 
+    mata_pelajaran => 
+    privilege_level => Full_Access
+    phone_number => 081234567890
+    avatar => default-avatar.png
+    login_time => 1771207035
+--------------------------------------------------------------------------------

@@ -1,0 +1,3072 @@
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Auth check passed
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Processing message_id: 56
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Database connected
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] PHP Warning:  include(templates/message_detail_template.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 188
+[28-Feb-2026 06:36:25 Asia/Jakarta] PHP Warning:  include(): Failed opening 'templates/message_detail_template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 188
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] ERROR: Gagal generate HTML
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] Stack trace: #0 {main}
+
+[28-Feb-2026 06:36:25 Asia/Jakarta] [2026-02-28 06:36:25] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Auth check passed
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Processing message_id: 56
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Database connected
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] Response sent successfully
+
+[28-Feb-2026 06:37:53 Asia/Jakarta] [2026-02-28 06:37:53] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Auth check passed
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Processing message_id: 56
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Database connected
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] Response sent successfully
+
+[28-Feb-2026 06:50:25 Asia/Jakarta] [2026-02-28 06:50:25] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Auth check passed
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Processing message_id: 56
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Database connected
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] Response sent successfully
+
+[28-Feb-2026 14:40:59 Asia/Jakarta] [2026-02-28 14:40:59] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Auth check passed
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Processing message_id: 56
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Database connected
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] Response sent successfully
+
+[28-Feb-2026 14:50:14 Asia/Jakarta] [2026-02-28 14:50:14] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Auth check passed
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Processing message_id: 56
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Database connected
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] Response sent successfully
+
+[28-Feb-2026 14:51:55 Asia/Jakarta] [2026-02-28 14:51:55] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Auth check passed
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Processing message_id: 56
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Database connected
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] Response sent successfully
+
+[28-Feb-2026 14:52:27 Asia/Jakarta] [2026-02-28 14:52:27] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Auth check passed
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Processing message_id: 56
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Database connected
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] Response sent successfully
+
+[28-Feb-2026 14:53:11 Asia/Jakarta] [2026-02-28 14:53:11] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Auth check passed
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Processing message_id: 56
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Database connected
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] HTML generated successfully - Array
+(
+    [length] => 7722
+)
+
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] Response sent successfully
+
+[28-Feb-2026 15:04:41 Asia/Jakarta] [2026-02-28 15:04:41] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Auth check passed
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Processing message_id: 56
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Database connected
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] HTML generated successfully - Array
+(
+    [length] => 11909
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 1
+)
+
+
+[28-Feb-2026 15:12:44 Asia/Jakarta] [2026-02-28 15:12:44] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Request received - Array
+(
+    [message_id] => 59
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Auth check passed
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Processing message_id: 59
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Database connected
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Message found - Array
+(
+    [id] => 59
+    [status] => Pending
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] HTML generated successfully - Array
+(
+    [length] => 11190
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 16:08:49 Asia/Jakarta] [2026-02-28 16:08:49] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Request received - Array
+(
+    [message_id] => 59
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Auth check passed
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Processing message_id: 59
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Database connected
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Message found - Array
+(
+    [id] => 59
+    [status] => Pending
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] HTML generated successfully - Array
+(
+    [length] => 11190
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 16:09:48 Asia/Jakarta] [2026-02-28 16:09:48] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Request received - Array
+(
+    [message_id] => 59
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Auth check passed
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Processing message_id: 59
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Database connected
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Message found - Array
+(
+    [id] => 59
+    [status] => Pending
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] HTML generated successfully - Array
+(
+    [length] => 11190
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 16:14:47 Asia/Jakarta] [2026-02-28 16:14:47] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Auth check passed
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Processing message_id: 60
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Database connected
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 16:15:03 Asia/Jakarta] [2026-02-28 16:15:03] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Request received - Array
+(
+    [message_id] => 59
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Auth check passed
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Processing message_id: 59
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Database connected
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Message found - Array
+(
+    [id] => 59
+    [status] => Pending
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] HTML generated successfully - Array
+(
+    [length] => 11190
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 17:10:15 Asia/Jakarta] [2026-02-28 17:10:15] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] ========== GET_MESSAGE_DETAIL START ==========
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Request received - Array
+(
+    [message_id] => 59
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Auth check passed
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Processing message_id: 59
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Database connected
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Message found - Array
+(
+    [id] => 59
+    [status] => Pending
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] HTML generated successfully - Array
+(
+    [length] => 11190
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[28-Feb-2026 17:21:20 Asia/Jakarta] [2026-02-28 17:21:20] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Auth check passed
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Processing message_id: 60
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Database connected
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 05:46:25 Asia/Jakarta] [2026-03-01 05:46:25] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Auth check passed
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Processing message_id: 60
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Database connected
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:05:06 Asia/Jakarta] [2026-03-01 08:05:06] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Auth check passed
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Processing message_id: 60
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Database connected
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:08:47 Asia/Jakarta] [2026-03-01 08:08:47] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Auth check passed
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Processing message_id: 60
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Database connected
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:28:36 Asia/Jakarta] [2026-03-01 08:28:36] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Auth check passed
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Processing message_id: 60
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Database connected
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:29:08 Asia/Jakarta] [2026-03-01 08:29:08] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Auth check passed
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Processing message_id: 60
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Database connected
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:44:50 Asia/Jakarta] [2026-03-01 08:44:50] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Auth check passed
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Processing message_id: 60
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Database connected
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 08:49:08 Asia/Jakarta] [2026-03-01 08:49:08] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Auth check passed
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Processing message_id: 60
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Database connected
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:03:11 Asia/Jakarta] [2026-03-01 09:03:11] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Auth check passed
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Processing message_id: 60
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Database connected
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:04:39 Asia/Jakarta] [2026-03-01 09:04:39] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Auth check passed
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Processing message_id: 60
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Database connected
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:19:52 Asia/Jakarta] [2026-03-01 09:19:52] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Auth check passed
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Processing message_id: 60
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Database connected
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:20:37 Asia/Jakarta] [2026-03-01 09:20:37] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Auth check passed
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Processing message_id: 60
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Database connected
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:21:21 Asia/Jakarta] [2026-03-01 09:21:21] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Auth check passed
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Processing message_id: 60
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Database connected
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:23:02 Asia/Jakarta] [2026-03-01 09:23:02] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Auth check passed
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Processing message_id: 60
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Database connected
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\ajax\get_message_detail.php on line 71
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Attachments found - Array
+(
+    [count] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+)
+
+
+[01-Mar-2026 09:42:40 Asia/Jakarta] [2026-03-01 09:42:40] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Auth check passed
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Processing message_id: 60
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Database connected
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 09:52:28 Asia/Jakarta] [2026-03-01 09:52:28] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Auth check passed
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Processing message_id: 60
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Database connected
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:10:58 Asia/Jakarta] [2026-03-01 10:10:58] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Auth check passed
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Processing message_id: 60
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Database connected
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:32:23 Asia/Jakarta] [2026-03-01 10:32:23] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Auth check passed
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Processing message_id: 60
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Database connected
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:34:38 Asia/Jakarta] [2026-03-01 10:34:38] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Auth check passed
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Processing message_id: 60
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Database connected
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:36:42 Asia/Jakarta] [2026-03-01 10:36:42] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Auth check passed
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Processing message_id: 60
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Database connected
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:37:28 Asia/Jakarta] [2026-03-01 10:37:28] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Auth check passed
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Processing message_id: 60
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Database connected
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 10:51:22 Asia/Jakarta] [2026-03-01 10:51:22] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:28] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Auth check passed
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Processing message_id: 56
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Database connected
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] Response sent successfully
+
+[01-Mar-2026 11:45:29 Asia/Jakarta] [2026-03-01 11:45:29] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Auth check passed
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Processing message_id: 56
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Database connected
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] Response sent successfully
+
+[01-Mar-2026 11:47:39 Asia/Jakarta] [2026-03-01 11:47:39] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Auth check passed
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Processing message_id: 56
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Database connected
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] Response sent successfully
+
+[01-Mar-2026 11:58:38 Asia/Jakarta] [2026-03-01 11:58:38] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Auth check passed
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Processing message_id: 60
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Database connected
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 12:00:34 Asia/Jakarta] [2026-03-01 12:00:34] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] ========== GET_MESSAGE_DETAIL START ==========
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Auth check passed
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Processing message_id: 60
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Database connected
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] HTML generated successfully - Array
+(
+    [length] => 11198
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[01-Mar-2026 12:11:14 Asia/Jakarta] [2026-03-01 12:11:14] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Auth check passed
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Processing message_id: 56
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Database connected
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+)
+
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] Response sent successfully
+
+[01-Mar-2026 12:12:13 Asia/Jakarta] [2026-03-01 12:12:13] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Auth check passed
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Processing message_id: 56
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Database connected
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+    [jenis_pesan] => Informasi
+)
+
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Attachments found - Array
+(
+    [count] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] Response sent successfully
+
+[01-Mar-2026 12:33:05 Asia/Jakarta] [2026-03-01 12:33:05] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Auth check passed
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Processing message_id: 56
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Database connected
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+    [jenis_pesan] => Informasi
+)
+
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Attachments found - Array
+(
+    [count] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] Response sent successfully
+
+[01-Mar-2026 12:47:42 Asia/Jakarta] [2026-03-01 12:47:42] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Request received - Array
+(
+    [message_id] => 54
+)
+
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Auth check passed
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Processing message_id: 54
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Database connected
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Message found - Array
+(
+    [id] => 54
+    [status] => Disetujui
+    [jenis_pesan] => Keluhan
+)
+
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Attachments found - Array
+(
+    [count] => 0
+    [attachments] => Array
+        (
+        )
+
+)
+
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] Response sent successfully
+
+[01-Mar-2026 12:48:04 Asia/Jakarta] [2026-03-01 12:48:04] ========== GET MESSAGE DETAIL END ==========
+
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] ========== GET MESSAGE DETAIL START ==========
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Request received - Array
+(
+    [message_id] => 56
+)
+
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Auth check passed
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Processing message_id: 56
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Database connected
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Message found - Array
+(
+    [id] => 56
+    [status] => Disetujui
+    [jenis_pesan] => Informasi
+)
+
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Attachments found - Array
+(
+    [count] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] Response sent successfully
+
+[01-Mar-2026 12:48:13 Asia/Jakarta] [2026-03-01 12:48:13] ========== GET MESSAGE DETAIL END ==========
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] ========== GET_MESSAGE_DETAIL START ==========
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Auth check passed
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Processing message_id: 60
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Database connected
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] HTML generated successfully - Array
+(
+    [length] => 11141
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[30-Mar-2026 20:51:45 Asia/Jakarta] [2026-03-30 20:51:45] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] ========== GET_MESSAGE_DETAIL START ==========
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Request received - Array
+(
+    [message_id] => 54
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Auth check passed
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Processing message_id: 54
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Database connected
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Message found - Array
+(
+    [id] => 54
+    [status] => Disetujui
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Attachments found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Responses found - Array
+(
+    [count] => 1
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Reviews found - Array
+(
+    [count] => 1
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] HTML generated successfully - Array
+(
+    [length] => 8183
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] Response sent successfully - Array
+(
+    [attachment_count] => 0
+    [has_response] => 1
+    [has_review] => 1
+)
+
+
+[30-Mar-2026 20:52:14 Asia/Jakarta] [2026-03-30 20:52:14] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] ========== GET_MESSAGE_DETAIL START ==========
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Auth check passed
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Processing message_id: 60
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Database connected
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] HTML generated successfully - Array
+(
+    [length] => 11141
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[30-Mar-2026 20:57:39 Asia/Jakarta] [2026-03-30 20:57:39] ========== GET_MESSAGE_DETAIL END ==========
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] ========== GET_MESSAGE_DETAIL START ==========
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Request received - Array
+(
+    [message_id] => 60
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Auth check passed
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Processing message_id: 60
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Database connected
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Message found - Array
+(
+    [id] => 60
+    [status] => Pending
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Attachments found - Array
+(
+    [count] => 1
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Responses found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Reviews found - Array
+(
+    [count] => 0
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] HTML generated successfully - Array
+(
+    [length] => 11141
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] Response sent successfully - Array
+(
+    [attachment_count] => 1
+    [has_response] => 
+    [has_review] => 
+)
+
+
+[30-Mar-2026 22:07:29 Asia/Jakarta] [2026-03-30 22:07:29] ========== GET_MESSAGE_DETAIL END ==========
+
+

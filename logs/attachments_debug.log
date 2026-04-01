@@ -1,0 +1,2920 @@
+[2026-02-28 05:36:55] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 05:36:55] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 05:36:55] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 05:36:55] Message ID: 56
+[2026-02-28 05:36:55] Database connected
+[2026-02-28 05:36:55] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 05:36:55] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 05:36:55] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 05:36:55] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 05:36:55] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:29:43] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:29:44] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:29:44] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:29:44] Message ID: 56
+[2026-02-28 14:29:44] Database connected
+[2026-02-28 14:29:44] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:29:44] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:29:44] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:29:44] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:29:44] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:31:00] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:31:00] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:31:00] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:31:00] Message ID: 56
+[2026-02-28 14:31:00] Database connected
+[2026-02-28 14:31:00] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:31:00] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:31:00] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:31:00] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:31:00] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:31:10] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:31:10] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:31:10] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:31:10] Message ID: 56
+[2026-02-28 14:31:10] Database connected
+[2026-02-28 14:31:10] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:31:10] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:31:10] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:31:10] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:31:10] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:32:32] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:32:32] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:32:32] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:32:32] Message ID: 56
+[2026-02-28 14:32:32] Database connected
+[2026-02-28 14:32:32] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:32:32] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:32:32] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:32:32] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:32:32] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:33:13] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:33:13] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:33:13] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:33:13] Message ID: 56
+[2026-02-28 14:33:13] Database connected
+[2026-02-28 14:33:13] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:33:13] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:33:13] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:33:13] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:33:13] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:49:48] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:49:48] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:49:48] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:49:48] Message ID: 56
+[2026-02-28 14:49:48] Database connected
+[2026-02-28 14:49:48] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:49:48] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:49:48] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:49:48] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:49:48] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 14:50:03] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 14:50:03] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 14:50:03] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 14:50:03] Message ID: 56
+[2026-02-28 14:50:03] Database connected
+[2026-02-28 14:50:03] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 14:50:03] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 14:50:03] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 14:50:03] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 14:50:03] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 15:04:32] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 15:04:32] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 15:04:32] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 15:04:32] Message ID: 56
+[2026-02-28 15:04:32] Database connected
+[2026-02-28 15:04:32] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 15:04:32] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 15:04:32] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 15:04:32] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 15:04:32] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 15:12:27] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 15:12:27] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 15:12:27] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 15:12:27] Message ID: 56
+[2026-02-28 15:12:27] Database connected
+[2026-02-28 15:12:27] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 15:12:27] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 15:12:27] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 15:12:27] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 15:12:27] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 15:12:35] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 15:12:35] GET parameters - Array
+(
+    [message_id] => 56
+)
+
+[2026-02-28 15:12:35] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 15:12:35] Message ID: 56
+[2026-02-28 15:12:35] Database connected
+[2026-02-28 15:12:35] Message found - Array
+(
+    [is_external] => 0
+)
+
+[2026-02-28 15:12:35] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                )
+
+        )
+
+)
+
+[2026-02-28 15:12:35] Processed attachment - Array
+(
+    [id] => 0
+    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+    [file_exists] => 1
+    [filesize] => 10.8 KB
+)
+
+[2026-02-28 15:12:35] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 0
+                    [message_id] => 56
+                    [user_id] => 85
+                    [filename] => msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filepath] => uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [filetype] => jpg
+                    [filesize] => 11103
+                    [file_size_formatted] => 10.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-27 15:48:45
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/messages/msg_MSG20260227-63494_1772182125_a14cd792acbaace2.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 0
+    [count] => 1
+)
+
+[2026-02-28 15:12:35] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 16:09:09] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 16:09:09] GET parameters - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 16:09:09] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 16:09:09] Message ID: 59
+[2026-02-28 16:09:09] Database connected
+[2026-02-28 16:09:09] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 16:09:09] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+[2026-02-28 16:09:09] Processed attachment - Array
+(
+    [id] => 2
+    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_exists] => 1
+    [filesize] => 13.9 KB
+)
+
+[2026-02-28 16:09:09] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [file_size_formatted] => 13.9 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 16:09:09] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 16:09:23] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 16:09:23] GET parameters - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 16:09:23] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 16:09:23] Message ID: 59
+[2026-02-28 16:09:23] Database connected
+[2026-02-28 16:09:23] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 16:09:23] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+[2026-02-28 16:09:23] Processed attachment - Array
+(
+    [id] => 2
+    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_exists] => 1
+    [filesize] => 13.9 KB
+)
+
+[2026-02-28 16:09:23] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [file_size_formatted] => 13.9 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 16:09:23] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 16:09:37] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 16:09:37] GET parameters - Array
+(
+    [message_id] => 59
+)
+
+[2026-02-28 16:09:37] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 16:09:37] Message ID: 59
+[2026-02-28 16:09:37] Database connected
+[2026-02-28 16:09:37] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 16:09:37] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                )
+
+        )
+
+)
+
+[2026-02-28 16:09:37] Processed attachment - Array
+(
+    [id] => 2
+    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [file_exists] => 1
+    [filesize] => 13.9 KB
+)
+
+[2026-02-28 16:09:37] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [message_id] => 59
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [filetype] => jpg
+                    [filesize] => 14212
+                    [file_size_formatted] => 13.9 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:06:09
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 16:09:37] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 17:51:12] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 17:51:12] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 17:51:12] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 17:51:12] Message ID: 60
+[2026-02-28 17:51:12] Database connected
+[2026-02-28 17:51:12] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 17:51:12] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 17:51:12] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 17:51:12] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 17:51:12] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 17:51:20] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 17:51:20] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 17:51:20] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 17:51:20] Message ID: 60
+[2026-02-28 17:51:20] Database connected
+[2026-02-28 17:51:20] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 17:51:20] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 17:51:20] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 17:51:20] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 17:51:20] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 18:45:09] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 18:45:09] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 18:45:09] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 18:45:09] Message ID: 60
+[2026-02-28 18:45:09] Database connected
+[2026-02-28 18:45:09] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 18:45:09] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 18:45:09] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 18:45:09] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 18:45:09] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 19:00:12] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 19:00:12] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 19:00:12] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 19:00:12] Message ID: 60
+[2026-02-28 19:00:12] Database connected
+[2026-02-28 19:00:12] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 19:00:12] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 19:00:12] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 19:00:12] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 19:00:12] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 19:05:05] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 19:05:05] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 19:05:05] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 19:05:05] Message ID: 60
+[2026-02-28 19:05:05] Database connected
+[2026-02-28 19:05:05] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 19:05:05] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 19:05:05] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 19:05:05] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 19:05:05] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-02-28 19:05:55] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-02-28 19:05:55] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-02-28 19:05:55] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-02-28 19:05:55] Message ID: 60
+[2026-02-28 19:05:55] Database connected
+[2026-02-28 19:05:55] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-02-28 19:05:55] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-02-28 19:05:55] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-02-28 19:05:55] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-02-28 19:05:55] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 05:46:05] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 05:46:05] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 05:46:05] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 05:46:05] Message ID: 60
+[2026-03-01 05:46:05] Database connected
+[2026-03-01 05:46:05] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 05:46:05] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 05:46:05] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 05:46:05] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 05:46:05] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 05:46:15] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 05:46:15] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 05:46:15] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 05:46:15] Message ID: 60
+[2026-03-01 05:46:15] Database connected
+[2026-03-01 05:46:15] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 05:46:15] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 05:46:15] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 05:46:15] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 05:46:15] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 08:28:32] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 08:28:32] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 08:28:32] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 08:28:32] Message ID: 60
+[2026-03-01 08:28:32] Database connected
+[2026-03-01 08:28:32] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 08:28:32] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 08:28:32] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 08:28:32] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 08:28:32] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 08:44:38] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 08:44:38] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 08:44:38] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 08:44:38] Message ID: 60
+[2026-03-01 08:44:38] Database connected
+[2026-03-01 08:44:38] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 08:44:38] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 08:44:38] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 08:44:38] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 08:44:38] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:03:03] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:03:03] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:03:03] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:03:03] Message ID: 60
+[2026-03-01 09:03:03] Database connected
+[2026-03-01 09:03:03] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 09:03:03] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 09:03:03] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 09:03:03] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 09:03:03] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:19:40] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:19:40] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:19:40] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:19:40] Message ID: 60
+[2026-03-01 09:19:40] Database connected
+[2026-03-01 09:19:40] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 09:19:40] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 09:19:40] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 09:19:40] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 09:19:40] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:42:24] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:42:24] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:42:24] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:42:24] Message ID: 60
+[2026-03-01 09:42:24] Database connected
+[2026-03-01 09:42:24] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 09:42:24] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 09:42:24] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 09:42:24] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 09:42:24] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:42:33] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:42:33] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:42:33] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:42:33] Message ID: 60
+[2026-03-01 09:42:33] Database connected
+[2026-03-01 09:42:33] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 09:42:33] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 09:42:33] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+)
+
+[2026-03-01 09:42:33] Sending response - Array
+(
+    [success] => 1
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [file_size_formatted] => 99.8 KB
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [file_exists] => 1
+                )
+
+        )
+
+    [is_external] => 1
+    [count] => 1
+)
+
+[2026-03-01 09:42:33] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:53:18] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:53:18] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:53:18] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:53:18] ERROR: Invalid request - not AJAX
+[2026-03-01 09:53:18] ERROR: Invalid request
+[2026-03-01 09:53:18] Stack trace: #0 {main}
+[2026-03-01 09:53:18] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:53:25] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:53:25] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:53:25] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:53:25] ERROR: Invalid request - not AJAX
+[2026-03-01 09:53:25] ERROR: Invalid request
+[2026-03-01 09:53:25] Stack trace: #0 {main}
+[2026-03-01 09:53:25] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:53:57] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:53:57] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:53:57] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:53:57] ERROR: Invalid request - not AJAX
+[2026-03-01 09:53:57] ERROR: Invalid request
+[2026-03-01 09:53:57] Stack trace: #0 {main}
+[2026-03-01 09:53:57] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:56:27] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:56:27] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:56:27] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:56:27] ERROR: Invalid request - not AJAX
+[2026-03-01 09:56:27] ERROR: Invalid request
+[2026-03-01 09:56:27] Stack trace: #0 {main}
+[2026-03-01 09:56:27] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 09:56:48] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 09:56:48] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 09:56:48] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 09:56:48] ERROR: Invalid request - not AJAX
+[2026-03-01 09:56:48] ERROR: Invalid request
+[2026-03-01 09:56:48] Stack trace: #0 {main}
+[2026-03-01 09:56:48] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:10:46] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:10:46] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:10:46] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:10:46] ERROR: Invalid request - not AJAX
+[2026-03-01 10:10:46] ERROR: Invalid request
+[2026-03-01 10:10:46] Stack trace: #0 {main}
+[2026-03-01 10:10:46] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:11:06] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:11:06] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:11:06] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:11:06] ERROR: Invalid request - not AJAX
+[2026-03-01 10:11:06] ERROR: Invalid request
+[2026-03-01 10:11:06] Stack trace: #0 {main}
+[2026-03-01 10:11:06] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:11:14] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:11:14] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:11:14] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:11:14] ERROR: Invalid request - not AJAX
+[2026-03-01 10:11:14] ERROR: Invalid request
+[2026-03-01 10:11:14] Stack trace: #0 {main}
+[2026-03-01 10:11:14] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:32:15] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:32:15] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:32:15] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:32:15] Request accepted - no AJAX validation performed
+[2026-03-01 10:32:15] Message ID: 60
+[2026-03-01 10:32:15] Database connected
+[2026-03-01 10:32:15] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 10:32:15] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 10:32:15] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 10:32:15] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:32:15] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:32:35] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:32:35] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:32:35] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:32:35] Request accepted - no AJAX validation performed
+[2026-03-01 10:32:35] Message ID: 60
+[2026-03-01 10:32:35] Database connected
+[2026-03-01 10:32:35] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 10:32:35] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 10:32:35] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 10:32:35] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:32:35] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:34:30] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:34:30] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:34:30] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:34:30] Request accepted - no AJAX validation performed
+[2026-03-01 10:34:30] Message ID: 60
+[2026-03-01 10:34:30] Database connected
+[2026-03-01 10:34:30] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 10:34:30] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 10:34:30] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 10:34:30] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:34:30] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:51:08] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:51:08] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:51:08] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:51:08] Request accepted - no AJAX validation performed
+[2026-03-01 10:51:08] Message ID: 60
+[2026-03-01 10:51:08] Database connected
+[2026-03-01 10:51:08] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 10:51:08] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 10:51:08] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 10:51:08] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:51:08] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 10:51:15] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 10:51:15] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 10:51:15] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 10:51:15] Request accepted - no AJAX validation performed
+[2026-03-01 10:51:15] Message ID: 60
+[2026-03-01 10:51:15] Database connected
+[2026-03-01 10:51:15] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 10:51:15] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 10:51:15] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 10:51:15] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 10:51:15] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 12:11:38] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 12:11:38] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 12:11:38] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 12:11:38] Request accepted - no AJAX validation performed
+[2026-03-01 12:11:38] Message ID: 60
+[2026-03-01 12:11:38] Database connected
+[2026-03-01 12:11:38] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 12:11:38] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 12:11:38] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 12:11:38] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 12:11:38] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 12:35:34] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 12:35:34] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 12:35:34] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 12:35:34] Request accepted - no AJAX validation performed
+[2026-03-01 12:35:34] Message ID: 60
+[2026-03-01 12:35:34] Database connected
+[2026-03-01 12:35:34] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 12:35:34] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 12:35:34] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 12:35:34] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 12:35:34] ========== GET MESSAGE ATTACHMENTS END ==========
+[2026-03-01 12:46:59] ========== GET MESSAGE ATTACHMENTS START ==========
+[2026-03-01 12:46:59] GET parameters - Array
+(
+    [message_id] => 60
+)
+
+[2026-03-01 12:46:59] User authenticated - Array
+(
+    [user_id] => 3
+    [user_type] => Guru_BK
+)
+
+[2026-03-01 12:46:59] Request accepted - no AJAX validation performed
+[2026-03-01 12:46:59] Message ID: 60
+[2026-03-01 12:46:59] Database connected
+[2026-03-01 12:46:59] Message found - Array
+(
+    [is_external] => 1
+)
+
+[2026-03-01 12:46:59] Attachments found - Array
+(
+    [count] => 1
+    [raw_data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [message_id] => 60
+                    [user_id] => 95
+                    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+                    [filetype] => jpg
+                    [filesize] => 102189
+                    [is_approved] => 1
+                    [virus_scan_status] => Pending
+                    [download_count] => 0
+                    [created_at] => 2026-02-28 16:12:25
+                )
+
+        )
+
+)
+
+[2026-03-01 12:46:59] Processed attachment - Array
+(
+    [id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_url] => http://localhost:8080/responsive-message-app//uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [file_exists] => 1
+    [filesize] => 99.8 KB
+    [virus_status] => Pending
+)
+
+[2026-03-01 12:46:59] Sending response - Array
+(
+    [success] => 1
+    [count] => 1
+    [is_external] => 1
+)
+
+[2026-03-01 12:46:59] ========== GET MESSAGE ATTACHMENTS END ==========

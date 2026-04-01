@@ -1,0 +1,1344 @@
+
+[2026-02-15 08:30:59] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:31:22] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:31:22] 
+================================================================================
+[2026-02-15 08:31:22] sendWhatsAppNotification() DIPANGGIL
+[2026-02-15 08:31:22] Original phone: 08129469754
+[2026-02-15 08:31:22] Formatted phone: 628129469754
+[2026-02-15 08:31:22] Message length: 214 characters
+[2026-02-15 08:31:22] Message preview: 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: D...
+[2026-02-15 08:31:22] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: Disetujui*
+
+*Respons:*
+test aja untuk beri komentar
+
+Waktu: 15/02/2026 08:31
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-15 08:31:22] HTTP Code: 200
+[2026-02-15 08:31:22] CURL Error: None
+[2026-02-15 08:31:22] Response: {"detail":"success! message in queue","id":[143799482],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":998,"remaining":997,"used":1}},"requestid":382856913,"status":true,"target":["628129469754"]}
+[2026-02-15 08:31:22] ✓ STATUS: 1 (success)
+[2026-02-15 08:31:22] ✓✓✓ WHATSAPP BERHASIL DIKIRIM! Message ID: Array
+(
+    [0] => 143799482
+)
+
+[2026-02-15 08:31:22] ================================================================================
+
+
+[2026-02-15 08:31:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:44:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:45:02] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:45:02] 
+================================================================================
+[2026-02-15 08:45:02] sendWhatsAppNotification() DIPANGGIL
+[2026-02-15 08:45:02] Original phone: 08129469754
+[2026-02-15 08:45:02] Formatted phone: 628129469754
+[2026-02-15 08:45:02] Message length: 328 characters
+[2026-02-15 08:45:02] Message preview: 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: D...
+[2026-02-15 08:45:02] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: Disetujui*
+
+*Respons dari Rudi Hermawan (Guru_Kesiswaan):*
+test aja untuk beri komentar
+
+
+*Pesan Asli dari wahono (15/02/2026 07:11):*
+> Perbanyak kegiatan kesiswaan
+
+Waktu: 15/02/2026 08:45
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-15 08:45:02] HTTP Code: 200
+[2026-02-15 08:45:02] CURL Error: None
+[2026-02-15 08:45:02] Response: {"detail":"success! message in queue","id":[143800237],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":997,"remaining":996,"used":1}},"requestid":382866315,"status":true,"target":["628129469754"]}
+[2026-02-15 08:45:02] ✓ STATUS: 1 (success)
+[2026-02-15 08:45:02] ✓✓✓ WHATSAPP BERHASIL DIKIRIM! Message ID: Array
+(
+    [0] => 143800237
+)
+
+[2026-02-15 08:45:02] ================================================================================
+
+
+[2026-02-15 08:45:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 08:45:36] ========== RESPONSE.PHP START ==========
+[2026-02-15 08:45:37] 
+================================================================================
+[2026-02-15 08:45:37] sendWhatsAppNotification() DIPANGGIL
+[2026-02-15 08:45:37] Original phone: 08129469754
+[2026-02-15 08:45:37] Formatted phone: 628129469754
+[2026-02-15 08:45:37] Message length: 333 characters
+[2026-02-15 08:45:37] Message preview: 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: D...
+[2026-02-15 08:45:37] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-72114
+✅ *Status: Disetujui*
+
+*Respons dari Rudi Hermawan (Guru_Kesiswaan):*
+ok ok akan kami laksanakan segera
+
+
+*Pesan Asli dari wahono (15/02/2026 07:11):*
+> Perbanyak kegiatan kesiswaan
+
+Waktu: 15/02/2026 08:45
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-15 08:45:37] HTTP Code: 200
+[2026-02-15 08:45:37] CURL Error: None
+[2026-02-15 08:45:37] Response: {"detail":"success! message in queue","id":[143800286],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":996,"remaining":995,"used":1}},"requestid":382867288,"status":true,"target":["628129469754"]}
+[2026-02-15 08:45:37] ✓ STATUS: 1 (success)
+[2026-02-15 08:45:37] ✓✓✓ WHATSAPP BERHASIL DIKIRIM! Message ID: Array
+(
+    [0] => 143800286
+)
+
+[2026-02-15 08:45:37] ================================================================================
+
+
+[2026-02-15 08:45:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:15:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:16:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:16:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:30:24] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:30:29] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:28] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:31:52] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 13:33:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:09:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:29:44] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:29:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:30:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:55:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:55:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:56:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:56:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 15:57:50] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:17:00] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:17:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:26:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:27:01] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:30] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:40:40] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 16:43:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:02:21] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:08:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:18:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:27:28] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:27:39] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:46:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:46:55] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:47:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:47:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:27] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:53:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 17:55:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:07:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:08:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:08:38] ========== RESPONSE.PHP START ==========
+[2026-02-15 18:08:38] 
+================================================================================
+[2026-02-15 18:08:38] sendWhatsAppNotification() DIPANGGIL
+[2026-02-15 18:08:38] Original phone: 08129469754
+[2026-02-15 18:08:38] Formatted phone: 628129469754
+[2026-02-15 18:08:38] Message length: 327
+[2026-02-15 18:08:38] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 15/02/2026 18:08
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-15 18:08:39] HTTP Code: 200
+[2026-02-15 18:08:39] Response: {"detail":"success! message in queue","id":[143839070],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":995,"remaining":994,"used":1}},"requestid":383335115,"status":true,"target":["628129469754"]}
+[2026-02-15 18:08:39] ✓ BERHASIL
+[2026-02-15 18:08:39] ================================================================================
+
+
+[2026-02-15 18:08:39] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 18:18:44] ========== RESPONSE.PHP START ==========
+
+[2026-02-15 19:01:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-16 19:55:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 16:57:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 16:57:43] ========== RESPONSE.PHP START ==========
+[2026-02-17 16:57:44] 
+================================================================================
+[2026-02-17 16:57:44] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 16:57:44] Original phone: 085117128578
+[2026-02-17 16:57:44] Formatted phone: 6285117128578
+[2026-02-17 16:57:44] Message length: 346
+[2026-02-17 16:57:44] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 16:57
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 16:57:44] HTTP Code: 200
+[2026-02-17 16:57:44] Response: {"detail":"success! message in queue","id":[144043645],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":994,"remaining":993,"used":1}},"requestid":385597234,"status":true,"target":["6285117128578"]}
+[2026-02-17 16:57:44] ✓ BERHASIL
+[2026-02-17 16:57:44] ================================================================================
+
+
+[2026-02-17 16:57:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:06:03] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:06:03] 
+================================================================================
+[2026-02-17 17:06:03] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:06:03] Original phone: 085117128578
+[2026-02-17 17:06:03] Formatted phone: 6285117128578
+[2026-02-17 17:06:03] Message length: 346
+[2026-02-17 17:06:03] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:06
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:06:03] HTTP Code: 200
+[2026-02-17 17:06:03] Response: {"reason":"request invalid on disconnected device","requestid":385606860,"status":false}
+[2026-02-17 17:06:03] ✗ GAGAL
+[2026-02-17 17:06:03] ================================================================================
+
+
+[2026-02-17 17:06:04] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:13:01] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:13:01] 
+================================================================================
+[2026-02-17 17:13:01] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:13:01] Original phone: 085117128578
+[2026-02-17 17:13:02] Formatted phone: 6285117128578
+[2026-02-17 17:13:02] Message length: 346
+[2026-02-17 17:13:02] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:13
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:13:02] HTTP Code: 200
+[2026-02-17 17:13:02] Response: {"detail":"success! message in queue","id":[144044672],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":993,"remaining":992,"used":1}},"requestid":385614886,"status":true,"target":["6285117128578"]}
+[2026-02-17 17:13:02] ✓ BERHASIL
+[2026-02-17 17:13:02] ================================================================================
+
+
+[2026-02-17 17:13:03] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:16:17] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:16:17] 
+================================================================================
+[2026-02-17 17:16:17] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:16:17] Original phone: 085117128578
+[2026-02-17 17:16:17] Formatted phone: 6285117128578
+[2026-02-17 17:16:17] Message length: 346
+[2026-02-17 17:16:17] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:16
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:16:17] HTTP Code: 200
+[2026-02-17 17:16:17] Response: {"reason":"request invalid on disconnected device","requestid":385618605,"status":false}
+[2026-02-17 17:16:17] ✗ GAGAL
+[2026-02-17 17:16:17] ================================================================================
+
+
+[2026-02-17 17:16:18] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:31:07] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:31:25] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:31:25] 
+================================================================================
+[2026-02-17 17:31:25] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:31:25] Original phone: 085117128578
+[2026-02-17 17:31:25] Formatted phone: 6285117128578
+[2026-02-17 17:31:25] Message length: 346
+[2026-02-17 17:31:25] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:31
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:31:25] HTTP Code: 200
+[2026-02-17 17:31:25] Response: {"reason":"request invalid on disconnected device","requestid":385631118,"status":false}
+[2026-02-17 17:31:25] ✗ GAGAL
+[2026-02-17 17:31:25] ================================================================================
+
+
+[2026-02-17 17:31:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:32:11] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:32:12] 
+================================================================================
+[2026-02-17 17:32:12] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:32:12] Original phone: 085117128578
+[2026-02-17 17:32:12] Formatted phone: 6285117128578
+[2026-02-17 17:32:12] Message length: 346
+[2026-02-17 17:32:12] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:32
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:32:12] HTTP Code: 200
+[2026-02-17 17:32:12] Response: {"reason":"request invalid on disconnected device","requestid":385631507,"status":false}
+[2026-02-17 17:32:12] ✗ GAGAL
+[2026-02-17 17:32:12] ================================================================================
+
+
+[2026-02-17 17:32:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:37:10] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:37:10] 
+================================================================================
+[2026-02-17 17:37:10] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:37:10] Original phone: 085117128578
+[2026-02-17 17:37:10] Formatted phone: 6285117128578
+[2026-02-17 17:37:10] Message length: 346
+[2026-02-17 17:37:10] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:37
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:37:10] HTTP Code: 200
+[2026-02-17 17:37:10] Response: {"detail":"success! message in queue","id":[144047091],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":992,"remaining":991,"used":1}},"requestid":385635523,"status":true,"target":["6285117128578"]}
+[2026-02-17 17:37:10] ✓ BERHASIL
+[2026-02-17 17:37:10] ================================================================================
+
+
+[2026-02-17 17:37:11] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:45:43] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:45:58] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:46:04] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:46:04] 
+================================================================================
+[2026-02-17 17:46:04] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:46:04] Original phone: 085117128578
+[2026-02-17 17:46:04] Formatted phone: 6285117128578
+[2026-02-17 17:46:04] Message length: 346
+[2026-02-17 17:46:04] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:46
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:46:04] HTTP Code: 200
+[2026-02-17 17:46:04] Response: {"reason":"request invalid on disconnected device","requestid":385642057,"status":false}
+[2026-02-17 17:46:04] ✗ GAGAL
+[2026-02-17 17:46:04] ================================================================================
+
+
+[2026-02-17 17:46:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:07] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:36] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:49:36] 
+================================================================================
+[2026-02-17 17:49:36] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:49:36] Original phone: 085117128578
+[2026-02-17 17:49:36] Formatted phone: 6285117128578
+[2026-02-17 17:49:36] Message length: 346
+[2026-02-17 17:49:36] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:49
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:49:36] HTTP Code: 200
+[2026-02-17 17:49:36] Response: {"reason":"request invalid on disconnected device","requestid":385644833,"status":false}
+[2026-02-17 17:49:36] ✗ GAGAL
+[2026-02-17 17:49:36] ================================================================================
+
+
+[2026-02-17 17:49:37] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 17:49:44] ========== RESPONSE.PHP START ==========
+[2026-02-17 17:49:44] 
+================================================================================
+[2026-02-17 17:49:44] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 17:49:44] Original phone: 085117128578
+[2026-02-17 17:49:44] Formatted phone: 6285117128578
+[2026-02-17 17:49:44] Message length: 346
+[2026-02-17 17:49:44] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 17:49
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 17:49:44] HTTP Code: 200
+[2026-02-17 17:49:44] Response: {"reason":"request invalid on disconnected device","requestid":385644850,"status":false}
+[2026-02-17 17:49:44] ✗ GAGAL
+[2026-02-17 17:49:44] ================================================================================
+
+
+[2026-02-17 17:49:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:00:42] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:00:58] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:00:58] 
+================================================================================
+[2026-02-17 19:00:58] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:00:58] Original phone: 085117128578
+[2026-02-17 19:00:58] Formatted phone: 6285117128578
+[2026-02-17 19:00:58] Message length: 346
+[2026-02-17 19:00:58] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 19:00
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:00:58] HTTP Code: 200
+[2026-02-17 19:00:58] Response: {"detail":"success! message in queue","id":[144053036],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":991,"remaining":990,"used":1}},"requestid":385699652,"status":true,"target":["6285117128578"]}
+[2026-02-17 19:00:58] ✓ BERHASIL
+[2026-02-17 19:00:58] ================================================================================
+
+
+[2026-02-17 19:00:59] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:50:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:50:55] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:50:56] 
+================================================================================
+[2026-02-17 19:50:56] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:50:56] Original phone: 08129469754
+[2026-02-17 19:50:56] Formatted phone: 628129469754
+[2026-02-17 19:50:56] Message length: 327
+[2026-02-17 19:50:56] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 19:50
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:50:56] HTTP Code: 200
+[2026-02-17 19:50:56] Response: {"reason":"request invalid on disconnected device","requestid":385735264,"status":false}
+[2026-02-17 19:50:56] ✗ GAGAL
+[2026-02-17 19:50:56] ================================================================================
+
+
+[2026-02-17 19:50:56] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:52:52] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:52:52] 
+================================================================================
+[2026-02-17 19:52:52] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:52:52] Original phone: 08129469754
+[2026-02-17 19:52:52] Formatted phone: 628129469754
+[2026-02-17 19:52:52] Message length: 327
+[2026-02-17 19:52:52] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 19:52
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:52:52] HTTP Code: 200
+[2026-02-17 19:52:52] Response: {"detail":"success! message in queue","id":[144056399],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":989,"remaining":988,"used":1}},"requestid":385736432,"status":true,"target":["628129469754"]}
+[2026-02-17 19:52:52] ✓ BERHASIL
+[2026-02-17 19:52:52] ================================================================================
+
+
+[2026-02-17 19:52:53] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:54:08] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:54:08] 
+================================================================================
+[2026-02-17 19:54:08] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:54:08] Original phone: 08129469754
+[2026-02-17 19:54:08] Formatted phone: 628129469754
+[2026-02-17 19:54:08] Message length: 327
+[2026-02-17 19:54:08] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 19:54
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:54:09] HTTP Code: 200
+[2026-02-17 19:54:09] Response: {"reason":"request invalid on disconnected device","requestid":385737016,"status":false}
+[2026-02-17 19:54:09] ✗ GAGAL
+[2026-02-17 19:54:09] ================================================================================
+
+
+[2026-02-17 19:54:10] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:55:11] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:55:11] 
+================================================================================
+[2026-02-17 19:55:11] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:55:11] Original phone: 08129469754
+[2026-02-17 19:55:11] Formatted phone: 628129469754
+[2026-02-17 19:55:11] Message length: 327
+[2026-02-17 19:55:11] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 19:55
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:55:11] HTTP Code: 200
+[2026-02-17 19:55:11] Response: {"reason":"request invalid on disconnected device","requestid":385738008,"status":false}
+[2026-02-17 19:55:11] ✗ GAGAL
+[2026-02-17 19:55:11] ================================================================================
+
+
+[2026-02-17 19:55:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:58:30] ========== RESPONSE.PHP START ==========
+[2026-02-17 19:58:31] 
+================================================================================
+[2026-02-17 19:58:31] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 19:58:31] Original phone: 08129469754
+[2026-02-17 19:58:31] Formatted phone: 628129469754
+[2026-02-17 19:58:31] Message length: 327
+[2026-02-17 19:58:31] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 19:58
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 19:58:31] HTTP Code: 200
+[2026-02-17 19:58:31] Response: {"detail":"success! message in queue","id":[144056655],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":988,"remaining":987,"used":1}},"requestid":385740457,"status":true,"target":["628129469754"]}
+[2026-02-17 19:58:31] ✓ BERHASIL
+[2026-02-17 19:58:31] ================================================================================
+
+
+[2026-02-17 19:58:32] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 19:59:49] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:01:17] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:01:18] 
+================================================================================
+[2026-02-17 20:01:18] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 20:01:18] Original phone: 085117128578
+[2026-02-17 20:01:18] Formatted phone: 6285117128578
+[2026-02-17 20:01:18] Message length: 346
+[2026-02-17 20:01:18] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 20:01
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 20:01:18] HTTP Code: 200
+[2026-02-17 20:01:18] Response: {"detail":"success! message in queue","id":[144056955],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":987,"remaining":986,"used":1}},"requestid":385742903,"status":true,"target":["6285117128578"]}
+[2026-02-17 20:01:18] ✓ BERHASIL
+[2026-02-17 20:01:18] ================================================================================
+
+
+[2026-02-17 20:01:19] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:16:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:16:33] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:16:33] 
+================================================================================
+[2026-02-17 20:16:33] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 20:16:33] Original phone: 085117128578
+[2026-02-17 20:16:33] Formatted phone: 6285117128578
+[2026-02-17 20:16:33] Message length: 346
+[2026-02-17 20:16:33] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 20:16
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 20:16:33] HTTP Code: 200
+[2026-02-17 20:16:33] Response: {"detail":"success! message in queue","id":[144058031],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":986,"remaining":985,"used":1}},"requestid":385753668,"status":true,"target":["6285117128578"]}
+[2026-02-17 20:16:33] ✓ BERHASIL
+[2026-02-17 20:16:33] ================================================================================
+
+
+[2026-02-17 20:16:34] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:20:23] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:20:34] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:20:34] 
+================================================================================
+[2026-02-17 20:20:34] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 20:20:34] Original phone: 085117128578
+[2026-02-17 20:20:34] Formatted phone: 6285117128578
+[2026-02-17 20:20:34] Message length: 346
+[2026-02-17 20:20:34] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Wiwi*
+
+Pesan #EXT20260217-03106
+✅ *Status: Disetujui*
+
+*Respons dari Ahmad Fauzi (Guru_Humas):*
+Oke terimakasih atas respon anda
+
+
+*Pesan Asli dari Wiwi (17/02/2026 16:48):*
+> Pertahankan hubungan komunikasi dengan mitra sekolah
+
+Waktu: 17/02/2026 20:20
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 20:20:34] HTTP Code: 200
+[2026-02-17 20:20:34] Response: {"detail":"success! message in queue","id":[144058345],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":985,"remaining":984,"used":1}},"requestid":385756855,"status":true,"target":["6285117128578"]}
+[2026-02-17 20:20:34] ✓ BERHASIL
+[2026-02-17 20:20:34] ================================================================================
+
+
+[2026-02-17 20:20:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:21:18] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:21:25] ========== RESPONSE.PHP START ==========
+[2026-02-17 20:21:25] 
+================================================================================
+[2026-02-17 20:21:25] sendWhatsAppNotification() DIPANGGIL
+[2026-02-17 20:21:25] Original phone: 08129469754
+[2026-02-17 20:21:25] Formatted phone: 628129469754
+[2026-02-17 20:21:25] Message length: 327
+[2026-02-17 20:21:25] Data dikirim: - Array
+(
+    [target] => 628129469754
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan #EXT20260215-96087
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Silahkan datang ke sekolah untuk mengambil datanya
+
+
+*Pesan Asli dari wahono (15/02/2026 12:19):*
+> Minta data KJP
+
+Waktu: 17/02/2026 20:21
+_Dikirim dari perangkat: 085174207795_
+    [countryCode] => 62
+)
+
+[2026-02-17 20:21:25] HTTP Code: 200
+[2026-02-17 20:21:25] Response: {"detail":"success! message in queue","id":[144058398],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":984,"remaining":983,"used":1}},"requestid":385757700,"status":true,"target":["628129469754"]}
+[2026-02-17 20:21:25] ✓ BERHASIL
+[2026-02-17 20:21:25] ================================================================================
+
+
+[2026-02-17 20:21:26] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:27:50] ========== RESPONSE.PHP START ==========
+
+[2026-02-17 20:30:35] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:07:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:16:42] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:16:45] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 11:18:05] ========== RESPONSE.PHP START ==========
+[2026-02-19 11:18:06] 
+================================================================================
+[2026-02-19 11:18:06] sendWhatsAppNotification() DIPANGGIL
+[2026-02-19 11:18:06] Original phone: 085117128578
+[2026-02-19 11:18:06] Formatted phone: 6285117128578
+[2026-02-19 11:18:06] Message length: 397
+[2026-02-19 11:18:06] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Pesan #MSG-20260219-84BC10
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Terima kasih atas infonya. Sebelumnya kami mohon maaf atas ketidaknyamanan Bpk/Ibu. Kami akan segera tindak lanjuti
+
+
+*Pesan Asli dari wiwi (19/02/2026 11:05):*
+> Toilet kurang bersih
+
+Waktu: 19/02/2026 11:18
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 11:18:06] HTTP Code: 200
+[2026-02-19 11:18:06] Response: {"detail":"success! message in queue","id":[144294917],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":977,"remaining":976,"used":1}},"requestid":387685841,"status":true,"target":["6285117128578"]}
+[2026-02-19 11:18:06] ✓ BERHASIL
+[2026-02-19 11:18:06] ================================================================================
+
+
+[2026-02-19 11:18:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 12:07:56] ========== RESPONSE.PHP START ==========
+
+[2026-02-19 12:08:32] ========== RESPONSE.PHP START ==========
+[2026-02-19 12:08:32] 
+================================================================================
+[2026-02-19 12:08:32] sendWhatsAppNotification() DIPANGGIL
+[2026-02-19 12:08:32] Original phone: 085174207795
+[2026-02-19 12:08:32] Formatted phone: 6285174207795
+[2026-02-19 12:08:32] Message length: 401
+[2026-02-19 12:08:32] Data dikirim: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wahono agung*
+
+Pesan #EXT20260219-18588
+✅ *Status: Disetujui*
+
+*Respons dari Rudi Hermawan (Guru_Kesiswaan):*
+Terima kasih atas masukannya. Akan segera kami tindak lanjuti
+
+
+*Pesan Asli dari wahono agung (19/02/2026 11:02):*
+> Perbanyak kegiatan kesiswaan yang berorientasi prestasi
+
+Waktu: 19/02/2026 12:08
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 12:08:32] HTTP Code: 200
+[2026-02-19 12:08:32] Response: {"detail":"success! message in queue","id":[144305697],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":976,"remaining":975,"used":1}},"requestid":387743078,"status":true,"target":["6285174207795"]}
+[2026-02-19 12:08:32] ✓ BERHASIL
+[2026-02-19 12:08:32] ================================================================================
+
+
+[2026-02-19 12:08:33] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:06:51] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:07:07] ========== RESPONSE.PHP START ==========
+[2026-02-20 09:07:07] 
+================================================================================
+[2026-02-20 09:07:07] sendWhatsAppNotification() DIPANGGIL
+[2026-02-20 09:07:07] Original phone: 085117128578
+[2026-02-20 09:07:07] Formatted phone: 6285117128578
+[2026-02-20 09:07:07] Message length: 397
+[2026-02-20 09:07:07] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Pesan #MSG-20260219-84BC10
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Terima kasih atas infonya. Sebelumnya kami mohon maaf atas ketidaknyamanan Bpk/Ibu. Kami akan segera tindak lanjuti
+
+
+*Pesan Asli dari wiwi (19/02/2026 11:05):*
+> Toilet kurang bersih
+
+Waktu: 20/02/2026 09:07
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-20 09:07:08] HTTP Code: 200
+[2026-02-20 09:07:08] Response: {"detail":"success! message in queue","id":[144420749],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":971,"remaining":970,"used":1}},"requestid":388802965,"status":true,"target":["6285117128578"]}
+[2026-02-20 09:07:08] ✓ BERHASIL
+[2026-02-20 09:07:08] ================================================================================
+
+
+[2026-02-20 09:07:08] ========== RESPONSE.PHP START ==========
+
+[2026-02-20 09:24:14] ========== RESPONSE.PHP START ==========
+[2026-02-20 10:22:34] 
+================================================================================
+[2026-02-20 10:22:34] sendTestWhatsApp() DIPANGGIL
+[2026-02-20 10:22:34] To: 6285174207795, Name: Admin Test
+[2026-02-20 10:22:34] Original phone: 6285174207795
+[2026-02-20 10:22:34] Formatted phone: 6285174207795
+[2026-02-20 10:22:34] Message length: 353
+[2026-02-20 10:22:34] Data dikirim: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *TEST NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Admin Test*
+
+Ini adalah pesan test dari sistem Aplikasi Pesan Responsif.
+
+*Detail Test:*
+Waktu: 20/02/2026 10:22:34 WIB
+Tujuan: 6285174207795
+
+Jika Anda menerima pesan ini, berarti konfigurasi Fonnte berhasil! ✅
+
+_Pesan otomatis._
+Waktu: 20/02/2026 10:22
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-20 10:22:34] HTTP Code: 200
+[2026-02-20 10:22:34] Response: {"detail":"success! message in queue","id":[144435882],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":970,"remaining":969,"used":1}},"requestid":388907294,"status":true,"target":["6285174207795"]}
+[2026-02-20 10:22:34] ✓ BERHASIL
+[2026-02-20 10:22:34] ================================================================================
+
+
+[2026-02-23 10:57:58] ========== RESPONSE.PHP START ==========
+
+[2026-02-26 13:13:31] ========== RESPONSE.PHP START ==========
+
+[2026-02-26 14:53:13] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:42:12] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:45:02] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 10:59:30] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 17:42:36] ========== RESPONSE.PHP START ==========
+
+[2026-02-27 17:43:14] ========== RESPONSE.PHP START ==========
+[2026-02-27 17:43:14] 
+================================================================================
+[2026-02-27 17:43:14] sendWhatsAppNotification() DIPANGGIL
+[2026-02-27 17:43:14] Original phone: 085117128578
+[2026-02-27 17:43:14] Formatted phone: 6285117128578
+[2026-02-27 17:43:14] Message length: 326
+[2026-02-27 17:43:14] Data dikirim: - Array
+(
+    [target] => 6285117128578
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *wiwi*
+
+Pesan #MSG20260227-63494
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Baik. Terima kasih informasinya
+
+
+*Pesan Asli dari wiwi (27/02/2026 15:48):*
+> Ada kartun yang salah masuk sekolah
+
+Waktu: 27/02/2026 17:43
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-27 17:43:15] HTTP Code: 200
+[2026-02-27 17:43:15] Response: {"detail":"success! message in queue","id":[145558399],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":967,"remaining":966,"used":1}},"requestid":399811741,"status":true,"target":["6285117128578"]}
+[2026-02-27 17:43:15] ✓ BERHASIL
+[2026-02-27 17:43:15] ================================================================================
+
+
+[2026-02-27 17:43:15] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:06] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:46] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:17:46] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 16:50:05] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:06:47] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:21:25] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:22:38] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:23:17] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:46:16] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 17:47:35] ========== RESPONSE.PHP START ==========
+[2026-02-28 17:47:35] 
+================================================================================
+[2026-02-28 17:47:35] sendWhatsAppNotification() DIPANGGIL
+[2026-02-28 17:47:35] Original phone: 085174207795
+[2026-02-28 17:47:35] Formatted phone: 6285174207795
+[2026-02-28 17:47:35] Message length: 328
+[2026-02-28 17:47:35] Data dikirim: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI WHATSAPP - SMKN 12 Jakarta*
+
+Yth. *Django*
+
+Pesan #EXT20260228-54340
+✅ *Status: Disetujui*
+
+*Respons dari Siti Aisyah (Guru_BK):*
+Baik akan kami sampaikan ke pihak SPPG
+
+
+*Pesan Asli dari Django (28/02/2026 16:06):*
+> Menu MBG nya kurang banyak
+
+Waktu: 28/02/2026 17:47
+_Dikirim dari perangkat: 6285174207795_
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-28 17:47:35] HTTP Code: 200
+[2026-02-28 17:47:35] Response: {"detail":"success! message in queue","id":[145682524],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":964,"remaining":963,"used":1}},"requestid":401209628,"status":true,"target":["6285174207795"]}
+[2026-02-28 17:47:35] ✓ BERHASIL
+[2026-02-28 17:47:35] ================================================================================
+
+
+[2026-02-28 17:47:36] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:04:49] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:05:27] ========== RESPONSE.PHP START ==========
+
+[2026-02-28 19:06:08] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 08:28:54] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:20:26] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:22:09] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 09:53:09] ========== RESPONSE.PHP START ==========
+
+[2026-03-01 10:52:13] ========== RESPONSE.PHP START ==========

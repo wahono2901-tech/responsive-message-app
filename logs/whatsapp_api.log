@@ -1,0 +1,13 @@
+[2026-02-14 15:59:25] RESPONSE - Array
+(
+    [success] => 
+    [message] => Unknown action
+    [available_actions] => Array
+        (
+            [0] => status
+            [1] => send_message
+        )
+
+    [note] => Untuk mengirim pesan, gunakan action=send_message dengan method POST
+)
+

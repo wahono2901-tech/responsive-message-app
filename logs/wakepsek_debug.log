@@ -1,0 +1,2180 @@
+[2026-02-26 15:06:19] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:06:19] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:06:19] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+)
+
+[2026-02-26 15:06:19] Guru list loaded: 8
+[2026-02-26 15:06:19] Statistics - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:06:19] Messages fetched: 10
+[2026-02-26 15:06:52] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:06:52] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:06:52] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+)
+
+[2026-02-26 15:06:52] Guru list loaded: 8
+[2026-02-26 15:06:52] Statistics - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:06:52] Messages fetched: 10
+[2026-02-26 15:07:05] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:07:05] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-26 15:07:05] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+)
+
+[2026-02-26 15:07:05] Guru list loaded: 8
+[2026-02-26 15:07:05] Statistics - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:07:05] Messages fetched: 10
+[2026-02-26 15:08:48] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:08:48] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:08:48] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+)
+
+[2026-02-26 15:08:48] Guru list loaded: 8
+[2026-02-26 15:08:48] Statistics - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:08:48] Messages fetched: 10
+[2026-02-26 15:22:15] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:22:15] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:22:15] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 15:22:15] Guru list loaded: 8
+[2026-02-26 15:22:15] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:22:15] Messages fetched for Wakil_Kepala: 10
+[2026-02-26 15:22:32] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:22:32] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-26 15:22:32] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-26 15:22:32] Guru list loaded: 8
+[2026-02-26 15:22:32] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:22:32] Messages fetched for Kepala_Sekolah: 10
+[2026-02-26 15:23:45] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:23:45] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:23:45] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 15:23:45] Guru list loaded: 8
+[2026-02-26 15:23:45] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:23:45] Messages fetched for Wakil_Kepala: 10
+[2026-02-26 15:25:06] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:25:06] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:25:06] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 15:25:06] Guru list loaded: 8
+[2026-02-26 15:25:06] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:25:06] Messages fetched for Wakil_Kepala: 10
+[2026-02-26 15:25:06] Review submission - Array
+(
+    [message_id] => 54
+    [catatan_length] => 50
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 15:25:06] Review saved successfully for Wakil_Kepala
+[2026-02-26 15:25:06] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:25:06] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 15:25:06] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 15:25:06] Guru list loaded: 8
+[2026-02-26 15:25:06] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 5
+    [reviewed] => 1
+    [total_guru] => 8
+)
+
+[2026-02-26 15:25:06] Messages fetched for Wakil_Kepala: 10
+[2026-02-26 15:25:44] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 15:25:44] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-26 15:25:44] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-26 15:25:44] Guru list loaded: 8
+[2026-02-26 15:25:44] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-26 15:25:44] Messages fetched for Kepala_Sekolah: 10
+[2026-02-26 20:30:25] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-26 20:30:25] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-26 20:30:25] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-27
+    [date_to] => 2026-02-26
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-26 20:30:25] Guru list loaded: 8
+[2026-02-26 20:30:25] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 5
+    [reviewed] => 1
+    [total_guru] => 8
+)
+
+[2026-02-26 20:30:25] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 05:14:27] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 05:14:28] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 05:14:28] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 05:14:28] Guru list loaded: 8
+[2026-02-27 05:14:28] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-27 05:14:28] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 05:26:19] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 05:26:19] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 05:26:19] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 05:26:19] Guru list loaded: 8
+[2026-02-27 05:26:19] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+)
+
+[2026-02-27 05:26:19] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 05:47:01] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 05:47:01] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 05:47:01] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 05:47:01] Guru list loaded: 8
+[2026-02-27 05:47:01] Guru chart data loaded: 4
+[2026-02-27 05:47:01] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 6
+    [pending_review] => 6
+    [reviewed] => 0
+    [total_guru] => 8
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+)
+
+[2026-02-27 05:47:01] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 05:55:44] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 05:55:44] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 05:55:44] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 05:55:44] Guru list loaded: 8
+[2026-02-27 05:55:44] Guru chart data loaded: 4
+[2026-02-27 05:55:44] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 6
+    [pending_review] => 5
+    [reviewed] => 1
+    [total_guru] => 8
+    [avg_response_time] => 18
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+)
+
+[2026-02-27 05:55:44] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 06:55:07] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 06:55:07] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 06:55:07] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 06:55:07] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 06:55:07] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 06:55:07] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 14
+[2026-02-27 06:55:07] Message type chart data loaded: 6
+[2026-02-27 06:55:07] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 06:55:07] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 07:09:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 07:09:54] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 07:09:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 07:09:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 07:09:54] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 07:09:54] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 07:09:54] Message type chart data loaded: 6
+[2026-02-27 07:09:54] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 07:09:54] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 08:39:40] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 08:39:41] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 08:39:41] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 08:39:41] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 08:39:41] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 08:39:41] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 08:39:41] Message type chart data loaded: 6
+[2026-02-27 08:39:41] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 08:39:41] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 09:03:51] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:03:51] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:03:51] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:03:51] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:03:51] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:03:51] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:03:51] Message type chart data loaded: 6
+[2026-02-27 09:03:51] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:03:51] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 09:34:16] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:34:16] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:34:16] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [guru_type] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:34:16] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:34:16] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:34:16] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:34:16] Message type chart data loaded: 6
+[2026-02-27 09:34:16] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:34:16] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 09:34:51] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:34:51] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:34:51] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [guru_type] => Guru_Kesiswaan
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:34:51] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:34:51] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:34:51] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:34:51] Message type chart data loaded: 6
+[2026-02-27 09:34:51] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:34:51] Messages fetched for Kepala_Sekolah: 1
+[2026-02-27 09:34:59] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:34:59] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:34:59] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [guru_type] => Guru_Kesiswaan
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:34:59] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:34:59] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:34:59] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:34:59] Message type chart data loaded: 6
+[2026-02-27 09:34:59] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:34:59] Messages fetched for Kepala_Sekolah: 1
+[2026-02-27 09:35:13] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:35:13] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:35:13] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [guru_type] => Guru_BK
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:35:13] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:35:13] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:35:13] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:35:13] Message type chart data loaded: 6
+[2026-02-27 09:35:13] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:35:13] Messages fetched for Kepala_Sekolah: 3
+[2026-02-27 09:48:39] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 09:48:39] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 09:48:39] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 09:48:39] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 09:48:39] Error loading guru list: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR user_type = ''Guru_Humas'' OR user_type = ''Guru_Kurikulum'' OR ...' at line 3
+[2026-02-27 09:48:39] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 09:48:39] Message type chart data loaded: 6
+[2026-02-27 09:48:39] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 09:48:39] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 10:02:38] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:02:38] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 10:02:38] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 10:02:38] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:02:38] Guru list loaded based on responder_type: 5
+[2026-02-27 10:02:38] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:02:38] Message type chart data loaded: 6
+[2026-02-27 10:02:38] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:02:38] Messages fetched for Kepala_Sekolah: 10
+[2026-02-27 10:02:58] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:02:58] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 10:02:58] Filter parameters - Array
+(
+    [status] => all
+    [guru] => 3
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 10:02:58] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:02:58] Guru list loaded based on responder_type: 5
+[2026-02-27 10:02:58] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:02:58] Message type chart data loaded: 6
+[2026-02-27 10:02:58] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:02:58] Messages fetched for Kepala_Sekolah: 3
+[2026-02-27 10:03:10] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:03:10] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-27 10:03:10] Filter parameters - Array
+(
+    [status] => all
+    [guru] => 6
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-27 10:03:10] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:03:10] Guru list loaded based on responder_type: 5
+[2026-02-27 10:03:10] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:03:10] Message type chart data loaded: 6
+[2026-02-27 10:03:10] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:03:10] Messages fetched for Kepala_Sekolah: 1
+[2026-02-27 10:03:41] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:03:41] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 10:03:41] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 10:03:41] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:03:41] Guru list loaded based on responder_type: 5
+[2026-02-27 10:03:41] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:03:41] Message type chart data loaded: 6
+[2026-02-27 10:03:41] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:03:41] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 10:40:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:40:54] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 10:40:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 10:40:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:40:54] Guru list loaded based on responder_type: 5
+[2026-02-27 10:40:54] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:40:54] Message type chart data loaded: 6
+[2026-02-27 10:40:54] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:40:54] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 10:41:02] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:41:02] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 10:41:02] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 10:41:02] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:41:02] Guru list loaded based on responder_type: 5
+[2026-02-27 10:41:02] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:41:02] Message type chart data loaded: 6
+[2026-02-27 10:41:02] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:41:02] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 10:42:40] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:42:40] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 10:42:40] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 10:42:40] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:42:40] Guru list loaded based on responder_type: 5
+[2026-02-27 10:42:40] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:42:40] Message type chart data loaded: 6
+[2026-02-27 10:42:40] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:42:40] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 10:46:50] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 10:46:50] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 10:46:50] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 10:46:50] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 10:46:50] Guru list loaded based on responder_type: 5
+[2026-02-27 10:46:50] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 10:46:50] Message type chart data loaded: 6
+[2026-02-27 10:46:50] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 10:46:50] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 15:00:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 15:00:54] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 15:00:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 15:00:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 15:00:54] Guru list loaded based on responder_type: 5
+[2026-02-27 15:00:54] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 15:00:54] Message type chart data loaded: 6
+[2026-02-27 15:00:54] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 15:00:54] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 15:16:49] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 15:16:49] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 15:16:49] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 15:16:49] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 15:16:49] Guru list loaded based on responder_type: 5
+[2026-02-27 15:16:49] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 15:16:49] Message type chart data loaded: 6
+[2026-02-27 15:16:49] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 15:16:49] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 15:30:47] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 15:30:47] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 15:30:47] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 15:30:47] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 15:30:47] Guru list loaded based on responder_type: 5
+[2026-02-27 15:30:47] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 15:30:47] Message type chart data loaded: 6
+[2026-02-27 15:30:47] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 15:30:47] Messages fetched for Wakil_Kepala: 10
+[2026-02-27 15:30:47] Attachments loaded for 0 messages
+[2026-02-27 17:46:09] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-27 17:46:09] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-27 17:46:09] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-28
+    [date_to] => 2026-02-27
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-27 17:46:09] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-27 17:46:09] Guru list loaded based on responder_type: 5
+[2026-02-27 17:46:09] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-27 17:46:09] Message type chart data loaded: 7
+[2026-02-27 17:46:09] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-27 17:46:09] Messages fetched for Wakil_Kepala: 11
+[2026-02-27 17:46:09] Attachments loaded for 1 messages
+[2026-02-28 16:16:20] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 16:16:20] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 16:16:20] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 16:16:20] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 16:16:20] Guru list loaded based on responder_type: 5
+[2026-02-28 16:16:20] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-28 16:16:20] Message type chart data loaded: 7
+[2026-02-28 16:16:20] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-28 16:16:20] Messages fetched for Wakil_Kepala: 11
+[2026-02-28 16:16:20] Attachments loaded for 1 messages
+[2026-02-28 17:49:02] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 17:49:02] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 17:49:02] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 17:49:02] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 17:49:02] Guru list loaded based on responder_type: 5
+[2026-02-28 17:49:02] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-28 17:49:02] Message type chart data loaded: 7
+[2026-02-28 17:49:02] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-28 17:49:02] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 17:49:02] Attachments loaded for 2 messages
+[2026-02-28 17:49:32] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 17:49:32] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 17:49:32] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 17:49:32] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 17:49:32] Guru list loaded based on responder_type: 5
+[2026-02-28 17:49:32] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-28 17:49:32] Message type chart data loaded: 7
+[2026-02-28 17:49:32] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-28 17:49:32] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 17:49:32] Attachments loaded for 2 messages
+[2026-02-28 17:51:40] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 17:51:40] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 17:51:40] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 17:51:40] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 17:51:40] Guru list loaded based on responder_type: 5
+[2026-02-28 17:51:40] Error loading guru chart data: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 17
+[2026-02-28 17:51:40] Message type chart data loaded: 7
+[2026-02-28 17:51:40] Error loading statistics: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Guru_BK'' OR u.user_type = ''Guru_Humas'' OR u.user_type = ''Guru_Kurikulum''...' at line 5
+[2026-02-28 17:51:40] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 17:51:40] Attachments loaded for 2 messages
+[2026-02-28 18:09:18] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 18:09:18] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 18:09:18] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 18:09:18] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 18:09:18] Guru list loaded based on responder_type: 5
+[2026-02-28 18:09:18] Guru chart data loaded: 4
+[2026-02-28 18:09:18] Message type chart data loaded: 7
+[2026-02-28 18:09:18] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 18:09:18] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 18:09:18] Attachments loaded for 2 messages
+[2026-02-28 19:00:28] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:00:28] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 19:00:28] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:00:28] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 19:00:28] Guru list loaded based on responder_type: 5
+[2026-02-28 19:00:28] Guru chart data loaded: 4
+[2026-02-28 19:00:28] Message type chart data loaded: 7
+[2026-02-28 19:00:28] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 19:00:29] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 19:00:29] Attachments loaded for 2 messages
+[2026-02-28 19:04:34] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:04:34] User login: Guru_BK - Siti Aisyah (ID: 3)
+[2026-02-28 19:04:34] ACCESS DENIED - User type: Guru_BK
+[2026-02-28 19:26:33] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:26:34] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 19:26:34] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:26:34] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 19:26:34] Guru list loaded based on responder_type: 5
+[2026-02-28 19:26:34] Guru chart data loaded: 4
+[2026-02-28 19:26:34] Message type chart data loaded: 7
+[2026-02-28 19:26:34] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 19:26:34] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 19:26:34] Attachments loaded for 2 messages
+[2026-02-28 19:44:29] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:44:29] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 19:44:29] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:44:29] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 19:44:29] Guru list loaded based on responder_type: 5
+[2026-02-28 19:44:29] Guru chart data loaded: 4
+[2026-02-28 19:44:29] Message type chart data loaded: 7
+[2026-02-28 19:44:29] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 19:44:29] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 19:44:29] Attachments loaded for 2 messages
+[2026-02-28 19:46:02] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:46:02] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-02-28 19:46:02] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-02-28 19:46:02] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 19:46:02] Guru list loaded based on responder_type: 5
+[2026-02-28 19:46:02] Guru chart data loaded: 4
+[2026-02-28 19:46:02] Message type chart data loaded: 7
+[2026-02-28 19:46:02] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 19:46:02] Messages fetched for Wakil_Kepala: 12
+[2026-02-28 19:46:02] Attachments loaded for 2 messages
+[2026-02-28 19:47:03] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 19:47:03] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 19:47:03] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 19:47:03] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 19:47:03] Guru list loaded based on responder_type: 5
+[2026-02-28 19:47:03] Guru chart data loaded: 4
+[2026-02-28 19:47:03] Message type chart data loaded: 7
+[2026-02-28 19:47:03] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 19:47:03] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 19:47:03] Attachments loaded for 2 messages
+[2026-02-28 20:05:21] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 20:05:21] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 20:05:21] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 20:05:21] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 20:05:21] Guru list loaded based on responder_type: 5
+[2026-02-28 20:05:21] Guru chart data loaded: 4
+[2026-02-28 20:05:21] Message type chart data loaded: 7
+[2026-02-28 20:05:21] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 20:05:21] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 20:05:21] Attachments loaded for 2 messages
+[2026-02-28 20:25:26] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 20:25:26] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 20:25:26] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 20:25:26] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 20:25:26] Guru list loaded based on responder_type: 5
+[2026-02-28 20:25:26] Guru chart data loaded: 4
+[2026-02-28 20:25:26] Message type chart data loaded: 7
+[2026-02-28 20:25:26] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 20:25:26] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 20:25:26] Attachments loaded for 2 messages
+[2026-02-28 20:45:55] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 20:45:55] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 20:45:55] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 20:45:55] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 20:45:55] Guru list loaded based on responder_type: 5
+[2026-02-28 20:45:55] Guru chart data loaded: 4
+[2026-02-28 20:45:55] Message type chart data loaded: 7
+[2026-02-28 20:45:55] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 20:45:55] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 20:45:55] Attachments loaded for 2 messages
+[2026-02-28 21:16:29] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:16:29] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 21:16:29] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 21:16:29] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 21:16:29] Guru list loaded based on responder_type: 5
+[2026-02-28 21:16:29] Guru chart data loaded: 4
+[2026-02-28 21:16:29] Message type chart data loaded: 7
+[2026-02-28 21:16:29] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 21:16:29] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 21:16:29] Attachments loaded for 2 messages
+[2026-02-28 21:16:41] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:17:31] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:37:06] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:37:06] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 21:37:06] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 21:37:06] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 21:37:06] Guru list loaded based on responder_type: 5
+[2026-02-28 21:37:06] Guru chart data loaded: 4
+[2026-02-28 21:37:06] Message type chart data loaded: 7
+[2026-02-28 21:37:06] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 21:37:06] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 21:37:06] Attachments loaded for 2 messages
+[2026-02-28 21:37:09] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:37:09] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 21:37:09] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 21:37:09] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 21:37:09] Guru list loaded based on responder_type: 5
+[2026-02-28 21:37:09] Guru chart data loaded: 4
+[2026-02-28 21:37:09] Message type chart data loaded: 7
+[2026-02-28 21:37:09] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 21:37:09] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 21:37:09] Attachments loaded for 2 messages
+[2026-02-28 21:58:24] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 21:58:24] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 21:58:24] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 21:58:24] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 21:58:24] Guru list loaded based on responder_type: 5
+[2026-02-28 21:58:24] Guru chart data loaded: 4
+[2026-02-28 21:58:24] Message type chart data loaded: 7
+[2026-02-28 21:58:24] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 21:58:24] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 21:58:24] Attachments loaded for 2 messages
+[2026-02-28 22:00:31] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 22:00:31] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 22:00:31] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 22:00:31] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 22:00:31] Guru list loaded based on responder_type: 5
+[2026-02-28 22:00:31] Guru chart data loaded: 4
+[2026-02-28 22:00:31] Message type chart data loaded: 7
+[2026-02-28 22:00:31] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 22:00:31] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 22:00:31] Attachments loaded for 2 messages
+[2026-02-28 22:28:06] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 22:28:07] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 22:28:07] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 22:28:07] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 22:28:07] Guru list loaded based on responder_type: 5
+[2026-02-28 22:28:07] Guru chart data loaded: 4
+[2026-02-28 22:28:07] Message type chart data loaded: 7
+[2026-02-28 22:28:07] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 22:28:07] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 22:28:07] Attachments loaded for 2 messages
+[2026-02-28 22:53:52] ========== WAKEPSEK DASHBOARD START ==========
+[2026-02-28 22:53:52] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-02-28 22:53:52] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-29
+    [date_to] => 2026-02-28
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-02-28 22:53:52] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-02-28 22:53:52] Guru list loaded based on responder_type: 5
+[2026-02-28 22:53:52] Guru chart data loaded: 4
+[2026-02-28 22:53:52] Message type chart data loaded: 7
+[2026-02-28 22:53:52] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-02-28 22:53:52] Messages fetched for Kepala_Sekolah: 12
+[2026-02-28 22:53:52] Attachments loaded for 2 messages
+[2026-03-01 05:44:45] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 05:44:46] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 05:44:46] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 05:44:46] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 05:44:46] Guru list loaded based on responder_type: 5
+[2026-03-01 05:44:46] Guru chart data loaded: 4
+[2026-03-01 05:44:46] Message type chart data loaded: 7
+[2026-03-01 05:44:46] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 05:44:47] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 05:44:47] Attachments loaded for 2 messages
+[2026-03-01 05:48:07] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 05:48:07] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 05:48:07] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 05:48:07] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 05:48:07] Guru list loaded based on responder_type: 5
+[2026-03-01 05:48:07] Guru chart data loaded: 4
+[2026-03-01 05:48:07] Message type chart data loaded: 7
+[2026-03-01 05:48:07] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 05:48:08] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 05:48:08] Attachments loaded for 2 messages
+[2026-03-01 06:15:28] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 06:15:29] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 06:15:29] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 06:15:29] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 06:15:29] Guru list loaded based on responder_type: 5
+[2026-03-01 06:15:29] Guru chart data loaded: 4
+[2026-03-01 06:15:29] Message type chart data loaded: 7
+[2026-03-01 06:15:29] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 06:15:29] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 06:15:29] Attachments loaded for 2 messages
+[2026-03-01 06:33:24] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 06:33:24] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 06:33:24] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 06:33:24] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 06:33:24] Guru list loaded based on responder_type: 5
+[2026-03-01 06:33:24] Guru chart data loaded: 4
+[2026-03-01 06:33:24] Message type chart data loaded: 7
+[2026-03-01 06:33:24] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 06:33:24] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 06:33:24] Attachments loaded for 2 messages
+[2026-03-01 06:56:37] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 06:56:37] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 06:56:37] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 06:56:37] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 06:56:37] Guru list loaded based on responder_type: 5
+[2026-03-01 06:56:37] Guru chart data loaded: 4
+[2026-03-01 06:56:37] Message type chart data loaded: 7
+[2026-03-01 06:56:37] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 06:56:37] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 06:56:37] Attachments loaded for 2 messages
+[2026-03-01 06:58:24] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 06:58:24] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 06:58:24] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 06:58:24] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 06:58:24] Guru list loaded based on responder_type: 5
+[2026-03-01 06:58:24] Guru chart data loaded: 4
+[2026-03-01 06:58:24] Message type chart data loaded: 7
+[2026-03-01 06:58:24] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 06:58:24] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 06:58:24] Attachments loaded for 2 messages
+[2026-03-01 07:15:06] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 07:15:06] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 07:15:06] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 07:15:06] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 07:15:06] Guru list loaded based on responder_type: 5
+[2026-03-01 07:15:06] Guru chart data loaded: 4
+[2026-03-01 07:15:06] Message type chart data loaded: 7
+[2026-03-01 07:15:06] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 07:15:07] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 07:15:07] Attachments loaded for 2 messages
+[2026-03-01 07:24:42] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 07:24:42] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 07:24:42] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 07:24:42] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 07:24:42] Guru list loaded based on responder_type: 5
+[2026-03-01 07:24:42] Guru chart data loaded: 4
+[2026-03-01 07:24:42] Message type chart data loaded: 7
+[2026-03-01 07:24:42] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 07:24:42] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 07:24:42] Attachments loaded for 2 messages
+[2026-03-01 07:37:07] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 07:37:07] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 07:37:07] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 07:37:07] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 07:37:07] Guru list loaded based on responder_type: 5
+[2026-03-01 07:37:07] Guru chart data loaded: 4
+[2026-03-01 07:37:07] Message type chart data loaded: 7
+[2026-03-01 07:37:07] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 07:37:07] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 07:37:07] Attachments loaded for 2 messages
+[2026-03-01 07:59:48] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 07:59:48] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 07:59:48] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 07:59:48] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 07:59:48] Guru list loaded based on responder_type: 5
+[2026-03-01 07:59:48] Guru chart data loaded: 4
+[2026-03-01 07:59:48] Message type chart data loaded: 7
+[2026-03-01 07:59:48] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 07:59:48] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 07:59:48] Attachments loaded for 2 messages
+[2026-03-01 08:06:33] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:06:33] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 08:06:33] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 08:06:33] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:06:33] Guru list loaded based on responder_type: 5
+[2026-03-01 08:06:33] Guru chart data loaded: 4
+[2026-03-01 08:06:33] Message type chart data loaded: 7
+[2026-03-01 08:06:33] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:06:33] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 08:06:33] Attachments loaded for 2 messages
+[2026-03-01 08:27:39] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:27:39] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 08:27:39] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 08:27:39] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:27:39] Guru list loaded based on responder_type: 5
+[2026-03-01 08:27:39] Guru chart data loaded: 4
+[2026-03-01 08:27:39] Message type chart data loaded: 7
+[2026-03-01 08:27:39] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:27:39] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 08:27:39] Attachments loaded for 2 messages
+[2026-03-01 08:34:09] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:34:09] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 08:34:09] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 08:34:09] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:34:09] Guru list loaded based on responder_type: 5
+[2026-03-01 08:34:09] Guru chart data loaded: 4
+[2026-03-01 08:34:09] Message type chart data loaded: 7
+[2026-03-01 08:34:09] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:34:09] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 08:34:09] Attachments loaded for 2 messages
+[2026-03-01 08:34:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:34:54] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 08:34:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 08:34:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:34:54] Guru list loaded based on responder_type: 5
+[2026-03-01 08:34:54] Guru chart data loaded: 4
+[2026-03-01 08:34:54] Message type chart data loaded: 7
+[2026-03-01 08:34:54] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:34:54] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 08:34:54] Attachments loaded for 2 messages
+[2026-03-01 08:48:04] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:48:04] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 08:48:04] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 08:48:04] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:48:04] Guru list loaded based on responder_type: 5
+[2026-03-01 08:48:04] Guru chart data loaded: 4
+[2026-03-01 08:48:04] Message type chart data loaded: 7
+[2026-03-01 08:48:04] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:48:04] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 08:48:04] Attachments loaded for 2 messages
+[2026-03-01 08:48:09] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 08:48:09] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 08:48:09] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 08:48:09] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 08:48:09] Guru list loaded based on responder_type: 5
+[2026-03-01 08:48:09] Guru chart data loaded: 4
+[2026-03-01 08:48:09] Message type chart data loaded: 7
+[2026-03-01 08:48:10] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 08:48:10] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 08:48:10] Attachments loaded for 2 messages
+[2026-03-01 09:57:32] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 09:57:32] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 09:57:32] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 09:57:32] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 09:57:32] Guru list loaded based on responder_type: 5
+[2026-03-01 09:57:32] Guru chart data loaded: 4
+[2026-03-01 09:57:32] Message type chart data loaded: 7
+[2026-03-01 09:57:32] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 09:57:32] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 09:57:32] Attachments loaded for 2 messages
+[2026-03-01 10:09:34] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 10:09:34] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 10:09:34] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:09:34] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 10:09:34] Guru list loaded based on responder_type: 5
+[2026-03-01 10:09:34] Guru chart data loaded: 4
+[2026-03-01 10:09:34] Message type chart data loaded: 7
+[2026-03-01 10:09:34] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 10:09:34] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 10:09:34] Attachments loaded for 2 messages
+[2026-03-01 10:32:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 10:32:54] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 10:32:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:32:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 10:32:54] Guru list loaded based on responder_type: 5
+[2026-03-01 10:32:54] Guru chart data loaded: 4
+[2026-03-01 10:32:54] Message type chart data loaded: 7
+[2026-03-01 10:32:54] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 10:32:54] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 10:32:54] Attachments loaded for 2 messages
+[2026-03-01 10:33:54] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 10:33:54] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-01 10:33:54] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-01 10:33:54] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 10:33:54] Guru list loaded based on responder_type: 5
+[2026-03-01 10:33:54] Guru chart data loaded: 4
+[2026-03-01 10:33:54] Message type chart data loaded: 7
+[2026-03-01 10:33:54] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 10:33:54] Messages fetched for Kepala_Sekolah: 12
+[2026-03-01 10:33:54] Attachments loaded for 2 messages
+[2026-03-01 10:35:04] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 10:35:04] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 10:35:04] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:35:04] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 10:35:04] Guru list loaded based on responder_type: 5
+[2026-03-01 10:35:04] Guru chart data loaded: 4
+[2026-03-01 10:35:04] Message type chart data loaded: 7
+[2026-03-01 10:35:04] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 10:35:04] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 10:35:04] Attachments loaded for 2 messages
+[2026-03-01 10:52:47] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-01 10:52:47] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-01 10:52:47] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-01-30
+    [date_to] => 2026-03-01
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-01 10:52:47] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-01 10:52:47] Guru list loaded based on responder_type: 5
+[2026-03-01 10:52:47] Guru chart data loaded: 4
+[2026-03-01 10:52:47] Message type chart data loaded: 7
+[2026-03-01 10:52:47] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 8
+    [pending_review] => 7
+    [reviewed] => 1
+    [total_guru] => 5
+    [avg_response_time] => 15
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-01 10:52:47] Messages fetched for Wakil_Kepala: 12
+[2026-03-01 10:52:47] Attachments loaded for 2 messages
+[2026-03-07 16:55:05] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-07 16:55:05] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-07 16:55:05] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-02-05
+    [date_to] => 2026-03-07
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-07 16:55:05] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-07 16:55:05] Guru list loaded based on responder_type: 5
+[2026-03-07 16:55:05] Guru chart data loaded: 4
+[2026-03-07 16:55:05] Message type chart data loaded: 7
+[2026-03-07 16:55:05] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 8
+    [pending_review] => 8
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 172
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 7
+)
+
+[2026-03-07 16:55:05] Messages fetched for Kepala_Sekolah: 12
+[2026-03-07 16:55:05] Attachments loaded for 2 messages
+[2026-03-30 17:40:49] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-30 17:40:49] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-30 17:40:49] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-02-28
+    [date_to] => 2026-03-30
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-30 17:40:49] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-30 17:40:49] Guru list loaded based on responder_type: 5
+[2026-03-30 17:40:49] Guru chart data loaded: 1
+[2026-03-30 17:40:49] Message type chart data loaded: 2
+[2026-03-30 17:40:49] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 1
+    [pending_review] => 1
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 0
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 2
+)
+
+[2026-03-30 17:40:50] Messages fetched for Kepala_Sekolah: 1
+[2026-03-30 17:40:50] Attachments loaded for 1 messages
+[2026-03-30 23:49:46] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-30 23:49:46] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-30 23:49:46] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-02-28
+    [date_to] => 2026-03-30
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-30 23:49:46] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-30 23:49:46] Guru list loaded based on responder_type: 5
+[2026-03-30 23:49:46] Guru chart data loaded: 1
+[2026-03-30 23:49:46] Message type chart data loaded: 2
+[2026-03-30 23:49:46] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 1
+    [pending_review] => 1
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 1
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 2
+)
+
+[2026-03-30 23:49:46] Messages fetched for Wakil_Kepala: 1
+[2026-03-30 23:49:46] Attachments loaded for 1 messages
+[2026-03-30 23:52:03] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-30 23:52:03] User login: Wakil_Kepala - Joko Widodo (ID: 8)
+[2026-03-30 23:52:03] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-02-28
+    [date_to] => 2026-03-30
+    [search] => 
+    [page] => 1
+    [user_type] => Wakil_Kepala
+)
+
+[2026-03-30 23:52:03] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-30 23:52:03] Guru list loaded based on responder_type: 5
+[2026-03-30 23:52:03] Guru chart data loaded: 1
+[2026-03-30 23:52:03] Message type chart data loaded: 2
+[2026-03-30 23:52:03] Statistics for Wakil_Kepala - Array
+(
+    [total_responded] => 1
+    [pending_review] => 1
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 1
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 2
+)
+
+[2026-03-30 23:52:03] Messages fetched for Wakil_Kepala: 1
+[2026-03-30 23:52:03] Attachments loaded for 1 messages
+[2026-03-30 23:52:44] ========== WAKEPSEK DASHBOARD START ==========
+[2026-03-30 23:52:44] User login: Kepala_Sekolah - Sri Mulyani (ID: 9)
+[2026-03-30 23:52:44] Filter parameters - Array
+(
+    [status] => all
+    [guru] => all
+    [date_from] => 2026-02-28
+    [date_to] => 2026-03-30
+    [search] => 
+    [page] => 1
+    [user_type] => Kepala_Sekolah
+)
+
+[2026-03-30 23:52:44] Responder types from message_types: Guru_BK, Guru_Humas, Guru_Kurikulum, Guru_Kesiswaan, Guru_Sarana
+[2026-03-30 23:52:44] Guru list loaded based on responder_type: 5
+[2026-03-30 23:52:44] Guru chart data loaded: 1
+[2026-03-30 23:52:44] Message type chart data loaded: 2
+[2026-03-30 23:52:44] Statistics for Kepala_Sekolah - Array
+(
+    [total_responded] => 1
+    [pending_review] => 1
+    [reviewed] => 0
+    [total_guru] => 5
+    [avg_response_time] => 0
+    [fastest_responder] => Maya Indah (0 jam)
+    [slowest_responder] => -
+    [total_message_types] => 2
+)
+
+[2026-03-30 23:52:44] Messages fetched for Kepala_Sekolah: 1
+[2026-03-30 23:52:44] Attachments loaded for 1 messages

@@ -1,0 +1,156 @@
+[2026-02-19 10:32:04] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 10:32:04] Input - phone: 085174207795, nama: wahono, reference: EXT20260219-84994
+[2026-02-19 10:32:04] Phone setelah format: 6285174207795
+[2026-02-19 10:32:04] Pesan panjang: 449
+[2026-02-19 10:32:04] Data ke Fonnte: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI PESAN - SMKN 12 Jakarta*
+
+Yth. *wahono*
+
+Pesan Anda telah berhasil kami terima.
+
+*📋 INFORMASI PESAN:*
+─────────────────────────
+Nomor Referensi: EXT20260219-84994
+Status: Pending (Menunggu diproses)
+─────────────────────────
+
+Pesan akan diproses dalam 1x24 jam.
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 10:32:04] URL: https://api.fonnte.com/send
+[2026-02-19 10:32:04] API Key: FS2cq...
+[2026-02-19 10:32:04] HTTP Code: 200
+[2026-02-19 10:32:04] Response: {"detail":"success! message in queue","id":[144284114],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":979,"remaining":978,"used":1}},"requestid":387630824,"status":true,"target":["6285174207795"]}
+[2026-02-19 10:32:04] ✓ WHATSAPP BERHASIL dikirim ke 6285174207795
+[2026-02-19 11:02:04] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-19 11:02:04] Input - phone: 085174207795, nama: wahono agung, reference: EXT20260219-18588
+[2026-02-19 11:02:04] Jenis Pesan: Kesiswaan, Prioritas: High
+[2026-02-19 11:02:04] Phone setelah format: 6285174207795
+[2026-02-19 11:02:04] Pesan panjang: 602
+[2026-02-19 11:02:04] Data ke Fonnte: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI PESAN - SMKN 12 Jakarta*
+
+Yth. *wahono agung*
+
+Pesan Anda telah berhasil kami terima.
+
+*📋 INFORMASI PESAN:*
+─────────────────────────
+📌 Nomor Referensi: EXT20260219-18588
+📂 Jenis Pesan: Kesiswaan
+🔴 Prioritas: High
+📊 Status: Pending (Menunggu diproses)
+─────────────────────────
+
+*📝 ISI PESAN ANDA:*
+```
+Perbanyak kegiatan kesiswaan yang berorientasi prestasi
+```
+
+Pesan akan diproses dalam 1x24 jam.
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-19 11:02:04] URL: https://api.fonnte.com/send
+[2026-02-19 11:02:04] API Key: FS2cq...
+[2026-02-19 11:02:04] HTTP Code: 200
+[2026-02-19 11:02:04] Response: {"detail":"success! message in queue","id":[144291069],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":978,"remaining":977,"used":1}},"requestid":387665638,"status":true,"target":["6285174207795"]}
+[2026-02-19 11:02:04] ✓ WHATSAPP BERHASIL dikirim ke 6285174207795
+[2026-02-28 16:06:10] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-28 16:06:10] Input - phone: 085174207795, nama: Django, reference: EXT20260228-54340
+[2026-02-28 16:06:10] Jenis Pesan: Keluhan, Prioritas: High
+[2026-02-28 16:06:10] Phone setelah format: 6285174207795
+[2026-02-28 16:06:10] Pesan panjang: 565
+[2026-02-28 16:06:10] Data ke Fonnte: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI PESAN - SMKN 12 Jakarta*
+
+Yth. *Django*
+
+Pesan Anda telah berhasil kami terima.
+
+*📋 INFORMASI PESAN:*
+─────────────────────────
+📌 Nomor Referensi: EXT20260228-54340
+📂 Jenis Pesan: Keluhan
+🔴 Prioritas: High
+📊 Status: Pending (Menunggu diproses)
+─────────────────────────
+
+*📝 ISI PESAN ANDA:*
+```
+Menu MBG nya kurang banyak
+```
+
+Pesan akan diproses dalam 1x24 jam.
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-28 16:06:10] URL: https://api.fonnte.com/send
+[2026-02-28 16:06:10] API Token: FS2cq...
+[2026-02-28 16:06:10] HTTP Code: 200
+[2026-02-28 16:06:10] Response: {"detail":"success! message in queue","id":[145672430],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":966,"remaining":965,"used":1}},"requestid":401100071,"status":true,"target":["6285174207795"]}
+[2026-02-28 16:06:10] ✓ WHATSAPP BERHASIL dikirim ke 6285174207795
+[2026-02-28 16:12:25] ========== FUNGSI KIRIM WHATSAPP ==========
+[2026-02-28 16:12:25] Input - phone: 085174207795, nama: Django, reference: EXT20260228-00713
+[2026-02-28 16:12:25] Jenis Pesan: Informasi, Prioritas: Medium
+[2026-02-28 16:12:25] Phone setelah format: 6285174207795
+[2026-02-28 16:12:25] Pesan panjang: 575
+[2026-02-28 16:12:25] Data ke Fonnte: - Array
+(
+    [target] => 6285174207795
+    [message] => 🔔 *NOTIFIKASI PESAN - SMKN 12 Jakarta*
+
+Yth. *Django*
+
+Pesan Anda telah berhasil kami terima.
+
+*📋 INFORMASI PESAN:*
+─────────────────────────
+📌 Nomor Referensi: EXT20260228-00713
+📂 Jenis Pesan: Informasi
+🟡 Prioritas: Medium
+📊 Status: Pending (Menunggu diproses)
+─────────────────────────
+
+*📝 ISI PESAN ANDA:*
+```
+Ada acara silaturahmi di sekolah
+```
+
+Pesan akan diproses dalam 1x24 jam.
+
+Terima kasih telah menghubungi SMKN 12 Jakarta.
+
+_Pesan otomatis._
+    [countryCode] => 62
+    [delay] => 0
+)
+
+[2026-02-28 16:12:25] URL: https://api.fonnte.com/send
+[2026-02-28 16:12:25] API Token: FS2cq...
+[2026-02-28 16:12:25] HTTP Code: 200
+[2026-02-28 16:12:25] Response: {"detail":"success! message in queue","id":[145673063],"process":"pending","quota":{"6285174207795":{"details":"deduced from total quota","quota":965,"remaining":964,"used":1}},"requestid":401105850,"status":true,"target":["6285174207795"]}
+[2026-02-28 16:12:25] ✓ WHATSAPP BERHASIL dikirim ke 6285174207795

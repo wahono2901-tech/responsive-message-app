@@ -1,0 +1,300 @@
+[2026-02-17 19:13:49] Menguji koneksi Fonnte...
+[2026-02-17 19:13:49] Hasil test: error - 89.94ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 89.94
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:13:49
+)
+
+[2026-02-17 19:14:26] Menguji koneksi Fonnte...
+[2026-02-17 19:14:27] Hasil test: error - 462.09ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 462.09
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:14:26
+)
+
+[2026-02-17 19:15:04] Menguji koneksi Fonnte...
+[2026-02-17 19:15:04] Hasil test: error - 111.1ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 111.1
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:15:04
+)
+
+[2026-02-17 19:15:40] Menguji koneksi Fonnte...
+[2026-02-17 19:15:41] Hasil test: error - 495.9ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 495.9
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:15:40
+)
+
+[2026-02-17 19:16:18] Menguji koneksi Fonnte...
+[2026-02-17 19:16:18] Hasil test: error - 74.94ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 74.94
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:16:18
+)
+
+[2026-02-17 19:16:54] Menguji koneksi Fonnte...
+[2026-02-17 19:16:54] Hasil test: error - 118.81ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 118.81
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:16:54
+)
+
+[2026-02-17 19:17:30] Menguji koneksi Fonnte...
+[2026-02-17 19:17:30] Hasil test: error - 38.14ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 38.14
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:17:30
+)
+
+[2026-02-17 19:18:07] Menguji koneksi Fonnte...
+[2026-02-17 19:18:07] Hasil test: error - 292.22ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 292.22
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:18:07
+)
+
+[2026-02-17 19:18:44] Menguji koneksi Fonnte...
+[2026-02-17 19:18:45] Hasil test: error - 145.37ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 145.37
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:18:44
+)
+
+[2026-02-17 19:19:22] Menguji koneksi Fonnte...
+[2026-02-17 19:19:22] Hasil test: error - 217.51ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 217.51
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:19:22
+)
+
+[2026-02-17 19:19:59] Menguji koneksi Fonnte...
+[2026-02-17 19:20:00] Hasil test: error - 125ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 125
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:19:59
+)
+
+[2026-02-17 19:20:36] Menguji koneksi Fonnte...
+[2026-02-17 19:20:36] Hasil test: error - 52.84ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 52.84
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:20:36
+)
+
+[2026-02-17 19:21:14] Menguji koneksi Fonnte...
+[2026-02-17 19:21:14] Hasil test: error - 68.98ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 68.98
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:21:14
+)
+
+[2026-02-17 19:21:50] Menguji koneksi Fonnte...
+[2026-02-17 19:21:50] Hasil test: error - 47.64ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 47.64
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:21:50
+)
+
+[2026-02-17 19:22:28] Menguji koneksi Fonnte...
+[2026-02-17 19:22:28] Hasil test: error - 121.58ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 121.58
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:22:28
+)
+
+[2026-02-17 19:23:05] Menguji koneksi Fonnte...
+[2026-02-17 19:23:05] Hasil test: error - 113.76ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 113.76
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:23:05
+)
+
+[2026-02-17 19:23:43] Menguji koneksi Fonnte...
+[2026-02-17 19:23:43] Hasil test: error - 214.63ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 214.63
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:23:43
+)
+
+[2026-02-17 19:24:20] Menguji koneksi Fonnte...
+[2026-02-17 19:24:20] Hasil test: error - 154.76ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 154.76
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:24:20
+)
+
+[2026-02-17 19:24:57] Menguji koneksi Fonnte...
+[2026-02-17 19:24:57] Hasil test: error - 113.05ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 113.05
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:24:57
+)
+
+[2026-02-17 19:25:34] Menguji koneksi Fonnte...
+[2026-02-17 19:25:35] Hasil test: error - 116.41ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 116.41
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:25:34
+)
+
+[2026-02-17 19:26:12] Menguji koneksi Fonnte...
+[2026-02-17 19:26:12] Hasil test: error - 63.91ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 63.91
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:26:12
+)
+
+[2026-02-17 19:26:50] Menguji koneksi Fonnte...
+[2026-02-17 19:26:50] Hasil test: error - 141.19ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 141.19
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:26:50
+)
+
+[2026-02-17 19:27:28] Menguji koneksi Fonnte...
+[2026-02-17 19:27:28] Hasil test: error - 147.75ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 147.75
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:27:28
+)
+
+[2026-02-17 19:28:05] Menguji koneksi Fonnte...
+[2026-02-17 19:28:05] Hasil test: error - 44.29ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 44.29
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:28:05
+)
+
+[2026-02-17 19:28:43] Menguji koneksi Fonnte...
+[2026-02-17 19:28:43] Hasil test: error - 71.62ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => HTTP Error: 405
+    [response_time] => 71.62
+    [http_code] => 405
+    [details] => 
+    [timestamp] => 2026-02-17 19:28:43
+)
+

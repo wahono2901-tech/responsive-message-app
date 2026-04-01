@@ -1,0 +1,128 @@
+[2026-02-28 15:23:47] >>> MEMPROSES UPLOAD GAMBAR untuk message_id: 57, reference: EXT20260228-41243, pengirim_id: 93
+[2026-02-28 15:23:47] Total files: 1
+[2026-02-28 15:23:47] ========== FUNGSI UPLOAD GAMBAR EXTERNAL ==========
+[2026-02-28 15:23:47] Processing upload for reference: EXT20260228-41243, external_sender_id: 0, user_id: 93
+[2026-02-28 15:23:47] File info - Array
+(
+    [original_name] => asus rog.jpg
+    [size] => 14212
+    [tmp_name] => C:\xampp\tmp\php276.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-28 15:23:47] Target path: C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-41243_1772267027_fac99e5cd5e318b6.jpg
+[2026-02-28 15:23:47] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => ext_EXT20260228-41243_1772267027_fac99e5cd5e318b6.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-41243_1772267027_fac99e5cd5e318b6.jpg
+    [size] => 14212
+)
+
+[2026-02-28 15:46:17] >>> MEMPROSES UPLOAD GAMBAR untuk message_id: 58, reference: EXT20260228-86505, pengirim_id: 94
+[2026-02-28 15:46:17] Total files: 1
+[2026-02-28 15:46:17] ========== FUNGSI UPLOAD GAMBAR EXTERNAL ==========
+[2026-02-28 15:46:17] Processing upload for reference: EXT20260228-86505, external_sender_id: 0, user_id: 94
+[2026-02-28 15:46:17] File info - Array
+(
+    [original_name] => asus rog.jpg
+    [size] => 14212
+    [tmp_name] => C:\xampp\tmp\php9C07.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-28 15:46:17] Target path: C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-86505_1772268377_1ee536652fbfa968.jpg
+[2026-02-28 15:46:17] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => ext_EXT20260228-86505_1772268377_1ee536652fbfa968.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-86505_1772268377_1ee536652fbfa968.jpg
+    [size] => 14212
+)
+
+[2026-02-28 15:46:17] Parameter insert attachment - Array
+(
+    [:message_id] => 58
+    [:user_id] => 94
+    [:filename] => ext_EXT20260228-86505_1772268377_1ee536652fbfa968.jpg
+    [:filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-86505_1772268377_1ee536652fbfa968.jpg
+    [:filetype] => jpg
+    [:filesize] => 14212
+)
+
+[2026-02-28 16:06:09] >>> MEMPROSES UPLOAD GAMBAR untuk message_id: 59, reference: EXT20260228-54340, pengirim_id: 95
+[2026-02-28 16:06:09] Total files: 1
+[2026-02-28 16:06:09] ========== FUNGSI UPLOAD GAMBAR EXTERNAL ==========
+[2026-02-28 16:06:09] Processing upload for reference: EXT20260228-54340, external_sender_id: 0, user_id: 95
+[2026-02-28 16:06:09] File info - Array
+(
+    [original_name] => asus rog.jpg
+    [size] => 14212
+    [tmp_name] => C:\xampp\tmp\phpCC1A.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-28 16:06:09] Target path: C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+[2026-02-28 16:06:09] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [size] => 14212
+)
+
+[2026-02-28 16:06:09] Parameter insert attachment - Array
+(
+    [:message_id] => 59
+    [:user_id] => 95
+    [:filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [:filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+    [:filetype] => jpg
+    [:filesize] => 14212
+)
+
+[2026-02-28 16:06:09] ✓ Data attachment disimpan ke database - Array
+(
+    [attachment_id] => 2
+    [filename] => ext_EXT20260228-54340_1772269569_2dcceef079f5226c.jpg
+)
+
+[2026-02-28 16:06:09] ✓ has_attachments diupdate menjadi 1
+[2026-02-28 16:12:25] >>> MEMPROSES UPLOAD GAMBAR untuk message_id: 60, reference: EXT20260228-00713, pengirim_id: 95
+[2026-02-28 16:12:25] Total files: 1
+[2026-02-28 16:12:25] ========== FUNGSI UPLOAD GAMBAR EXTERNAL ==========
+[2026-02-28 16:12:25] Processing upload for reference: EXT20260228-00713, external_sender_id: 0, user_id: 95
+[2026-02-28 16:12:25] File info - Array
+(
+    [original_name] => Flashdisk Toshiba 512 MB Tampak Depan.jpg
+    [size] => 102189
+    [tmp_name] => C:\xampp\tmp\php8679.tmp
+    [mime_detected] => image/jpeg
+    [extension] => jpg
+)
+
+[2026-02-28 16:12:25] Target path: C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+[2026-02-28 16:12:25] ✓ FILE BERHASIL DIUPLOAD - Array
+(
+    [new_filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [path] => C:\xampp\htdocs\responsive-message-app/uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [size] => 102189
+)
+
+[2026-02-28 16:12:25] Parameter insert attachment - Array
+(
+    [:message_id] => 60
+    [:user_id] => 95
+    [:filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [:filepath] => uploads/external_messages/2026/02/28/ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+    [:filetype] => jpg
+    [:filesize] => 102189
+)
+
+[2026-02-28 16:12:25] ✓ Data attachment disimpan ke database - Array
+(
+    [attachment_id] => 3
+    [filename] => ext_EXT20260228-00713_1772269945_50184706281a6467.jpg
+)
+
+[2026-02-28 16:12:25] ✓ has_attachments diupdate menjadi 1

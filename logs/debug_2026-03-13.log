@@ -1,0 +1,74 @@
+[2026-03-13 09:10:54] === SCRIPT START ===
+[2026-03-13 09:10:54] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-03-13 09:10:54] Request Method: GET
+[2026-03-13 09:10:54] GET Parameters: Array
+(
+)
+
+[2026-03-13 09:10:54] Core files loaded
+[2026-03-13 09:10:54] Auth check passed
+[2026-03-13 09:10:54] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => qom34n1987r64h9b4pns34fq7a
+    [session_data] => Array
+        (
+            [last_regeneration] => 1773367683
+            [csrf_token] => 50e945cfb5795c5b338f81abe5f51c3385a08cafb520412f68630233cd144769
+            [login_attempts] => 0
+            [form_unique_id] => d9520ff1c204232cdb90343d3edda8e9
+            [processed_messages] => Array
+                (
+                )
+
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1773367854
+        )
+
+)
+
+[2026-03-13 09:10:54] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-03-13 09:10:54] Attempting database connection
+[2026-03-13 09:10:54] Database connected successfully
+[2026-03-13 09:10:54] Total users: 60
+[2026-03-13 09:10:54] Total messages: 10
+[2026-03-13 09:10:54] Pending messages: 1
+[2026-03-13 09:10:54] Expired messages: 0
+[2026-03-13 09:10:54] Recent messages count: 10
+[2026-03-13 09:10:54] Message stats count: 13
+[2026-03-13 09:10:54] User growth data count: 2
+[2026-03-13 09:10:54] Message status data count: 4
+[2026-03-13 09:10:54] Daily messages data count: 0
+[2026-03-13 09:10:54] Users by type data count: 13
+[2026-03-13 09:10:54] Top users count: 5
+[2026-03-13 09:10:54] Response stats - DATA: Array
+(
+    [total_messages] => 5
+    [responded] => 4
+    [response_rate] => 80.00
+)
+
+[2026-03-13 09:10:54] === CHECKING EXPORT PARAMETERS ===
+[2026-03-13 09:10:54] GET export parameter: NOT SET
+[2026-03-13 09:10:54] No export parameter detected, rendering normal dashboard
+[2026-03-13 09:10:54] === SCRIPT END ===

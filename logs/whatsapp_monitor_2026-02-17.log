@@ -1,0 +1,841 @@
+[2026-02-17 19:28:58] Menguji koneksi Fonnte...
+[2026-02-17 19:28:58] Hasil test: error - 58.31ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 58.31
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:28:58
+)
+
+[2026-02-17 19:29:34] Menguji koneksi Fonnte...
+[2026-02-17 19:29:34] Hasil test: error - 72.05ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 72.05
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:34
+)
+
+[2026-02-17 19:29:35] Menguji koneksi Fonnte...
+[2026-02-17 19:29:35] Hasil test: error - 55.04ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 55.04
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:35
+)
+
+[2026-02-17 19:29:56] Menguji koneksi Fonnte...
+[2026-02-17 19:29:56] Hasil test: error - 44.35ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 44.35
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:29:56
+)
+
+[2026-02-17 19:30:01] Test Kirim: GAGAL - 110.76ms
+[2026-02-17 19:30:33] Menguji koneksi Fonnte...
+[2026-02-17 19:30:34] Hasil test: error - 43.7ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 43.7
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:30:33
+)
+
+[2026-02-17 19:31:10] Menguji koneksi Fonnte...
+[2026-02-17 19:31:10] Hasil test: error - 172.87ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 172.87
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:10
+)
+
+[2026-02-17 19:31:11] Menguji koneksi Fonnte...
+[2026-02-17 19:31:11] Hasil test: error - 81.4ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 81.4
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:11
+)
+
+[2026-02-17 19:31:48] Menguji koneksi Fonnte...
+[2026-02-17 19:31:48] Hasil test: error - 43.41ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 43.41
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:48
+)
+
+[2026-02-17 19:31:49] Menguji koneksi Fonnte...
+[2026-02-17 19:31:49] Hasil test: error - 65.51ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 65.51
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:31:49
+)
+
+[2026-02-17 19:32:25] Menguji koneksi Fonnte...
+[2026-02-17 19:32:25] Hasil test: error - 37.72ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 37.72
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:32:25
+)
+
+[2026-02-17 19:32:27] Menguji koneksi Fonnte...
+[2026-02-17 19:32:27] Hasil test: error - 60.83ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 60.83
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:32:27
+)
+
+[2026-02-17 19:33:03] Menguji koneksi Fonnte...
+[2026-02-17 19:33:03] Hasil test: error - 61.09ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 61.09
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:03
+)
+
+[2026-02-17 19:33:05] Menguji koneksi Fonnte...
+[2026-02-17 19:33:05] Hasil test: error - 138.25ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 138.25
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:05
+)
+
+[2026-02-17 19:33:42] Menguji koneksi Fonnte...
+[2026-02-17 19:33:42] Hasil test: error - 339.7ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 339.7
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:42
+)
+
+[2026-02-17 19:33:45] Menguji koneksi Fonnte...
+[2026-02-17 19:33:45] Hasil test: error - 45.95ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 45.95
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:33:45
+)
+
+[2026-02-17 19:34:21] Menguji koneksi Fonnte...
+[2026-02-17 19:34:21] Hasil test: error - 97.84ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 97.84
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:21
+)
+
+[2026-02-17 19:34:22] Menguji koneksi Fonnte...
+[2026-02-17 19:34:22] Hasil test: error - 44.47ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 44.47
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:22
+)
+
+[2026-02-17 19:34:58] Menguji koneksi Fonnte...
+[2026-02-17 19:34:58] Hasil test: error - 99.16ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 99.16
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:34:58
+)
+
+[2026-02-17 19:35:00] Menguji koneksi Fonnte...
+[2026-02-17 19:35:00] Hasil test: error - 126.37ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 126.37
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:00
+)
+
+[2026-02-17 19:35:37] Menguji koneksi Fonnte...
+[2026-02-17 19:35:37] Hasil test: error - 116.37ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 116.37
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:37
+)
+
+[2026-02-17 19:35:38] Menguji koneksi Fonnte...
+[2026-02-17 19:35:38] Hasil test: error - 49.07ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 49.07
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:35:38
+)
+
+[2026-02-17 19:36:14] Menguji koneksi Fonnte...
+[2026-02-17 19:36:14] Hasil test: error - 77.85ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 77.85
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:14
+)
+
+[2026-02-17 19:36:16] Menguji koneksi Fonnte...
+[2026-02-17 19:36:16] Hasil test: error - 52.58ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 52.58
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:16
+)
+
+[2026-02-17 19:36:52] Menguji koneksi Fonnte...
+[2026-02-17 19:36:52] Hasil test: error - 125.78ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 125.78
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:52
+)
+
+[2026-02-17 19:36:54] Menguji koneksi Fonnte...
+[2026-02-17 19:36:54] Hasil test: error - 86.3ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 86.3
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:36:54
+)
+
+[2026-02-17 19:37:31] Menguji koneksi Fonnte...
+[2026-02-17 19:37:31] Hasil test: error - 54.92ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 54.92
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:37:31
+)
+
+[2026-02-17 19:38:07] Menguji koneksi Fonnte...
+[2026-02-17 19:38:07] Hasil test: error - 117.4ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 117.4
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:07
+)
+
+[2026-02-17 19:38:08] Menguji koneksi Fonnte...
+[2026-02-17 19:38:08] Hasil test: error - 47.02ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 47.02
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:08
+)
+
+[2026-02-17 19:38:44] Menguji koneksi Fonnte...
+[2026-02-17 19:38:44] Hasil test: error - 86.73ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 86.73
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:38:44
+)
+
+[2026-02-17 19:39:21] Menguji koneksi Fonnte...
+[2026-02-17 19:39:21] Hasil test: error - 135.72ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 135.72
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:39:21
+)
+
+[2026-02-17 19:39:57] Menguji koneksi Fonnte...
+[2026-02-17 19:39:57] Hasil test: error - 174.39ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 174.39
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:39:57
+)
+
+[2026-02-17 19:40:33] Menguji koneksi Fonnte...
+[2026-02-17 19:40:33] Hasil test: error - 73.99ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 73.99
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:40:33
+)
+
+[2026-02-17 19:40:34] Menguji koneksi Fonnte...
+[2026-02-17 19:40:34] Hasil test: error - 53.99ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 53.99
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:40:34
+)
+
+[2026-02-17 19:41:11] Menguji koneksi Fonnte...
+[2026-02-17 19:41:11] Hasil test: error - 102.3ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 102.3
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:11
+)
+
+[2026-02-17 19:41:12] Menguji koneksi Fonnte...
+[2026-02-17 19:41:12] Hasil test: error - 37.8ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 37.8
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:12
+)
+
+[2026-02-17 19:41:48] Menguji koneksi Fonnte...
+[2026-02-17 19:41:48] Hasil test: error - 98.14ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 98.14
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:48
+)
+
+[2026-02-17 19:41:50] Menguji koneksi Fonnte...
+[2026-02-17 19:41:50] Hasil test: error - 65.81ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 65.81
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:41:50
+)
+
+[2026-02-17 19:42:26] Menguji koneksi Fonnte...
+[2026-02-17 19:42:27] Hasil test: error - 81.23ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 81.23
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:42:26
+)
+
+[2026-02-17 19:42:28] Menguji koneksi Fonnte...
+[2026-02-17 19:42:29] Hasil test: error - 47.51ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 47.51
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:42:28
+)
+
+[2026-02-17 19:43:05] Menguji koneksi Fonnte...
+[2026-02-17 19:43:05] Hasil test: error - 202.7ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 202.7
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:05
+)
+
+[2026-02-17 19:43:06] Menguji koneksi Fonnte...
+[2026-02-17 19:43:06] Hasil test: error - 90.71ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 90.71
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:06
+)
+
+[2026-02-17 19:43:43] Menguji koneksi Fonnte...
+[2026-02-17 19:43:43] Hasil test: error - 157.9ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 157.9
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:43:43
+)
+
+[2026-02-17 19:44:20] Menguji koneksi Fonnte...
+[2026-02-17 19:44:20] Hasil test: error - 312.53ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 312.53
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:20
+)
+
+[2026-02-17 19:44:22] Menguji koneksi Fonnte...
+[2026-02-17 19:44:22] Hasil test: error - 52.5ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 52.5
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:22
+)
+
+[2026-02-17 19:44:58] Menguji koneksi Fonnte...
+[2026-02-17 19:44:58] Hasil test: error - 145.33ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 145.33
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:44:58
+)
+
+[2026-02-17 19:45:01] Menguji koneksi Fonnte...
+[2026-02-17 19:45:01] Hasil test: error - 88.49ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 88.49
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:01
+)
+
+[2026-02-17 19:45:38] Menguji koneksi Fonnte...
+[2026-02-17 19:45:38] Hasil test: error - 116ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 116
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:38
+)
+
+[2026-02-17 19:45:41] Menguji koneksi Fonnte...
+[2026-02-17 19:45:41] Hasil test: error - 49.55ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 49.55
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:45:41
+)
+
+[2026-02-17 19:46:17] Menguji koneksi Fonnte...
+[2026-02-17 19:46:17] Hasil test: error - 115.07ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 115.07
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:17
+)
+
+[2026-02-17 19:46:18] Menguji koneksi Fonnte...
+[2026-02-17 19:46:18] Hasil test: error - 122.82ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 122.82
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:18
+)
+
+[2026-02-17 19:46:55] Menguji koneksi Fonnte...
+[2026-02-17 19:46:55] Hasil test: error - 174.16ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 174.16
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:55
+)
+
+[2026-02-17 19:46:56] Menguji koneksi Fonnte...
+[2026-02-17 19:46:56] Hasil test: error - 98.37ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 98.37
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:46:56
+)
+
+[2026-02-17 19:47:33] Menguji koneksi Fonnte...
+[2026-02-17 19:47:33] Hasil test: error - 158.29ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 158.29
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:47:33
+)
+
+[2026-02-17 19:47:35] Menguji koneksi Fonnte...
+[2026-02-17 19:47:35] Hasil test: error - 55.45ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 55.45
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:47:35
+)
+
+[2026-02-17 19:48:12] Menguji koneksi Fonnte...
+[2026-02-17 19:48:12] Hasil test: error - 180.36ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 180.36
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:12
+)
+
+[2026-02-17 19:48:13] Menguji koneksi Fonnte...
+[2026-02-17 19:48:13] Hasil test: error - 98.15ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 98.15
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:13
+)
+
+[2026-02-17 19:48:49] Menguji koneksi Fonnte...
+[2026-02-17 19:48:49] Hasil test: error - 113.48ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 113.48
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:49
+)
+
+[2026-02-17 19:48:50] Menguji koneksi Fonnte...
+[2026-02-17 19:48:50] Hasil test: error - 98.38ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 98.38
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:48:50
+)
+
+[2026-02-17 19:49:08] Menguji koneksi Fonnte...
+[2026-02-17 19:49:08] Hasil test: error - 144.84ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 144.84
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:49:08
+)
+
+[2026-02-17 19:49:10] Menguji koneksi Fonnte...
+[2026-02-17 19:49:11] Hasil test: error - 282.9ms - Array
+(
+    [status] => error
+    [color] => danger
+    [message] => 🔴 Format response tidak dikenal
+    [response_time] => 282.9
+    [http_code] => 405
+    [device_status] => unknown
+    [device_name] => -
+    [details] => 
+    [timestamp] => 2026-02-17 19:49:10
+)
+

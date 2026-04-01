@@ -1,0 +1,14 @@
+[2026-02-20 08:39:12] ========== TEST FONNTE CONNECTION ==========
+[2026-02-20 08:39:12] API Token: FS2cq8Fckm...
+[2026-02-20 08:39:12] Mencoba endpoint: https://api.fonnte.com/api/device
+[2026-02-20 08:39:12] HTTP Code: 404
+[2026-02-20 08:39:12] Mencoba endpoint: https://api.fonnte.com/get-devices
+[2026-02-20 08:39:12] HTTP Code: 405
+[2026-02-20 08:39:12] Mencoba endpoint: https://api.fonnte.com/status
+[2026-02-20 08:39:12] HTTP Code: 405
+[2026-02-20 08:39:12] ✗ Semua endpoint gagal
+[2026-02-20 10:22:34] 
+================================================================================
+[2026-02-20 10:22:34] testFonnteConnection() DIPANGGIL
+[2026-02-20 10:22:34] API Token: FS2cq8Fckm...
+[2026-02-20 10:22:34] Mencoba test dengan mengirim WhatsApp ke device sendiri: 6285174207795

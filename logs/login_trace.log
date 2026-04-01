@@ -1,0 +1,3518 @@
+
+[2026-02-15 22:42:26] ========== TRACE START ==========
+[2026-02-15 22:42:26] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 5a1d74d9a8f27695ed145e3067ab58efcfeda751b44a724e1326242b7a194c88
+    [username] => admin
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:42:26] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = admin
+  --------------------------------------------------------------------------------
+[2026-02-15 22:42:26] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771170146
+    [csrf_token] => b194613d5de5ced5f4b844405a004f0d0b36a8fbe9206486cdf8c12b14765e42
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:42:30] ========== TRACE START ==========
+
+[2026-02-15 22:42:34] ========== TRACE START ==========
+
+[2026-02-15 22:42:46] ========== TRACE START ==========
+[2026-02-15 22:42:46] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => bc76470c2a2c233be97c119e99603f8ea9b79bb72ce4994e1a04827f665c77a5
+    [username] => admin
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:42:46] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = admin
+  --------------------------------------------------------------------------------
+[2026-02-15 22:42:46] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771170166
+    [csrf_token] => 0d753ff7723f7ec1e9cd8008f43f7a82c13509dfc75a400777bd6ed805b51d95
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:42:50] ========== TRACE START ==========
+
+[2026-02-15 22:42:53] ========== TRACE START ==========
+
+[2026-02-15 22:43:08] ========== TRACE START ==========
+[2026-02-15 22:43:08] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 47e4d5cd6ed065661eaf60e71445573603d9e46119b2481778ed55ce89099420
+    [username] => guru002
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:08] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = guru002
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:08] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771170188
+    [csrf_token] => 6f522d3faa91f050b870195c5619a9850184c20572c480a51a6d2c95e6b6b217
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:15] ========== TRACE START ==========
+
+[2026-02-15 22:43:26] ========== TRACE START ==========
+[2026-02-15 22:43:26] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => d4a267d1cd456bdceb93c9684ef6b6fc9a3e11a6111429f17cf685e9bdc2cf75
+    [username] => siswa001
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:26] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = siswa001
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:26] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:26] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:27] ========== TRACE START ==========
+[2026-02-15 22:43:28] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:39] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:39] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:39] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:39] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:39] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:39] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:40] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:40] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:40] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:40] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:40] ========== TRACE START ==========
+[2026-02-15 22:43:40] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:46] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:46] ========== TRACE START ==========
+[2026-02-15 22:43:47] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:47] ========== TRACE START ==========
+[2026-02-15 22:43:47] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:47] ========== TRACE START ==========
+[2026-02-15 22:43:47] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:47] ========== TRACE START ==========
+[2026-02-15 22:43:47] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170206
+    [csrf_token] => 3a30d1517c167df5151be991879dd4b2837beacd9d01490cf70d425c82ddbb67
+    [last_regeneration] => 1771170207
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:53] ========== TRACE START ==========
+
+[2026-02-15 22:43:57] ========== TRACE START ==========
+[2026-02-15 22:43:57] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 4aa7e8f0275e63b35dca24bf099aebf6d30cf103f97fe89a35e08a24f72e5ee1
+    [username] => dede12
+    [password] => Dede1234
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:57] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = dede12
+  --------------------------------------------------------------------------------
+[2026-02-15 22:43:58] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:58] ========== TRACE START ==========
+[2026-02-15 22:43:58] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:59] ========== TRACE START ==========
+[2026-02-15 22:43:59] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:59] ========== TRACE START ==========
+[2026-02-15 22:43:59] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:59] ========== TRACE START ==========
+[2026-02-15 22:43:59] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:43:59] ========== TRACE START ==========
+[2026-02-15 22:43:59] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:07] ========== TRACE START ==========
+[2026-02-15 22:44:07] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:08] ========== TRACE START ==========
+[2026-02-15 22:44:08] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:08] ========== TRACE START ==========
+[2026-02-15 22:44:08] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:08] ========== TRACE START ==========
+[2026-02-15 22:44:08] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:08] ========== TRACE START ==========
+[2026-02-15 22:44:08] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170238
+    [csrf_token] => 9b68c5e43f1c010cc81f05a13018a63480efc768c94799638e5793f8c176d595
+    [last_regeneration] => 1771170238
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:11] ========== TRACE START ==========
+
+[2026-02-15 22:44:18] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 626a9216d4b9317c230051155f2e98112f21c83ce5f553cb7422db239312912d
+    [username] => siswa001
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:44:19] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = siswa001
+  --------------------------------------------------------------------------------
+[2026-02-15 22:44:19] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:19] ========== TRACE START ==========
+[2026-02-15 22:44:19] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:20] ========== TRACE START ==========
+[2026-02-15 22:44:20] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:20] ========== TRACE START ==========
+[2026-02-15 22:44:20] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:20] ========== TRACE START ==========
+[2026-02-15 22:44:20] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:20] ========== TRACE START ==========
+[2026-02-15 22:44:20] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:32] ========== TRACE START ==========
+[2026-02-15 22:44:32] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:32] ========== TRACE START ==========
+[2026-02-15 22:44:32] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:33] ========== TRACE START ==========
+[2026-02-15 22:44:33] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 12
+    [username] => siswa001
+    [user_type] => Siswa
+    [nama_lengkap] => Ahmad Fadil
+    [email] => ahmad.fadil@smkn12jakarta.sch.id
+    [nis_nip] => 20230001
+    [kelas] => X
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334401
+    [avatar] => default-avatar.png
+    [login_time] => 1771170259
+    [csrf_token] => 7162f241ae4afc2c51a61de42d92daa3d27efc9f789067346338561d3d4bd9f5
+    [last_regeneration] => 1771170259
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:37] ========== TRACE START ==========
+
+[2026-02-15 22:44:44] ========== TRACE START ==========
+[2026-02-15 22:44:44] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 172d016604e58e81cbf2094398b79e041fb66a7fd5dcfd8d5193a9a9a6e9e3e2
+    [username] => admin
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:44:44] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = admin
+  --------------------------------------------------------------------------------
+[2026-02-15 22:44:44] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771170284
+    [csrf_token] => 34ac1c277befd9de9819446e1ad77e4eb39c1482812186f4215f518e00d28830
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:44:47] ========== TRACE START ==========
+
+[2026-02-15 22:45:03] ========== TRACE START ==========
+[2026-02-15 22:45:03] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 47de75670e312f82c9f458942055db4077401147ffc86fef5cbe5465e7b8fdf8
+    [username] => guru003
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:45:03] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = guru003
+  --------------------------------------------------------------------------------
+[2026-02-15 22:45:04] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 4
+    [username] => guru003
+    [user_type] => Guru_Humas
+    [nama_lengkap] => Ahmad Fauzi
+    [email] => ahmad.fauzi@smkn12jakarta.sch.id
+    [nis_nip] => 198301013
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Hubungan Masyarakat
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334457
+    [avatar] => default-avatar.png
+    [login_time] => 1771170303
+    [csrf_token] => 1bc9104dad1e564292d9b466112fb126fde1541337aae99cab12156163027a56
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:11] ========== TRACE START ==========
+
+[2026-02-15 22:45:21] ========== TRACE START ==========
+[2026-02-15 22:45:21] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 49d08169f7452594af0cead4659bb12ff02e98afcfce0c536136913f697a2e9d
+    [username] => siswa002
+    [password] => password
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:45:21] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = siswa002
+  --------------------------------------------------------------------------------
+[2026-02-15 22:45:21] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:21] ========== TRACE START ==========
+[2026-02-15 22:45:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:22] ========== TRACE START ==========
+[2026-02-15 22:45:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:26] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:26] ========== TRACE START ==========
+[2026-02-15 22:45:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:27] ========== TRACE START ==========
+[2026-02-15 22:45:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:27] ========== TRACE START ==========
+[2026-02-15 22:45:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:45:27] ========== TRACE START ==========
+[2026-02-15 22:45:27] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 13
+    [username] => siswa002
+    [user_type] => Siswa
+    [nama_lengkap] => Budi Pratama
+    [email] => budi.pratama@smkn12jakarta.sch.id
+    [nis_nip] => 20230002
+    [kelas] => X
+    [jurusan] => Teknik Komputer Jaringan
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 081122334402
+    [avatar] => default-avatar.png
+    [login_time] => 1771170321
+    [csrf_token] => 3dec8a7bc48ce7b9b54feca827d8fa10582505a03b07164f40d63db10b622d59
+    [last_regeneration] => 1771170321
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:16] ========== TRACE START ==========
+
+[2026-02-15 22:46:20] ========== TRACE START ==========
+[2026-02-15 22:46:20] TRACE AT: POST REQUEST HANDLER
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:318
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:318 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $post_data = Array
+(
+    [csrf_token] => 200b542ecc35eba435d9b43c3835fd2a45b0ecc9f5f8e1d983b2be7ef3243a6c
+    [username] => dede12
+    [password] => Dede1234
+)
+
+  --------------------------------------------------------------------------------
+[2026-02-15 22:46:20] TRACE AT: AUTHENTICATION START
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:383
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:383 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $username = dede12
+  --------------------------------------------------------------------------------
+[2026-02-15 22:46:20] TRACE AT: FINAL REDIRECT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:559
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:559 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:20] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:21] ========== TRACE START ==========
+[2026-02-15 22:46:21] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------
+
+[2026-02-15 22:46:22] ========== TRACE START ==========
+[2026-02-15 22:46:22] TRACE AT: REDIRECT POINT
+  EXECUTION POINT: C:\xampp\htdocs\responsive-message-app\login.php:269
+  FULL BACKTRACE:
+    #0 C:\xampp\htdocs\responsive-message-app\login.php:269 - loginTrace()
+  VARIABLES AT THIS POINT:
+    $redirect_url = http://localhost:8080/responsive-message-app/modules/user/send_message.php
+    $session = Array
+(
+    [login_attempts] => 0
+    [user_id] => 73
+    [username] => dede12
+    [user_type] => Siswa
+    [nama_lengkap] => dede sunandar
+    [email] => agungwahono7929@gmail.com
+    [nis_nip] => 23456789
+    [kelas] => XI
+    [jurusan] => Rekayasa Perangkat Lunak
+    [mata_pelajaran] => 
+    [privilege_level] => Limited_Lv3
+    [phone_number] => 085174207795
+    [avatar] => default-avatar.png
+    [login_time] => 1771170380
+    [csrf_token] => 7785fb533dcc3ca4eade63e2a45e3084c784fcf810e58295e2ff11eef91f8318
+    [last_regeneration] => 1771170381
+)
+
+  --------------------------------------------------------------------------------

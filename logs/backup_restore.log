@@ -1,0 +1,159 @@
+[2026-03-01 15:16:31] 
+================================================================================
+[2026-03-01 15:16:31] createDatabaseBackup() DIPANGGIL
+[2026-03-01 15:16:31] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-01 15:16:31] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-01_15-16-31.sql
+[2026-03-01 15:16:31] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-01 15:16:33] ✓ Backup berhasil! Ukuran: 0.33 MB
+[2026-03-29 06:02:04] 
+================================================================================
+[2026-03-29 06:02:04] createDatabaseBackup() DIPANGGIL
+[2026-03-29 06:02:04] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 06:02:04] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_06-02-04.sql
+[2026-03-29 06:02:04] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 06:02:04] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 06:02:04] Mencoba fallback ke metode PHP...
+[2026-03-29 06:02:04] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 06:02:04] Ditemukan 37 tabel
+[2026-03-29 06:02:04] Memproses tabel: api_tokens
+[2026-03-29 06:02:04] Memproses tabel: audit_logs
+[2026-03-29 06:02:04] Memproses tabel: backup_backups_before_fk
+[2026-03-29 06:02:04] Memproses tabel: backup_backups_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_message_activity_logs
+[2026-03-29 06:02:04] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 06:02:04] Memproses tabel: backups
+[2026-03-29 06:02:04] Memproses tabel: cache_data
+[2026-03-29 06:02:05] Memproses tabel: daily_message_report
+[2026-03-29 06:02:05] Memproses tabel: email_logs
+[2026-03-29 06:02:05] Memproses tabel: external_senders
+[2026-03-29 06:02:05] Memproses tabel: guru_performance_report
+[2026-03-29 06:02:05] Memproses tabel: login_attempts
+[2026-03-29 06:02:05] Memproses tabel: message_activity_logs
+[2026-03-29 06:02:05] Memproses tabel: message_attachments
+[2026-03-29 06:02:05] Memproses tabel: message_deletion_log
+[2026-03-29 06:02:05] Memproses tabel: message_responses
+[2026-03-29 06:02:05] Memproses tabel: message_submission_logs
+[2026-03-29 06:02:05] Memproses tabel: message_type_assignments
+[2026-03-29 06:02:05] Memproses tabel: message_type_statistics
+[2026-03-29 06:02:05] Memproses tabel: message_types
+[2026-03-29 06:02:05] Memproses tabel: messages
+[2026-03-29 06:02:05] Memproses tabel: notification_logs
+[2026-03-29 06:02:05] Memproses tabel: notifications
+[2026-03-29 06:02:05] Memproses tabel: response_templates
+[2026-03-29 06:02:05] Memproses tabel: sessions
+[2026-03-29 06:02:05] Memproses tabel: system_logs
+[2026-03-29 06:02:05] Memproses tabel: system_settings
+[2026-03-29 06:02:05] Memproses tabel: user_activity_report
+[2026-03-29 06:02:05] Memproses tabel: users
+[2026-03-29 06:02:05] Memproses tabel: users_final_backup
+[2026-03-29 06:02:05] Memproses tabel: view_notification_summary
+[2026-03-29 06:02:05] Memproses tabel: wakepsek_reviews
+[2026-03-29 06:02:05] Memproses tabel: whatsapp_devices
+[2026-03-29 06:02:05] Memproses tabel: whatsapp_logs
+[2026-03-29 06:02:05] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-03-29 06:02:32] 
+================================================================================
+[2026-03-29 06:02:32] createDatabaseBackup() DIPANGGIL
+[2026-03-29 06:02:32] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 06:02:32] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_06-02-32.sql
+[2026-03-29 06:02:32] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 06:02:32] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 06:02:32] Mencoba fallback ke metode PHP...
+[2026-03-29 06:02:32] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 06:02:32] Ditemukan 37 tabel
+[2026-03-29 06:02:32] Memproses tabel: api_tokens
+[2026-03-29 06:02:32] Memproses tabel: audit_logs
+[2026-03-29 06:02:32] Memproses tabel: backup_backups_before_fk
+[2026-03-29 06:02:32] Memproses tabel: backup_backups_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_message_activity_logs
+[2026-03-29 06:02:33] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 06:02:33] Memproses tabel: backups
+[2026-03-29 06:02:33] Memproses tabel: cache_data
+[2026-03-29 06:02:33] Memproses tabel: daily_message_report
+[2026-03-29 06:02:33] Memproses tabel: email_logs
+[2026-03-29 06:02:33] Memproses tabel: external_senders
+[2026-03-29 06:02:33] Memproses tabel: guru_performance_report
+[2026-03-29 06:02:33] Memproses tabel: login_attempts
+[2026-03-29 06:02:33] Memproses tabel: message_activity_logs
+[2026-03-29 06:02:33] Memproses tabel: message_attachments
+[2026-03-29 06:02:33] Memproses tabel: message_deletion_log
+[2026-03-29 06:02:33] Memproses tabel: message_responses
+[2026-03-29 06:02:33] Memproses tabel: message_submission_logs
+[2026-03-29 06:02:33] Memproses tabel: message_type_assignments
+[2026-03-29 06:02:33] Memproses tabel: message_type_statistics
+[2026-03-29 06:02:33] Memproses tabel: message_types
+[2026-03-29 06:02:33] Memproses tabel: messages
+[2026-03-29 06:02:33] Memproses tabel: notification_logs
+[2026-03-29 06:02:33] Memproses tabel: notifications
+[2026-03-29 06:02:33] Memproses tabel: response_templates
+[2026-03-29 06:02:33] Memproses tabel: sessions
+[2026-03-29 06:02:33] Memproses tabel: system_logs
+[2026-03-29 06:02:33] Memproses tabel: system_settings
+[2026-03-29 06:02:33] Memproses tabel: user_activity_report
+[2026-03-29 06:02:33] Memproses tabel: users
+[2026-03-29 06:02:33] Memproses tabel: users_final_backup
+[2026-03-29 06:02:33] Memproses tabel: view_notification_summary
+[2026-03-29 06:02:33] Memproses tabel: wakepsek_reviews
+[2026-03-29 06:02:33] Memproses tabel: whatsapp_devices
+[2026-03-29 06:02:33] Memproses tabel: whatsapp_logs
+[2026-03-29 06:02:33] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-03-29 11:11:55] 
+================================================================================
+[2026-03-29 11:11:55] createDatabaseBackup() DIPANGGIL
+[2026-03-29 11:11:55] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 11:11:55] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_11-11-55.sql
+[2026-03-29 11:11:55] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 11:11:55] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 11:11:55] Mencoba fallback ke metode PHP...
+[2026-03-29 11:11:55] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 11:11:55] Ditemukan 39 tabel
+[2026-03-29 11:11:55] Memproses tabel: api_tokens
+[2026-03-29 11:11:55] Memproses tabel: audit_logs
+[2026-03-29 11:11:56] Memproses tabel: backup_backups_before_fk
+[2026-03-29 11:11:56] Memproses tabel: backup_backups_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_message_activity_logs
+[2026-03-29 11:11:56] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 11:11:56] Memproses tabel: backups
+[2026-03-29 11:11:56] Memproses tabel: cache_data
+[2026-03-29 11:11:56] Memproses tabel: daily_message_report
+[2026-03-29 11:11:56] Memproses tabel: email_logs
+[2026-03-29 11:11:56] Memproses tabel: external_senders
+[2026-03-29 11:11:56] Memproses tabel: fonnte_config
+[2026-03-29 11:11:56] Memproses tabel: guru_performance_report
+[2026-03-29 11:11:56] Memproses tabel: login_attempts
+[2026-03-29 11:11:56] Memproses tabel: mailersend_config
+[2026-03-29 11:11:56] Memproses tabel: message_activity_logs
+[2026-03-29 11:11:56] Memproses tabel: message_attachments
+[2026-03-29 11:11:56] Memproses tabel: message_deletion_log
+[2026-03-29 11:11:56] Memproses tabel: message_responses
+[2026-03-29 11:11:56] Memproses tabel: message_submission_logs
+[2026-03-29 11:11:56] Memproses tabel: message_type_assignments
+[2026-03-29 11:11:56] Memproses tabel: message_type_statistics
+[2026-03-29 11:11:56] Memproses tabel: message_types
+[2026-03-29 11:11:56] Memproses tabel: messages
+[2026-03-29 11:11:56] Memproses tabel: notification_logs
+[2026-03-29 11:11:56] Memproses tabel: notifications
+[2026-03-29 11:11:56] Memproses tabel: response_templates
+[2026-03-29 11:11:56] Memproses tabel: sessions
+[2026-03-29 11:11:56] Memproses tabel: system_logs
+[2026-03-29 11:11:56] Memproses tabel: system_settings
+[2026-03-29 11:11:56] Memproses tabel: user_activity_report
+[2026-03-29 11:11:56] Memproses tabel: users
+[2026-03-29 11:11:56] Memproses tabel: users_final_backup
+[2026-03-29 11:11:56] Memproses tabel: view_notification_summary
+[2026-03-29 11:11:56] Memproses tabel: wakepsek_reviews
+[2026-03-29 11:11:56] Memproses tabel: whatsapp_devices
+[2026-03-29 11:11:56] Memproses tabel: whatsapp_logs
+[2026-03-29 11:11:56] ✗ Backup PHP gagal: Gagal menulis file backup

@@ -1,0 +1,4090 @@
+
+====================================================================================================
+[2026-02-15 23:00:56] ========== LOGIN.PHP START ==========
+[2026-02-15 23:00:56] REQUEST URI: /responsive-message-app/login.php?logout=1
+[2026-02-15 23:00:56] REQUEST METHOD: GET
+
+[2026-02-15 23:00:56][INFO][main:147][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:00:56
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:00:56][SERVER][traceServerVars:113][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php?logout=1
+    QUERY_STRING => logout=1
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=7u476m8gt2p1rkvnhjt2cfpiq0
+
+[2026-02-15 23:00:56][COOKIE][traceCookies:127][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 7u476m8gt2p1rkvnhjt2cfpiq0
+
+[2026-02-15 23:00:56][SESSION][traceSession:140][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 
+    session_name => PHPSESSID
+    session_status => 1
+    session_data => 
+
+[2026-02-15 23:00:56][INFO][main:159][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:00:56][INFO][main:170][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:00:56][INFO][main:224][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:00:56][INFO][main:233][MEM: 0.53MB] CSRF TOKEN SUDAH ADA
+  DATA: 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+
+[2026-02-15 23:00:56][INFO][main:562][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:00:56][SESSION][traceSession:140][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => 113i3ha5jrp0ik14ur3c69m0je
+    session_name => RMSESSID
+    session_status => 2
+    session_data => Array
+(
+    [last_regeneration] => 1771171256
+    [csrf_token] => 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+    [redirect_count] => 0
+)
+
+
+[2026-02-15 23:00:56][INFO][main:580][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => 
+
+[2026-02-15 23:00:56][INFO][main:600][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:00:56][INFO][main:919][MEM: 0.55MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.074 detik
+    peak_memory => 0.74MB
+    final_session => Array
+(
+    [last_regeneration] => 1771171256
+    [csrf_token] => 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+    [redirect_count] => 0
+)
+
+
+====================================================================================================
+[2026-02-15 23:01:03] ========== LOGIN.PHP START ==========
+[2026-02-15 23:01:03] REQUEST URI: /responsive-message-app/login.php?logout=1
+[2026-02-15 23:01:03] REQUEST METHOD: GET
+
+[2026-02-15 23:01:03][INFO][main:147][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:01:03
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:01:03][SERVER][traceServerVars:113][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php?logout=1
+    QUERY_STRING => logout=1
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:01:03][COOKIE][traceCookies:127][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:01:03][SESSION][traceSession:140][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 
+    session_name => PHPSESSID
+    session_status => 1
+    session_data => 
+
+[2026-02-15 23:01:03][INFO][main:159][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:01:03][INFO][main:170][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:01:03][INFO][main:224][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:01:03][INFO][main:233][MEM: 0.53MB] CSRF TOKEN SUDAH ADA
+  DATA: 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+
+[2026-02-15 23:01:03][INFO][main:562][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:01:03][SESSION][traceSession:140][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => 113i3ha5jrp0ik14ur3c69m0je
+    session_name => RMSESSID
+    session_status => 2
+    session_data => Array
+(
+    [last_regeneration] => 1771171256
+    [csrf_token] => 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+    [redirect_count] => 0
+)
+
+
+[2026-02-15 23:01:03][INFO][main:580][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => 
+
+[2026-02-15 23:01:03][INFO][main:600][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:01:03][INFO][main:919][MEM: 0.55MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.061 detik
+    peak_memory => 0.74MB
+    final_session => Array
+(
+    [last_regeneration] => 1771171256
+    [csrf_token] => 7644c42052752c005710c8232ef36098c60718e34c379940c7b0f7df9a42507e
+    [redirect_count] => 0
+)
+
+
+====================================================================================================
+[2026-02-15 23:05:35] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:35] REQUEST URI: /responsive-message-app/login.php?logout=1
+[2026-02-15 23:05:35] REQUEST METHOD: GET
+[2026-02-15 23:05:35] SESSION STATUS: 2
+[2026-02-15 23:05:35] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:35][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:35
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:35][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php?logout=1
+    QUERY_STRING => logout=1
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:35][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:35][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+)
+
+
+[2026-02-15 23:05:35][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:35][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:35][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:35][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:05:35][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 1
+
+[2026-02-15 23:05:35][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:35] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:35] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:35] REQUEST METHOD: GET
+[2026-02-15 23:05:35] SESSION STATUS: 2
+[2026-02-15 23:05:35] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:35][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:35
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:35][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:35][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:35][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [redirect_count] => 1
+)
+
+
+[2026-02-15 23:05:35][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:35][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:35][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:35][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:05:35][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 2
+
+[2026-02-15 23:05:35][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:36] REQUEST METHOD: GET
+[2026-02-15 23:05:36] SESSION STATUS: 2
+[2026-02-15 23:05:36] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [redirect_count] => 2
+)
+
+
+[2026-02-15 23:05:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:36][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:36][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:05:36][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 3
+
+[2026-02-15 23:05:36][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:36] REQUEST METHOD: GET
+[2026-02-15 23:05:36] SESSION STATUS: 2
+[2026-02-15 23:05:36] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [redirect_count] => 3
+)
+
+
+[2026-02-15 23:05:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:36][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:36][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:05:36][CRITICAL][main:205][MEM: 0.53MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:05:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:36] REQUEST METHOD: GET
+[2026-02-15 23:05:36] SESSION STATUS: 2
+[2026-02-15 23:05:36] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:05:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:36][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:36][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+
+[2026-02-15 23:05:36][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:05:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+)
+
+
+[2026-02-15 23:05:36][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:05:36][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:05:36][INFO][main:934][MEM: 0.55MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.074 detik
+    peak_memory => 0.75MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+)
+
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: POST
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: itnien4efo7tvu3dv1153au415
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=itnien4efo7tvu3dv1153au415; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => itnien4efo7tvu3dv1153au415
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => itnien4efo7tvu3dv1153au415
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:46][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+
+[2026-02-15 23:05:46][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+    username => admin
+    password => password
+
+[2026-02-15 23:05:46][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:05:46][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => admin
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:05:46][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:05:46][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:05:46][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:05:46][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:05:46][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:05:46][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => admin
+
+[2026-02-15 23:05:46][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    is_active => 1
+
+[2026-02-15 23:05:46][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:05:46][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:05:46][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => ec4083c90fa6ae6c8ed1d9b2f81f4a95a041560102916aba70a3d1b3551f3867
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171546
+)
+
+
+[2026-02-15 23:05:46][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => nchbe3li8kuhplbk726fuhkag4
+    new_session_id => nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:05:46][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => admin
+    user_type => Admin
+    redirect_url => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    session_id => nchbe3li8kuhplbk726fuhkag4
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: GET
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 3eb2bfe1687c610147f94af4c3f0f84d00c525aed4390d947005f267ba1d1576
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171546
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:46][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:05:46][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 1
+
+[2026-02-15 23:05:46][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: GET
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => 3eb2bfe1687c610147f94af4c3f0f84d00c525aed4390d947005f267ba1d1576
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171546
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:46][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:05:46][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 2
+
+[2026-02-15 23:05:46][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: GET
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => 3eb2bfe1687c610147f94af4c3f0f84d00c525aed4390d947005f267ba1d1576
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171546
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:46][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:05:46][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 3
+
+[2026-02-15 23:05:46][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: GET
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => 3eb2bfe1687c610147f94af4c3f0f84d00c525aed4390d947005f267ba1d1576
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171546
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:46][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:05:46][CRITICAL][main:205][MEM: 0.53MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:05:46] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:46] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:46] REQUEST METHOD: GET
+[2026-02-15 23:05:46] SESSION STATUS: 2
+[2026-02-15 23:05:46] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:46][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:46
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:46][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:05:46][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:46][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:46][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:46][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+
+[2026-02-15 23:05:46][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:05:46][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+)
+
+
+[2026-02-15 23:05:46][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:05:46][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:05:46][INFO][main:934][MEM: 0.55MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.047 detik
+    peak_memory => 0.75MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+)
+
+
+====================================================================================================
+[2026-02-15 23:05:50] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: POST
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: nchbe3li8kuhplbk726fuhkag4
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=nchbe3li8kuhplbk726fuhkag4; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => nchbe3li8kuhplbk726fuhkag4
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => nchbe3li8kuhplbk726fuhkag4
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:51][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+
+[2026-02-15 23:05:51][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+    username => admin
+    password => password
+
+[2026-02-15 23:05:51][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:05:51][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => admin
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:05:51][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:05:51][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:05:51][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:05:51][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:05:51][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:05:51][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => admin
+
+[2026-02-15 23:05:51][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    is_active => 1
+
+[2026-02-15 23:05:51][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:05:51][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:05:51][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => d9e109b7869af80d25a46bcd3c3f65e542a021125ba7693eb7e8bb2a71b4131f
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171551
+)
+
+
+[2026-02-15 23:05:51][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => f980ud77qn9gligro5hmas6psj
+    new_session_id => f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:05:51][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => admin
+    user_type => Admin
+    redirect_url => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    session_id => f980ud77qn9gligro5hmas6psj
+
+====================================================================================================
+[2026-02-15 23:05:51] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: GET
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 7563165872eb9b54353b0e660677506748755eeaefae0bdbd8484af526fcb5e7
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171551
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:51][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:05:51][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 1
+
+[2026-02-15 23:05:51][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:51] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: GET
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => 7563165872eb9b54353b0e660677506748755eeaefae0bdbd8484af526fcb5e7
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171551
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:51][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:05:51][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 2
+
+[2026-02-15 23:05:51][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:51] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: GET
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => 7563165872eb9b54353b0e660677506748755eeaefae0bdbd8484af526fcb5e7
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171551
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:51][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:05:51][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 3
+
+[2026-02-15 23:05:51][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:05:51] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: GET
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => 7563165872eb9b54353b0e660677506748755eeaefae0bdbd8484af526fcb5e7
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171551
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:05:51][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:05:51][CRITICAL][main:205][MEM: 0.53MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:05:51] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:51] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:05:51] REQUEST METHOD: GET
+[2026-02-15 23:05:51] SESSION STATUS: 2
+[2026-02-15 23:05:51] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:51][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:51
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:51][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:05:51][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:51][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:51][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:51][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+
+[2026-02-15 23:05:51][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:05:51][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+[2026-02-15 23:05:51][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:05:51][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:05:51][INFO][main:934][MEM: 0.55MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.051 detik
+    peak_memory => 0.75MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+====================================================================================================
+[2026-02-15 23:05:56] ========== LOGIN.PHP START ==========
+[2026-02-15 23:05:56] REQUEST URI: /responsive-message-app/login.php?debug=on
+[2026-02-15 23:05:56] REQUEST METHOD: GET
+[2026-02-15 23:05:56] SESSION STATUS: 2
+[2026-02-15 23:05:56] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:05:56][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:05:56
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:05:56][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php?debug=on
+    QUERY_STRING => debug=on
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je; debug_mode=1
+
+[2026-02-15 23:05:56][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+    debug_mode => 1
+
+[2026-02-15 23:05:56][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+[2026-02-15 23:05:56][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:05:56][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:05:56][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:05:56][INFO][main:248][MEM: 0.53MB] CSRF TOKEN SUDAH ADA
+  DATA: 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+
+[2026-02-15 23:05:56][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:05:56][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+[2026-02-15 23:05:56][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => 
+
+[2026-02-15 23:05:56][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:05:56][INFO][main:934][MEM: 0.75MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.048 detik
+    peak_memory => 0.75MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php?debug=on
+[2026-02-15 23:06:04] REQUEST METHOD: POST
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: f980ud77qn9gligro5hmas6psj
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php?debug=on
+    QUERY_STRING => debug=on
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=f980ud77qn9gligro5hmas6psj; RMSESSID=113i3ha5jrp0ik14ur3c69m0je; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => f980ud77qn9gligro5hmas6psj
+    RMSESSID => 113i3ha5jrp0ik14ur3c69m0je
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => f980ud77qn9gligro5hmas6psj
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:06:04][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+
+[2026-02-15 23:06:04][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+    username => guru002
+    password => password
+
+[2026-02-15 23:06:04][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:06:04][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => guru002
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:06:04][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:06:04][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:06:04][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:06:04][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:06:04][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:06:04][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => guru002
+
+[2026-02-15 23:06:04][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 3
+    username => guru002
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    is_active => 1
+
+[2026-02-15 23:06:04][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:06:04][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:06:04][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 5a16fb9c3481e037bc5dce4f2ce894e688c541297393768962015ec3715ef1a9
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171564
+)
+
+
+[2026-02-15 23:06:04][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => vl3muiethl1bl199d3sh5kuot2
+    new_session_id => vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:06:04][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => guru002
+    user_type => Guru_BK
+    redirect_url => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    session_id => vl3muiethl1bl199d3sh5kuot2
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:04] REQUEST METHOD: GET
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => f94c2cb275ba4cbdf297bed29d15febe5a892ab4feefb9e32ebb50966735da96
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171564
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:06:04][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:06:04][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 1
+
+[2026-02-15 23:06:04][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:04] REQUEST METHOD: GET
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => f94c2cb275ba4cbdf297bed29d15febe5a892ab4feefb9e32ebb50966735da96
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171564
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:06:04][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:06:04][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 2
+
+[2026-02-15 23:06:04][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:04] REQUEST METHOD: GET
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => f94c2cb275ba4cbdf297bed29d15febe5a892ab4feefb9e32ebb50966735da96
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171564
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:06:04][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:06:04][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 3
+
+[2026-02-15 23:06:04][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:04] REQUEST METHOD: GET
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => f94c2cb275ba4cbdf297bed29d15febe5a892ab4feefb9e32ebb50966735da96
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171564
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:06:04][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:06:04][CRITICAL][main:205][MEM: 0.54MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:06:04] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:04] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:04] REQUEST METHOD: GET
+[2026-02-15 23:06:04] SESSION STATUS: 2
+[2026-02-15 23:06:04] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:04][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:04
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:04][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php?debug=on
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:04][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:06:04][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:04][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:04][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:06:04][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+
+[2026-02-15 23:06:04][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:06:04][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+)
+
+
+[2026-02-15 23:06:04][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:06:04][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:06:04][INFO][main:934][MEM: 0.83MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.042 detik
+    peak_memory => 0.83MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+)
+
+
+====================================================================================================
+[2026-02-15 23:06:25] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:25] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:25] REQUEST METHOD: POST
+[2026-02-15 23:06:25] SESSION STATUS: 2
+[2026-02-15 23:06:25] SESSION ID: vl3muiethl1bl199d3sh5kuot2
+
+[2026-02-15 23:06:25][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:25
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:06:25][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=vl3muiethl1bl199d3sh5kuot2; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:25][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => vl3muiethl1bl199d3sh5kuot2
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:25][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => vl3muiethl1bl199d3sh5kuot2
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+)
+
+
+[2026-02-15 23:06:25][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:25][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:25][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:06:25][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+
+[2026-02-15 23:06:25][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+    username => admin
+    password => password
+
+[2026-02-15 23:06:25][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:06:25][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => admin
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:06:25][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:06:25][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:06:25][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:06:25][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:06:25][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:06:25][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => admin
+
+[2026-02-15 23:06:25][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 1
+    username => admin
+    user_type => Admin
+    nama_lengkap => Administrator Sistem
+    is_active => 1
+
+[2026-02-15 23:06:25][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:06:25][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:06:25][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => c3574b76f53437d598240b415d53e250c324b3686e5fbb06ce783e58fc936040
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171585
+)
+
+
+[2026-02-15 23:06:25][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    new_session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:25][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:06:25][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => admin
+    user_type => Admin
+    redirect_url => http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+
+====================================================================================================
+[2026-02-15 23:06:25] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:25] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:25] REQUEST METHOD: GET
+[2026-02-15 23:06:25] SESSION STATUS: 2
+[2026-02-15 23:06:25] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:25][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:25
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:25][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:25][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:25][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => c1adf4a6c76c2e7fe822e7771ca7c7c60438e333b1cecda7f6faad5647b991a8
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171585
+)
+
+
+[2026-02-15 23:06:25][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:25][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:25][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:06:25][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:06:25][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 1
+
+[2026-02-15 23:06:25][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:06:25] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:25] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:25] REQUEST METHOD: GET
+[2026-02-15 23:06:25] SESSION STATUS: 2
+[2026-02-15 23:06:25] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:25][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:25
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:25][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:25][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:25][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => c1adf4a6c76c2e7fe822e7771ca7c7c60438e333b1cecda7f6faad5647b991a8
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171585
+)
+
+
+[2026-02-15 23:06:25][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:25][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:25][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:06:25][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:06:25][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 2
+
+[2026-02-15 23:06:25][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:06:25] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:25] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:25] REQUEST METHOD: GET
+[2026-02-15 23:06:25] SESSION STATUS: 2
+[2026-02-15 23:06:25] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:25][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:25
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:25][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:25][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:25][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => c1adf4a6c76c2e7fe822e7771ca7c7c60438e333b1cecda7f6faad5647b991a8
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171585
+)
+
+
+[2026-02-15 23:06:25][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:25][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:25][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:06:25][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:06:25][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Admin
+    redirect_count => 3
+
+[2026-02-15 23:06:25][INFO][main:227][MEM: 0.53MB] REDIRECT ADMIN
+  DATA: http://localhost:8080/responsive-message-app/modules/admin/dashboard.php
+
+====================================================================================================
+[2026-02-15 23:06:25] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:25] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:25] REQUEST METHOD: GET
+[2026-02-15 23:06:25] SESSION STATUS: 2
+[2026-02-15 23:06:25] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:25][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:25
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:25][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:25][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:25][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => c1adf4a6c76c2e7fe822e7771ca7c7c60438e333b1cecda7f6faad5647b991a8
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 081234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1771171585
+)
+
+
+[2026-02-15 23:06:25][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:26][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:26][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 1
+    user_type => Admin
+    username => admin
+
+[2026-02-15 23:06:26][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:06:26][CRITICAL][main:205][MEM: 0.53MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:06:26] ========== LOGIN.PHP START ==========
+[2026-02-15 23:06:26] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:06:26] REQUEST METHOD: GET
+[2026-02-15 23:06:26] SESSION STATUS: 2
+[2026-02-15 23:06:26] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:06:26][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:06:26
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:06:26][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:06:26][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:06:26][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:06:26][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:06:26][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:06:26][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:06:26][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+
+[2026-02-15 23:06:26][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:06:26][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+)
+
+
+[2026-02-15 23:06:26][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:06:26][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:06:26][INFO][main:934][MEM: 0.88MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.045 detik
+    peak_memory => 0.88MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+)
+
+
+====================================================================================================
+[2026-02-15 23:07:16] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:16] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:16] REQUEST METHOD: POST
+[2026-02-15 23:07:16] SESSION STATUS: 2
+[2026-02-15 23:07:16] SESSION ID: 8r57u8p6d8hl9pg9g5j5t4ig15
+
+[2026-02-15 23:07:16][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:16
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:07:16][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=8r57u8p6d8hl9pg9g5j5t4ig15; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:16][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 8r57u8p6d8hl9pg9g5j5t4ig15
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:16][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 8r57u8p6d8hl9pg9g5j5t4ig15
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+)
+
+
+[2026-02-15 23:07:16][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:16][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:16][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:07:16][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+
+[2026-02-15 23:07:16][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+    username => guru002
+    password => password
+
+[2026-02-15 23:07:16][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:07:16][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => guru002
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:07:16][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:07:16][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:07:16][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:07:16][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:07:16][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:07:16][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => guru002
+
+[2026-02-15 23:07:16][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 3
+    username => guru002
+    user_type => Guru_BK
+    nama_lengkap => Siti Aisyah
+    is_active => 1
+
+[2026-02-15 23:07:16][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:07:16][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:07:16][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => e40865c253dceacbf993211da808197ea3e61279c7a90994dee4c54ae6283934
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171636
+)
+
+
+[2026-02-15 23:07:16][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => njaaqj2fulvn7efvs2cc7rj04a
+    new_session_id => njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:16][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:07:16][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => guru002
+    user_type => Guru_BK
+    redirect_url => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+
+====================================================================================================
+[2026-02-15 23:07:16] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:16] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:16] REQUEST METHOD: GET
+[2026-02-15 23:07:16] SESSION STATUS: 2
+[2026-02-15 23:07:16] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:16][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:16
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:16][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:16][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:16][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => de58322e5af7ef5b054b9e3561f91fd62e9616f68215cb4a6c3368009f38f873
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171636
+)
+
+
+[2026-02-15 23:07:16][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:16][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:16][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:07:16][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:07:16][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 1
+
+[2026-02-15 23:07:16][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:16] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:16] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:16] REQUEST METHOD: GET
+[2026-02-15 23:07:16] SESSION STATUS: 2
+[2026-02-15 23:07:16] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:16][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:16
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:16][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:16][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:16][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => de58322e5af7ef5b054b9e3561f91fd62e9616f68215cb4a6c3368009f38f873
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171636
+)
+
+
+[2026-02-15 23:07:16][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:16][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:16][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:07:16][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:07:16][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 2
+
+[2026-02-15 23:07:16][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:16] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:16] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:16] REQUEST METHOD: GET
+[2026-02-15 23:07:16] SESSION STATUS: 2
+[2026-02-15 23:07:16] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:16][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:16
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:16][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:16][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:16][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => de58322e5af7ef5b054b9e3561f91fd62e9616f68215cb4a6c3368009f38f873
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171636
+)
+
+
+[2026-02-15 23:07:16][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:16][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:16][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:07:16][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:07:16][INFO][main:220][MEM: 0.54MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru_BK
+    redirect_count => 3
+
+[2026-02-15 23:07:16][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:16] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:16] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:16] REQUEST METHOD: GET
+[2026-02-15 23:07:16] SESSION STATUS: 2
+[2026-02-15 23:07:16] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:16][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:16
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:16][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:16][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:16][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => de58322e5af7ef5b054b9e3561f91fd62e9616f68215cb4a6c3368009f38f873
+    [login_attempts] => 0
+    [user_id] => 3
+    [username] => guru002
+    [user_type] => Guru_BK
+    [nama_lengkap] => Siti Aisyah
+    [email] => siti.aisyah@smkn12jakarta.sch.id
+    [nis_nip] => 198301012
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Bimbingan Konseling
+    [privilege_level] => Limited_Lv1
+    [phone_number] => 081122334456
+    [avatar] => default-avatar.png
+    [login_time] => 1771171636
+)
+
+
+[2026-02-15 23:07:16][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:16][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:16][WARNING][main:188][MEM: 0.54MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 3
+    user_type => Guru_BK
+    username => guru002
+
+[2026-02-15 23:07:16][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:07:16][CRITICAL][main:205][MEM: 0.54MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:07:17] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:17] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:17] REQUEST METHOD: GET
+[2026-02-15 23:07:17] SESSION STATUS: 2
+[2026-02-15 23:07:17] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:17][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:17
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:17][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:17][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:17][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:07:17][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:17][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:17][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:07:17][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+
+[2026-02-15 23:07:17][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:07:17][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+)
+
+
+[2026-02-15 23:07:17][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:07:17][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:07:17][INFO][main:934][MEM: 0.93MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.065 detik
+    peak_memory => 0.94MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+)
+
+
+====================================================================================================
+[2026-02-15 23:07:35] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:35] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:35] REQUEST METHOD: POST
+[2026-02-15 23:07:35] SESSION STATUS: 2
+[2026-02-15 23:07:35] SESSION ID: njaaqj2fulvn7efvs2cc7rj04a
+
+[2026-02-15 23:07:35][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:35
+    script => /responsive-message-app/login.php
+    method => POST
+
+[2026-02-15 23:07:35][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => POST
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=njaaqj2fulvn7efvs2cc7rj04a; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:35][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => njaaqj2fulvn7efvs2cc7rj04a
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:35][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => njaaqj2fulvn7efvs2cc7rj04a
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+)
+
+
+[2026-02-15 23:07:35][INFO][main:174][MEM: 0.54MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:35][INFO][main:185][MEM: 0.54MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:35][INFO][main:239][MEM: 0.54MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:07:35][INFO][main:248][MEM: 0.54MB] CSRF TOKEN SUDAH ADA
+  DATA: 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+
+[2026-02-15 23:07:35][POST][main:256][MEM: 0.54MB] POST REQUEST DITERIMA
+  DATA DUMP:
+    csrf_token => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+    username => guru001
+    password => password
+
+[2026-02-15 23:07:35][INFO][main:270][MEM: 0.54MB] CSRF TOKEN VALID
+
+[2026-02-15 23:07:35][INFO][main:278][MEM: 0.54MB] INPUT DATA
+  DATA DUMP:
+    username => guru001
+    password_length => 8
+    remember => NO
+    captcha_code => EMPTY
+
+[2026-02-15 23:07:35][INFO][main:288][MEM: 0.54MB] LOGIN ATTEMPTS DIINISIALISASI
+  DATA: 0
+
+[2026-02-15 23:07:35][INFO][main:313][MEM: 0.54MB] VALIDASI LENGKAP
+  DATA DUMP:
+    errors_count => 0
+    errors => Array
+(
+)
+
+    login_attempts => 0
+    show_captcha => 
+
+[2026-02-15 23:07:35][INFO][main:322][MEM: 0.54MB] VALIDASI SUKSES - Melanjutkan ke autentikasi
+
+[2026-02-15 23:07:35][INFO][main:333][MEM: 0.58MB] KONEKSI DATABASE SUKSES
+
+[2026-02-15 23:07:35][INFO][main:358][MEM: 0.58MB] SQL QUERY
+  DATA: 
+                SELECT 
+                    id, 
+                    username, 
+                    password_hash, 
+                    user_type, 
+                    nama_lengkap, 
+                    email, 
+                    is_active,
+                    last_login,
+                    nis_nip,
+                    kelas,
+                    jurusan,
+                    mata_pelajaran,
+                    privilege_level,
+                    phone_number,
+                    avatar
+                FROM users 
+                WHERE (username = :username OR email = :username)
+                AND is_active = 1
+            
+
+[2026-02-15 23:07:35][INFO][main:364][MEM: 0.6MB] HASIL QUERY DATABASE
+  DATA DUMP:
+    found => YES
+    username_searched => guru001
+
+[2026-02-15 23:07:35][INFO][main:370][MEM: 0.6MB] USER DITEMUKAN DI DATABASE
+  DATA DUMP:
+    id => 2
+    username => guru001
+    user_type => Guru
+    nama_lengkap => Budi Santoso
+    is_active => 1
+
+[2026-02-15 23:07:35][INFO][main:379][MEM: 0.6MB] VERIFIKASI PASSWORD
+  DATA DUMP:
+    password_attempt => ***
+    hash_from_db => $2y$10$E1NAKHNbOiQz6puFodqji.6...
+
+[2026-02-15 23:07:35][SUCCESS][main:387][MEM: 0.6MB] PASSWORD VERIFIKASI SUKSES
+
+[2026-02-15 23:07:35][SESSION][main:411][MEM: 0.6MB] SESSION VARIABLES SET
+  DATA DUMP:
+    before => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+    [login_attempts] => 0
+)
+
+    after => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 32b4378a552be772e441b2841d33be20f620cc14ab6f021fb006e48d426ebb2c
+    [login_attempts] => 0
+    [user_id] => 2
+    [username] => guru001
+    [user_type] => Guru
+    [nama_lengkap] => Budi Santoso
+    [email] => budi.santoso@smkn12jakarta.sch.id
+    [nis_nip] => 198301011
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Matematika
+    [privilege_level] => Limited_Lv2
+    [phone_number] => 081122334455
+    [avatar] => default-avatar.png
+    [login_time] => 1771171655
+)
+
+
+[2026-02-15 23:07:35][INFO][main:419][MEM: 0.6MB] SESSION REGENERATED
+  DATA DUMP:
+    old_session_id => 30vgotv7bvnbkratgmtqouadre
+    new_session_id => 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:35][INFO][main:435][MEM: 0.6MB] LAST LOGIN UPDATED
+
+[2026-02-15 23:07:35][SUCCESS][main:482][MEM: 0.6MB] LOGIN SUCCESS - PREPARING REDIRECT
+  DATA DUMP:
+    username => guru001
+    user_type => Guru
+    redirect_url => http://localhost:8080/responsive-message-app/modules/guru/followup.php
+    session_id => 30vgotv7bvnbkratgmtqouadre
+
+====================================================================================================
+[2026-02-15 23:07:35] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:35] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:35] REQUEST METHOD: GET
+[2026-02-15 23:07:35] SESSION STATUS: 2
+[2026-02-15 23:07:35] SESSION ID: 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:35][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:35
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:35][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=30vgotv7bvnbkratgmtqouadre; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:35][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 30vgotv7bvnbkratgmtqouadre
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:35][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 7a4ca6e65fb46a97f1468836211109220664532eeb7098a212777e42e28ce5ff
+    [login_attempts] => 0
+    [user_id] => 2
+    [username] => guru001
+    [user_type] => Guru
+    [nama_lengkap] => Budi Santoso
+    [email] => budi.santoso@smkn12jakarta.sch.id
+    [nis_nip] => 198301011
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Matematika
+    [privilege_level] => Limited_Lv2
+    [phone_number] => 081122334455
+    [avatar] => default-avatar.png
+    [login_time] => 1771171655
+)
+
+
+[2026-02-15 23:07:35][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:35][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:35][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 2
+    user_type => Guru
+    username => guru001
+
+[2026-02-15 23:07:35][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 1
+
+[2026-02-15 23:07:35][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru
+    redirect_count => 1
+
+[2026-02-15 23:07:35][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:36] REQUEST METHOD: GET
+[2026-02-15 23:07:36] SESSION STATUS: 2
+[2026-02-15 23:07:36] SESSION ID: 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=30vgotv7bvnbkratgmtqouadre; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 30vgotv7bvnbkratgmtqouadre
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 1
+    [csrf_token] => 7a4ca6e65fb46a97f1468836211109220664532eeb7098a212777e42e28ce5ff
+    [login_attempts] => 0
+    [user_id] => 2
+    [username] => guru001
+    [user_type] => Guru
+    [nama_lengkap] => Budi Santoso
+    [email] => budi.santoso@smkn12jakarta.sch.id
+    [nis_nip] => 198301011
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Matematika
+    [privilege_level] => Limited_Lv2
+    [phone_number] => 081122334455
+    [avatar] => default-avatar.png
+    [login_time] => 1771171655
+)
+
+
+[2026-02-15 23:07:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:36][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 2
+    user_type => Guru
+    username => guru001
+
+[2026-02-15 23:07:36][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 2
+
+[2026-02-15 23:07:36][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru
+    redirect_count => 2
+
+[2026-02-15 23:07:36][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:36] REQUEST METHOD: GET
+[2026-02-15 23:07:36] SESSION STATUS: 2
+[2026-02-15 23:07:36] SESSION ID: 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=30vgotv7bvnbkratgmtqouadre; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 30vgotv7bvnbkratgmtqouadre
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 2
+    [csrf_token] => 7a4ca6e65fb46a97f1468836211109220664532eeb7098a212777e42e28ce5ff
+    [login_attempts] => 0
+    [user_id] => 2
+    [username] => guru001
+    [user_type] => Guru
+    [nama_lengkap] => Budi Santoso
+    [email] => budi.santoso@smkn12jakarta.sch.id
+    [nis_nip] => 198301011
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Matematika
+    [privilege_level] => Limited_Lv2
+    [phone_number] => 081122334455
+    [avatar] => default-avatar.png
+    [login_time] => 1771171655
+)
+
+
+[2026-02-15 23:07:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:36][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 2
+    user_type => Guru
+    username => guru001
+
+[2026-02-15 23:07:36][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 3
+
+[2026-02-15 23:07:36][INFO][main:220][MEM: 0.53MB] MELAKUKAN REDIRECT - User sudah login
+  DATA DUMP:
+    user_type => Guru
+    redirect_count => 3
+
+[2026-02-15 23:07:36][INFO][main:230][MEM: 0.53MB] REDIRECT GURU
+  DATA: http://localhost:8080/responsive-message-app/modules/guru/followup.php
+
+====================================================================================================
+[2026-02-15 23:07:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:36] REQUEST METHOD: GET
+[2026-02-15 23:07:36] SESSION STATUS: 2
+[2026-02-15 23:07:36] SESSION ID: 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=30vgotv7bvnbkratgmtqouadre; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 30vgotv7bvnbkratgmtqouadre
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [redirect_count] => 3
+    [csrf_token] => 7a4ca6e65fb46a97f1468836211109220664532eeb7098a212777e42e28ce5ff
+    [login_attempts] => 0
+    [user_id] => 2
+    [username] => guru001
+    [user_type] => Guru
+    [nama_lengkap] => Budi Santoso
+    [email] => budi.santoso@smkn12jakarta.sch.id
+    [nis_nip] => 198301011
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => Matematika
+    [privilege_level] => Limited_Lv2
+    [phone_number] => 081122334455
+    [avatar] => default-avatar.png
+    [login_time] => 1771171655
+)
+
+
+[2026-02-15 23:07:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:36][WARNING][main:188][MEM: 0.53MB] USER SESSION DITEMUKAN
+  DATA DUMP:
+    user_id => 2
+    user_type => Guru
+    username => guru001
+
+[2026-02-15 23:07:36][LOOP][main:201][MEM: 0.53MB] REDIRECT COUNT
+  DATA: 4
+
+[2026-02-15 23:07:36][CRITICAL][main:205][MEM: 0.53MB] TERDETEKSI REDIRECT LOOP - Melakukan force reset
+  DATA DUMP:
+    redirect_count => 4
+
+====================================================================================================
+[2026-02-15 23:07:36] ========== LOGIN.PHP START ==========
+[2026-02-15 23:07:36] REQUEST URI: /responsive-message-app/login.php
+[2026-02-15 23:07:36] REQUEST METHOD: GET
+[2026-02-15 23:07:36] SESSION STATUS: 2
+[2026-02-15 23:07:36] SESSION ID: 30vgotv7bvnbkratgmtqouadre
+
+[2026-02-15 23:07:36][INFO][main:162][MEM: 0.53MB] ========== MEMULAI EKSEKUSI LOGIN.PHP ==========
+  DATA DUMP:
+    time => 2026-02-15 23:07:36
+    script => /responsive-message-app/login.php
+    method => GET
+
+[2026-02-15 23:07:36][SERVER][traceServerVars:123][MEM: 0.53MB] SERVER VARIABLES
+  DATA DUMP:
+    REQUEST_URI => /responsive-message-app/login.php
+    QUERY_STRING => 
+    REQUEST_METHOD => GET
+    HTTP_REFERER => http://localhost:8080/responsive-message-app/login.php
+    REMOTE_ADDR => 127.0.0.1
+    HTTP_USER_AGENT => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+    HTTP_COOKIE => PHPSESSID=30vgotv7bvnbkratgmtqouadre; RMSESSID=bf32a93o7k5r6kum1neqgom8ba; debug_mode=1
+
+[2026-02-15 23:07:36][COOKIE][traceCookies:137][MEM: 0.53MB] COOKIE DATA
+  DATA DUMP:
+    PHPSESSID => 30vgotv7bvnbkratgmtqouadre
+    RMSESSID => bf32a93o7k5r6kum1neqgom8ba
+    debug_mode => 1
+
+[2026-02-15 23:07:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM INCLUDE CONFIG
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+)
+
+
+[2026-02-15 23:07:36][INFO][main:174][MEM: 0.53MB] CONFIG LOADED
+  DATA DUMP:
+    BASE_URL => http://localhost:8080/responsive-message-app/
+    DB_HOST => localhost
+    DB_NAME => responsive_message_db
+    PASSWORD_MIN_LENGTH => 8
+
+[2026-02-15 23:07:36][INFO][main:185][MEM: 0.53MB] CEK USER LOGIN - Memeriksa apakah user sudah login
+
+[2026-02-15 23:07:36][INFO][main:239][MEM: 0.53MB] TIDAK ADA USER SESSION - Reset redirect counter
+
+[2026-02-15 23:07:36][INFO][main:246][MEM: 0.53MB] CSRF TOKEN DIGENERATE
+  DATA: 695fde595f8a15dd42ba9ebd59facab52ee0992db7b320cc3bce1e3f0806327f
+
+[2026-02-15 23:07:36][INFO][main:577][MEM: 0.53MB] MENAMPILKAN HALAMAN LOGIN
+
+[2026-02-15 23:07:36][SESSION][traceSession:155][MEM: 0.53MB] SEBELUM MENAMPILKAN HALAMAN
+  DATA DUMP:
+    session_id => 30vgotv7bvnbkratgmtqouadre
+    session_name => PHPSESSID
+    session_status => 2
+    session_data => Array
+(
+    [error] => Terjadi redirect loop. Session direset. Silakan login ulang.
+    [redirect_count] => 0
+    [csrf_token] => 695fde595f8a15dd42ba9ebd59facab52ee0992db7b320cc3bce1e3f0806327f
+)
+
+
+[2026-02-15 23:07:36][INFO][main:595][MEM: 0.53MB] LOGIN PAGE VARIABLES
+  DATA DUMP:
+    login_attempts => 0
+    show_captcha => 
+    error_message => Terjadi redirect loop. Session direset. Silakan login ulang.
+
+[2026-02-15 23:07:36][INFO][main:615][MEM: 0.55MB] HEADER LOADED - Memulai output HTML
+
+[2026-02-15 23:07:36][INFO][main:934][MEM: 0.98MB] ========== LOGIN.PHP SELESAI ==========
+  DATA DUMP:
+    total_execution_time => 0.045 detik
+    peak_memory => 0.99MB
+    final_session => Array
+(
+    [redirect_count] => 0
+    [csrf_token] => 695fde595f8a15dd42ba9ebd59facab52ee0992db7b320cc3bce1e3f0806327f
+)
+

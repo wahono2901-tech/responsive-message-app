@@ -1,0 +1,371 @@
+
+[2026-02-16 17:19:17] ========== HISTORY.PHP START ==========
+[2026-02-16 17:19:17] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-16 17:19:17] Auth::checkAuth() SUCCESS
+[2026-02-16 17:19:17] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-16 17:19:17] Database connected
+[2026-02-16 17:19:17] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 11.5000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-16 17:19:17] Total messages: 2
+[2026-02-16 17:19:17] Messages fetched - Array
+(
+    [count] => 2
+)
+
+[2026-02-16 17:19:17] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-16 17:19:17] ================================================================================
+
+
+[2026-02-16 19:25:04] ========== HISTORY.PHP START ==========
+[2026-02-16 19:25:04] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-16 19:25:04] Auth::checkAuth() SUCCESS
+[2026-02-16 19:25:04] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-16 19:25:04] Database connected
+[2026-02-16 19:25:04] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 13.5000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-16 19:25:04] Total messages: 2
+[2026-02-16 19:25:04] Messages fetched - Array
+(
+    [count] => 2
+)
+
+[2026-02-16 19:25:04] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-16 19:25:04] ================================================================================
+
+
+[2026-02-16 19:42:51] ========== HISTORY.PHP START ==========
+[2026-02-16 19:42:51] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-16 19:42:51] Auth::checkAuth() SUCCESS
+[2026-02-16 19:42:51] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-16 19:42:51] Database connected
+[2026-02-16 19:42:51] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 14.0000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-16 19:42:51] Total messages: 2
+[2026-02-16 19:42:51] Messages fetched - Array
+(
+    [count] => 2
+)
+
+[2026-02-16 19:42:51] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-16 19:42:51] ================================================================================
+
+
+[2026-02-17 11:14:12] ========== HISTORY.PHP START ==========
+[2026-02-17 11:14:12] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-17 11:14:12] Auth::checkAuth() SUCCESS
+[2026-02-17 11:14:12] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-17 11:14:12] Database connected
+[2026-02-17 11:14:12] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 29.5000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-17 11:14:12] Total messages: 2
+[2026-02-17 11:14:12] Messages fetched - Array
+(
+    [count] => 2
+)
+
+[2026-02-17 11:14:12] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-17 11:14:12] ================================================================================
+
+
+[2026-02-17 11:14:56] ========== HISTORY.PHP START ==========
+[2026-02-17 11:14:56] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-17 11:14:56] Auth::checkAuth() SUCCESS
+[2026-02-17 11:14:56] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-17 11:14:56] Database connected
+[2026-02-17 11:14:56] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 29.5000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-17 11:14:56] Total messages: 2
+[2026-02-17 11:14:56] Messages fetched - Array
+(
+    [count] => 2
+)
+
+
+[2026-02-17 11:15:01] ========== HISTORY.PHP START ==========
+[2026-02-17 11:15:01] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-17 11:15:01] Auth::checkAuth() SUCCESS
+[2026-02-17 11:15:01] User ID: 73, User Type: Siswa, Name: dede sunandar
+[2026-02-17 11:15:01] Database connected
+[2026-02-17 11:15:01] Statistics - Array
+(
+    [total] => 2
+    [pending] => 2
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 2
+    [low_count] => 0
+    [avg_response_hours] => 29.5000
+    [last_message_date] => 2026-02-16 13:01:37
+    [first_message_date] => 2026-02-15 21:36:39
+)
+
+[2026-02-17 11:15:01] Total messages: 2
+[2026-02-17 11:15:01] Messages fetched - Array
+(
+    [count] => 2
+)
+
+[2026-02-17 11:15:01] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-17 11:15:01] ================================================================================
+
+
+[2026-02-19 11:55:48] ========== HISTORY.PHP START ==========
+[2026-02-19 11:55:48] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-19 11:55:48] Auth::checkAuth() SUCCESS
+[2026-02-19 11:55:48] User ID: 85, User Type: Orang_Tua, Name: wiwi
+[2026-02-19 11:55:48] Database connected
+[2026-02-19 11:55:48] Statistics - Array
+(
+    [total] => 1
+    [pending] => 0
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 1
+    [ditolak] => 0
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 1
+    [low_count] => 0
+    [avg_response_hours] => 0.0000
+    [last_message_date] => 2026-02-19 11:05:44
+    [first_message_date] => 2026-02-19 11:05:44
+)
+
+[2026-02-19 11:55:48] Total messages: 1
+[2026-02-19 11:55:48] Messages fetched - Array
+(
+    [count] => 1
+)
+
+[2026-02-19 11:55:48] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-19 11:55:48] ================================================================================
+
+
+[2026-02-20 13:53:57] ========== HISTORY.PHP START ==========
+[2026-02-20 13:53:57] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-20 13:53:57] Auth::checkAuth() SUCCESS
+[2026-02-20 13:53:57] User ID: 91, User Type: Siswa, Name: Iskandarsyah
+[2026-02-20 13:53:57] Database connected
+[2026-02-20 13:53:57] Statistics - Array
+(
+    [total] => 0
+    [pending] => 
+    [dibaca] => 
+    [diproses] => 
+    [disetujui] => 
+    [ditolak] => 
+    [selesai] => 
+    [external_count] => 
+    [urgent_count] => 
+    [high_count] => 
+    [medium_count] => 
+    [low_count] => 
+    [avg_response_hours] => 
+    [last_message_date] => 
+    [first_message_date] => 
+)
+
+[2026-02-20 13:53:57] Total messages: 0
+[2026-02-20 13:53:57] Messages fetched - Array
+(
+    [count] => 0
+)
+
+[2026-02-20 13:53:57] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-20 13:53:57] ================================================================================
+
+
+[2026-02-23 10:45:16] ========== HISTORY.PHP START ==========
+[2026-02-23 10:45:16] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-23 10:45:16] Auth::checkAuth() SUCCESS
+[2026-02-23 10:45:16] User ID: 2, User Type: Guru, Name: Budi Santoso
+[2026-02-23 10:45:16] Database connected
+[2026-02-23 10:45:16] Statistics - Array
+(
+    [total] => 0
+    [pending] => 
+    [dibaca] => 
+    [diproses] => 
+    [disetujui] => 
+    [ditolak] => 
+    [selesai] => 
+    [external_count] => 
+    [urgent_count] => 
+    [high_count] => 
+    [medium_count] => 
+    [low_count] => 
+    [avg_response_hours] => 
+    [last_message_date] => 
+    [first_message_date] => 
+)
+
+[2026-02-23 10:45:16] Total messages: 0
+[2026-02-23 10:45:16] Messages fetched - Array
+(
+    [count] => 0
+)
+
+[2026-02-23 10:45:16] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-23 10:45:16] ================================================================================
+
+
+[2026-02-24 13:13:54] ========== HISTORY.PHP START ==========
+[2026-02-24 13:13:54] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-24 13:13:54] Auth::checkAuth() SUCCESS
+[2026-02-24 13:13:54] User ID: 12, User Type: Siswa, Name: Ahmad Fadil
+[2026-02-24 13:13:54] Database connected
+[2026-02-24 13:13:54] Statistics - Array
+(
+    [total] => 1
+    [pending] => 0
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 1
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 1
+    [low_count] => 0
+    [avg_response_hours] => 2.0000
+    [last_message_date] => 2026-02-09 12:16:43
+    [first_message_date] => 2026-02-09 12:16:43
+)
+
+[2026-02-24 13:13:54] Total messages: 1
+[2026-02-24 13:13:54] Messages fetched - Array
+(
+    [count] => 1
+)
+
+[2026-02-24 13:13:54] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-24 13:13:54] ================================================================================
+
+
+[2026-02-24 13:13:54] ========== HISTORY.PHP START ==========
+[2026-02-24 13:13:54] MEMULAI EKSEKUSI HISTORY.PHP
+[2026-02-24 13:13:54] Auth::checkAuth() SUCCESS
+[2026-02-24 13:13:54] User ID: 12, User Type: Siswa, Name: Ahmad Fadil
+[2026-02-24 13:13:54] Database connected
+[2026-02-24 13:13:54] Statistics - Array
+(
+    [total] => 1
+    [pending] => 0
+    [dibaca] => 0
+    [diproses] => 0
+    [disetujui] => 0
+    [ditolak] => 1
+    [selesai] => 0
+    [external_count] => 0
+    [urgent_count] => 0
+    [high_count] => 0
+    [medium_count] => 1
+    [low_count] => 0
+    [avg_response_hours] => 2.0000
+    [last_message_date] => 2026-02-09 12:16:43
+    [first_message_date] => 2026-02-09 12:16:43
+)
+
+[2026-02-24 13:13:54] Total messages: 1
+[2026-02-24 13:13:54] Messages fetched - Array
+(
+    [count] => 1
+)
+
+[2026-02-24 13:13:54] HISTORY.PHP SELESAI, MENAMPILKAN HALAMAN
+[2026-02-24 13:13:54] ================================================================================
+
